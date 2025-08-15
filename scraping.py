@@ -42,8 +42,9 @@ print(f"Found {len(events)} events")
 with open("results.json", "w") as file:
     json.dump(events, file, indent=2)
 
+free_events = [event for event in events if event.get("info") == "Free"]
 with open("pretty_event_data.txt", "w") as file:
-    for event in events:
+    for event in free_events:
         title = event.get("title", "No title")
         month = event.get("month", "No time")
         day = event.get("day", "no day")
@@ -60,5 +61,6 @@ with open("pretty_event_data.txt", "w") as file:
         file.write(f"📅 {title}\n")
         file.write(f"   🕒 {month} {day}\n")
         file.write(f"   📍 {societyname}\n")
-        file.write(f"   📝 {price}\n\n")
+        file.write(f"   📝 {price}\n")
         file.write(f"   ⛓️‍💥 {"https://campus.hellorubric.com" + link_extension}\n")
+
