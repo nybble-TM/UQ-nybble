@@ -33,6 +33,8 @@ except json.JSONDecodeError:
     exit()
 
 print(json.dumps(results, indent=2))  # <-- Inspect the structure
+with open("event_data.txt", 'w') as file:
+    file.write(json.dumps(results,indent=2))
 
 events = results.get("items", [])
 print(f"Found {len(events)} events")

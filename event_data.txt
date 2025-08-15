@@ -1,0 +1,3135 @@
+{
+  "selectedUniversityId": "12",
+  "society_event_types": [
+    "Ball/Dinner/Gala",
+    "Class/Workshop",
+    "Industry/Career",
+    "Other",
+    "Party/BBQ/Social",
+    "Quiz/Trivia",
+    "Sport/Competition",
+    "Trip/Camp"
+  ],
+  "selectedEventsPeriodFilter": "All",
+  "countries": [
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Australian Capital Territory",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "New South Wales",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Northern Territory",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Queensland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "South Australia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Tasmania",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Victoria",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Western Australia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Alberta",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "British Columbia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Manitoba",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "New Brunswick",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Newfoundland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Nova Scotia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Ontario",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Prince Edward Island",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Quebec",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Saskatchewan",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Yukon",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "East Midlands",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Eastern",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Greater London",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "North East",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "North West",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Northern Ireland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Scotland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "South East",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "South West",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Wales",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "West Midlands",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Yorkshire and Humberside",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "IE",
+      "country": "Ireland",
+      "state": "Leinster",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/eu.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Auckland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Canterbury",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Manawatu-Whanganui",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Otago",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Waikato",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Wellington",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "California",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Hawaii",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Illinois",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Maryland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Minneapolis",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "New Hampshire",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "New Mexico",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Texas",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Virginia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Wisconsin",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    }
+  ],
+  "totalItemCount": 71,
+  "sortDirection": "asc",
+  "society_club_types": [
+    "Academic and Professional",
+    "Arts and Performance",
+    "Course Union",
+    "Cultural and International",
+    "Hobby and Special Interest",
+    "Medical Science",
+    "Other",
+    "Political",
+    "Recreational",
+    "Religious",
+    "Science and Technology",
+    "Social Club",
+    "Sports and Fitness",
+    "Volunteer and Community"
+  ],
+  "universities": [
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/65d41d21e6905_.png",
+      "name": "Australian National University",
+      "id": 1,
+      "state": "Australian Capital Territory",
+      "shortname": "ANU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/28.jpg",
+      "name": "University of Canberra",
+      "id": 28,
+      "state": "Australian Capital Territory",
+      "shortname": "UCX"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/30.jpg",
+      "name": "Australian Catholic University",
+      "id": 30,
+      "state": "New South Wales",
+      "shortname": "ACU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/5.jpg",
+      "name": "University of New South Wales",
+      "id": 5,
+      "state": "New South Wales",
+      "shortname": "Arc @ UNSW"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/34.jpg",
+      "name": "Charles Sturt University",
+      "id": 34,
+      "state": "New South Wales",
+      "shortname": "CSU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/07df4140ff8a75b55b6d0b85d27df749.png",
+      "name": "Kings Own Institute",
+      "id": 539,
+      "state": "New South Wales",
+      "shortname": "KOI"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/6.jpg",
+      "name": "Macquarie University",
+      "id": 6,
+      "state": "New South Wales",
+      "shortname": "Macquarie"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/31.jpg",
+      "name": "National Institute of Dramatic Art",
+      "id": 31,
+      "state": "New South Wales",
+      "shortname": "NIDA"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/27.jpg",
+      "name": "University of Notre Dame (Sydney)",
+      "id": 27,
+      "state": "New South Wales",
+      "shortname": "Notre Dame Sydney"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/9.jpg",
+      "name": "NUsport (Newcastle Uni)",
+      "id": 536,
+      "state": "New South Wales",
+      "shortname": "NUsport"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/39.jpg",
+      "name": "Southern Cross University",
+      "id": 39,
+      "state": "New South Wales",
+      "shortname": "SCU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/505.jpg",
+      "name": "Torrens University Australia",
+      "id": 505,
+      "state": "New South Wales",
+      "shortname": "TUA"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/11.jpg",
+      "name": "University of New England",
+      "id": 11,
+      "state": "New South Wales",
+      "shortname": "UNE"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/63e46bc329a94_.png",
+      "name": "University of Newcastle",
+      "id": 9,
+      "state": "New South Wales",
+      "shortname": "UON"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/10.jpg",
+      "name": "University of Wollongong",
+      "id": 10,
+      "state": "New South Wales",
+      "shortname": "UOW"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/4.jpg",
+      "name": "University of Sydney",
+      "id": 4,
+      "state": "New South Wales",
+      "shortname": "USYD"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/7.jpg",
+      "name": "University of Technology Sydney",
+      "id": 7,
+      "state": "New South Wales",
+      "shortname": "UTS"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/8.jpg",
+      "name": "Western Sydney University",
+      "id": 8,
+      "state": "New South Wales",
+      "shortname": "UWS"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/33.jpg",
+      "name": "Charles Darwin University",
+      "id": 33,
+      "state": "Northern Territory",
+      "shortname": "CDU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/3.jpg",
+      "name": "Bond University",
+      "id": 3,
+      "state": "Queensland",
+      "shortname": "Bond"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/32.jpg",
+      "name": "Central Queensland University",
+      "id": 32,
+      "state": "Queensland",
+      "shortname": "CQU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/13.jpg",
+      "name": "Griffith University",
+      "id": 13,
+      "state": "Queensland",
+      "shortname": "Griffith"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/37.jpg",
+      "name": "James Cook University",
+      "id": 37,
+      "state": "Queensland",
+      "shortname": "JCU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/1cc34146dc583ea244b3a105f35904e1.png",
+      "name": "Queensland University of Technology",
+      "id": 14,
+      "state": "Queensland",
+      "shortname": "QUT"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/3998e57c-978d-42aa-b627-790410185e50.jpg",
+      "name": "University of Southern Queensland",
+      "id": 42,
+      "state": "Queensland",
+      "shortname": "UniSQ"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/12a.jpg",
+      "name": "University of Queensland",
+      "id": 12,
+      "state": "Queensland",
+      "shortname": "UQU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/2.jpg",
+      "name": "University of the Sunshine Coast",
+      "id": 2,
+      "state": "Queensland",
+      "shortname": "USC"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/22.jpg",
+      "name": "University of Adelaide",
+      "id": 22,
+      "state": "South Australia",
+      "shortname": "Adelaide Uni"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/23.jpg",
+      "name": "Flinders University",
+      "id": 23,
+      "state": "South Australia",
+      "shortname": "Flinders"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/41.jpg",
+      "name": "University of South Australia",
+      "id": 41,
+      "state": "South Australia",
+      "shortname": "UniSA"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/tusauni.jpg",
+      "name": "University of Tasmania",
+      "id": 24,
+      "state": "Tasmania",
+      "shortname": "UTAS"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/19.jpg",
+      "name": "Deakin University",
+      "id": 19,
+      "state": "Victoria",
+      "shortname": "Deakin"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/40.jpg",
+      "name": "Federation University Australia",
+      "id": 40,
+      "state": "Victoria",
+      "shortname": "Federation"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/18.jpg",
+      "name": "La Trobe University",
+      "id": 18,
+      "state": "Victoria",
+      "shortname": "La Trobe"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/16.jpg",
+      "name": "Monash University",
+      "id": 16,
+      "state": "Victoria",
+      "shortname": "Monash"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/d172084212161f59931bf533c60f9e5a.png",
+      "name": "RMIT University",
+      "id": 17,
+      "state": "Victoria",
+      "shortname": "RMIT"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/5c6f1001-a390-48ae-acca-07b8c2c8e59e.png",
+      "name": "Swinburne University",
+      "id": 20,
+      "state": "Victoria",
+      "shortname": "Swinburne"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/15.jpg",
+      "name": "University of Melbourne",
+      "id": 15,
+      "state": "Victoria",
+      "shortname": "UniMelb"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/21.jpg",
+      "name": "Victoria University",
+      "id": 21,
+      "state": "Victoria",
+      "shortname": "VU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/25.jpg",
+      "name": "Curtin University",
+      "id": 25,
+      "state": "Western Australia",
+      "shortname": "Curtin"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/35.jpg",
+      "name": "Edith Cowan University",
+      "id": 35,
+      "state": "Western Australia",
+      "shortname": "ECU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/38_murdoch.jpg",
+      "name": "Murdoch University",
+      "id": 38,
+      "state": "Western Australia",
+      "shortname": "Murdoch"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/27.jpg",
+      "name": "University of Notre Dame (Fremantle)",
+      "id": 504,
+      "state": "Western Australia",
+      "shortname": "Notre Dame Fremantle"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/26.jpg",
+      "name": "University of Western Australia",
+      "id": 26,
+      "state": "Western Australia",
+      "shortname": "UWA"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/223.jpg",
+      "name": "Alberta University of the Arts",
+      "id": 223,
+      "state": "Alberta",
+      "shortname": "AlbertaArts"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/225.jpg",
+      "name": "Ambrose University",
+      "id": 225,
+      "state": "Alberta",
+      "shortname": "Ambrose"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/226.jpg",
+      "name": "Athabasca University",
+      "id": 226,
+      "state": "Alberta",
+      "shortname": "Athabasca"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/230.jpg",
+      "name": "Burman University",
+      "id": 230,
+      "state": "Alberta",
+      "shortname": "Burman U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/234.jpg",
+      "name": "Concordia University of Edmonton",
+      "id": 234,
+      "state": "Alberta",
+      "shortname": "CUE"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/242.jpg",
+      "name": "MacEwan University",
+      "id": 242,
+      "state": "Alberta",
+      "shortname": "MacEwan"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/220.jpg",
+      "name": "Mount Royal University",
+      "id": 220,
+      "state": "Alberta",
+      "shortname": "MRU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://www.nait.ca/App_Themes/NAIT.caStyles/img/nait-logo-inverted-web.svg",
+      "name": "Northern Alberta Institute of Technology",
+      "id": 516,
+      "state": "Alberta",
+      "shortname": "NAIT"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/443bbd7443bb2e7792e723d064ad31ea.jpg",
+      "name": "Southern Alberta Institute of Technology",
+      "id": 507,
+      "state": "Alberta",
+      "shortname": "Saitsa"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/255.jpg",
+      "name": "St. Mary's University, Calgary",
+      "id": 255,
+      "state": "Alberta",
+      "shortname": "STMU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/258.jpg",
+      "name": "The King's University",
+      "id": 258,
+      "state": "Alberta",
+      "shortname": "TKU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/189.jpg",
+      "name": "University of Alberta",
+      "id": 189,
+      "state": "Alberta",
+      "shortname": "UAlberta"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/191.jpg",
+      "name": "University of Calgary",
+      "id": 191,
+      "state": "Alberta",
+      "shortname": "UCalgary"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/213.jpg",
+      "name": "University of Lethbridge",
+      "id": 213,
+      "state": "Alberta",
+      "shortname": "ULethbridge"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/501.jpg",
+      "name": "Camosun College",
+      "id": 501,
+      "state": "British Columbia",
+      "shortname": "Camosun"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/233.jpg",
+      "name": "Capilano University",
+      "id": 233,
+      "state": "British Columbia",
+      "shortname": "Capilano U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "College of New Caledonia",
+      "id": 518,
+      "state": "British Columbia",
+      "shortname": "CNC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Douglas College",
+      "id": 519,
+      "state": "British Columbia",
+      "shortname": "Douglas College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/238.jpg",
+      "name": "Emily Carr University of Art and Design",
+      "id": 238,
+      "state": "British Columbia",
+      "shortname": "ECUAD"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/214.jpg",
+      "name": "Kwantlen Polytechnic University",
+      "id": 214,
+      "state": "British Columbia",
+      "shortname": "KPU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/247.jpg",
+      "name": "Pacific Coast University for Workplace Health Sciences",
+      "id": 247,
+      "state": "British Columbia",
+      "shortname": "PCUWHS"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/249.jpg",
+      "name": "Quest University",
+      "id": 249,
+      "state": "British Columbia",
+      "shortname": "Quest U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/252.jpg",
+      "name": "Royal Roads University",
+      "id": 252,
+      "state": "British Columbia",
+      "shortname": "RRU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/197.jpg",
+      "name": "Simon Fraser University",
+      "id": 197,
+      "state": "British Columbia",
+      "shortname": "SFU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/185.jpg",
+      "name": "University of British Columbia Okanagan",
+      "id": 512,
+      "state": "British Columbia",
+      "shortname": "SUO of UBC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/259.jpg",
+      "name": "Thompson Rivers University",
+      "id": 259,
+      "state": "British Columbia",
+      "shortname": "TRU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/261.jpg",
+      "name": "Trinity Western University",
+      "id": 261,
+      "state": "British Columbia",
+      "shortname": "TWU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/185.jpg",
+      "name": "University of British Columbia",
+      "id": 185,
+      "state": "British Columbia",
+      "shortname": "UBC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/272.jpg",
+      "name": "University Canada West",
+      "id": 272,
+      "state": "British Columbia",
+      "shortname": "UCW"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/e00085a47b1d0093defbdbcb75bb55b0.png",
+      "name": "University of the Fraser Valley",
+      "id": 277,
+      "state": "British Columbia",
+      "shortname": "UFV"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/211.jpg",
+      "name": "University of Northern British Columbia",
+      "id": 211,
+      "state": "British Columbia",
+      "shortname": "UNBC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/199.jpg",
+      "name": "University of Victoria",
+      "id": 199,
+      "state": "British Columbia",
+      "shortname": "UVic"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/279.jpg",
+      "name": "Vancouver Island University",
+      "id": 279,
+      "state": "British Columbia",
+      "shortname": "VIU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/281.jpg",
+      "name": "Yorkville University",
+      "id": 281,
+      "state": "British Columbia",
+      "shortname": "Yorkville U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/221.jpg",
+      "name": "Brandon University",
+      "id": 221,
+      "state": "Manitoba",
+      "shortname": "Brandon Uni"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/228.jpg",
+      "name": "Booth University College",
+      "id": 228,
+      "state": "Manitoba",
+      "shortname": "BUC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/231.jpg",
+      "name": "Canadian Mennonite University",
+      "id": 231,
+      "state": "Manitoba",
+      "shortname": "CMU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/248.jpg",
+      "name": "Providence University College and Theological Seminary",
+      "id": 248,
+      "state": "Manitoba",
+      "shortname": "Providence"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/273.jpg",
+      "name": "University College of the North",
+      "id": 273,
+      "state": "Manitoba",
+      "shortname": "UCN"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/7512dcc14858f76ddb0a8173ca17f62b.jpg",
+      "name": "University of Manitoba",
+      "id": 198,
+      "state": "Manitoba",
+      "shortname": "UManitoba"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/278.jpg",
+      "name": "University of Winnipeg",
+      "id": 278,
+      "state": "Manitoba",
+      "shortname": "UWinnipeg"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/235.jpg",
+      "name": "Crandall University",
+      "id": 235,
+      "state": "New Brunswick",
+      "shortname": "Crandall U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/240.jpg",
+      "name": "Kingswood University",
+      "id": 240,
+      "state": "New Brunswick",
+      "shortname": "Kingswood"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/243.jpg",
+      "name": "Mount Allison University",
+      "id": 243,
+      "state": "New Brunswick",
+      "shortname": "MTA"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/256.jpg",
+      "name": "St. Stephen's University",
+      "id": 256,
+      "state": "New Brunswick",
+      "shortname": "SSU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/257.jpg",
+      "name": "St. Thomas University",
+      "id": 257,
+      "state": "New Brunswick",
+      "shortname": "STU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/274.jpg",
+      "name": "University of Fredericton",
+      "id": 274,
+      "state": "New Brunswick",
+      "shortname": "UFred"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/264.jpg",
+      "name": "Universit\u00e9 de Moncton",
+      "id": 264,
+      "state": "New Brunswick",
+      "shortname": "UMoncton"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/210.jpg",
+      "name": "University of New Brunswick",
+      "id": 210,
+      "state": "New Brunswick",
+      "shortname": "UNB"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/204.jpg",
+      "name": "Memorial University of Newfoundland",
+      "id": 204,
+      "state": "Newfoundland",
+      "shortname": "MUN"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/222.jpg",
+      "name": "Acadia University",
+      "id": 222,
+      "state": "Nova Scotia",
+      "shortname": "AcadiaU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/232.jpg",
+      "name": "Cape Breton University",
+      "id": 232,
+      "state": "Nova Scotia",
+      "shortname": "CBU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/194.jpg",
+      "name": "Dalhousie University",
+      "id": 194,
+      "state": "Nova Scotia",
+      "shortname": "Dal"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/218.jpg",
+      "name": "Mount Saint Vincent University",
+      "id": 218,
+      "state": "Nova Scotia",
+      "shortname": "MSVU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/244.jpg",
+      "name": "Nova Scotia College of Art and Design University",
+      "id": 244,
+      "state": "Nova Scotia",
+      "shortname": "NSCAD"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/254.jpg",
+      "name": "Saint Mary's University",
+      "id": 254,
+      "state": "Nova Scotia",
+      "shortname": "SMU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/253.jpg",
+      "name": "Saint Francis Xavier University",
+      "id": 253,
+      "state": "Nova Scotia",
+      "shortname": "STFX"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/275.jpg",
+      "name": "University of King's College",
+      "id": 275,
+      "state": "Nova Scotia",
+      "shortname": "UKings"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/271.jpg",
+      "name": "Universit\u00e9 Sainte-Anne",
+      "id": 271,
+      "state": "Nova Scotia",
+      "shortname": "USainteAnne"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/224.jpg",
+      "name": "Algoma University",
+      "id": 224,
+      "state": "Ontario",
+      "shortname": "Algoma U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Algonquin College",
+      "id": 514,
+      "state": "Ontario",
+      "shortname": "Algonquin College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/229.jpg",
+      "name": "Brock University",
+      "id": 229,
+      "state": "Ontario",
+      "shortname": "BrockU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/202.jpg",
+      "name": "Carleton University",
+      "id": 202,
+      "state": "Ontario",
+      "shortname": "Carleton"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/712a13a381a5f9bfb366d894c3dfc270.jpeg",
+      "name": "Centennial College",
+      "id": 509,
+      "state": "Ontario",
+      "shortname": "Centennial College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Conestoga College",
+      "id": 515,
+      "state": "Ontario",
+      "shortname": "Conestoga College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Durham College",
+      "id": 524,
+      "state": "Ontario",
+      "shortname": "Durham College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/7f2dd453ac1387273302aca7f7cba8be.png",
+      "name": "George Brown College",
+      "id": 511,
+      "state": "Ontario",
+      "shortname": "GBC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Georgian College",
+      "id": 520,
+      "state": "Ontario",
+      "shortname": "Georgian College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Humber College",
+      "id": 522,
+      "state": "Ontario",
+      "shortname": "Humber College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/216.jpg",
+      "name": "Huron University",
+      "id": 216,
+      "state": "Ontario",
+      "shortname": "Huron"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "King's University College",
+      "id": 513,
+      "state": "Ontario",
+      "shortname": "KUC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/206.jpg",
+      "name": "Lakehead University",
+      "id": 206,
+      "state": "Ontario",
+      "shortname": "Lakehead U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/241.jpg",
+      "name": "Laurentian University",
+      "id": 241,
+      "state": "Ontario",
+      "shortname": "Laurentian"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/280.jpg",
+      "name": "Wilfrid Laurier University",
+      "id": 280,
+      "state": "Ontario",
+      "shortname": "Laurier"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/187.jpg",
+      "name": "McMaster University",
+      "id": 187,
+      "state": "Ontario",
+      "shortname": "McMaster"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/219.jpg",
+      "name": "Nipissing University",
+      "id": 219,
+      "state": "Ontario",
+      "shortname": "Nipissing Uni"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/245.jpg",
+      "name": "Ontario College of Art and Design University",
+      "id": 245,
+      "state": "Ontario",
+      "shortname": "OCAD"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/246.jpg",
+      "name": "Ontario Tech University",
+      "id": 246,
+      "state": "Ontario",
+      "shortname": "Ontario Tech"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/196.jpg",
+      "name": "Queen's University at Kingston",
+      "id": 196,
+      "state": "Ontario",
+      "shortname": "Queens"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/250.jpg",
+      "name": "Redeemer University College",
+      "id": 250,
+      "state": "Ontario",
+      "shortname": "Redeemer"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/251.jpg",
+      "name": "Royal Military College of Canada",
+      "id": 251,
+      "state": "Ontario",
+      "shortname": "RMC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Seneca College",
+      "id": 517,
+      "state": "Ontario",
+      "shortname": "Seneca College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/b46332c375b14ecf68b17e9461b565af.jpg",
+      "name": "Sheridan College",
+      "id": 506,
+      "state": "Ontario",
+      "shortname": "Sheridan"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/528604c05f79f8e3494a648784310071.png",
+      "name": "St Clair College",
+      "id": 510,
+      "state": "Ontario",
+      "shortname": "St Clair College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/992f5dd238cb28061ee643adc3c5bfae.png",
+      "name": "St Lawrence College",
+      "id": 508,
+      "state": "Ontario",
+      "shortname": "St Lawrence College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/208.jpg",
+      "name": "Toronto Metropolitan University",
+      "id": 208,
+      "state": "Ontario",
+      "shortname": "TMU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/260.jpg",
+      "name": "Trent University",
+      "id": 260,
+      "state": "Ontario",
+      "shortname": "Trent U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/262.jpg",
+      "name": "Tyndale University",
+      "id": 262,
+      "state": "Ontario",
+      "shortname": "Tyndale"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/203.jpg",
+      "name": "University of Guelph",
+      "id": 203,
+      "state": "Ontario",
+      "shortname": "U of G"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/263.jpg",
+      "name": "Universit\u00e9 de l'Ontario fran\u00e7ais",
+      "id": 263,
+      "state": "Ontario",
+      "shortname": "UOF"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/190.jpg",
+      "name": "University of Ottawa",
+      "id": 190,
+      "state": "Ontario",
+      "shortname": "UOttawa"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/184.jpg",
+      "name": "University of Toronto",
+      "id": 184,
+      "state": "Ontario",
+      "shortname": "UToronto"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/192.jpg",
+      "name": "University of Waterloo",
+      "id": 192,
+      "state": "Ontario",
+      "shortname": "UWaterloo"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/209.jpg",
+      "name": "University of Windsor",
+      "id": 209,
+      "state": "Ontario",
+      "shortname": "UWindsor"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Victoria University",
+      "id": 523,
+      "state": "Ontario",
+      "shortname": "Victoria University"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/193.jpg",
+      "name": "Western University",
+      "id": 193,
+      "state": "Ontario",
+      "shortname": "Western"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/201.jpg",
+      "name": "York University",
+      "id": 201,
+      "state": "Ontario",
+      "shortname": "YorkU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Holland College",
+      "id": 521,
+      "state": "Prince Edward Island",
+      "shortname": "Holland College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/276.jpg",
+      "name": "University of Prince Edward Island",
+      "id": 276,
+      "state": "Prince Edward Island",
+      "shortname": "UPEI"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/205.jpg",
+      "name": "Concordia University",
+      "id": 205,
+      "state": "Quebec",
+      "shortname": "Concordia"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/237.jpg",
+      "name": "\u00c9cole nationale d'administration publique",
+      "id": 237,
+      "state": "Quebec",
+      "shortname": "ENAP"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/236.jpg",
+      "name": "\u00c9cole de technologie sup\u00e9rieure",
+      "id": 236,
+      "state": "Quebec",
+      "shortname": "ETS"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/239.jpg",
+      "name": "Institut national de la recherche scientifique",
+      "id": 239,
+      "state": "Quebec",
+      "shortname": "INRS"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/186.jpg",
+      "name": "McGill University",
+      "id": 186,
+      "state": "Quebec",
+      "shortname": "McGill"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/227.jpg",
+      "name": "Bishop's University",
+      "id": 227,
+      "state": "Quebec",
+      "shortname": "UBishops"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/188.jpg",
+      "name": "Universit\u00e9 de Montr\u00e9al",
+      "id": 188,
+      "state": "Quebec",
+      "shortname": "UDEM"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/265.jpg",
+      "name": "Universit\u00e9 de Sherbrooke",
+      "id": 265,
+      "state": "Quebec",
+      "shortname": "UDES"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/195.jpg",
+      "name": "Universit\u00e9 Laval",
+      "id": 195,
+      "state": "Quebec",
+      "shortname": "ULaval"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/207.jpg",
+      "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
+      "id": 207,
+      "state": "Quebec",
+      "shortname": "UQAC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/266.jpg",
+      "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+      "id": 266,
+      "state": "Quebec",
+      "shortname": "UQAM"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/267.jpg",
+      "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski",
+      "id": 267,
+      "state": "Quebec",
+      "shortname": "UQAR"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/269.jpg",
+      "name": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue",
+      "id": 269,
+      "state": "Quebec",
+      "shortname": "UQAT"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/270.jpg",
+      "name": "Universit\u00e9 du Qu\u00e9bec en Outaouais",
+      "id": 270,
+      "state": "Quebec",
+      "shortname": "UQO"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/268.jpg",
+      "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res",
+      "id": 268,
+      "state": "Quebec",
+      "shortname": "UQTR"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/212.jpg",
+      "name": "University of Regina",
+      "id": 212,
+      "state": "Saskatchewan",
+      "shortname": "URegina"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/200.jpg",
+      "name": "University of Saskatchewan",
+      "id": 200,
+      "state": "Saskatchewan",
+      "shortname": "USask"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/282.jpg",
+      "name": "Yukon University",
+      "id": 282,
+      "state": "Yukon",
+      "shortname": "Yukon U"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Bishop Grosseteste University",
+      "id": 297,
+      "state": "East Midlands",
+      "shortname": "BGU"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/75.jpg",
+      "name": "De Montfort University",
+      "id": 75,
+      "state": "East Midlands",
+      "shortname": "De Mont"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/97.jpg",
+      "name": "University of Derby",
+      "id": 97,
+      "state": "East Midlands",
+      "shortname": "Derby"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/107.jpg",
+      "name": "University of Leicester",
+      "id": 107,
+      "state": "East Midlands",
+      "shortname": "Leic"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/108.jpg",
+      "name": "University of Lincoln",
+      "id": 108,
+      "state": "East Midlands",
+      "shortname": "Linc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/101.jpg",
+      "name": "Loughborough University",
+      "id": 101,
+      "state": "East Midlands",
+      "shortname": "Lough"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/115.jpg",
+      "name": "University of Northampton",
+      "id": 115,
+      "state": "East Midlands",
+      "shortname": "N'ton"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/46.jpg",
+      "name": "University of Nottingham",
+      "id": 46,
+      "state": "East Midlands",
+      "shortname": "Nott"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/49.jpg",
+      "name": "Nottingham Trent University",
+      "id": 49,
+      "state": "East Midlands",
+      "shortname": "Nott Trent"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/73.jpg",
+      "name": "Anglia Ruskin University",
+      "id": 73,
+      "state": "Eastern",
+      "shortname": "Ang Rus"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/110.jpg",
+      "name": "University of Bedfordshire",
+      "id": 110,
+      "state": "Eastern",
+      "shortname": "Bedf"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/103.jpg",
+      "name": "University of Cambridge",
+      "id": 103,
+      "state": "Eastern",
+      "shortname": "Cambridge"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Cranfield University",
+      "id": 294,
+      "state": "Eastern",
+      "shortname": "Cranfield"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/106.jpg",
+      "name": "University of East Anglia",
+      "id": 106,
+      "state": "Eastern",
+      "shortname": "East Anglia"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/114.jpg",
+      "name": "University of Essex",
+      "id": 114,
+      "state": "Eastern",
+      "shortname": "Essex"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/64.jpg",
+      "name": "University of Hertfordshire",
+      "id": 64,
+      "state": "Eastern",
+      "shortname": "Herts"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Norwich University of the Arts",
+      "id": 293,
+      "state": "Eastern",
+      "shortname": "NUA"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/157.jpg",
+      "name": "University of Suffolk",
+      "id": 157,
+      "state": "Eastern",
+      "shortname": "Suffolk"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/88.jpg",
+      "name": "University of the Arts London",
+      "id": 88,
+      "state": "Greater London",
+      "shortname": "Arts Lond"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/136.jpg",
+      "name": "Birkbeck, University of London",
+      "id": 136,
+      "state": "Greater London",
+      "shortname": "Birkbeck"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "BPP University",
+      "id": 300,
+      "state": "Greater London",
+      "shortname": "BPP"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/124.jpg",
+      "name": "Brunel University London",
+      "id": 124,
+      "state": "Greater London",
+      "shortname": "Brun"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/283.jpg",
+      "name": "City, University of London",
+      "id": 283,
+      "state": "Greater London",
+      "shortname": "City"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/150.jpg",
+      "name": "Goldsmiths, University of London",
+      "id": 150,
+      "state": "Greater London",
+      "shortname": "Goldsmiths"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/80.jpg",
+      "name": "University of Greenwich",
+      "id": 80,
+      "state": "Greater London",
+      "shortname": "Greenw"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/287.jpg",
+      "name": "Institute of Cancer Research",
+      "id": 287,
+      "state": "Greater London",
+      "shortname": "ICR"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/127.jpg",
+      "name": "Imperial College London",
+      "id": 127,
+      "state": "Greater London",
+      "shortname": "Imp Lond"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/69.jpg",
+      "name": "King's College London",
+      "id": 69,
+      "state": "Greater London",
+      "shortname": "KCL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/79.jpg",
+      "name": "Kingston University",
+      "id": 79,
+      "state": "Greater London",
+      "shortname": "Kingston"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/175.jpg",
+      "name": "London Business School",
+      "id": 175,
+      "state": "Greater London",
+      "shortname": "LBS"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/125.jpg",
+      "name": "University of London",
+      "id": 125,
+      "state": "Greater London",
+      "shortname": "Lond"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/123.jpg",
+      "name": "London Metropolitan University",
+      "id": 123,
+      "state": "Greater London",
+      "shortname": "Lond Met"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/102.jpg",
+      "name": "London South Bank University",
+      "id": 102,
+      "state": "Greater London",
+      "shortname": "Lond SB"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/155.jpg",
+      "name": "London School of Economics",
+      "id": 155,
+      "state": "Greater London",
+      "shortname": "LSE"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/288.jpg",
+      "name": "London School of Hygiene & Tropical Medicine",
+      "id": 288,
+      "state": "Greater London",
+      "shortname": "LSHTM"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/91.jpg",
+      "name": "Middlesex University",
+      "id": 91,
+      "state": "Greater London",
+      "shortname": "Middx"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/172.jpg",
+      "name": "Queen Mary University of London",
+      "id": 172,
+      "state": "Greater London",
+      "shortname": "QMUL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/289.jpg",
+      "name": "Royal Academy of Music",
+      "id": 289,
+      "state": "Greater London",
+      "shortname": "RAM"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/169.jpg",
+      "name": "Ravensbourne University London",
+      "id": 169,
+      "state": "Greater London",
+      "shortname": "Ravensbourne"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/290.jpg",
+      "name": "Royal Central School of Speech and Drama",
+      "id": 290,
+      "state": "Greater London",
+      "shortname": "RCSSD"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/142.jpg",
+      "name": "Royal Holloway, University of London",
+      "id": 142,
+      "state": "Greater London",
+      "shortname": "RHUL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/144.jpg",
+      "name": "Roehampton University",
+      "id": 144,
+      "state": "Greater London",
+      "shortname": "Roehampton"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/291.jpg",
+      "name": "Royal Veterinary College",
+      "id": 291,
+      "state": "Greater London",
+      "shortname": "RVC"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/153.jpg",
+      "name": "St George's, University of London",
+      "id": 153,
+      "state": "Greater London",
+      "shortname": "SGUL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/165.jpg",
+      "name": "SOAS, University of London",
+      "id": 165,
+      "state": "Greater London",
+      "shortname": "SOAS"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/161.jpg",
+      "name": "St Mary's University Twickenham",
+      "id": 161,
+      "state": "Greater London",
+      "shortname": "St Mary's"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/285.jpg",
+      "name": "The Courtauld Institute of Art",
+      "id": 285,
+      "state": "Greater London",
+      "shortname": "The Courtauld"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/68.jpg",
+      "name": "University College London",
+      "id": 68,
+      "state": "Greater London",
+      "shortname": "UCL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/119.jpg",
+      "name": "University of East London",
+      "id": 119,
+      "state": "Greater London",
+      "shortname": "UEL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/129.jpg",
+      "name": "University of West London",
+      "id": 129,
+      "state": "Greater London",
+      "shortname": "West London"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/81.jpg",
+      "name": "University of Westminster",
+      "id": 81,
+      "state": "Greater London",
+      "shortname": "Westmin"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/98.jpg",
+      "name": "University of Durham",
+      "id": 98,
+      "state": "North East",
+      "shortname": "Durham"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/50.jpg",
+      "name": "Northumbria University",
+      "id": 50,
+      "state": "North East",
+      "shortname": "N'ria"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/70.jpg",
+      "name": "Newcastle University",
+      "id": 70,
+      "state": "North East",
+      "shortname": "Newc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/116.jpg",
+      "name": "University of Sunderland",
+      "id": 116,
+      "state": "North East",
+      "shortname": "Sund"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/78.jpg",
+      "name": "Teesside University",
+      "id": 78,
+      "state": "North East",
+      "shortname": "Teesside"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/152.jpg",
+      "name": "University of Bolton",
+      "id": 152,
+      "state": "North West",
+      "shortname": "Bolton"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/113.jpg",
+      "name": "University of Chester",
+      "id": 540,
+      "state": "North West",
+      "shortname": "Chester"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/145.jpg",
+      "name": "University of Cumbria",
+      "id": 145,
+      "state": "North West",
+      "shortname": "Cumbria"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/105.jpg",
+      "name": "Edge Hill University",
+      "id": 105,
+      "state": "North West",
+      "shortname": "Edge Hill"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/126.jpg",
+      "name": "Lancaster University",
+      "id": 126,
+      "state": "North West",
+      "shortname": "Lancaster"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/61.jpg",
+      "name": "University of Liverpool",
+      "id": 61,
+      "state": "North West",
+      "shortname": "Liv"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/162.jpg",
+      "name": "Liverpool Hope University",
+      "id": 162,
+      "state": "North West",
+      "shortname": "Liv Hope"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/67.jpg",
+      "name": "Liverpool John Moores University",
+      "id": 67,
+      "state": "North West",
+      "shortname": "LJMU"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "University of Manchester",
+      "id": 43,
+      "state": "North West",
+      "shortname": "Manc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/44.jpg",
+      "name": "Manchester Metropolitan University",
+      "id": 44,
+      "state": "North West",
+      "shortname": "Manc Met"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/82.jpg",
+      "name": "University of Salford",
+      "id": 82,
+      "state": "North West",
+      "shortname": "Salf"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/57.jpg",
+      "name": "University of Central Lancashire",
+      "id": 57,
+      "state": "North West",
+      "shortname": "UCLan"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/65.jpg",
+      "name": "Queen's University Belfast",
+      "id": 65,
+      "state": "Northern Ireland",
+      "shortname": "QUB"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/59.jpg",
+      "name": "Ulster University",
+      "id": 59,
+      "state": "Northern Ireland",
+      "shortname": "Ulster"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/163.jpg",
+      "name": "Abertay University Dundee",
+      "id": 163,
+      "state": "Scotland",
+      "shortname": "Aber Dund"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/122.jpg",
+      "name": "University of Aberdeen",
+      "id": 122,
+      "state": "Scotland",
+      "shortname": "Aberd"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/120.jpg",
+      "name": "University of Dundee",
+      "id": 120,
+      "state": "Scotland",
+      "shortname": "Dundee"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/55.jpg",
+      "name": "University of Edinburgh",
+      "id": 55,
+      "state": "Scotland",
+      "shortname": "Edinburgh"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/93.jpg",
+      "name": "Glasgow Caledonian University",
+      "id": 93,
+      "state": "Scotland",
+      "shortname": "Glas Cal"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/63.jpg",
+      "name": "University of Glasgow",
+      "id": 63,
+      "state": "Scotland",
+      "shortname": "Glasgow"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/143.jpg",
+      "name": "Heriot-Watt University",
+      "id": 143,
+      "state": "Scotland",
+      "shortname": "Heriot-Watt"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/117.jpg",
+      "name": "Edinburgh Napier University",
+      "id": 117,
+      "state": "Scotland",
+      "shortname": "Napier"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/164.jpg",
+      "name": "Queen Margaret University",
+      "id": 164,
+      "state": "Scotland",
+      "shortname": "Qu Marg"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/130.jpg",
+      "name": "Robert Gordon University",
+      "id": 130,
+      "state": "Scotland",
+      "shortname": "Robt Gor"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/137.jpg",
+      "name": "The University of St Andrews",
+      "id": 137,
+      "state": "Scotland",
+      "shortname": "St And"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/132.jpg",
+      "name": "University of Stirling",
+      "id": 132,
+      "state": "Scotland",
+      "shortname": "Stirling"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/86.jpg",
+      "name": "University of Strathclyde",
+      "id": 86,
+      "state": "Scotland",
+      "shortname": "Strath"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/138.jpg",
+      "name": "University of the Highlands and Islands",
+      "id": 138,
+      "state": "Scotland",
+      "shortname": "UHI"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/96.jpg",
+      "name": "University of the West of Scotland",
+      "id": 96,
+      "state": "Scotland",
+      "shortname": "West Scot"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/74.jpg",
+      "name": "University of Brighton",
+      "id": 74,
+      "state": "South East",
+      "shortname": "Brighton"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/217.jpg",
+      "name": "Buckingham University",
+      "id": 217,
+      "state": "South East",
+      "shortname": "Buckingham Uni"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/141.jpg",
+      "name": "Buckinghamshire New University",
+      "id": 141,
+      "state": "South East",
+      "shortname": "Bucks New"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/156.jpg",
+      "name": "University of Chichester",
+      "id": 156,
+      "state": "South East",
+      "shortname": "Chichester"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/99.jpg",
+      "name": "Christ Church University",
+      "id": 99,
+      "state": "South East",
+      "shortname": "Christ Church"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/111.jpg",
+      "name": "University of Demo UK",
+      "id": 113,
+      "state": "South East",
+      "shortname": "Demo UK"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/83.jpg",
+      "name": "University of Kent",
+      "id": 83,
+      "state": "South East",
+      "shortname": "Kent"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "The Open University",
+      "id": 295,
+      "state": "South East",
+      "shortname": "Open"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/92.jpg",
+      "name": "Oxford Brookes University",
+      "id": 92,
+      "state": "South East",
+      "shortname": "Oxf Brookes"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/89.jpg",
+      "name": "University of Oxford",
+      "id": 89,
+      "state": "South East",
+      "shortname": "Oxford"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/66.jpg",
+      "name": "University of Portsmouth",
+      "id": 66,
+      "state": "South East",
+      "shortname": "Port"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/118.jpg",
+      "name": "University of Reading",
+      "id": 118,
+      "state": "South East",
+      "shortname": "Reading"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/71.jpg",
+      "name": "University of Southampton",
+      "id": 71,
+      "state": "South East",
+      "shortname": "S'ton"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/112.jpg",
+      "name": "Solent University",
+      "id": 112,
+      "state": "South East",
+      "shortname": "Solent"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/109.jpg",
+      "name": "University of Surrey",
+      "id": 109,
+      "state": "South East",
+      "shortname": "Surrey"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/111.jpg",
+      "name": "University of Sussex",
+      "id": 111,
+      "state": "South East",
+      "shortname": "Sussex"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/159.jpg",
+      "name": "University for the Creative Arts",
+      "id": 159,
+      "state": "South East",
+      "shortname": "UCA"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "The University of Law",
+      "id": 299,
+      "state": "South East",
+      "shortname": "ULaw"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/147.jpg",
+      "name": "University of Winchester",
+      "id": 147,
+      "state": "South East",
+      "shortname": "Winc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/166.jpg",
+      "name": "Arts University Bournemouth",
+      "id": 166,
+      "state": "South West",
+      "shortname": "AUB"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/104.jpg",
+      "name": "University of Bath",
+      "id": 104,
+      "state": "South West",
+      "shortname": "Bath"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/149.jpg",
+      "name": "Bath Spa University",
+      "id": 149,
+      "state": "South West",
+      "shortname": "Bath Spa"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/85.jpg",
+      "name": "Bournemouth University",
+      "id": 85,
+      "state": "South West",
+      "shortname": "Bourne"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/77.jpg",
+      "name": "University of Bristol",
+      "id": 77,
+      "state": "South West",
+      "shortname": "Bristol"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/72.jpg",
+      "name": "University of Exeter",
+      "id": 72,
+      "state": "South West",
+      "shortname": "Exeter"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/160.jpg",
+      "name": "Falmouth University",
+      "id": 160,
+      "state": "South West",
+      "shortname": "Fal"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/146.jpg",
+      "name": "University of Gloucestershire",
+      "id": 146,
+      "state": "South West",
+      "shortname": "Glouc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/173.jpg",
+      "name": "Hartpury University",
+      "id": 173,
+      "state": "South West",
+      "shortname": "Hartpury"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/170.jpg",
+      "name": "Plymouth Marjon University",
+      "id": 170,
+      "state": "South West",
+      "shortname": "Marjon"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/58.jpg",
+      "name": "University of Plymouth",
+      "id": 58,
+      "state": "South West",
+      "shortname": "Plym"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Royal Agricultural University",
+      "id": 298,
+      "state": "South West",
+      "shortname": "RAU"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/54.jpg",
+      "name": "University of the West of England",
+      "id": 54,
+      "state": "South West",
+      "shortname": "West Eng"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/140.jpg",
+      "name": "Aberystwyth University",
+      "id": 140,
+      "state": "Wales",
+      "shortname": "Aberystwyth"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/135.jpg",
+      "name": "Bangor University",
+      "id": 135,
+      "state": "Wales",
+      "shortname": "Bangor"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/51.jpg",
+      "name": "Cardiff University",
+      "id": 51,
+      "state": "Wales",
+      "shortname": "Card"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/128.jpg",
+      "name": "Cardiff Metropolitan University",
+      "id": 128,
+      "state": "Wales",
+      "shortname": "Cardiff Met"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/56.jpg",
+      "name": "University of South Wales",
+      "id": 56,
+      "state": "Wales",
+      "shortname": "South Wales"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/90.jpg",
+      "name": "Swansea University",
+      "id": 90,
+      "state": "Wales",
+      "shortname": "Swansea"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/133.jpg",
+      "name": "University of Wales",
+      "id": 133,
+      "state": "Wales",
+      "shortname": "Wales"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/148.jpg",
+      "name": "Wrexham Glynd\u0175r University",
+      "id": 148,
+      "state": "Wales",
+      "shortname": "Wrexham Glynd\u0175r"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Arden University",
+      "id": 301,
+      "state": "West Midlands",
+      "shortname": "Arden"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/121.jpg",
+      "name": "Aston University",
+      "id": 121,
+      "state": "West Midlands",
+      "shortname": "Aston"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/60.jpg",
+      "name": "Birmingham City University",
+      "id": 60,
+      "state": "West Midlands",
+      "shortname": "Birm City"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/48.jpg",
+      "name": "Coventry University",
+      "id": 48,
+      "state": "West Midlands",
+      "shortname": "Cov"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/154.jpg",
+      "name": "Harper Adams University",
+      "id": 154,
+      "state": "West Midlands",
+      "shortname": "Harper Adams"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/139.jpg",
+      "name": "Keele University",
+      "id": 139,
+      "state": "West Midlands",
+      "shortname": "Keele"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/168.jpg",
+      "name": "Newman University",
+      "id": 168,
+      "state": "West Midlands",
+      "shortname": "Newman"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/94.jpg",
+      "name": "Staffordshire University",
+      "id": 94,
+      "state": "West Midlands",
+      "shortname": "Staffs"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/158.jpg",
+      "name": "University College Birmingham",
+      "id": 158,
+      "state": "West Midlands",
+      "shortname": "UCB"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/52.jpg",
+      "name": "University of Birmingham",
+      "id": 52,
+      "state": "West Midlands",
+      "shortname": "University of Birmingham"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/84.jpg",
+      "name": "University of Warwick",
+      "id": 84,
+      "state": "West Midlands",
+      "shortname": "Warwick"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/76.jpg",
+      "name": "University of Wolverhampton",
+      "id": 76,
+      "state": "West Midlands",
+      "shortname": "Wolv"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/131.jpg",
+      "name": "University of Worcester",
+      "id": 131,
+      "state": "West Midlands",
+      "shortname": "Worc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/134.jpg",
+      "name": "University of Bradford",
+      "id": 134,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Bradford"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/87.jpg",
+      "name": "University of Huddersfield",
+      "id": 87,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Hudd"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/95.jpg",
+      "name": "University of Hull",
+      "id": 95,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Hull"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/47.jpg",
+      "name": "University of Leeds",
+      "id": 47,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Leeds"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Leeds Arts University",
+      "id": 296,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Leeds Arts"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/53.jpg",
+      "name": "Leeds Beckett University",
+      "id": 53,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Leeds Beckett"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/167.jpg",
+      "name": "Leeds Trinity University",
+      "id": 167,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Leeds Trinity"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/62.jpg",
+      "name": "University of Sheffield",
+      "id": 62,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Sheff"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/45.jpg",
+      "name": "Sheffield Hallam University",
+      "id": 45,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Sheff Hallam"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/100.jpg",
+      "name": "University of York",
+      "id": 100,
+      "state": "Yorkshire and Humberside",
+      "shortname": "York"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/151.jpg",
+      "name": "York St John University",
+      "id": 151,
+      "state": "Yorkshire and Humberside",
+      "shortname": "York St John"
+    },
+    {
+      "country": "IE",
+      "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/35983935-0c87-4223-b12c-12ecb397e994.png",
+      "name": "Dublin City University",
+      "id": 541,
+      "state": "Leinster",
+      "shortname": "DCU"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/176.jpg",
+      "name": "University of Auckland",
+      "id": 176,
+      "state": "Auckland",
+      "shortname": "Auckland Uni"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/183.jpg",
+      "name": "Auckland University of Technology",
+      "id": 183,
+      "state": "Auckland",
+      "shortname": "AUT"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/178.jpg",
+      "name": "University of Canterbury",
+      "id": 178,
+      "state": "Canterbury",
+      "shortname": "Canterbury"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/5e13854e-d7cb-434b-b1c0-9056f073196a.jpg",
+      "name": "Lincoln University",
+      "id": 182,
+      "state": "Canterbury",
+      "shortname": "Lincoln Uni"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/180.jpg",
+      "name": "Massey University",
+      "id": 180,
+      "state": "Manawatu-Whanganui",
+      "shortname": "Massey Uni"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/177.jpg",
+      "name": "University of Otago",
+      "id": 177,
+      "state": "Otago",
+      "shortname": "OTAGO"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/181.jpg",
+      "name": "University of Waikato",
+      "id": 181,
+      "state": "Waikato",
+      "shortname": "Waikato"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/179.jpg",
+      "name": "Victoria University of Wellington",
+      "id": 179,
+      "state": "Wellington",
+      "shortname": "VUW"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Academy of Art University",
+      "id": 533,
+      "state": "California",
+      "shortname": "ART U"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "University of Hawaii at Manoa",
+      "id": 534,
+      "state": "Hawaii",
+      "shortname": "UH"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "DeVry University",
+      "id": 531,
+      "state": "Illinois",
+      "shortname": "DeVry"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "University of Maryland",
+      "id": 527,
+      "state": "Maryland",
+      "shortname": "UMD"
+    },
+    {
+      "country": "US",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/fcbb69d2664bc5bf2d1f9a03d9e4b6ce.png",
+      "name": "University of Minnesota Twin Cities",
+      "id": 538,
+      "state": "Minneapolis",
+      "shortname": "Twin Cities"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Southern New Hampshire University",
+      "id": 525,
+      "state": "New Hampshire",
+      "shortname": "SNHU"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "New Mexico State University",
+      "id": 530,
+      "state": "New Mexico",
+      "shortname": "NMSU"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Dallas College",
+      "id": 526,
+      "state": "Texas",
+      "shortname": "Dallas College"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "University of Texas at Austin",
+      "id": 528,
+      "state": "Texas",
+      "shortname": "UT Austin"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Old Dominion University",
+      "id": 529,
+      "state": "Virginia",
+      "shortname": "ODU"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Marquette University",
+      "id": 532,
+      "state": "Wisconsin",
+      "shortname": "Marquette"
+    }
+  ],
+  "sortType": "date",
+  "selectedCountryCode": "AU",
+  "success": true,
+  "results": [
+    {
+      "sortindex": 1755060502,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4acf951a-093b-4858-ab9c-fa5b48e56393.png",
+      "month": "August",
+      "societyAvgRating": 4.4,
+      "subtitle": "Class/Workshop",
+      "societyid": 2511,
+      "destination": "/?eid=39076",
+      "societyname": "Muslim Students Association UQ",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+      "title": "Da'wah Drilling Workshop",
+      "day": "16",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1754462298,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/946119a2-fa2b-4c79-8255-be7031b78fca.png",
+      "month": "August",
+      "societyAvgRating": 4.9,
+      "subtitle": "Trip/Camp",
+      "societyid": 7257,
+      "destination": "/?eid=38676",
+      "societyname": "Society of Lifesaving",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+      "title": "One With The Outdoors - Mt Coot-tha",
+      "day": "16",
+      "info": "$5.00"
+    },
+    {
+      "sortindex": 1754033735,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/82eedc86-5b58-48da-a4ee-22c12f3b763f.jpg",
+      "month": "August",
+      "societyAvgRating": 5,
+      "subtitle": "Sport/Competition",
+      "societyid": 3470,
+      "destination": "/?eid=38107",
+      "societyname": "UQ K-Nation",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b0864b07-f261-4b3f-81a2-8cb46bc35b3e.png",
+      "title": "QUTAPS x UQKDC x UQ K-Nation ISAC",
+      "day": "16",
+      "info": "$9.50"
+    },
+    {
+      "sortindex": 1753704855,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/b1e8c951-1fda-4e89-a860-771671b7d636.png",
+      "month": "August",
+      "societyAvgRating": 4.7,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 4271,
+      "destination": "/?eid=37498",
+      "societyname": "UQ K-pop Dance Club",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+      "title": "ISAC Collab Event",
+      "day": "16",
+      "info": "$9.50"
+    },
+    {
+      "sortindex": 1751971736,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/688a8c88-b192-45d9-b922-5902d8b0f632.png",
+      "month": "August",
+      "societyAvgRating": 4.8,
+      "subtitle": "Industry/Career",
+      "societyid": 1816,
+      "destination": "/?eid=36665",
+      "societyname": "UQ Speech Pathology and Audiology Student's Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1816.png",
+      "title": "SPASA Careers Day",
+      "day": "16",
+      "info": "$11.59 - $53.38"
+    },
+    {
+      "sortindex": 1753625025,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f7ca42b-1049-49ca-9959-4ff891d47893.jpg",
+      "month": "August",
+      "societyAvgRating": 5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1404,
+      "destination": "/?eid=37329",
+      "societyname": "UQ Singapore Students' Society",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1404.png",
+      "title": "UQSSS Orientation Sem 2 2025",
+      "day": "16",
+      "info": "$11.59 - $16.81"
+    },
+    {
+      "sortindex": 1753675495,
+      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_10.png",
+      "month": "August",
+      "subtitle": "Other",
+      "societyid": 10792,
+      "destination": "/?eid=37413",
+      "societyname": "UQ Chinese Cultural Dance Club",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
+      "title": "Senior Workshop",
+      "day": "16",
+      "info": "$22.04"
+    },
+    {
+      "sortindex": 1754624478,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/147c2be5-8277-4e91-9a15-546996aa89ed.png",
+      "month": "August",
+      "societyAvgRating": 4.9,
+      "subtitle": "Other",
+      "societyid": 4688,
+      "destination": "/?eid=38413",
+      "societyname": "UQ Ecological Society",
+      "societylogo": "https://resources.hellorubric.com/images/64ca3c4c95979_.png",
+      "title": "SGM Spotlighting at The Hut",
+      "day": "16",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1753011869,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/dae854da-43b1-49a1-ad6b-525e17b5f6f4.png",
+      "month": "August",
+      "societyAvgRating": 5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2218,
+      "destination": "/?eid=37683",
+      "societyname": "UQ Comedy and Improv Club",
+      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "title": "Walk the Plank Pub Crawl",
+      "day": "16",
+      "info": "$10.00 - $15.00"
+    },
+    {
+      "sortindex": 1754264737,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/1bc32ce0-7d44-4e4b-a1c9-1c1cff222884.png",
+      "month": "August",
+      "subtitle": "Trip/Camp",
+      "societyid": 2257,
+      "destination": "/?eid=38105",
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
+      "title": "Gaia's Serenity Sanctuary Visit",
+      "day": "17",
+      "info": "$0.00 - $15.00"
+    },
+    {
+      "sortindex": 1754740333,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/e79df5bb-539b-46ad-b64d-3a4b679e0a81.jpeg",
+      "month": "August",
+      "subtitle": "Other",
+      "societyid": 8995,
+      "destination": "/?eid=38552",
+      "societyname": "University of Queensland Golf Club (UQGC)",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/484cbc2d-82cd-4d64-95c0-13bc70cef18f.png",
+      "title": "Indoor Golf in Milton ",
+      "day": "17",
+      "info": "$40.32"
+    },
+    {
+      "sortindex": 1754362036,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/ef430de9-cb68-4e6f-a6a0-1d1b72b121c7.png",
+      "month": "August",
+      "societyAvgRating": 4.5,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 2517,
+      "destination": "/?eid=37958",
+      "societyname": "UQ Cheer and Dance Club",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2517.png",
+      "title": "Trivia Night",
+      "day": "17",
+      "info": "$22.04 - $32.48"
+    }
+  ],
+  "selectedState": "Queensland"
+}
