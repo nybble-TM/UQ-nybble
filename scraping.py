@@ -39,14 +39,20 @@ with open("event_data.txt", 'w') as file:
 events = results.get("results", [])
 print(f"Found {len(events)} events")
 
-for event in events:
-    title = event.get("title", "No title")
-    month = event.get("month", "No time")
-    day = event.get("day", "no day")
-    societyname = event.get("societyname", "No location")
-    price = event.get("info", "No description")
-    
-    print(f"📅 {title}")
-    print(f"   🕒 {month} {day}")
-    print(f"   📍 {societyname}")
-    print(f"   📝 {price}\n")
+with open("pretty_event_data.txt", "a") as file:
+    for event in events:
+        title = event.get("title", "No title")
+        month = event.get("month", "No time")
+        day = event.get("day", "no day")
+        societyname = event.get("societyname", "No location")
+        price = event.get("info", "No description")
+        
+        print(f"📅 {title}")
+        print(f"   🕒 {month} {day}")
+        print(f"   📍 {societyname}")
+        print(f"   📝 {price}\n")
+        
+        file.write(f"📅 {title}\n")
+        file.write(f"   🕒 {month} {day}\n")
+        file.write(f"   📍 {societyname}\n")
+        file.write(f"   📝 {price}\n\n")
