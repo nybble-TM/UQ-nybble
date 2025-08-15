@@ -19,7 +19,7 @@ headers = {
 
 # EXACT string taken from network request
 data = {
-    'details': '{"firstCall":true,"sortType":"date","desiredType":"events","limit":50,"offset":0,"sortDirection":"asc","searchQuery":"","eventsPeriodFilter":"All","countryCode":"AU","state":"Queensland","selectedUniversityId":"12","currentUrl":"https://campus.hellorubric.com/search?country=AU&state=Queensland&universityid=12&type=events","device":"web_portal","version":4}',
+    'details': '{"firstCall":true,"sortType":"date","desiredType":"events","limit":100,"offset":0,"sortDirection":"asc","searchQuery":"","eventsPeriodFilter":"All","countryCode":"AU","state":"Queensland","selectedUniversityId":"12","currentUrl":"https://campus.hellorubric.com/search?country=AU&state=Queensland&universityid=12&type=events","device":"web_portal","version":4}',
     'endpoint': 'getUnifiedSearch',
 }
 
@@ -33,13 +33,16 @@ except json.JSONDecodeError:
     exit()
 
 print(json.dumps(results, indent=2))  # <-- Inspect the structure
-with open("event_data.txt", 'w') as file:
+with open("event_data.json", 'w') as file:
     file.write(json.dumps(results,indent=2))
 
 events = results.get("results", [])
 print(f"Found {len(events)} events")
 
-with open("pretty_event_data.txt", "a") as file:
+with open("results.json", "w") as file:
+    json.dump(events, file, indent=2)
+
+with open("pretty_event_data.txt", "w") as file:
     for event in events:
         title = event.get("title", "No title")
         month = event.get("month", "No time")
@@ -51,7 +54,7 @@ with open("pretty_event_data.txt", "a") as file:
         print(f"   🕒 {month} {day}")
         print(f"   📍 {societyname}")
         print(f"   📝 {price}\n")
-        
+
         file.write(f"📅 {title}\n")
         file.write(f"   🕒 {month} {day}\n")
         file.write(f"   📍 {societyname}\n")
