@@ -19,7 +19,7 @@ headers = {
 
 # EXACT string taken from network request
 data = {
-    'details': '{"firstCall":true,"sortType":"date","desiredType":"events","limit":12,"offset":0,"sortDirection":"asc","searchQuery":"","eventsPeriodFilter":"All","countryCode":"AU","state":"Queensland","selectedUniversityId":"12","currentUrl":"https://campus.hellorubric.com/search?country=AU&state=Queensland&universityid=12&type=events","device":"web_portal","version":4}',
+    'details': '{"firstCall":true,"sortType":"date","desiredType":"events","limit":50,"offset":0,"sortDirection":"asc","searchQuery":"","eventsPeriodFilter":"All","countryCode":"AU","state":"Queensland","selectedUniversityId":"12","currentUrl":"https://campus.hellorubric.com/search?country=AU&state=Queensland&universityid=12&type=events","device":"web_portal","version":4}',
     'endpoint': 'getUnifiedSearch',
 }
 
@@ -36,16 +36,17 @@ print(json.dumps(results, indent=2))  # <-- Inspect the structure
 with open("event_data.txt", 'w') as file:
     file.write(json.dumps(results,indent=2))
 
-events = results.get("items", [])
+events = results.get("results", [])
 print(f"Found {len(events)} events")
 
 for event in events:
-    name = event.get("name", "No name")
-    time = event.get("formattedTime", "No time")
-    location = event.get("location", "No location")
-    description = event.get("description", "No description")
+    title = event.get("title", "No title")
+    month = event.get("month", "No time")
+    day = event.get("day", "no day")
+    societyname = event.get("societyname", "No location")
+    price = event.get("info", "No description")
     
-    print(f"📅 {name}")
-    print(f"   🕒 {time}")
-    print(f"   📍 {location}")
-    print(f"   📝 {description}\n")
+    print(f"📅 {title}")
+    print(f"   🕒 {month} {day}")
+    print(f"   📍 {societyname}")
+    print(f"   📝 {price}\n")
