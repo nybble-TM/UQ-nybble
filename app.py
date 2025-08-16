@@ -9,7 +9,7 @@ def home():
     with open("free_events.json", "r") as f:
         events = json.load(f)
     # Pass events to template
-    return render_template("events.html", events=events)
+    return render_template("events_cards.html", events=events)
 
 if __name__ == "__main__":
     app.run(debug=True)
