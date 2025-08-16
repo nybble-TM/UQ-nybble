@@ -300,7 +300,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 72,
+  "totalItemCount": 73,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2965,20 +2965,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1755060502,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4acf951a-093b-4858-ab9c-fa5b48e56393.png",
-      "month": "August",
-      "societyAvgRating": 4.4,
-      "subtitle": "Class/Workshop",
-      "societyid": 2511,
-      "destination": "/?eid=39076",
-      "societyname": "Muslim Students Association UQ",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-      "title": "Da'wah Drilling Workshop",
-      "day": "16",
-      "info": "Free"
-    },
-    {
       "sortindex": 1754462298,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/946119a2-fa2b-4c79-8255-be7031b78fca.png",
       "month": "August",
@@ -2993,18 +2979,18 @@
       "info": "$5.00"
     },
     {
-      "sortindex": 1754033735,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/82eedc86-5b58-48da-a4ee-22c12f3b763f.jpg",
+      "sortindex": 1755060502,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4acf951a-093b-4858-ab9c-fa5b48e56393.png",
       "month": "August",
-      "societyAvgRating": 5,
-      "subtitle": "Sport/Competition",
-      "societyid": 3470,
-      "destination": "/?eid=38107",
-      "societyname": "UQ K-Nation",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b0864b07-f261-4b3f-81a2-8cb46bc35b3e.png",
-      "title": "QUTAPS x UQKDC x UQ K-Nation ISAC",
+      "societyAvgRating": 4.4,
+      "subtitle": "Class/Workshop",
+      "societyid": 2511,
+      "destination": "/?eid=39076",
+      "societyname": "Muslim Students Association UQ",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+      "title": "Da'wah Drilling Workshop",
       "day": "16",
-      "info": "$9.50"
+      "info": "Free"
     },
     {
       "sortindex": 1753704855,
@@ -3017,6 +3003,20 @@
       "societyname": "UQ K-pop Dance Club",
       "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
       "title": "ISAC Collab Event",
+      "day": "16",
+      "info": "$9.50"
+    },
+    {
+      "sortindex": 1754033735,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/82eedc86-5b58-48da-a4ee-22c12f3b763f.jpg",
+      "month": "August",
+      "societyAvgRating": 5,
+      "subtitle": "Sport/Competition",
+      "societyid": 3470,
+      "destination": "/?eid=38107",
+      "societyname": "UQ K-Nation",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b0864b07-f261-4b3f-81a2-8cb46bc35b3e.png",
+      "title": "QUTAPS x UQKDC x UQ K-Nation ISAC",
       "day": "16",
       "info": "$9.50"
     },
@@ -3076,7 +3076,7 @@
       "info": "Free"
     },
     {
-      "sortindex": 1753011869,
+      "sortindex": 1755329956,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/dae854da-43b1-49a1-ad6b-525e17b5f6f4.png",
       "month": "August",
       "societyAvgRating": 5,
@@ -3103,7 +3103,7 @@
       "info": "$0.00 - $15.00"
     },
     {
-      "sortindex": 1754740333,
+      "sortindex": 1755331528,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/e79df5bb-539b-46ad-b64d-3a4b679e0a81.jpeg",
       "month": "August",
       "subtitle": "Other",
@@ -3298,8 +3298,8 @@
       "info": "Free"
     },
     {
-      "sortindex": 1755166577,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_3.png",
+      "sortindex": 1755321145,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/66c02463-2f7b-46b1-bcf0-9152a19d1fe3.png",
       "month": "August",
       "societyAvgRating": 4.4,
       "subtitle": "Other",
@@ -3350,7 +3350,7 @@
       "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
       "title": "UQPS Astrophotography Night",
       "day": "23",
-      "info": "$6.36 - $32.48"
+      "info": "$6.36 - $40.00"
     },
     {
       "sortindex": 1753505080,
@@ -3395,20 +3395,6 @@
       "info": "$0.00 - $6.36"
     },
     {
-      "sortindex": 1754201378,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/165e60f6-2a69-4fb7-a06f-a46a905ca3d4.png",
-      "month": "August",
-      "societyAvgRating": 4.4,
-      "subtitle": "Class/Workshop",
-      "societyid": 1835,
-      "destination": "/?eid=38111",
-      "societyname": "Public Health Association University of Queensland",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1835.png",
-      "title": "Cheeky Public Speaky: Practice Public Speaking!",
-      "day": "26",
-      "info": "$0.00 - $6.36"
-    },
-    {
       "sortindex": 1754917284,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/9694591d-c695-4cdc-9307-28b567e499d0.PNG",
       "month": "August",
@@ -3423,6 +3409,20 @@
       "info": "$32.48 - $37.71"
     },
     {
+      "sortindex": 1754201378,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/165e60f6-2a69-4fb7-a06f-a46a905ca3d4.png",
+      "month": "August",
+      "societyAvgRating": 4.4,
+      "subtitle": "Class/Workshop",
+      "societyid": 1835,
+      "destination": "/?eid=38111",
+      "societyname": "Public Health Association University of Queensland",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1835.png",
+      "title": "Cheeky Public Speaky: Practice Public Speaking!",
+      "day": "26",
+      "info": "$0.00 - $6.36"
+    },
+    {
       "sortindex": 1754830127,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/c199d243-a869-4184-93a7-9d1c50473661.png",
       "month": "August",
@@ -3435,6 +3435,20 @@
       "title": " UQBA x BANA x UQLIT Tech Panel Innovating Careers",
       "day": "26",
       "info": "$0.00 - $3.62"
+    },
+    {
+      "sortindex": 1755332766,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/f64b9a86-197a-4712-9a4e-2cca0288d1b2.png",
+      "month": "August",
+      "societyAvgRating": 4.6,
+      "subtitle": "Class/Workshop",
+      "societyid": 4225,
+      "destination": "/?eid=39254",
+      "societyname": "Business Analytics Networking Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4225.png",
+      "title": "Rhombus AI Workshop ",
+      "day": "27",
+      "info": "$0.00 - $8.45"
     },
     {
       "sortindex": 1755307716,
