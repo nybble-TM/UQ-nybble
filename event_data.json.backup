@@ -1050,7 +1050,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/264.jpg",
-      "name": "Université de Moncton",
+      "name": "Universit\u00e9 de Moncton",
       "id": 264,
       "state": "New Brunswick",
       "shortname": "UMoncton"
@@ -1138,7 +1138,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/271.jpg",
-      "name": "Université Sainte-Anne",
+      "name": "Universit\u00e9 Sainte-Anne",
       "id": 271,
       "state": "Nova Scotia",
       "shortname": "USainteAnne"
@@ -1386,7 +1386,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/263.jpg",
-      "name": "Université de l'Ontario français",
+      "name": "Universit\u00e9 de l'Ontario fran\u00e7ais",
       "id": 263,
       "state": "Ontario",
       "shortname": "UOF"
@@ -1474,7 +1474,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/237.jpg",
-      "name": "École nationale d'administration publique",
+      "name": "\u00c9cole nationale d'administration publique",
       "id": 237,
       "state": "Quebec",
       "shortname": "ENAP"
@@ -1482,7 +1482,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/236.jpg",
-      "name": "École de technologie supérieure",
+      "name": "\u00c9cole de technologie sup\u00e9rieure",
       "id": 236,
       "state": "Quebec",
       "shortname": "ETS"
@@ -1514,7 +1514,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/188.jpg",
-      "name": "Université de Montréal",
+      "name": "Universit\u00e9 de Montr\u00e9al",
       "id": 188,
       "state": "Quebec",
       "shortname": "UDEM"
@@ -1522,7 +1522,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/265.jpg",
-      "name": "Université de Sherbrooke",
+      "name": "Universit\u00e9 de Sherbrooke",
       "id": 265,
       "state": "Quebec",
       "shortname": "UDES"
@@ -1530,7 +1530,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/195.jpg",
-      "name": "Université Laval",
+      "name": "Universit\u00e9 Laval",
       "id": 195,
       "state": "Quebec",
       "shortname": "ULaval"
@@ -1538,7 +1538,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/207.jpg",
-      "name": "Université du Québec à Chicoutimi",
+      "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
       "id": 207,
       "state": "Quebec",
       "shortname": "UQAC"
@@ -1546,7 +1546,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/266.jpg",
-      "name": "Université du Québec à Montréal",
+      "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
       "id": 266,
       "state": "Quebec",
       "shortname": "UQAM"
@@ -1554,7 +1554,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/267.jpg",
-      "name": "Université du Québec à Rimouski",
+      "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski",
       "id": 267,
       "state": "Quebec",
       "shortname": "UQAR"
@@ -1562,7 +1562,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/269.jpg",
-      "name": "Université du Québec en Abitibi-Témiscamingue",
+      "name": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue",
       "id": 269,
       "state": "Quebec",
       "shortname": "UQAT"
@@ -1570,7 +1570,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/270.jpg",
-      "name": "Université du Québec en Outaouais",
+      "name": "Universit\u00e9 du Qu\u00e9bec en Outaouais",
       "id": 270,
       "state": "Quebec",
       "shortname": "UQO"
@@ -1578,7 +1578,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/268.jpg",
-      "name": "Université du Québec à Trois-Rivières",
+      "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res",
       "id": 268,
       "state": "Quebec",
       "shortname": "UQTR"
@@ -2602,10 +2602,10 @@
     {
       "country": "GB",
       "logo_url": "https://resources.hellorubric.com/images/university_logos/148.jpg",
-      "name": "Wrexham Glyndŵr University",
+      "name": "Wrexham Glynd\u0175r University",
       "id": 148,
       "state": "Wales",
-      "shortname": "Wrexham Glyndŵr"
+      "shortname": "Wrexham Glynd\u0175r"
     },
     {
       "country": "GB",
@@ -2977,7 +2977,7 @@
       "title": "One With The Outdoors - Mt Coot-tha",
       "day": "16",
       "info": "$5.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755060502,
@@ -2992,7 +2992,7 @@
       "title": "Da'wah Drilling Workshop",
       "day": "16",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753704855,
@@ -3007,7 +3007,7 @@
       "title": "ISAC Collab Event",
       "day": "16",
       "info": "$9.50",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754033735,
@@ -3022,7 +3022,7 @@
       "title": "QUTAPS x UQKDC x UQ K-Nation ISAC",
       "day": "16",
       "info": "$9.50",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1751971736,
@@ -3037,7 +3037,7 @@
       "title": "SPASA Careers Day",
       "day": "16",
       "info": "$11.59 - $53.38",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755295249,
@@ -3052,7 +3052,7 @@
       "title": "UQSSS Orientation Sem 2 2025",
       "day": "16",
       "info": "$11.59 - $16.81",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675495,
@@ -3066,7 +3066,7 @@
       "title": "Senior Workshop",
       "day": "16",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754624478,
@@ -3081,7 +3081,7 @@
       "title": "SGM Spotlighting at The Hut",
       "day": "16",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755329956,
@@ -3096,7 +3096,7 @@
       "title": "Walk the Plank Pub Crawl",
       "day": "16",
       "info": "$10.00 - $15.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754264737,
@@ -3110,7 +3110,7 @@
       "title": "Gaia's Serenity Sanctuary Visit",
       "day": "17",
       "info": "$0.00 - $15.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755331528,
@@ -3124,7 +3124,7 @@
       "title": "Indoor Golf in Milton ",
       "day": "17",
       "info": "$40.32",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754362036,
@@ -3139,7 +3139,7 @@
       "title": "Trivia Night",
       "day": "17",
       "info": "$22.04 - $32.48",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754999261,
@@ -3154,7 +3154,7 @@
       "title": "Sisters Suhbah: Reflections on Surah Yusuf ",
       "day": "18",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755121602,
@@ -3169,7 +3169,7 @@
       "title": "STEM Forward",
       "day": "18",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755133708,
@@ -3184,7 +3184,7 @@
       "title": "Social Sport: Pickleball",
       "day": "19",
       "info": "$11.59 - $16.81",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754016526,
@@ -3199,7 +3199,7 @@
       "title": "Park Yoga",
       "day": "20",
       "info": "$0.00 - $11.59",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755176428,
@@ -3214,7 +3214,7 @@
       "title": "Vaping and Smoking Cessation - Queensland Health",
       "day": "20",
       "info": "$0.00 - $16.81",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754392948,
@@ -3229,7 +3229,7 @@
       "title": "Tier 1 Industry Feature Night",
       "day": "20",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753939290,
@@ -3244,7 +3244,7 @@
       "title": "SSS Trivia Night Sem 2",
       "day": "20",
       "info": "$6.36 - $16.81",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755059138,
@@ -3259,7 +3259,7 @@
       "title": "Candle Making Workshop",
       "day": "22",
       "info": "$45.00 - $65.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755245898,
@@ -3274,7 +3274,7 @@
       "title": "Brothers Birr: Games Night",
       "day": "22",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754628908,
@@ -3289,7 +3289,7 @@
       "title": "Learn to Surf @ Alexandra Headland",
       "day": "23",
       "info": "$37.71 - $74.28",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755090044,
@@ -3304,7 +3304,7 @@
       "title": "UQBVC Social 4s JUMANJI",
       "day": "23",
       "info": "$16.81 - $32.48",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755219538,
@@ -3319,7 +3319,7 @@
       "title": "Karawatha forest cultural hike",
       "day": "23",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755321145,
@@ -3334,7 +3334,7 @@
       "title": "Potluck and Movie",
       "day": "23",
       "info": "$0.00 - $6.36",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675593,
@@ -3348,7 +3348,7 @@
       "title": "Senior Workshop",
       "day": "23",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753001516,
@@ -3363,7 +3363,7 @@
       "title": "Halfway Party",
       "day": "23",
       "info": "$8.97",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755302254,
@@ -3378,7 +3378,7 @@
       "title": "UQPS Astrophotography Night",
       "day": "23",
       "info": "$6.36 - $40.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753505080,
@@ -3393,7 +3393,7 @@
       "title": "A Very Big Giant Party",
       "day": "23",
       "info": "$16.81 - $27.26",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754641382,
@@ -3408,7 +3408,7 @@
       "title": "Clubs Exchange 2025",
       "day": "23",
       "info": "$6.36 - $16.81",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754960511,
@@ -3423,7 +3423,7 @@
       "title": "Calile Hotel Tour",
       "day": "26",
       "info": "$0.00 - $6.36",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754917284,
@@ -3438,7 +3438,7 @@
       "title": "'Speechie Sips'",
       "day": "26",
       "info": "$32.48 - $37.71",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754201378,
@@ -3453,7 +3453,7 @@
       "title": "Cheeky Public Speaky: Practice Public Speaking!",
       "day": "26",
       "info": "$0.00 - $6.36",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754830127,
@@ -3468,7 +3468,7 @@
       "title": " UQBA x BANA x UQLIT Tech Panel Innovating Careers",
       "day": "26",
       "info": "$0.00 - $3.62",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755332766,
@@ -3483,7 +3483,7 @@
       "title": "Rhombus AI Workshop ",
       "day": "27",
       "info": "$0.00 - $8.45",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755307716,
@@ -3498,7 +3498,7 @@
       "title": "Diplomacy in 2025",
       "day": "27",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754893295,
@@ -3513,7 +3513,7 @@
       "title": "UQxQUT Biomedical Industry & Research Showcase",
       "day": "27",
       "info": "$0.00 - $15.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755233021,
@@ -3528,7 +3528,7 @@
       "title": "QUEST goes to Byron Bay",
       "day": "29",
       "info": "$205.03",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755041997,
@@ -3543,7 +3543,7 @@
       "title": "Cosmic Renaissance: A 2025 Ball Event",
       "day": "29",
       "info": "$100.40 - $110.85",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755136030,
@@ -3558,7 +3558,7 @@
       "title": "LEARN TO SURF @ Currumbin Alley",
       "day": "30",
       "info": "$32.48 - $63.83",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754221449,
@@ -3573,7 +3573,7 @@
       "title": "InterMSA High Tea",
       "day": "30",
       "info": "$43.00 - $48.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675637,
@@ -3587,7 +3587,7 @@
       "title": "Senior Workshop",
       "day": "30",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755130976,
@@ -3602,7 +3602,7 @@
       "title": "Pancake Manor and Archives Book Store Visit!",
       "day": "30",
       "info": "$6.36",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754464492,
@@ -3617,7 +3617,7 @@
       "title": "Alternate Pathways ",
       "day": "2",
       "info": "$6.36 - $11.59",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755125346,
@@ -3632,7 +3632,7 @@
       "title": "UQCCR x QIMR x TRI Spring Mixer",
       "day": "4",
       "info": "$3.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754005118,
@@ -3647,7 +3647,7 @@
       "title": "Annual Fundraising Gala",
       "day": "5",
       "info": "$84.72 - $116.07",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675661,
@@ -3661,7 +3661,7 @@
       "title": "Senior Workshop",
       "day": "6",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1752935866,
@@ -3676,7 +3676,7 @@
       "title": "QPSA Pharmacy Ball 2025: Alice in Pharmaland",
       "day": "6",
       "info": "$116.07 - $194.43",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754797170,
@@ -3691,7 +3691,7 @@
       "title": "Refugees & Migrants in Australian PHC",
       "day": "9",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755151761,
@@ -3706,7 +3706,7 @@
       "title": "Paeds Networking Night",
       "day": "10",
       "info": "$8.00 - $13.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754797646,
@@ -3721,7 +3721,7 @@
       "title": "WWG In Person Clinic Volunteer Opportunity ",
       "day": "12",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675682,
@@ -3735,7 +3735,7 @@
       "title": "Senior Workshop",
       "day": "13",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755076986,
@@ -3750,7 +3750,7 @@
       "title": "HMNS BALL 2025: Midnight in Monte Carlo",
       "day": "13",
       "info": "$74.28 - $126.52",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753258031,
@@ -3764,7 +3764,7 @@
       "title": " Beginning Workshop",
       "day": "14",
       "info": "$0.00 - $22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675728,
@@ -3778,7 +3778,7 @@
       "title": "Senior Workshop",
       "day": "20",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754977306,
@@ -3790,10 +3790,10 @@
       "destination": "/?eid=38679",
       "societyname": "UQ Chemistry Club",
       "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_593.png",
-      "title": "UQCC Careers and Canapés",
+      "title": "UQCC Careers and Canap\u00e9s",
       "day": "25",
       "info": "Free",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754551116,
@@ -3808,7 +3808,7 @@
       "title": "Last Stop - the 2025 ADP Ball",
       "day": "26",
       "info": "$105.62 - $121.29",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755164904,
@@ -3823,7 +3823,7 @@
       "title": "Honours Night ",
       "day": "26",
       "info": "$0.00 - $11.59",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753910738,
@@ -3838,7 +3838,7 @@
       "title": "2025 HSFK UQ Unjust Enrichment Moot",
       "day": "27",
       "info": "$500.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754279402,
@@ -3853,7 +3853,7 @@
       "title": "Brain Surge: From Synapse to Scalpel",
       "day": "27",
       "info": "$0.00 - $42.93",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675750,
@@ -3867,7 +3867,7 @@
       "title": "Senior Workshop",
       "day": "27",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1747608970,
@@ -3882,7 +3882,7 @@
       "title": "UQBA Annual Business Ball 2025: Timeless",
       "day": "27",
       "info": "$0.00 - $179.47",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755167622,
@@ -3897,7 +3897,7 @@
       "title": "When in Rome: OTSA Ball 2025",
       "day": "28",
       "info": "$116.07 - $152.64",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755300937,
@@ -3912,7 +3912,7 @@
       "title": "UQ Internal Medicine Society Research Roundup",
       "day": "29",
       "info": "$0.00 - $5.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753017236,
@@ -3927,7 +3927,7 @@
       "title": "UQ Taiko 2025 Concert - Kagayaku Tabi",
       "day": "5",
       "info": "$0.00 - $10.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675779,
@@ -3941,7 +3941,7 @@
       "title": "Senior Workshop",
       "day": "11",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1754123097,
@@ -3956,7 +3956,7 @@
       "title": "UQ Dance Ball: Just Dance!",
       "day": "11",
       "info": "$63.83 - $84.72",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675818,
@@ -3970,7 +3970,7 @@
       "title": "Senior Workshop",
       "day": "18",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1755306132,
@@ -3984,7 +3984,7 @@
       "title": "2025 UQSWS x UQPHSA Charity Ball",
       "day": "18",
       "info": "$100.00 - $125.00",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753407195,
@@ -3999,7 +3999,7 @@
       "title": "UQCCJS x CSS | Masquerade Ball",
       "day": "24",
       "info": "$116.07 - $142.19",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675842,
@@ -4013,7 +4013,7 @@
       "title": "Senior Workshop",
       "day": "25",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753258057,
@@ -4027,7 +4027,7 @@
       "title": "Beginning Workshop",
       "day": "26",
       "info": "$0.00 - $22.04",
-      "free_food": false
+      "free_food": "not free"
     },
     {
       "sortindex": 1753675879,
@@ -4041,7 +4041,7 @@
       "title": "Senior Workshop",
       "day": "1",
       "info": "$22.04",
-      "free_food": false
+      "free_food": "not free"
     }
   ],
   "selectedState": "Queensland"

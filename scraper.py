@@ -1,16 +1,22 @@
 import requests
 import json
-from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
+from openai import OpenAI
+import yaml
 
-def has_free_food(description):
-    """Checks if the event description mentions free food."""
-    food_keywords = ["free food", "pizza", "bbq", "snacks", "refreshments", "food provided"]
-    description_lower = description.lower()
-    for keyword in food_keywords:
-        if keyword in description_lower:
-            return True
-    return False
+# Load the API key from the YAML file
+with open("uqlink.yml", 'r') as stream:
+    try:
+        yaml_data = yaml.safe_load(stream)
+        # Ensure that the 'ai_api' key exists and is not empty
+        if 'ai_api' in yaml_data and yaml_data['ai_api']:
+            OPENAI_API_KEY = yaml_data['ai_api']
+        else:
+            raise ValueError("API key not found or is empty in uqlink.yml")
+    except yaml.YAMLError as exc:
+        print(exc)
+        exit()
+
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 headers = {
     'accept': '*/*',
@@ -25,7 +31,7 @@ headers = {
     'sec-fetch-dest': 'empty',
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-site',
-    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+    'user-agent': 'Mozilla/50 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
 }
 
 # EXACT string taken from network request
@@ -43,62 +49,39 @@ except json.JSONDecodeError:
     print(response.text)
     exit()
 
-with open("event_data.json", 'w') as file:
-    file.write(json.dumps(results,indent=2))
-
 events = results.get("results", [])
 print(f"Found {len(events)} events")
 
-with open("results.json", "w") as file:
-    json.dump(events, file, indent=2)
+# Iterate through each event
+for event in events:
+    description = event.get("description", "")
+    if "food" in description.lower():
+        # If "food" is in the description, use the LLM to check if it's free
+        try:
+            chat_completion = client.chat.completions.create(
+                messages=[
+                    {
+                        "role": "user",
+                        "content": f"Does the following event description mention free food? Respond with 'free' or 'not free'.\n\nDescription: {description}",
+                    }
+                ],
+                model="gpt-3.5-turbo",
+            )
+            response_text = chat_completion.choices[0].message.content.strip().lower()
+            if "free" in response_text:
+                event["free_food"] = "free"
+            else:
+                event["free_food"] = "not free"
+        except Exception as e:
+            print(f"An error occurred while communicating with OpenAI: {e}")
+            # Default to "not free" in case of an error
+            event["free_food"] = "not free"
+    else:
+        # If "food" is not in the description, mark as "not free"
+        event["free_food"] = "not free"
 
-free_events = [event for event in events if event.get("info") == "Free"]
+# Save the updated event data to event_data.json
+with open("event_data.json", 'w') as file:
+    json.dump(results, file, indent=2)
 
-food_events = []
-with sync_playwright() as p:
-    browser = p.chromium.launch()
-    page = browser.new_page()
-    for event in free_events:
-        link_extension = event.get("destination")
-        if link_extension:
-            event_url = "https://campus.hellorubric.com" + link_extension
-            try:
-                page.goto(event_url)
-                content = page.content()
-                soup = BeautifulSoup(content, 'html.parser')
-                description_element = soup.find("div", id="eventName2")
-                if description_element:
-                    description = description_element.get_text()
-                    if has_free_food(description):
-                        event["free_food"] = True
-                        food_events.append(event)
-            except Exception as e:
-                print(f"Error fetching event page with playwright: {e}")
-    browser.close()
-
-
-with open("free_events.json", "w") as file:
-    json.dump(food_events, file, indent=2)
-
-with open("pretty_event_data.txt", "w") as file:
-    for event in food_events:
-        title = event.get("title", "No title")
-        month = event.get("month", "No time")
-        day = event.get("day", "no day")
-        societyname = event.get("societyname", "No location")
-        price = event.get("info", "No price found")
-        link_extension = event.get("destination", "No link")
-        
-        print(f"📅 {title}")
-        print(f"   🕒 {month} {day}")
-        print(f"   📍 {societyname}")
-        print(f"   📝 {price}")
-        print(f"   ⛓️‍💥 {'https://campus.hellorubric.com' + link_extension}\n")
-
-        file.write(f"📅 {title}\n")
-        file.write(f"   🕒 {month} {day}\n")
-        file.write(f"   📍 {societyname}\n")
-        file.write(f"   📝 {price}\n")
-        file.write(f"   ⛓️‍💥 {'https://campus.hellorubric.com' + link_extension}\n")
-
-print(f"Found {len(food_events)} free events with food")
+print("Event data has been updated with free food information.")

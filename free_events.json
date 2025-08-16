@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "sortindex": 1755060502,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/4acf951a-093b-4858-ab9c-fa5b48e56393.png",
+    "month": "August",
+    "societyAvgRating": 4.4,
+    "subtitle": "Class/Workshop",
+    "societyid": 2511,
+    "destination": "/?eid=39076",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Da'wah Drilling Workshop",
+    "day": "16",
+    "info": "Free",
+    "has_food": false
+  },
+  {
+    "sortindex": 1754462298,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/946119a2-fa2b-4c79-8255-be7031b78fca.png",
+    "month": "August",
+    "societyAvgRating": 4.9,
+    "subtitle": "Trip/Camp",
+    "societyid": 7257,
+    "destination": "/?eid=38676",
+    "societyname": "Society of Lifesaving",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+    "title": "One With The Outdoors - Mt Coot-tha",
+    "day": "16",
+    "info": "$5.00",
+    "has_food": false
+  },
+  {
+    "sortindex": 1753704855,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/b1e8c951-1fda-4e89-a860-771671b7d636.png",
+    "month": "August",
+    "societyAvgRating": 4.7,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4271,
+    "destination": "/?eid=37498",
+    "societyname": "UQ K-pop Dance Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "ISAC Collab Event",
+    "day": "16",
+    "info": "$9.50",
+    "has_food": true
+  },
+  {
+    "sortindex": 1755295249,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f7ca42b-1049-49ca-9959-4ff891d47893.jpg",
+    "month": "August",
+    "societyAvgRating": 5,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1404,
+    "destination": "/?eid=37329",
+    "societyname": "UQ Singapore Students' Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
+    "title": "Singapore Night Market",
+    "day": "17",
+    "info": "Free",
+    "has_food": true
+  }
+]
