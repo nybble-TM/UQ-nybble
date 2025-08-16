@@ -1,5 +1,16 @@
 import requests
 import json
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
+
+def has_free_food(description):
+    """Checks if the event description mentions free food."""
+    food_keywords = ["free food", "pizza", "bbq", "snacks", "refreshments", "food provided"]
+    description_lower = description.lower()
+    for keyword in food_keywords:
+        if keyword in description_lower:
+            return True
+    return False
 
 headers = {
     'accept': '*/*',
@@ -32,7 +43,6 @@ except json.JSONDecodeError:
     print(response.text)
     exit()
 
-print(json.dumps(results, indent=2))  # <-- Inspect the structure
 with open("event_data.json", 'w') as file:
     file.write(json.dumps(results,indent=2))
 
@@ -43,10 +53,35 @@ with open("results.json", "w") as file:
     json.dump(events, file, indent=2)
 
 free_events = [event for event in events if event.get("info") == "Free"]
-with open("free_events.json", "w") as file:
-    json.dump(free_events, file, indent=2)
-with open("pretty_event_data.txt", "w") as file:
+
+food_events = []
+with sync_playwright() as p:
+    browser = p.chromium.launch()
+    page = browser.new_page()
     for event in free_events:
+        link_extension = event.get("destination")
+        if link_extension:
+            event_url = "https://campus.hellorubric.com" + link_extension
+            try:
+                page.goto(event_url)
+                content = page.content()
+                soup = BeautifulSoup(content, 'html.parser')
+                description_element = soup.find("div", id="eventName2")
+                if description_element:
+                    description = description_element.get_text()
+                    if has_free_food(description):
+                        event["free_food"] = True
+                        food_events.append(event)
+            except Exception as e:
+                print(f"Error fetching event page with playwright: {e}")
+    browser.close()
+
+
+with open("free_events.json", "w") as file:
+    json.dump(food_events, file, indent=2)
+
+with open("pretty_event_data.txt", "w") as file:
+    for event in food_events:
         title = event.get("title", "No title")
         month = event.get("month", "No time")
         day = event.get("day", "no day")
@@ -58,11 +93,12 @@ with open("pretty_event_data.txt", "w") as file:
         print(f"   🕒 {month} {day}")
         print(f"   📍 {societyname}")
         print(f"   📝 {price}")
-        print(f"   ⛓️‍💥 {"https://campus.hellorubric.com" + link_extension}\n")
+        print(f"   ⛓️‍💥 {'https://campus.hellorubric.com' + link_extension}\n")
 
         file.write(f"📅 {title}\n")
         file.write(f"   🕒 {month} {day}\n")
         file.write(f"   📍 {societyname}\n")
         file.write(f"   📝 {price}\n")
-        file.write(f"   ⛓️‍💥 {"https://campus.hellorubric.com" + link_extension}\n")
+        file.write(f"   ⛓️‍💥 {'https://campus.hellorubric.com' + link_extension}\n")
 
+print(f"Found {len(food_events)} free events with food")
