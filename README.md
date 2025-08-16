@@ -1,7 +1,8 @@
 # UQ-nybble
 
 _[NOT AFFILIATED WITH UQ]_  
-A website to find free food on UQ campus
+Welcome all starving uni students.  
+A website to find free events on UQ campus which you may be able to get free food from.
 
 ## Visit Online
 
