@@ -25,7 +25,7 @@
                     <td>{{ event.month }} {{ event.day }}</td>
                     <td>{{ event.societyname }}</td>
                     <td>{{ event.info }}</td>
-                    <td><a href="{{ event.destination }}" target="_blank" class="btn btn-primary btn-sm">View</a></td>
+                    <td><a href="{{ 'https://campus.hellorubric.com' + event.destination }}" target="_blank" class="btn btn-primary btn-sm">View</a></td>
                 </tr>
                 {% endfor %}
             </tbody>
