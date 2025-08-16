@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hackathon Events</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; }
+        th { background-color: #f4f4f4; }
+        tr:hover { background-color: #f9f9f9; }
+        a { text-decoration: none; color: blue; }
+    </style>
+</head>
+<body>
+    <h1>Upcoming Events</h1>
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Society</th>
+            <th>Info</th>
+            <th>Link</th>
+        </tr>
+        {% for event in events %}
+        <tr>
+            <td>{{ event.title }}</td>
+            <td>{{ event.month }} {{ event.day }}</td>
+            <td>{{ event.societyname }}</td>
+            <td>{{ event.info }}</td>
+            <td><a href="{{ event.destination }}" target="_blank">View</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
