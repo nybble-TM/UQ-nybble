@@ -23,7 +23,7 @@ data = {
     'endpoint': 'getUnifiedSearch',
 }
 
-response = requests.post('https://api.hellorubric.com/', headers=headers, data=data)
+response = requests.post('https://api.hellorubric.com/', headers=headers, data=data) 
 
 try:
     results = response.json()
@@ -58,11 +58,11 @@ with open("pretty_event_data.txt", "w") as file:
         print(f"   🕒 {month} {day}")
         print(f"   📍 {societyname}")
         print(f"   📝 {price}")
-        print(f"   ⛓️‍💥 {"https://campus.hellorubric.com" + link_extension}\n")
+        print(f"   ⛓️‍💥 {'https://campus.hellorubric.com' + link_extension}\n")
 
         file.write(f"📅 {title}\n")
         file.write(f"   🕒 {month} {day}\n")
         file.write(f"   📍 {societyname}\n")
         file.write(f"   📝 {price}\n")
-        file.write(f"   ⛓️‍💥 {"https://campus.hellorubric.com" + link_extension}\n")
+        file.write(f"   ⛓️‍💥 {'https://campus.hellorubric.com' + link_extension}\n")
 
