@@ -43,6 +43,8 @@ with open("results.json", "w") as file:
     json.dump(events, file, indent=2)
 
 free_events = [event for event in events if event.get("info") == "Free"]
+with open("free_events.json", "w") as file:
+    json.dump(free_events, file, indent=2)
 with open("pretty_event_data.txt", "w") as file:
     for event in free_events:
         title = event.get("title", "No title")
