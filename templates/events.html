@@ -2,34 +2,35 @@
 <html>
 <head>
     <title>Hackathon Events</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        table { border-collapse: collapse; width: 100%; }
-        th, td { border: 1px solid #ddd; padding: 8px; }
-        th { background-color: #f4f4f4; }
-        tr:hover { background-color: #f9f9f9; }
-        a { text-decoration: none; color: blue; }
-    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <h1>Upcoming Events</h1>
-    <table>
-        <tr>
-            <th>Title</th>
-            <th>Date</th>
-            <th>Society</th>
-            <th>Info</th>
-            <th>Link</th>
-        </tr>
-        {% for event in events %}
-        <tr>
-            <td>{{ event.title }}</td>
-            <td>{{ event.month }} {{ event.day }}</td>
-            <td>{{ event.societyname }}</td>
-            <td>{{ event.info }}</td>
-            <td><a href="{{ event.destination }}" target="_blank">View</a></td>
-        </tr>
-        {% endfor %}
-    </table>
+    <div class="container mt-4">
+    <h1 class="mb-4">Upcoming Events</h1>
+    <div class="table-responsive">
+        <table class="table table-striped table-hover table-bordered align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>Title</th>
+                    <th>Date</th>
+                    <th>Society</th>
+                    <th>Info</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for event in events %}
+                <tr>
+                    <td>{{ event.title }}</td>
+                    <td>{{ event.month }} {{ event.day }}</td>
+                    <td>{{ event.societyname }}</td>
+                    <td>{{ event.info }}</td>
+                    <td><a href="{{ event.destination }}" target="_blank" class="btn btn-primary btn-sm">View</a></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
 </body>
 </html>
