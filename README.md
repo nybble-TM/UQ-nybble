@@ -1,5 +1,6 @@
 # UQ-nybble
 
+![UQ Nybble](./assets/logo.png)
 _[NOT AFFILIATED WITH UQ]_  
 Welcome all starving uni students.  
 A website to find free events on UQ campus which you may be able to get free food from.
