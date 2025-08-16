@@ -19,7 +19,7 @@ headers = {
 
 # EXACT string taken from network request
 data = {
-    'details': '{"firstCall":true,"sortType":"date","desiredType":"events","limit":100,"offset":0,"sortDirection":"asc","searchQuery":"","eventsPeriodFilter":"All","countryCode":"AU","state":"Queensland","selectedUniversityId":"12","currentUrl":"https://campus.hellorubric.com/search?country=AU&state=Queensland&universityid=12&type=events","device":"web_portal","version":4}',
+    'details': '{"firstCall":true,"sortType":"date","desiredType":"events","limit":200,"offset":0,"sortDirection":"asc","searchQuery":"","eventsPeriodFilter":"All","countryCode":"AU","state":"Queensland","selectedUniversityId":"12","currentUrl":"https://campus.hellorubric.com/search?country=AU&state=Queensland&universityid=12&type=events","device":"web_portal","version":4}',
     'endpoint': 'getUnifiedSearch',
 }
 
