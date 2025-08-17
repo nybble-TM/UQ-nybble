@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+"""
+Food Detection Script for UQ Events
+
+This script analyzes event titles and descriptions to detect if food/drinks are provided.
+It reads events from free_events.json, uses OpenAI API to analyze each event,
+and updates the JSON file with a "has_food" boolean field.
+
+Usage: python food_detector.py
+"""
+
 import json
 import os
 import yaml
@@ -15,12 +25,20 @@ logger = logging.getLogger(__name__)
 
 class FoodDetector:
     def __init__(self, config_path: str = "uqlink.yml", events_path: str = "event_data.json"):
+        """
+        Initialize the FoodDetector with configuration and events file paths.
+        
+        Args:
+            config_path: Path to YAML config file containing OpenAI API key
+            events_path: Path to JSON file containing events data
+        """
         self.config_path = config_path
         self.events_path = events_path
         self.client = None
         self._load_config()
         
     def _load_config(self):
+        """Load configuration from YAML file and initialize OpenAI client."""
         try:
             with open(self.config_path, 'r') as f:
                 config = yaml.safe_load(f)
@@ -28,6 +46,7 @@ class FoodDetector:
             api_key = config.get('ai_api')
             if not api_key:
                 raise ValueError("No 'ai_api' key found in config file")
+            
                 
             self.client = OpenAI(api_key=api_key)
             logger.info("OpenAI client initialized successfully")
@@ -40,24 +59,34 @@ class FoodDetector:
             raise
     
     def _analyze_event_for_food(self, event: Dict[str, Any]) -> bool:
+        """
+        Analyze a single event to determine if it offers food/drinks.
         
+        Args:
+            event: Event dictionary containing title and other details
+            
+        Returns:
+            bool: True if event likely offers food/drinks, False otherwise
+        """
+        # Extract relevant text from event
         title = event.get('title', '')
         subtitle = event.get('subtitle', '')
         society_name = event.get('societyname', '')
         
-       
+        # Combine text for analysis
         event_text = f"{title} {subtitle} {society_name}".strip()
         
         if not event_text:
             logger.warning("Empty event text, defaulting to False")
             return False
         
-        
+        # Create concise prompt for OpenAI
         prompt = f"Does this event offer free food or drinks to attendees? Event: {event_text[:200]}. Answer only 'true' or 'false'."
+        
         
         try:
             response = self.client.chat.completions.create(
-                model="gpt-5",
+                model="gpt-3.5-turbo",
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant that determines if events offer food or drinks. Answer only 'true' or 'false'."},
                     {"role": "user", "content": prompt}
@@ -82,6 +111,12 @@ class FoodDetector:
             return False
     
     def load_events(self) -> tuple:
+        """
+        Load events from JSON file.
+        
+        Returns:
+            Tuple of (full_data_dict, events_list)
+        """
         try:
             with open(self.events_path, 'r') as f:
                 full_data = json.load(f)
@@ -107,6 +142,13 @@ class FoodDetector:
             return {}, []
     
     def save_events(self, full_data: Dict[str, Any], events: List[Dict[str, Any]]):
+        """
+        Save events back to JSON file, preserving the full data structure.
+        
+        Args:
+            full_data: Complete data dictionary containing all metadata
+            events: List of updated event dictionaries
+        """
         try:
             # Create backup
             backup_path = f"{self.events_path}.backup"
@@ -115,7 +157,7 @@ class FoodDetector:
                     dst.write(src.read())
                 logger.info(f"Created backup at {backup_path}")
             
-            
+            # Update the results array in the full data structure
             full_data['results'] = events
             
             # Save updated full data
@@ -129,9 +171,12 @@ class FoodDetector:
             raise
     
     def process_events(self):
+        """
+        Main processing function: load events, analyze for food, and save results.
+        """
         logger.info("Starting food detection process...")
         
-       
+        # Load events
         full_data, events = self.load_events()
         if not events:
             logger.error("No events to process")
@@ -143,15 +188,16 @@ class FoodDetector:
         
         for i, event in enumerate(events):
             try:
-            
+                # Check if already processed with boolean free_food field
                 if 'free_food' in event and isinstance(event['free_food'], bool):
+                    print("working")
                     logger.debug(f"Event {i+1} already processed, skipping")
                     if event['free_food']:
                         food_count += 1
                     processed_count += 1
                     continue
                 
-                
+                # Analyze event for food
                 has_food = self._analyze_event_for_food(event)
                 event['free_food'] = has_food  # Use boolean instead of string
                 
@@ -163,17 +209,17 @@ class FoodDetector:
                 
                 processed_count += 1
                 
-            
+                # Progress update every 10 events
                 if processed_count % 10 == 0:
                     logger.info(f"Processed {processed_count}/{len(events)} events...")
                     
             except Exception as e:
                 logger.error(f"Error processing event {i+1}: {e}")
-                
+                # Set default value on error
                 event['free_food'] = False
                 processed_count += 1
         
-        # Savethose fricking results
+        # Save results
         self.save_events(full_data, events)
         
         # Summary
@@ -186,8 +232,10 @@ class FoodDetector:
 def main():
     """Main entry point for the script."""
     try:
+        # Initialize detector
         detector = FoodDetector()
-    
+        
+        # Process events
         detector.process_events()
         
         print("Food detection completed successfully!")

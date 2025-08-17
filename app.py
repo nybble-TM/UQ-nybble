@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+"""
+Flask Web Application for UQ Events with Food Detection
+
+This application displays all events (both free and paid) from event_data.json
+and shows food indicators for events that have been analyzed by the food detector.
+
+Usage: python app.py
+"""
 
 import json
 import logging
@@ -15,6 +23,12 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 
 def load_events() -> List[Dict[str, Any]]:
+    """
+    Load events from event_data.json file.
+    
+    Returns:
+        List of event dictionaries from the results array
+    """
     try:
         with open('event_data.json', 'r') as f:
             data = json.load(f)
@@ -40,6 +54,9 @@ def load_events() -> List[Dict[str, Any]]:
 
 @app.route('/')
 def index():
+    """
+    Main route that displays all events with food indicators.
+    """
     try:
         # Load all events
         events = load_events()
@@ -64,6 +81,9 @@ def index():
 
 @app.route('/food-events')
 def food_events():
+    """
+    Route that displays only events with free food.
+    """
     try:
         # Load all events
         all_events = load_events()
@@ -84,6 +104,9 @@ def food_events():
 
 @app.route('/stats')
 def stats():
+    """
+    Route that displays statistics about events and food detection.
+    """
     try:
         events = load_events()
         

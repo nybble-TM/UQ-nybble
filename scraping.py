@@ -55,30 +55,34 @@ print(f"Found {len(events)} events")
 # Iterate through each event
 for event in events:
     description = event.get("description", "")
-    if "food" in description.lower():
         # If "food" is in the description, use the LLM to check if it's free
-        try:
-            chat_completion = client.chat.completions.create(
-                messages=[
-                    {
-                        "role": "user",
-                        "content": f"Does the following event description mention free food? Respond with 'free' or 'not free'.\n\nDescription: {description}",
-                    }
-                ],
-                model="gpt-3.5-turbo",
-            )
-            response_text = chat_completion.choices[0].message.content.strip().lower()
-            if "free" in response_text:
-                event["free_food"] = "free"
-            else:
-                event["free_food"] = "not free"
-        except Exception as e:
-            print(f"An error occurred while communicating with OpenAI: {e}")
-            # Default to "not free" in case of an error
+    try:
+        chat_completion = client.chat.completions.create(
+        messages=[
+            {
+                "role": "user",
+                "content": (
+                    f"Does the following event description mention free food? "
+                    f"Respond with only 'true' or 'false'. "
+                    f"No other words.\n\nDescription: {description}"
+                ),
+            }
+            ],
+            model="gpt-3.5-turbo",
+        )
+
+        response_text = chat_completion.choices[0].message.content.strip().lower()
+
+        print(response_text)
+        if "free" in response_text:
+            event["free_food"] = "free"
+        else:
             event["free_food"] = "not free"
-    else:
-        # If "food" is not in the description, mark as "not free"
+    except Exception as e:
+        print(f"An error occurred while communicating with OpenAI: {e}")
+        # Default to "not free" in case of an error
         event["free_food"] = "not free"
+
 
 # Save the updated event data to event_data.json
 with open("event_data.json", 'w') as file:
