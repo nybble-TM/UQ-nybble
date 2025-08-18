@@ -6,7 +6,6 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
-    "Quiz/Trivia",
     "Trip/Camp"
   ],
   "selectedEventsPeriodFilter": "All",
@@ -300,7 +299,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 65,
+  "totalItemCount": 66,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2965,46 +2964,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1754264737,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/1bc32ce0-7d44-4e4b-a1c9-1c1cff222884.png",
-      "month": "August",
-      "subtitle": "Trip/Camp",
-      "societyid": 2257,
-      "destination": "/?eid=38105",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
-      "title": "Gaia's Serenity Sanctuary Visit",
-      "day": "17",
-      "info": "$0.00 - $15.00"
-    },
-    {
-      "sortindex": 1755331528,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/e79df5bb-539b-46ad-b64d-3a4b679e0a81.jpeg",
-      "month": "August",
-      "subtitle": "Other",
-      "societyid": 8995,
-      "destination": "/?eid=38552",
-      "societyname": "University of Queensland Golf Club (UQGC)",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/484cbc2d-82cd-4d64-95c0-13bc70cef18f.png",
-      "title": "Indoor Golf in Milton ",
-      "day": "17",
-      "info": "$40.32"
-    },
-    {
-      "sortindex": 1754362036,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/ef430de9-cb68-4e6f-a6a0-1d1b72b121c7.png",
-      "month": "August",
-      "societyAvgRating": 4.5,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 2517,
-      "destination": "/?eid=37958",
-      "societyname": "UQ Cheer and Dance Club",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2517.png",
-      "title": "Trivia Night",
-      "day": "17",
-      "info": "$22.04 - $32.48"
-    },
-    {
       "sortindex": 1754999261,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/0ec212ed-a3c0-4663-9a7b-aceb476a8f24.jpg",
       "month": "August",
@@ -3019,7 +2978,7 @@
       "info": "Free"
     },
     {
-      "sortindex": 1755121602,
+      "sortindex": 1755427718,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/1667882b-dda2-442f-aad3-8dee965e4177.png",
       "month": "August",
       "societyAvgRating": 4.6,
@@ -3075,7 +3034,7 @@
       "info": "$0.00 - $16.81"
     },
     {
-      "sortindex": 1754392948,
+      "sortindex": 1755424470,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/d110355e-a5c7-4231-a92b-c77eacf837c3.png",
       "month": "August",
       "societyAvgRating": 4.7,
@@ -3131,7 +3090,7 @@
       "info": "Free"
     },
     {
-      "sortindex": 1754628908,
+      "sortindex": 1755474111,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/07e800c3-6bd6-47bc-8c28-58dee0e3b394.png",
       "month": "August",
       "societyAvgRating": 4.5,
@@ -3145,7 +3104,7 @@
       "info": "$37.71 - $74.28"
     },
     {
-      "sortindex": 1755090044,
+      "sortindex": 1755429570,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/67245b22-b6d2-4dca-91ab-f4b508dbe46b.jpg",
       "month": "August",
       "societyAvgRating": 4.7,
@@ -3287,7 +3246,7 @@
       "sortindex": 1754201378,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/165e60f6-2a69-4fb7-a06f-a46a905ca3d4.png",
       "month": "August",
-      "societyAvgRating": 4.4,
+      "societyAvgRating": 4.5,
       "subtitle": "Class/Workshop",
       "societyid": 1835,
       "destination": "/?eid=38111",
@@ -3437,6 +3396,20 @@
       "info": "$6.36"
     },
     {
+      "sortindex": 1755473777,
+      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_14.png",
+      "month": "September",
+      "societyAvgRating": 4,
+      "subtitle": "Other",
+      "societyid": 9955,
+      "destination": "/?eid=38803",
+      "societyname": "University of Queensland Pathology Interest Group",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/5f9db764-069a-4497-9922-64a59ce172b3.png",
+      "title": "GI Radiology Symposium",
+      "day": "2",
+      "info": "$4.00"
+    },
+    {
       "sortindex": 1754464492,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/941186b0-779f-4886-8cce-92b115fbbb4c.jpg",
       "month": "September",
@@ -3463,6 +3436,20 @@
       "title": "UQCCR x QIMR x TRI Spring Mixer",
       "day": "4",
       "info": "$3.00"
+    },
+    {
+      "sortindex": 1755435036,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4acb24b5-ae04-4e09-911f-aa11b68f372f.png",
+      "month": "September",
+      "societyAvgRating": 4.7,
+      "subtitle": "Trip/Camp",
+      "societyid": 614,
+      "destination": "/?eid=39288",
+      "societyname": "UQ Beach Volleyball Club",
+      "societylogo": "https://resources.hellorubric.com/images/639fc8b3c4017_.png",
+      "title": "UQBVC Noosa Trip 2025",
+      "day": "5",
+      "info": "$95.17 - $183.98"
     },
     {
       "sortindex": 1754005118,
@@ -3532,6 +3519,20 @@
       "title": "Paeds Networking Night",
       "day": "10",
       "info": "$8.00 - $13.00"
+    },
+    {
+      "sortindex": 1755414486,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/ffe8f77a-089f-4603-85ab-4bd63978d25a.png",
+      "month": "September",
+      "societyAvgRating": 4.6,
+      "subtitle": "Industry/Career",
+      "societyid": 165,
+      "destination": "/?eid=39280",
+      "societyname": "UQBA - UQ Business Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
+      "title": "UQBA Women in Business Breakfast and Panel 2025",
+      "day": "11",
+      "info": "$36.33"
     },
     {
       "sortindex": 1754797646,
@@ -3779,6 +3780,20 @@
       "title": "UQ Dance Ball: Just Dance!",
       "day": "11",
       "info": "$63.83 - $84.72"
+    },
+    {
+      "sortindex": 1755473746,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/388dcbff-4dee-4448-abcc-d8044491ddd3.png",
+      "month": "October",
+      "societyAvgRating": 4.4,
+      "subtitle": "Industry/Career",
+      "societyid": 1857,
+      "destination": "/?eid=39306",
+      "societyname": "UQ Psychology Students Association",
+      "societylogo": "https://resources.hellorubric.com/images/63da1539b7b87_.png",
+      "title": "INDUSTRY NIGHT 2025",
+      "day": "17",
+      "info": "$5.66 - $15.89"
     },
     {
       "sortindex": 1753675818,
