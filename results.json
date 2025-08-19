@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1754999261,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0ec212ed-a3c0-4663-9a7b-aceb476a8f24.jpg",
-    "month": "August",
-    "societyAvgRating": 4.4,
-    "subtitle": "Other",
-    "societyid": 2511,
-    "destination": "/?eid=38972",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Sisters Suhbah: Reflections on Surah Yusuf ",
-    "day": "18",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1755427718,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1667882b-dda2-442f-aad3-8dee965e4177.png",
-    "month": "August",
-    "societyAvgRating": 4.6,
-    "subtitle": "Other",
-    "societyid": 3147,
-    "destination": "/?eid=37672",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-    "title": "STEM Forward",
-    "day": "18",
-    "info": "Free"
-  },
-  {
     "sortindex": 1755133708,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/c8e4c925-5c5c-4299-99b4-5078d2ecae63.jpg",
     "month": "August",
@@ -126,7 +98,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1755474111,
+    "sortindex": 1755500306,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/07e800c3-6bd6-47bc-8c28-58dee0e3b394.png",
     "month": "August",
     "societyAvgRating": 4.5,
@@ -166,20 +138,6 @@
     "title": "Karawatha forest cultural hike",
     "day": "23",
     "info": "Free"
-  },
-  {
-    "sortindex": 1755321145,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/66c02463-2f7b-46b1-bcf0-9152a19d1fe3.png",
-    "month": "August",
-    "societyAvgRating": 4.4,
-    "subtitle": "Other",
-    "societyid": 2395,
-    "destination": "/?eid=39170",
-    "societyname": "Gatton International Student Association",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2395.png",
-    "title": "Potluck and Movie",
-    "day": "23",
-    "info": "$0.00 - $6.36"
   },
   {
     "sortindex": 1753675593,
@@ -349,7 +307,21 @@
     "info": "$0.00 - $15.00"
   },
   {
-    "sortindex": 1755233021,
+    "sortindex": 1755487367,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/e286eb86-0f21-460d-b791-ae203bcffcd4.png",
+    "month": "August",
+    "societyAvgRating": 4.6,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 648,
+    "destination": "/?eid=39322",
+    "societyname": "UQ Sri Lankan Association",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_648.png",
+    "title": "Trivia Night ",
+    "day": "28",
+    "info": "$0.00 - $10.77"
+  },
+  {
+    "sortindex": 1755480628,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/a6cb7807-a615-4d55-95c0-f02948916b20.jpg",
     "month": "August",
     "societyAvgRating": 4.5,
@@ -363,7 +335,7 @@
     "info": "$205.03"
   },
   {
-    "sortindex": 1755041997,
+    "sortindex": 1755512677,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/a4f58713-fcca-4490-a27a-4a814340c1d8.png",
     "month": "August",
     "societyAvgRating": 4.6,
@@ -374,7 +346,7 @@
     "societylogo": "https://resources.hellorubric.com/images/65ce9c62d21e6_.png",
     "title": "Cosmic Renaissance: A 2025 Ball Event",
     "day": "29",
-    "info": "$100.40 - $110.85"
+    "info": "$110.85 - $120.04"
   },
   {
     "sortindex": 1755136030,
@@ -405,6 +377,20 @@
     "info": "$43.00 - $48.00"
   },
   {
+    "sortindex": 1755562238,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/66c02463-2f7b-46b1-bcf0-9152a19d1fe3.png",
+    "month": "August",
+    "societyAvgRating": 4.4,
+    "subtitle": "Other",
+    "societyid": 2395,
+    "destination": "/?eid=39170",
+    "societyname": "Gatton International Student Association",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2395.png",
+    "title": "Potluck and Movie",
+    "day": "30",
+    "info": "$0.00 - $6.36"
+  },
+  {
     "sortindex": 1753675637,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_12.png",
     "month": "August",
@@ -432,8 +418,8 @@
     "info": "$6.36"
   },
   {
-    "sortindex": 1755473777,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_14.png",
+    "sortindex": 1755487016,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/88f12fef-c0e0-4958-9c46-8b1dd8b61d02.png",
     "month": "September",
     "societyAvgRating": 4,
     "subtitle": "Other",
@@ -460,7 +446,7 @@
     "info": "$6.36 - $11.59"
   },
   {
-    "sortindex": 1755125346,
+    "sortindex": 1755497824,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/44fb3ea8-ad7e-44d2-b065-cdc97d44c630.png",
     "month": "September",
     "societyAvgRating": 4.8,
@@ -652,6 +638,20 @@
     "info": "$22.04"
   },
   {
+    "sortindex": 1755489581,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/48d40bc7-22ae-4cd7-bb81-70f85d038603.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Industry/Career",
+    "societyid": 339,
+    "destination": "/?eid=37362",
+    "societyname": "UQ HMNS Student Society",
+    "societylogo": "https://resources.hellorubric.com/images/64586f6e7688b_.png",
+    "title": "HMNS Careers and Networking Night Sem 2",
+    "day": "24",
+    "info": "$6.36 - $8.98"
+  },
+  {
     "sortindex": 1754977306,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
     "month": "September",
@@ -666,7 +666,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1754551116,
+    "sortindex": 1755502220,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/43087523-6644-4dc2-907a-228385b84e30.png",
     "month": "September",
     "societyAvgRating": 4.5,
@@ -677,7 +677,7 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
     "title": "Last Stop - the 2025 ADP Ball",
     "day": "26",
-    "info": "$105.62 - $121.29"
+    "info": "$105.62 - $126.52"
   },
   {
     "sortindex": 1755164904,
