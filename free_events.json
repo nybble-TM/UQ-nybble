@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1755424470,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/d110355e-a5c7-4231-a92b-c77eacf837c3.png",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 547,
-    "destination": "/?eid=38648",
-    "societyname": "UQ Geography and Environmental Management Society",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_547.png",
-    "title": "Tier 1 Industry Feature Night",
-    "day": "20",
-    "info": "Free"
-  },
-  {
     "sortindex": 1755245898,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/6c1e12f8-71a1-4115-9271-c84cfb4dcaf1.jpg",
     "month": "August",
@@ -56,20 +42,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1755307716,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ac2a0fb2-5c7f-4e85-bd55-180b4afba3c0.jpeg",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 4848,
-    "destination": "/?eid=39249",
-    "societyname": "Justice and the Law Society",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4848.png",
-    "title": "Diplomacy in 2025",
-    "day": "27",
-    "info": "Free"
-  },
-  {
     "sortindex": 1755598386,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1d8cbf61-3f95-4d4b-8317-ede46e7ab8a5.jpg",
     "month": "August",
@@ -95,6 +67,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2305.png",
     "title": "Refugees & Migrants in Australian PHC",
     "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1755685992,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/3cd7fe98-c501-4c73-a583-cbd669f692fe.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 4848,
+    "destination": "/?eid=39249",
+    "societyname": "Justice and the Law Society",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4848.png",
+    "title": "Diplomacy in 2025",
+    "day": "10",
     "info": "Free"
   },
   {

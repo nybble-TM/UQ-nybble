@@ -1,61 +1,5 @@
 [
   {
-    "sortindex": 1754016526,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/33ac1b5c-da35-4748-9c56-87fb8318fa2d.jpg",
-    "month": "August",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 5398,
-    "destination": "/?eid=38452",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/689534a2-d729-4776-a964-43ba7248f792.png",
-    "title": "Park Yoga",
-    "day": "20",
-    "info": "$0.00 - $11.59"
-  },
-  {
-    "sortindex": 1755176428,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/9019108c-6a8c-446f-9c9b-5df58d77aec5.png",
-    "month": "August",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 3932,
-    "destination": "/?eid=38290",
-    "societyname": "Queensland Pharmacy Students' Association",
-    "societylogo": "https://resources.hellorubric.com/images/65c1cb06e6124_.png",
-    "title": "Vaping and Smoking Cessation - Queensland Health",
-    "day": "20",
-    "info": "$0.00 - $16.81"
-  },
-  {
-    "sortindex": 1755424470,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/d110355e-a5c7-4231-a92b-c77eacf837c3.png",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 547,
-    "destination": "/?eid=38648",
-    "societyname": "UQ Geography and Environmental Management Society",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_547.png",
-    "title": "Tier 1 Industry Feature Night",
-    "day": "20",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1753939290,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_4.png",
-    "month": "August",
-    "societyAvgRating": 4.6,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1547,
-    "destination": "/?eid=38415",
-    "societyname": "UQ Science Students Society",
-    "societylogo": "https://resources.hellorubric.com/images/656bd0e67611d_.png",
-    "title": "SSS Trivia Night Sem 2",
-    "day": "20",
-    "info": "$6.36 - $16.81"
-  },
-  {
     "sortindex": 1755587876,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1b89e3c1-17b5-45e8-bd7c-c55d253a377c.jpg",
     "month": "August",
@@ -164,7 +108,7 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
     "title": "UQPS Astrophotography Night",
     "day": "23",
-    "info": "$6.36 - $40.00"
+    "info": "$6.36 - $37.71"
   },
   {
     "sortindex": 1753505080,
@@ -209,20 +153,6 @@
     "info": "$0.00 - $6.36"
   },
   {
-    "sortindex": 1754917284,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/9694591d-c695-4cdc-9307-28b567e499d0.PNG",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 1816,
-    "destination": "/?eid=37924",
-    "societyname": "UQ Speech Pathology and Audiology Student's Association",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1816.png",
-    "title": "'Speechie Sips'",
-    "day": "26",
-    "info": "$32.48 - $37.71"
-  },
-  {
     "sortindex": 1754201378,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/165e60f6-2a69-4fb7-a06f-a46a905ca3d4.png",
     "month": "August",
@@ -235,6 +165,20 @@
     "title": "Cheeky Public Speaky: Practice Public Speaking!",
     "day": "26",
     "info": "$0.00 - $6.36"
+  },
+  {
+    "sortindex": 1754917284,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/9694591d-c695-4cdc-9307-28b567e499d0.PNG",
+    "month": "August",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 1816,
+    "destination": "/?eid=37924",
+    "societyname": "UQ Speech Pathology and Audiology Student's Association",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1816.png",
+    "title": "'Speechie Sips'",
+    "day": "26",
+    "info": "$32.48 - $37.71"
   },
   {
     "sortindex": 1755590724,
@@ -265,6 +209,20 @@
     "info": "$0.00 - $3.62"
   },
   {
+    "sortindex": 1755688016,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/8ef81e24-0a6d-4e25-b8d6-5a0819d0fe6e.png",
+    "month": "August",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 3932,
+    "destination": "/?eid=38291",
+    "societyname": "Queensland Pharmacy Students' Association",
+    "societylogo": "https://resources.hellorubric.com/images/65c1cb06e6124_.png",
+    "title": "Holistic Care with WholeLife Pharmacy",
+    "day": "27",
+    "info": "$0.00 - $16.81"
+  },
+  {
     "sortindex": 1755332766,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/f64b9a86-197a-4712-9a4e-2cca0288d1b2.png",
     "month": "August",
@@ -279,21 +237,7 @@
     "info": "$0.00 - $8.45"
   },
   {
-    "sortindex": 1755307716,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ac2a0fb2-5c7f-4e85-bd55-180b4afba3c0.jpeg",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 4848,
-    "destination": "/?eid=39249",
-    "societyname": "Justice and the Law Society",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4848.png",
-    "title": "Diplomacy in 2025",
-    "day": "27",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1754893295,
+    "sortindex": 1755668884,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1c421f48-fae2-4706-ad98-83a35281bed4.png",
     "month": "August",
     "societyAvgRating": 4.9,
@@ -349,6 +293,20 @@
     "info": "$205.03"
   },
   {
+    "sortindex": 1755687911,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a18cc039-5d9a-4ce0-8206-0ca3dbcc95e2.png",
+    "month": "August",
+    "societyAvgRating": 4.5,
+    "subtitle": "Other",
+    "societyid": 1835,
+    "destination": "/?eid=39463",
+    "societyname": "Public Health Association University of Queensland",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1835.png",
+    "title": "UQPHA Tote-Bag Painting",
+    "day": "29",
+    "info": "$6.36"
+  },
+  {
     "sortindex": 1755512677,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/a4f58713-fcca-4490-a27a-4a814340c1d8.png",
     "month": "August",
@@ -391,8 +349,8 @@
     "info": "$43.00 - $48.00"
   },
   {
-    "sortindex": 1755562238,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/66c02463-2f7b-46b1-bcf0-9152a19d1fe3.png",
+    "sortindex": 1755682911,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/888bbd51-adfe-4341-b9bc-c8501614df2d.png",
     "month": "August",
     "societyAvgRating": 4.4,
     "subtitle": "Other",
@@ -488,7 +446,7 @@
     "info": "$3.00"
   },
   {
-    "sortindex": 1755576620,
+    "sortindex": 1755657396,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/aa78d092-5aa9-4770-bbd2-48ed3e4643ae.jpg",
     "month": "September",
     "societyAvgRating": 4.5,
@@ -583,6 +541,20 @@
     "title": "Paeds Networking Night",
     "day": "10",
     "info": "$6.00 - $13.00"
+  },
+  {
+    "sortindex": 1755685992,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/3cd7fe98-c501-4c73-a583-cbd669f692fe.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 4848,
+    "destination": "/?eid=39249",
+    "societyname": "Justice and the Law Society",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4848.png",
+    "title": "Diplomacy in 2025",
+    "day": "10",
+    "info": "Free"
   },
   {
     "sortindex": 1755578867,
@@ -791,7 +763,7 @@
     "info": "$0.00 - $179.47"
   },
   {
-    "sortindex": 1755167622,
+    "sortindex": 1755686131,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/888a5935-c6d7-4933-be4d-899653f88893.png",
     "month": "September",
     "societyAvgRating": 4.6,
