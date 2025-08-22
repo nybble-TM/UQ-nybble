@@ -28,6 +28,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1755742990,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/e34969ae-c03c-45b6-8987-da2a4bf65c7b.png",
+    "month": "August",
+    "societyAvgRating": 4.8,
+    "subtitle": "Industry/Career",
+    "societyid": 8835,
+    "destination": "/?eid=39519",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "UQCCR Lab Tour",
+    "day": "26",
+    "info": "Free"
+  },
+  {
     "sortindex": 1755590724,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/42435423-1779-4aaf-9ac8-b7d5547bbbd8.png",
     "month": "August",
@@ -53,6 +67,20 @@
     "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
     "title": "STEM Alternative Pathways Evening",
     "day": "28",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1755741913,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/90e8d670-cb71-444c-99ff-f13b4dd721f5.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3855,
+    "destination": "/?eid=39515",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Pilates & Coffee Morning",
+    "day": "3",
     "info": "Free"
   },
   {
@@ -84,7 +112,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1754797646,
+    "sortindex": 1755761470,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_17.png",
     "month": "September",
     "societyAvgRating": 5,
