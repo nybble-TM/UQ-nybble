@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1755587876,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1b89e3c1-17b5-45e8-bd7c-c55d253a377c.jpg",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Class/Workshop",
-    "societyid": 4430,
-    "destination": "/?eid=35383",
-    "societyname": "Handcraft & Art Club",
-    "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
-    "title": "Candle Making Workshop",
-    "day": "22",
-    "info": "$45.00 - $65.00"
-  },
-  {
-    "sortindex": 1755245898,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6c1e12f8-71a1-4115-9271-c84cfb4dcaf1.jpg",
-    "month": "August",
-    "societyAvgRating": 4.4,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2511,
-    "destination": "/?eid=39231",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Brothers Birr: Games Night",
-    "day": "22",
-    "info": "Free"
-  },
-  {
     "sortindex": 1755500306,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/07e800c3-6bd6-47bc-8c28-58dee0e3b394.png",
     "month": "August",
@@ -139,20 +111,6 @@
     "info": "$6.36 - $16.81"
   },
   {
-    "sortindex": 1754960511,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/e4f0dcad-e7c6-4bdf-8387-f6efd6ff88f3.png",
-    "month": "August",
-    "societyAvgRating": 4.6,
-    "subtitle": "Industry/Career",
-    "societyid": 377,
-    "destination": "/?eid=38981",
-    "societyname": "UQ Tourism, Hospitality & Events Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b5607b9e-f315-41c3-9754-143a82d6d2fe.png",
-    "title": "Calile Hotel Tour",
-    "day": "26",
-    "info": "$0.00 - $6.36"
-  },
-  {
     "sortindex": 1755742990,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/e34969ae-c03c-45b6-8987-da2a4bf65c7b.png",
     "month": "August",
@@ -167,16 +125,16 @@
     "info": "Free"
   },
   {
-    "sortindex": 1754201378,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/165e60f6-2a69-4fb7-a06f-a46a905ca3d4.png",
+    "sortindex": 1754960511,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/e4f0dcad-e7c6-4bdf-8387-f6efd6ff88f3.png",
     "month": "August",
-    "societyAvgRating": 4.5,
-    "subtitle": "Class/Workshop",
-    "societyid": 1835,
-    "destination": "/?eid=38111",
-    "societyname": "Public Health Association University of Queensland",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1835.png",
-    "title": "Cheeky Public Speaky: Practice Public Speaking!",
+    "societyAvgRating": 4.6,
+    "subtitle": "Industry/Career",
+    "societyid": 377,
+    "destination": "/?eid=38981",
+    "societyname": "UQ Tourism, Hospitality & Events Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b5607b9e-f315-41c3-9754-143a82d6d2fe.png",
+    "title": "Calile Hotel Tour",
     "day": "26",
     "info": "$0.00 - $6.36"
   },
@@ -193,6 +151,20 @@
     "title": "'Speechie Sips'",
     "day": "26",
     "info": "$32.48 - $37.71"
+  },
+  {
+    "sortindex": 1754201378,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/165e60f6-2a69-4fb7-a06f-a46a905ca3d4.png",
+    "month": "August",
+    "societyAvgRating": 4.5,
+    "subtitle": "Class/Workshop",
+    "societyid": 1835,
+    "destination": "/?eid=38111",
+    "societyname": "Public Health Association University of Queensland",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1835.png",
+    "title": "Cheeky Public Speaky: Practice Public Speaking!",
+    "day": "26",
+    "info": "$0.00 - $6.36"
   },
   {
     "sortindex": 1754830127,
@@ -377,20 +349,7 @@
     "info": "$0.00 - $6.36"
   },
   {
-    "sortindex": 1753675637,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_12.png",
-    "month": "August",
-    "subtitle": "Other",
-    "societyid": 10792,
-    "destination": "/?eid=37415",
-    "societyname": "UQ Chinese Cultural Dance Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-    "title": "Senior Workshop",
-    "day": "30",
-    "info": "$22.04"
-  },
-  {
-    "sortindex": 1755130976,
+    "sortindex": 1755828536,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/c28a494b-c91c-4257-aa1c-341a47fcf20c.jpeg",
     "month": "August",
     "societyAvgRating": 4.9,
@@ -402,6 +361,19 @@
     "title": "Pancake Manor and Archives Book Store Visit!",
     "day": "30",
     "info": "$6.36"
+  },
+  {
+    "sortindex": 1753675637,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_12.png",
+    "month": "August",
+    "subtitle": "Other",
+    "societyid": 10792,
+    "destination": "/?eid=37415",
+    "societyname": "UQ Chinese Cultural Dance Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
+    "title": "Senior Workshop",
+    "day": "30",
+    "info": "$22.04"
   },
   {
     "sortindex": 1755603241,
@@ -416,6 +388,20 @@
     "title": "Training Day ",
     "day": "31",
     "info": "$20.00"
+  },
+  {
+    "sortindex": 1755869156,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/b8f565d2-55e2-4272-9ce6-a3f9dffc3beb.jpeg",
+    "month": "August",
+    "societyAvgRating": 4.3,
+    "subtitle": "Sport/Competition",
+    "societyid": 2232,
+    "destination": "/?eid=39602",
+    "societyname": "Australia-China Youth Association at UQ",
+    "societylogo": "https://resources.hellorubric.com/images/641d01b87ef0d_.png",
+    "title": "ACYA 3V3 Basketball Tournament",
+    "day": "31",
+    "info": "$11.59 - $16.81"
   },
   {
     "sortindex": 1754464492,
@@ -460,6 +446,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1755864879,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/3ef3ed8d-b1d6-45cc-a85a-801271c5d608.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=39603",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/images/65ce9c62d21e6_.png",
+    "title": "TFM Digital - Trends Presentation",
+    "day": "3",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1755834025,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_4.png",
+    "month": "September",
+    "societyAvgRating": 4.9,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3220,
+    "destination": "/?eid=39585",
+    "societyname": "UQ Ladies in Technology",
+    "societylogo": "https://resources.hellorubric.com/images/65d4a9ca3dd03_.png",
+    "title": "\ud83e\uddcb\ud83d\udc96 Paint and Sip \ud83c\udfa8\ud83d\udc8c",
+    "day": "4",
+    "info": "$5.00 - $7.00"
+  },
+  {
     "sortindex": 1755497824,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/44fb3ea8-ad7e-44d2-b065-cdc97d44c630.png",
     "month": "September",
@@ -486,6 +500,19 @@
     "title": "Byron Bay Surf Trip",
     "day": "5",
     "info": "$168.31 - $210.10"
+  },
+  {
+    "sortindex": 1755859251,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
+    "month": "September",
+    "subtitle": "Class/Workshop",
+    "societyid": 7008,
+    "destination": "/?eid=39594",
+    "societyname": "UQ NeuroTech",
+    "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
+    "title": "2025 NeuroTech Mind Bot Race",
+    "day": "5",
+    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1755435036,
@@ -830,6 +857,20 @@
     "title": "UQBA Annual Business Ball 2025: Timeless",
     "day": "27",
     "info": "$0.00 - $179.47"
+  },
+  {
+    "sortindex": 1755853159,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/92bc8a6f-e79c-4b3c-ac48-efa4d80774d6.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Cruise",
+    "societyid": 2517,
+    "destination": "/?eid=39600",
+    "societyname": "UQ Cheer and Dance Club",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2517.png",
+    "title": "UQCD Decked Out",
+    "day": "28",
+    "info": "$84.72 - $89.95"
   },
   {
     "sortindex": 1755686131,
