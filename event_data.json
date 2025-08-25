@@ -303,7 +303,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 71,
+  "totalItemCount": 74,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -3010,7 +3010,7 @@
       "info": "$0.00 - $6.36"
     },
     {
-      "sortindex": 1754917284,
+      "sortindex": 1756011457,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/9694591d-c695-4cdc-9307-28b567e499d0.PNG",
       "month": "August",
       "societyAvgRating": 4.7,
@@ -3021,7 +3021,21 @@
       "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1816.png",
       "title": "'Speechie Sips'",
       "day": "26",
-      "info": "$32.48 - $37.71"
+      "info": "$22.04"
+    },
+    {
+      "sortindex": 1755590724,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/42435423-1779-4aaf-9ac8-b7d5547bbbd8.png",
+      "month": "August",
+      "societyAvgRating": 4.7,
+      "subtitle": "Other",
+      "societyid": 6994,
+      "destination": "/?eid=39399",
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
+      "title": "PiP - Management Consulting Workshop",
+      "day": "26",
+      "info": "Free"
     },
     {
       "sortindex": 1754830127,
@@ -3038,16 +3052,16 @@
       "info": "$0.00 - $3.62"
     },
     {
-      "sortindex": 1755590724,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/42435423-1779-4aaf-9ac8-b7d5547bbbd8.png",
+      "sortindex": 1756036437,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/0a2c22b8-8d46-40af-b856-c12241c15580.jpeg",
       "month": "August",
       "societyAvgRating": 4.7,
-      "subtitle": "Other",
-      "societyid": 6994,
-      "destination": "/?eid=39399",
-      "societyname": "Financial Management Association of Australia",
-      "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
-      "title": "PiP - Management Consulting Workshop",
+      "subtitle": "Show/Performance",
+      "societyid": 2225,
+      "destination": "/?eid=39690",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents '3 Idiots'",
       "day": "26",
       "info": "Free"
     },
@@ -3066,7 +3080,7 @@
       "info": "$0.00 - $16.81"
     },
     {
-      "sortindex": 1755332766,
+      "sortindex": 1756020729,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/f64b9a86-197a-4712-9a4e-2cca0288d1b2.png",
       "month": "August",
       "societyAvgRating": 4.6,
@@ -3163,7 +3177,7 @@
       "info": "$6.36"
     },
     {
-      "sortindex": 1755944351,
+      "sortindex": 1756033580,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/71d52c5b-8f36-4e4b-8495-437636882f5e.jpg",
       "month": "August",
       "societyAvgRating": 4.7,
@@ -3205,7 +3219,7 @@
       "info": "$32.48 - $63.83"
     },
     {
-      "sortindex": 1754221449,
+      "sortindex": 1756080347,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/3279f092-efaa-45ef-a2df-95d4cdee38b2.jpg",
       "month": "August",
       "societyAvgRating": 4.4,
@@ -3302,6 +3316,20 @@
       "info": "$4.00"
     },
     {
+      "sortindex": 1756037474,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb2529a1-9043-4a2a-bef8-dcbc13e524ba.jpeg",
+      "month": "September",
+      "societyAvgRating": 4.7,
+      "subtitle": "Show/Performance",
+      "societyid": 2225,
+      "destination": "/?eid=39692",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+      "title": "UQFAS presents 'Crip Camp: Disability Revolution'",
+      "day": "2",
+      "info": "Free"
+    },
+    {
       "sortindex": 1754464492,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/941186b0-779f-4886-8cce-92b115fbbb4c.jpg",
       "month": "September",
@@ -3344,8 +3372,8 @@
       "info": "Free"
     },
     {
-      "sortindex": 1755834025,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_4.png",
+      "sortindex": 1756002520,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/6163ac90-f82f-4b4b-98e9-0fa65bb885c0.png",
       "month": "September",
       "societyAvgRating": 4.9,
       "subtitle": "Party/BBQ/Social",
@@ -3467,7 +3495,7 @@
       "info": "$116.07 - $194.43"
     },
     {
-      "sortindex": 1755937228,
+      "sortindex": 1756016096,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/6db714d4-9eb7-4701-9d84-ee6428b21965.png",
       "month": "September",
       "societyAvgRating": 4.5,
@@ -3578,20 +3606,6 @@
       "info": "$22.04"
     },
     {
-      "sortindex": 1755740585,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/8f40b5b2-ae7d-4dc9-bc7d-4bdd3df9c93d.png",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 339,
-      "destination": "/?eid=35962",
-      "societyname": "UQ HMNS Student Society",
-      "societylogo": "https://resources.hellorubric.com/images/64586f6e7688b_.png",
-      "title": "HMNS BALL 2025: Midnight in Monte Carlo",
-      "day": "13",
-      "info": "$74.28 - $126.52"
-    },
-    {
       "sortindex": 1755389621,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/681869d6-92ff-4768-9fdf-e501e557e729.jpg",
       "month": "September",
@@ -3604,6 +3618,20 @@
       "title": "Marsupial Masquerade - Wildlife Ball 2025",
       "day": "13",
       "info": "$16.81 - $110.85"
+    },
+    {
+      "sortindex": 1756080015,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/8f40b5b2-ae7d-4dc9-bc7d-4bdd3df9c93d.png",
+      "month": "September",
+      "societyAvgRating": 4.5,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 339,
+      "destination": "/?eid=35962",
+      "societyname": "UQ HMNS Student Society",
+      "societylogo": "https://resources.hellorubric.com/images/64586f6e7688b_.png",
+      "title": "HMNS BALL 2025: Midnight in Monte Carlo",
+      "day": "13",
+      "info": "$74.28 - $126.52"
     },
     {
       "sortindex": 1753258031,
@@ -3799,7 +3827,7 @@
       "info": "$0.00 - $5.00"
     },
     {
-      "sortindex": 1753017236,
+      "sortindex": 1756025349,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/f614a774-9545-4ffb-afb9-c58498aea4b0.png",
       "month": "October",
       "societyAvgRating": 4.9,
@@ -3840,7 +3868,7 @@
       "info": "$63.83 - $84.72"
     },
     {
-      "sortindex": 1755572447,
+      "sortindex": 1756001756,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/0c0914e8-9933-43b0-b857-98731416958b.jpeg",
       "month": "October",
       "societyAvgRating": 4.6,
@@ -3852,6 +3880,20 @@
       "title": "Ceylon Soiree 2025",
       "day": "11",
       "info": "$87.46 - $153.91"
+    },
+    {
+      "sortindex": 1756071557,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/d63ab536-fac6-44bf-9d44-d2fd0f4735ff.jpg",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Other",
+      "societyid": 3147,
+      "destination": "/?eid=39174",
+      "societyname": "The UQ Women's Network",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+      "title": "Spin to Support 2025",
+      "day": "12",
+      "info": "$22.04"
     },
     {
       "sortindex": 1755642658,
