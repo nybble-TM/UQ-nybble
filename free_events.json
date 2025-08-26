@@ -42,6 +42,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756099098,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/b2aea37f-5a9e-4b8f-95ce-9fd3113b56fb.png",
+    "month": "August",
+    "societyAvgRating": 4.8,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4479,
+    "destination": "/?eid=39733",
+    "societyname": "UQ Advanced Humanities Society",
+    "societylogo": "https://resources.hellorubric.com/images/65d574067aaec_.png",
+    "title": "Semester 2 Welcome",
+    "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756085172,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6cdbf492-292d-4de1-a78b-0e2382860102.png",
+    "month": "August",
+    "societyAvgRating": 4.9,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 358,
+    "destination": "/?eid=39714",
+    "societyname": "UQ African Students Association",
+    "societylogo": "https://resources.hellorubric.com/images/642f5e7100980_.png",
+    "title": "ASA Redroom Catch Up",
+    "day": "28",
+    "info": "Free"
+  },
+  {
     "sortindex": 1755929881,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/47a1c625-ef83-4473-9a43-f21775b43dd1.jpeg",
     "month": "August",
@@ -108,6 +136,33 @@
     "societylogo": "https://resources.hellorubric.com/images/65ce9c62d21e6_.png",
     "title": "TFM Digital - Trends Presentation",
     "day": "3",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756170748,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/d84d83b1-58aa-4030-926e-bfb384efe3a3.png",
+    "month": "September",
+    "subtitle": "Class/Workshop",
+    "societyid": 1338,
+    "destination": "/?eid=39791",
+    "societyname": "Aus Legal Philosophy Students Assoc",
+    "societylogo": "https://resources.hellorubric.com/images/65c1ecb5d8ddf_.png",
+    "title": "Generosity as a Political and Legal Value",
+    "day": "3",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756124132,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2339e04f-8f3a-4391-8729-76ddb7b39094.jpg",
+    "month": "September",
+    "societyAvgRating": 4.8,
+    "subtitle": "Class/Workshop",
+    "societyid": 3180,
+    "destination": "/?eid=39764",
+    "societyname": "UQ Korean Medical Society",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3180.png",
+    "title": "Financial Literacy & Networking Workshop",
+    "day": "6",
     "info": "Free"
   },
   {
