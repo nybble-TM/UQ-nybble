@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1755742990,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/e34969ae-c03c-45b6-8987-da2a4bf65c7b.png",
-    "month": "August",
-    "societyAvgRating": 4.8,
-    "subtitle": "Industry/Career",
-    "societyid": 8835,
-    "destination": "/?eid=39519",
-    "societyname": "UQCCR Student Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-    "title": "UQCCR Lab Tour",
-    "day": "26",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1755590724,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/42435423-1779-4aaf-9ac8-b7d5547bbbd8.png",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=39399",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
-    "title": "PiP - Management Consulting Workshop",
-    "day": "26",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756036437,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0a2c22b8-8d46-40af-b856-c12241c15580.jpeg",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Show/Performance",
-    "societyid": 2225,
-    "destination": "/?eid=39690",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents '3 Idiots'",
-    "day": "26",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756099098,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/b2aea37f-5a9e-4b8f-95ce-9fd3113b56fb.png",
     "month": "August",
@@ -152,6 +110,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756184444,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/752ff7c9-9e48-4b82-a724-fb4b54255321.jpg",
+    "month": "September",
+    "societyAvgRating": 4.9,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1538,
+    "destination": "/?eid=39846",
+    "societyname": "The University of Queensland Biology Society",
+    "societylogo": "https://resources.hellorubric.com/images/6704e02e856a0_.png",
+    "title": "PUB TALKS",
+    "day": "5",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756124132,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2339e04f-8f3a-4391-8729-76ddb7b39094.jpg",
     "month": "September",
@@ -163,6 +135,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3180.png",
     "title": "Financial Literacy & Networking Workshop",
     "day": "6",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756197179,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_16.png",
+    "month": "September",
+    "societyAvgRating": 4.4,
+    "subtitle": "Class/Workshop",
+    "societyid": 2511,
+    "destination": "/?eid=39795",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "The Book that Changed the World",
+    "day": "8",
     "info": "Free"
   },
   {
@@ -194,17 +180,17 @@
     "info": "Free"
   },
   {
-    "sortindex": 1755761470,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_17.png",
+    "sortindex": 1756209360,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/539785c7-7ef4-4438-b520-79da62753909.png",
     "month": "September",
-    "societyAvgRating": 5,
+    "societyAvgRating": 4.5,
     "subtitle": "Industry/Career",
-    "societyid": 2305,
-    "destination": "/?eid=38914",
-    "societyname": "Towards International Medical Equity",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2305.png",
-    "title": "WWG In Person Clinic Volunteer Opportunity ",
-    "day": "12",
+    "societyid": 933,
+    "destination": "/?eid=39461",
+    "societyname": "UQ Organisation of Planning Students",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
+    "title": "Urban and Regional Planning Industry Night",
+    "day": "22",
     "info": "Free"
   },
   {
@@ -219,6 +205,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_593.png",
     "title": "UQCC Careers and Canap\u00e9s",
     "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756245994,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_11.png",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Sport/Competition",
+    "societyid": 534,
+    "destination": "/?eid=39880",
+    "societyname": "Queensland University Exchange Students Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+    "title": "QUEST Invitational 5000 m",
+    "day": "18",
     "info": "Free"
   }
 ]
