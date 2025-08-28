@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1756099098,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/b2aea37f-5a9e-4b8f-95ce-9fd3113b56fb.png",
-    "month": "August",
-    "societyAvgRating": 4.8,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4479,
-    "destination": "/?eid=39733",
-    "societyname": "UQ Advanced Humanities Society",
-    "societylogo": "https://resources.hellorubric.com/images/65d574067aaec_.png",
-    "title": "Semester 2 Welcome",
-    "day": "27",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756085172,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/6cdbf492-292d-4de1-a78b-0e2382860102.png",
     "month": "August",
@@ -52,6 +38,20 @@
     "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
     "title": "STEM Alternative Pathways Evening",
     "day": "28",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756297757,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0738116e-dd72-4af7-9e53-e59ef40d3161.png",
+    "month": "August",
+    "societyAvgRating": 4.5,
+    "subtitle": "Other",
+    "societyid": 352,
+    "destination": "/?eid=39935",
+    "societyname": "UQBSPA - UQ Business School Postgraduate Association",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/6cd2fd05-bf4a-428d-913a-d4e919b37485.png",
+    "title": "Welcome Party - Casual Networking Night",
+    "day": "29",
     "info": "Free"
   },
   {
@@ -107,6 +107,20 @@
     "societylogo": "https://resources.hellorubric.com/images/65c1ecb5d8ddf_.png",
     "title": "Generosity as a Political and Legal Value",
     "day": "3",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756273013,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/65c52e33-27ab-4f05-bd15-25050ea31112.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4271,
+    "destination": "/?eid=39868",
+    "societyname": "UQ K-pop Dance Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "UQKDC Random Play Dance",
+    "day": "5",
     "info": "Free"
   },
   {
