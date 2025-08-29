@@ -1,46 +1,5 @@
 [
   {
-    "sortindex": 1756085172,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6cdbf492-292d-4de1-a78b-0e2382860102.png",
-    "month": "August",
-    "societyAvgRating": 4.9,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 358,
-    "destination": "/?eid=39714",
-    "societyname": "UQ African Students Association",
-    "societylogo": "https://resources.hellorubric.com/images/642f5e7100980_.png",
-    "title": "ASA Redroom Catch Up",
-    "day": "28",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1755929881,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/47a1c625-ef83-4473-9a43-f21775b43dd1.jpeg",
-    "month": "August",
-    "subtitle": "Other",
-    "societyid": 7963,
-    "destination": "/?eid=39643",
-    "societyname": "The University of Queensland Telugu Society",
-    "societylogo": "https://resources.hellorubric.com/images/65ae3f8e1eac0_.png",
-    "title": "Movie Night - Racegurram",
-    "day": "28",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1755598386,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1d8cbf61-3f95-4d4b-8317-ede46e7ab8a5.jpg",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=39404",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
-    "title": "STEM Alternative Pathways Evening",
-    "day": "28",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756297757,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0738116e-dd72-4af7-9e53-e59ef40d3161.png",
     "month": "August",
@@ -180,6 +139,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756374009,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/4114d27f-4e1a-4e06-9e64-86ee7ccf27cb.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Industry/Career",
+    "societyid": 165,
+    "destination": "/?eid=40001",
+    "societyname": "UQBA - UQ Business Association",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
+    "title": "UQBA x SV Partners Insolvency & Restructuring",
+    "day": "10",
+    "info": "Free"
+  },
+  {
     "sortindex": 1755685992,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/3cd7fe98-c501-4c73-a583-cbd669f692fe.jpg",
     "month": "September",
@@ -205,6 +178,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
     "title": "Urban and Regional Planning Industry Night",
     "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756378140,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1f28cc6e-dfe5-4c19-8d16-913368781f44.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Industry/Career",
+    "societyid": 165,
+    "destination": "/?eid=40004",
+    "societyname": "UQBA - UQ Business Association",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
+    "title": "BDO Insights Day",
+    "day": "23",
     "info": "Free"
   },
   {
