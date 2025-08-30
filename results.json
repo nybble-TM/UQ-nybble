@@ -1,103 +1,5 @@
 [
   {
-    "sortindex": 1756354236,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a6cb7807-a615-4d55-95c0-f02948916b20.jpg",
-    "month": "August",
-    "societyAvgRating": 4.5,
-    "subtitle": "Trip/Camp",
-    "societyid": 534,
-    "destination": "/?eid=39175",
-    "societyname": "Queensland University Exchange Students Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-    "title": "QUEST goes to Byron Bay",
-    "day": "29",
-    "info": "$205.03"
-  },
-  {
-    "sortindex": 1756116391,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/41b5fb7d-388e-488a-9599-7b99bbf72916.png",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Other",
-    "societyid": 4430,
-    "destination": "/?eid=39753",
-    "societyname": "Handcraft & Art Club",
-    "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
-    "title": "Bookmark Colouring",
-    "day": "29",
-    "info": "$0.00 - $6.36"
-  },
-  {
-    "sortindex": 1755687911,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a18cc039-5d9a-4ce0-8206-0ca3dbcc95e2.png",
-    "month": "August",
-    "societyAvgRating": 4.5,
-    "subtitle": "Other",
-    "societyid": 1835,
-    "destination": "/?eid=39463",
-    "societyname": "Public Health Association University of Queensland",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1835.png",
-    "title": "UQPHA Tote-Bag Painting",
-    "day": "29",
-    "info": "$6.36"
-  },
-  {
-    "sortindex": 1756181935,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6e193056-436b-4282-8629-4135f1bb97e4.jpg",
-    "month": "August",
-    "societyAvgRating": 4.9,
-    "subtitle": "Class/Workshop",
-    "societyid": 1538,
-    "destination": "/?eid=39844",
-    "societyname": "The University of Queensland Biology Society",
-    "societylogo": "https://resources.hellorubric.com/images/6704e02e856a0_.png",
-    "title": "PROPAGATION WORKSHOP",
-    "day": "29",
-    "info": "$6.36 - $9.50"
-  },
-  {
-    "sortindex": 1756033580,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/71d52c5b-8f36-4e4b-8495-437636882f5e.jpg",
-    "month": "August",
-    "societyAvgRating": 4.7,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3867,
-    "destination": "/?eid=39636",
-    "societyname": "UQ International Students' Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-    "title": "UQISS x UQMS Mahjong Night!",
-    "day": "29",
-    "info": "$0.00 - $6.36"
-  },
-  {
-    "sortindex": 1756297757,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0738116e-dd72-4af7-9e53-e59ef40d3161.png",
-    "month": "August",
-    "societyAvgRating": 4.5,
-    "subtitle": "Other",
-    "societyid": 352,
-    "destination": "/?eid=39935",
-    "societyname": "UQBSPA - UQ Business School Postgraduate Association",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/6cd2fd05-bf4a-428d-913a-d4e919b37485.png",
-    "title": "Welcome Party - Casual Networking Night",
-    "day": "29",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756269087,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a4f58713-fcca-4490-a27a-4a814340c1d8.png",
-    "month": "August",
-    "societyAvgRating": 4.6,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 186,
-    "destination": "/?eid=38906",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/images/65ce9c62d21e6_.png",
-    "title": "Cosmic Renaissance: A 2025 Ball Event",
-    "day": "29",
-    "info": "$126.52 - $136.97"
-  },
-  {
     "sortindex": 1755136030,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/6bba04b8-a316-4b9b-bf71-42d49ff4e255.png",
     "month": "August",
@@ -181,10 +83,10 @@
     "info": "$20.00"
   },
   {
-    "sortindex": 1755869156,
+    "sortindex": 1756462998,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/b8f565d2-55e2-4272-9ce6-a3f9dffc3beb.jpeg",
     "month": "August",
-    "societyAvgRating": 4.2,
+    "societyAvgRating": 4.3,
     "subtitle": "Sport/Competition",
     "societyid": 2232,
     "destination": "/?eid=39602",
@@ -320,7 +222,7 @@
     "info": "$3.00"
   },
   {
-    "sortindex": 1756119011,
+    "sortindex": 1756514298,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/14c099e2-4f52-489e-9c52-3d7f6bb46be5.png",
     "month": "September",
     "subtitle": "Industry/Career",
@@ -388,6 +290,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756184444,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/752ff7c9-9e48-4b82-a724-fb4b54255321.jpg",
+    "month": "September",
+    "societyAvgRating": 4.9,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1538,
+    "destination": "/?eid=39846",
+    "societyname": "The University of Queensland Biology Society",
+    "societylogo": "https://resources.hellorubric.com/images/6704e02e856a0_.png",
+    "title": "PUB TALKS",
+    "day": "5",
+    "info": "Free"
+  },
+  {
     "sortindex": 1754005118,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/40622ab6-4354-4630-8583-47da292230b1.png",
     "month": "September",
@@ -402,16 +318,16 @@
     "info": "$84.72 - $116.07"
   },
   {
-    "sortindex": 1756184444,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/752ff7c9-9e48-4b82-a724-fb4b54255321.jpg",
+    "sortindex": 1756469898,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_5.png",
     "month": "September",
-    "societyAvgRating": 4.9,
+    "societyAvgRating": 4.4,
     "subtitle": "Party/BBQ/Social",
-    "societyid": 1538,
-    "destination": "/?eid=39846",
-    "societyname": "The University of Queensland Biology Society",
-    "societylogo": "https://resources.hellorubric.com/images/6704e02e856a0_.png",
-    "title": "PUB TALKS",
+    "societyid": 2511,
+    "destination": "/?eid=40054",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Movie Night: The Furnace",
     "day": "5",
     "info": "Free"
   },
@@ -441,6 +357,20 @@
     "title": "UQ PAEDS Mock Paediatrics OSCE",
     "day": "6",
     "info": "$6.36 - $11.59"
+  },
+  {
+    "sortindex": 1756508163,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/65ea73b4-b8bd-486b-987c-f32c863af8e0.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Class/Workshop",
+    "societyid": 7597,
+    "destination": "/?eid=40061",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/images/65403834c2587_.png",
+    "title": "Doughnut Baking: Air Fryer Ed. (UQB x UQVegSoc)",
+    "day": "6",
+    "info": "$9.50"
   },
   {
     "sortindex": 1756124132,
@@ -666,6 +596,20 @@
     "info": "$40.00"
   },
   {
+    "sortindex": 1756461246,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ca864cd-cb15-4348-9999-dff0e6bb5ac6.png",
+    "month": "September",
+    "societyAvgRating": 4.8,
+    "subtitle": "Trip/Camp",
+    "societyid": 2235,
+    "destination": "/?eid=40050",
+    "societyname": "UQ Photography Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+    "title": "Oxley Creek Bird Walk",
+    "day": "13",
+    "info": "Free"
+  },
+  {
     "sortindex": 1753675682,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_14.png",
     "month": "September",
@@ -762,8 +706,8 @@
     "info": "$5.66 - $15.89"
   },
   {
-    "sortindex": 1756429403,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_12.png",
+    "sortindex": 1756446286,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/42cc86ed-924f-4323-ad0e-ac3ec4cc68d6.png",
     "month": "September",
     "societyAvgRating": 4.5,
     "subtitle": "Industry/Career",
@@ -1067,7 +1011,7 @@
     "info": "$22.04"
   },
   {
-    "sortindex": 1754123097,
+    "sortindex": 1756431658,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/cb21f912-65e9-4fb3-bcc7-71ee1dd24103.png",
     "month": "October",
     "societyAvgRating": 4.9,

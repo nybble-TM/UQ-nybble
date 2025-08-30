@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1756297757,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0738116e-dd72-4af7-9e53-e59ef40d3161.png",
-    "month": "August",
-    "societyAvgRating": 4.5,
-    "subtitle": "Other",
-    "societyid": 352,
-    "destination": "/?eid=39935",
-    "societyname": "UQBSPA - UQ Business School Postgraduate Association",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/6cd2fd05-bf4a-428d-913a-d4e919b37485.png",
-    "title": "Welcome Party - Casual Networking Night",
-    "day": "29",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756037474,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb2529a1-9043-4a2a-bef8-dcbc13e524ba.jpeg",
     "month": "September",
@@ -97,6 +83,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756469898,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_5.png",
+    "month": "September",
+    "societyAvgRating": 4.4,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2511,
+    "destination": "/?eid=40054",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Movie Night: The Furnace",
+    "day": "5",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756124132,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2339e04f-8f3a-4391-8729-76ddb7b39094.jpg",
     "month": "September",
@@ -164,6 +164,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4848.png",
     "title": "Diplomacy in 2025",
     "day": "10",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756461246,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ca864cd-cb15-4348-9999-dff0e6bb5ac6.png",
+    "month": "September",
+    "societyAvgRating": 4.8,
+    "subtitle": "Trip/Camp",
+    "societyid": 2235,
+    "destination": "/?eid=40050",
+    "societyname": "UQ Photography Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+    "title": "Oxley Creek Bird Walk",
+    "day": "13",
     "info": "Free"
   },
   {
