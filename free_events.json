@@ -1,5 +1,19 @@
 [
   {
+    "sortindex": 1756558823,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/14f15bef-57e9-4127-860b-556f5e32f44f.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2225,
+    "destination": "/?eid=40075",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Pizza Picnic Week 6",
+    "day": "2",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756037474,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb2529a1-9043-4a2a-bef8-dcbc13e524ba.jpeg",
     "month": "September",
@@ -125,6 +139,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756559519,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/dbf28db6-bba6-4d6f-b8db-f91876ca5230.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=40078",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Merlo Coffee & Chat Week 7",
+    "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756558101,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e5ebffa-c106-456c-8c98-e9e8a6f3e1e9.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Show/Performance",
+    "societyid": 2225,
+    "destination": "/?eid=40073",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS presents 'The Killing of a Sacred Deer'",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1754797170,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
     "month": "September",
@@ -178,6 +220,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
     "title": "Oxley Creek Bird Walk",
     "day": "13",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756526318,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ec46983-1f35-4de9-bd2e-90339626fe5f.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3147,
+    "destination": "/?eid=40072",
+    "societyname": "The UQ Women's Network",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+    "title": "TSITP: Final Episode Watch Party",
+    "day": "17",
     "info": "Free"
   },
   {

@@ -1,74 +1,5 @@
 [
   {
-    "sortindex": 1755136030,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6bba04b8-a316-4b9b-bf71-42d49ff4e255.png",
-    "month": "August",
-    "societyAvgRating": 4.5,
-    "subtitle": "Other",
-    "societyid": 601,
-    "destination": "/?eid=39066",
-    "societyname": "UQ Surfers Club",
-    "societylogo": "https://resources.hellorubric.com/images/640f8a0a38742_.png",
-    "title": "LEARN TO SURF @ Currumbin Alley",
-    "day": "30",
-    "info": "$32.48 - $63.83"
-  },
-  {
-    "sortindex": 1756336633,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/3279f092-efaa-45ef-a2df-95d4cdee38b2.jpg",
-    "month": "August",
-    "societyAvgRating": 4.4,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 2511,
-    "destination": "/?eid=37015",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "InterMSA High Tea",
-    "day": "30",
-    "info": "$43.00 - $48.00"
-  },
-  {
-    "sortindex": 1755682911,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/888bbd51-adfe-4341-b9bc-c8501614df2d.png",
-    "month": "August",
-    "societyAvgRating": 4.4,
-    "subtitle": "Other",
-    "societyid": 2395,
-    "destination": "/?eid=39170",
-    "societyname": "Gatton International Student Association",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2395.png",
-    "title": "Potluck and Movie",
-    "day": "30",
-    "info": "$0.00 - $6.36"
-  },
-  {
-    "sortindex": 1755828536,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/c28a494b-c91c-4257-aa1c-341a47fcf20c.jpeg",
-    "month": "August",
-    "societyAvgRating": 4.9,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3858,
-    "destination": "/?eid=39131",
-    "societyname": "UQ English and Literature Society",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3858.png",
-    "title": "Pancake Manor and Archives Book Store Visit!",
-    "day": "30",
-    "info": "$6.36"
-  },
-  {
-    "sortindex": 1753675637,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_12.png",
-    "month": "August",
-    "subtitle": "Other",
-    "societyid": 10792,
-    "destination": "/?eid=37415",
-    "societyname": "UQ Chinese Cultural Dance Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-    "title": "Senior Workshop",
-    "day": "30",
-    "info": "$22.04"
-  },
-  {
     "sortindex": 1755603241,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_9.png",
     "month": "August",
@@ -97,18 +28,32 @@
     "info": "$11.59 - $16.81"
   },
   {
-    "sortindex": 1756037474,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb2529a1-9043-4a2a-bef8-dcbc13e524ba.jpeg",
+    "sortindex": 1756558823,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/14f15bef-57e9-4127-860b-556f5e32f44f.jpg",
     "month": "September",
     "societyAvgRating": 4.7,
-    "subtitle": "Show/Performance",
+    "subtitle": "Party/BBQ/Social",
     "societyid": 2225,
-    "destination": "/?eid=39692",
+    "destination": "/?eid=40075",
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS presents 'Crip Camp: Disability Revolution'",
+    "title": "UQFAS Pizza Picnic Week 6",
     "day": "2",
     "info": "Free"
+  },
+  {
+    "sortindex": 1755641557,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/88f12fef-c0e0-4958-9c46-8b1dd8b61d02.png",
+    "month": "September",
+    "societyAvgRating": 4,
+    "subtitle": "Other",
+    "societyid": 9955,
+    "destination": "/?eid=38803",
+    "societyname": "University of Queensland Pathology Interest Group",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/5f9db764-069a-4497-9922-64a59ce172b3.png",
+    "title": "GI Radiology Symposium",
+    "day": "2",
+    "info": "$4.00"
   },
   {
     "sortindex": 1754464492,
@@ -125,18 +70,18 @@
     "info": "$6.36 - $11.59"
   },
   {
-    "sortindex": 1755641557,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/88f12fef-c0e0-4958-9c46-8b1dd8b61d02.png",
+    "sortindex": 1756037474,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb2529a1-9043-4a2a-bef8-dcbc13e524ba.jpeg",
     "month": "September",
-    "societyAvgRating": 4,
-    "subtitle": "Other",
-    "societyid": 9955,
-    "destination": "/?eid=38803",
-    "societyname": "University of Queensland Pathology Interest Group",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/5f9db764-069a-4497-9922-64a59ce172b3.png",
-    "title": "GI Radiology Symposium",
+    "societyAvgRating": 4.7,
+    "subtitle": "Show/Performance",
+    "societyid": 2225,
+    "destination": "/?eid=39692",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS presents 'Crip Camp: Disability Revolution'",
     "day": "2",
-    "info": "$4.00"
+    "info": "Free"
   },
   {
     "sortindex": 1755741913,
@@ -222,7 +167,7 @@
     "info": "$3.00"
   },
   {
-    "sortindex": 1756514298,
+    "sortindex": 1756540386,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/14c099e2-4f52-489e-9c52-3d7f6bb46be5.png",
     "month": "September",
     "subtitle": "Industry/Career",
@@ -262,20 +207,6 @@
     "info": "$0.00 - $5.00"
   },
   {
-    "sortindex": 1755435036,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/4acb24b5-ae04-4e09-911f-aa11b68f372f.png",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Trip/Camp",
-    "societyid": 614,
-    "destination": "/?eid=39288",
-    "societyname": "UQ Beach Volleyball Club",
-    "societylogo": "https://resources.hellorubric.com/images/639fc8b3c4017_.png",
-    "title": "UQBVC Noosa Trip 2025",
-    "day": "5",
-    "info": "$95.17 - $183.98"
-  },
-  {
     "sortindex": 1756273013,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/65c52e33-27ab-4f05-bd15-25050ea31112.jpg",
     "month": "September",
@@ -288,6 +219,20 @@
     "title": "UQKDC Random Play Dance",
     "day": "5",
     "info": "Free"
+  },
+  {
+    "sortindex": 1755435036,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/4acb24b5-ae04-4e09-911f-aa11b68f372f.png",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Trip/Camp",
+    "societyid": 614,
+    "destination": "/?eid=39288",
+    "societyname": "UQ Beach Volleyball Club",
+    "societylogo": "https://resources.hellorubric.com/images/639fc8b3c4017_.png",
+    "title": "UQBVC Noosa Trip 2025",
+    "day": "5",
+    "info": "$95.17 - $183.98"
   },
   {
     "sortindex": 1756184444,
@@ -456,6 +401,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756559519,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/dbf28db6-bba6-4d6f-b8db-f91876ca5230.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=40078",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Merlo Coffee & Chat Week 7",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756275773,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/31171b44-ceb6-4e8d-b0a1-f904d8309102.jpg",
     "month": "September",
@@ -468,6 +427,20 @@
     "title": "Science Postgraduate Mixer",
     "day": "9",
     "info": "$6.36 - $11.59"
+  },
+  {
+    "sortindex": 1756558101,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e5ebffa-c106-456c-8c98-e9e8a6f3e1e9.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Show/Performance",
+    "societyid": 2225,
+    "destination": "/?eid=40073",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS presents 'The Killing of a Sacred Deer'",
+    "day": "9",
+    "info": "Free"
   },
   {
     "sortindex": 1754797170,
@@ -623,20 +596,6 @@
     "info": "$22.04"
   },
   {
-    "sortindex": 1755389621,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/681869d6-92ff-4768-9fdf-e501e557e729.jpg",
-    "month": "September",
-    "societyAvgRating": 4.8,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 2434,
-    "destination": "/?eid=39261",
-    "societyname": "UQ Wildlife Association",
-    "societylogo": "https://resources.hellorubric.com/images/63fc64b90557d_.png",
-    "title": "Marsupial Masquerade - Wildlife Ball 2025",
-    "day": "13",
-    "info": "$16.81 - $110.85"
-  },
-  {
     "sortindex": 1756080015,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/8f40b5b2-ae7d-4dc9-bc7d-4bdd3df9c93d.png",
     "month": "September",
@@ -649,6 +608,20 @@
     "title": "HMNS BALL 2025: Midnight in Monte Carlo",
     "day": "13",
     "info": "$74.28 - $126.52"
+  },
+  {
+    "sortindex": 1755389621,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/681869d6-92ff-4768-9fdf-e501e557e729.jpg",
+    "month": "September",
+    "societyAvgRating": 4.8,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 2434,
+    "destination": "/?eid=39261",
+    "societyname": "UQ Wildlife Association",
+    "societylogo": "https://resources.hellorubric.com/images/63fc64b90557d_.png",
+    "title": "Marsupial Masquerade - Wildlife Ball 2025",
+    "day": "13",
+    "info": "$16.81 - $110.85"
   },
   {
     "sortindex": 1756211711,
@@ -718,6 +691,20 @@
     "title": "UQWN Women in Law Coffee Chats",
     "day": "17",
     "info": "$0.00 - $6.36"
+  },
+  {
+    "sortindex": 1756526318,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ec46983-1f35-4de9-bd2e-90339626fe5f.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3147,
+    "destination": "/?eid=40072",
+    "societyname": "The UQ Women's Network",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+    "title": "TSITP: Final Episode Watch Party",
+    "day": "17",
+    "info": "Free"
   },
   {
     "sortindex": 1756418070,
