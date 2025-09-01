@@ -69,6 +69,19 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756681159,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_12.png",
+    "month": "September",
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2652,
+    "destination": "/?eid=40115",
+    "societyname": "UQ Greens Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/265cbff9-789f-4b44-a3d3-16128abc5bd3.png",
+    "title": "RedRoom Social",
+    "day": "5",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756273013,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/65c52e33-27ab-4f05-bd15-25050ea31112.jpg",
     "month": "September",
@@ -97,8 +110,8 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756469898,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_5.png",
+    "sortindex": 1756639156,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/01d341f3-b13b-49b9-b7bb-9b944ef45205.jpg",
     "month": "September",
     "societyAvgRating": 4.4,
     "subtitle": "Party/BBQ/Social",
@@ -223,6 +236,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756685944,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2ab674af-8d37-4c4a-bb51-0b9c5cd03e86.PNG",
+    "month": "September",
+    "societyAvgRating": 4.3,
+    "subtitle": "Industry/Career",
+    "societyid": 2232,
+    "destination": "/?eid=40118",
+    "societyname": "Australia-China Youth Association at UQ",
+    "societylogo": "https://resources.hellorubric.com/images/641d01b87ef0d_.png",
+    "title": "Career Panel 2025 - From Graduate to Growth ",
+    "day": "17",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756526318,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ec46983-1f35-4de9-bd2e-90339626fe5f.png",
     "month": "September",
@@ -276,6 +303,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_593.png",
     "title": "UQCC Careers and Canap\u00e9s",
     "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756679967,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/b72db787-2883-47bb-8ae2-5875d05780fc.jpg",
+    "month": "October",
+    "societyAvgRating": 4.9,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7257,
+    "destination": "/?eid=40096",
+    "societyname": "Society of Lifesaving",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+    "title": "Surf Club Crawl",
+    "day": "5",
     "info": "Free"
   },
   {
