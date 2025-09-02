@@ -113,7 +113,7 @@
     "sortindex": 1756639156,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/01d341f3-b13b-49b9-b7bb-9b944ef45205.jpg",
     "month": "September",
-    "societyAvgRating": 4.4,
+    "societyAvgRating": 4.5,
     "subtitle": "Party/BBQ/Social",
     "societyid": 2511,
     "destination": "/?eid=40054",
@@ -135,20 +135,6 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3180.png",
     "title": "Financial Literacy & Networking Workshop",
     "day": "6",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756197179,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_16.png",
-    "month": "September",
-    "societyAvgRating": 4.4,
-    "subtitle": "Class/Workshop",
-    "societyid": 2511,
-    "destination": "/?eid=39795",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "The Book that Changed the World",
-    "day": "8",
     "info": "Free"
   },
   {
@@ -191,6 +177,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2305.png",
     "title": "Refugees & Migrants in Australian PHC",
     "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756724179,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/80ffbd6e-544f-4f72-b41e-8b9c1034002e.jpg",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Class/Workshop",
+    "societyid": 2511,
+    "destination": "/?eid=40145",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Confident Muslimah w/ Sr Nabeela Ehsaan",
+    "day": "10",
     "info": "Free"
   },
   {
@@ -261,6 +261,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
     "title": "TSITP: Final Episode Watch Party",
     "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756730340,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/357e505a-22e9-4b34-b2f1-eaf1b6319ee1.png",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 547,
+    "destination": "/?eid=40150",
+    "societyname": "UQ Geography and Environmental Management Society",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_547.png",
+    "title": "Enviros in Mining Night",
+    "day": "18",
     "info": "Free"
   },
   {

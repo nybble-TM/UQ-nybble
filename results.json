@@ -1,6 +1,6 @@
 [
   {
-    "sortindex": 1756681032,
+    "sortindex": 1756727655,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1cd16ddf-4c10-4d16-a3d8-dd6cf072ba6b.jpeg",
     "month": "September",
     "societyAvgRating": 4.7,
@@ -28,6 +28,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1754464492,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/941186b0-779f-4886-8cce-92b115fbbb4c.jpg",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Industry/Career",
+    "societyid": 164,
+    "destination": "/?eid=38697",
+    "societyname": "Nursing & Midwifery Student Association",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_164.png",
+    "title": "Alternate Pathways ",
+    "day": "2",
+    "info": "$6.36 - $11.59"
+  },
+  {
     "sortindex": 1756037474,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb2529a1-9043-4a2a-bef8-dcbc13e524ba.jpeg",
     "month": "September",
@@ -42,7 +56,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1755641557,
+    "sortindex": 1756708426,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/88f12fef-c0e0-4958-9c46-8b1dd8b61d02.png",
     "month": "September",
     "societyAvgRating": 4,
@@ -54,20 +68,6 @@
     "title": "GI Radiology Symposium",
     "day": "2",
     "info": "$4.00"
-  },
-  {
-    "sortindex": 1754464492,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/941186b0-779f-4886-8cce-92b115fbbb4c.jpg",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Industry/Career",
-    "societyid": 164,
-    "destination": "/?eid=38697",
-    "societyname": "Nursing & Midwifery Student Association",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_164.png",
-    "title": "Alternate Pathways ",
-    "day": "2",
-    "info": "$6.36 - $11.59"
   },
   {
     "sortindex": 1755741913,
@@ -125,7 +125,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756002520,
+    "sortindex": 1756765566,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/6163ac90-f82f-4b4b-98e9-0fa65bb885c0.png",
     "month": "September",
     "societyAvgRating": 4.9,
@@ -191,6 +191,20 @@
     "title": "2025 NeuroTech Mind Bot Race",
     "day": "5",
     "info": "$0.00 - $5.00"
+  },
+  {
+    "sortindex": 1756728554,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/51df5f52-d87c-41dd-9a02-9b265472186c.jpg",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Other",
+    "societyid": 5398,
+    "destination": "/?eid=40149",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/689534a2-d729-4776-a964-43ba7248f792.png",
+    "title": "Seeds & Talks",
+    "day": "5",
+    "info": "$0.00 - $6.36"
   },
   {
     "sortindex": 1756681159,
@@ -265,7 +279,7 @@
     "sortindex": 1756639156,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/01d341f3-b13b-49b9-b7bb-9b944ef45205.jpg",
     "month": "September",
-    "societyAvgRating": 4.4,
+    "societyAvgRating": 4.5,
     "subtitle": "Party/BBQ/Social",
     "societyid": 2511,
     "destination": "/?eid=40054",
@@ -276,7 +290,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756394210,
+    "sortindex": 1756704224,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/509a6998-ffa3-46d4-89fa-dff4a036707e.jpg",
     "month": "September",
     "subtitle": "Show/Performance",
@@ -372,6 +386,20 @@
     "info": "$116.07 - $194.43"
   },
   {
+    "sortindex": 1756775339,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/638b9fff-df71-485f-82f1-7893bb0cd482.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Class/Workshop",
+    "societyid": 7597,
+    "destination": "/?eid=40133",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/images/65403834c2587_.png",
+    "title": "UQB x UQLASA - Brigadeiro Baking Class",
+    "day": "8",
+    "info": "$6.36"
+  },
+  {
     "sortindex": 1756016096,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/6db714d4-9eb7-4701-9d84-ee6428b21965.png",
     "month": "September",
@@ -386,10 +414,10 @@
     "info": "$0.00 - $6.36"
   },
   {
-    "sortindex": 1756197179,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_16.png",
+    "sortindex": 1756703214,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/fee86e3d-ae48-41ba-bf13-e9996df3a34a.jpg",
     "month": "September",
-    "societyAvgRating": 4.4,
+    "societyAvgRating": 4.5,
     "subtitle": "Class/Workshop",
     "societyid": 2511,
     "destination": "/?eid=39795",
@@ -397,7 +425,7 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
     "title": "The Book that Changed the World",
     "day": "8",
-    "info": "Free"
+    "info": "$0.00 - $12.82"
   },
   {
     "sortindex": 1756559519,
@@ -410,20 +438,6 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
     "title": "UQFAS Merlo Coffee & Chat Week 7",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756558101,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e5ebffa-c106-456c-8c98-e9e8a6f3e1e9.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Show/Performance",
-    "societyid": 2225,
-    "destination": "/?eid=40073",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS presents 'The Killing of a Sacred Deer'",
     "day": "9",
     "info": "Free"
   },
@@ -442,6 +456,20 @@
     "info": "$6.36 - $11.59"
   },
   {
+    "sortindex": 1756558101,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e5ebffa-c106-456c-8c98-e9e8a6f3e1e9.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Show/Performance",
+    "societyid": 2225,
+    "destination": "/?eid=40073",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS presents 'The Killing of a Sacred Deer'",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1754797170,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
     "month": "September",
@@ -453,6 +481,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2305.png",
     "title": "Refugees & Migrants in Australian PHC",
     "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756724179,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/80ffbd6e-544f-4f72-b41e-8b9c1034002e.jpg",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Class/Workshop",
+    "societyid": 2511,
+    "destination": "/?eid=40145",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Confident Muslimah w/ Sr Nabeela Ehsaan",
+    "day": "10",
     "info": "Free"
   },
   {
@@ -526,7 +568,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1755578867,
+    "sortindex": 1756775148,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/ffe8f77a-089f-4603-85ab-4bd63978d25a.png",
     "month": "September",
     "societyAvgRating": 4.6,
@@ -678,6 +720,20 @@
     "info": "$5.66 - $15.89"
   },
   {
+    "sortindex": 1756725108,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/48fd46aa-86cc-4413-8bb7-fd2c2a8818da.jpg",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2308,
+    "destination": "/?eid=40146",
+    "societyname": "Occupational Therapy Students Association",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/3c6b3c0c-5393-4296-94d8-28740d4aab48.png",
+    "title": "OT 2nd Year Trivia Night 2025",
+    "day": "16",
+    "info": "$6.36 - $11.59"
+  },
+  {
     "sortindex": 1756446286,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/42cc86ed-924f-4323-ad0e-ac3ec4cc68d6.png",
     "month": "September",
@@ -746,6 +802,20 @@
     "title": "Trivia Night ",
     "day": "18",
     "info": "$9.99 - $16.99"
+  },
+  {
+    "sortindex": 1756730340,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/357e505a-22e9-4b34-b2f1-eaf1b6319ee1.png",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 547,
+    "destination": "/?eid=40150",
+    "societyname": "UQ Geography and Environmental Management Society",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_547.png",
+    "title": "Enviros in Mining Night",
+    "day": "18",
+    "info": "Free"
   },
   {
     "sortindex": 1753675728,
