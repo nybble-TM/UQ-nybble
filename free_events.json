@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1756558823,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/14f15bef-57e9-4127-860b-556f5e32f44f.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2225,
-    "destination": "/?eid=40075",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Pizza Picnic Week 6",
-    "day": "2",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756037474,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb2529a1-9043-4a2a-bef8-dcbc13e524ba.jpeg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Show/Performance",
-    "societyid": 2225,
-    "destination": "/?eid=39692",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS presents 'Crip Camp: Disability Revolution'",
-    "day": "2",
-    "info": "Free"
-  },
-  {
     "sortindex": 1755741913,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/90e8d670-cb71-444c-99ff-f13b4dd721f5.jpg",
     "month": "September",
@@ -236,6 +208,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1756805268,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/04d8eecf-21a8-4fad-a48c-3e8ecd47cf67.jpg",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=39854",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_649.png",
+    "title": "Museum Crawl: QAG, GOMA & Onespace",
+    "day": "13",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756685944,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2ab674af-8d37-4c4a-bb51-0b9c5cd03e86.PNG",
     "month": "September",
@@ -278,7 +264,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756209360,
+    "sortindex": 1756801630,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/539785c7-7ef4-4438-b520-79da62753909.png",
     "month": "September",
     "societyAvgRating": 4.5,
@@ -287,7 +273,7 @@
     "destination": "/?eid=39461",
     "societyname": "UQ Organisation of Planning Students",
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
-    "title": "Urban and Regional Planning Industry Night",
+    "title": "URBAN NEXUS:PLANNERS CONNECT-INDUSTRY NIGHT 2025",
     "day": "22",
     "info": "Free"
   },
@@ -306,7 +292,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1754977306,
+    "sortindex": 1756785366,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
     "month": "September",
     "societyAvgRating": 4.9,
@@ -331,6 +317,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
     "title": "Surf Club Crawl",
     "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756785379,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f79aff3c-746e-402d-ad4f-9352bb41d629.png",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Industry/Career",
+    "societyid": 933,
+    "destination": "/?eid=40180",
+    "societyname": "UQ Organisation of Planning Students",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
+    "title": "OOPS Awards Night",
+    "day": "15",
     "info": "Free"
   },
   {
