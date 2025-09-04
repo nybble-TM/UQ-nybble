@@ -1,61 +1,6 @@
 [
   {
-    "sortindex": 1755741913,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/90e8d670-cb71-444c-99ff-f13b4dd721f5.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3855,
-    "destination": "/?eid=39515",
-    "societyname": "UQ Women in Business Economics and Law Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
-    "title": "UQWiBELS Pilates & Coffee Morning",
-    "day": "3",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756105588,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/e65da12a-fcb9-4e08-a44b-4d5832470da2.png",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 3932,
-    "destination": "/?eid=38841",
-    "societyname": "Queensland Pharmacy Students' Association",
-    "societylogo": "https://resources.hellorubric.com/images/65c1cb06e6124_.png",
-    "title": "Major/Placement Information session ",
-    "day": "3",
-    "info": "$0.00 - $16.81"
-  },
-  {
-    "sortindex": 1755864879,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/3ef3ed8d-b1d6-45cc-a85a-801271c5d608.png",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=39603",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/images/65ce9c62d21e6_.png",
-    "title": "TFM Digital - Trends Presentation",
-    "day": "3",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756170748,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/d84d83b1-58aa-4030-926e-bfb384efe3a3.png",
-    "month": "September",
-    "subtitle": "Class/Workshop",
-    "societyid": 1338,
-    "destination": "/?eid=39791",
-    "societyname": "Aus Legal Philosophy Students Assoc",
-    "societylogo": "https://resources.hellorubric.com/images/65c1ecb5d8ddf_.png",
-    "title": "Generosity as a Political and Legal Value",
-    "day": "3",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756861782,
+    "sortindex": 1756884950,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/6163ac90-f82f-4b4b-98e9-0fa65bb885c0.png",
     "month": "September",
     "societyAvgRating": 4.9,
@@ -137,6 +82,20 @@
     "info": "$0.00 - $6.36"
   },
   {
+    "sortindex": 1756273013,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/65c52e33-27ab-4f05-bd15-25050ea31112.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4271,
+    "destination": "/?eid=39868",
+    "societyname": "UQ K-pop Dance Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "UQKDC Random Play Dance",
+    "day": "5",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756681159,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_12.png",
     "month": "September",
@@ -162,20 +121,6 @@
     "title": "UQBVC Noosa Trip 2025",
     "day": "5",
     "info": "$95.17 - $183.98"
-  },
-  {
-    "sortindex": 1756273013,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/65c52e33-27ab-4f05-bd15-25050ea31112.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4271,
-    "destination": "/?eid=39868",
-    "societyname": "UQ K-pop Dance Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-    "title": "UQKDC Random Play Dance",
-    "day": "5",
-    "info": "Free"
   },
   {
     "sortindex": 1754005118,
@@ -372,20 +317,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756558101,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e5ebffa-c106-456c-8c98-e9e8a6f3e1e9.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Show/Performance",
-    "societyid": 2225,
-    "destination": "/?eid=40073",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS presents 'The Killing of a Sacred Deer'",
-    "day": "9",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756275773,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/31171b44-ceb6-4e8d-b0a1-f904d8309102.jpg",
     "month": "September",
@@ -398,6 +329,20 @@
     "title": "Science Postgraduate Mixer",
     "day": "9",
     "info": "$6.36 - $11.59"
+  },
+  {
+    "sortindex": 1756558101,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e5ebffa-c106-456c-8c98-e9e8a6f3e1e9.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Show/Performance",
+    "societyid": 2225,
+    "destination": "/?eid=40073",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS presents 'The Killing of a Sacred Deer'",
+    "day": "9",
+    "info": "Free"
   },
   {
     "sortindex": 1754797170,
@@ -552,6 +497,20 @@
     "title": "UNIT UQ Connections & Cocktails",
     "day": "12",
     "info": "$40.00"
+  },
+  {
+    "sortindex": 1756866092,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f27fc3d2-d4c3-4a51-844b-67bd3b708cbb.jpeg",
+    "month": "September",
+    "societyAvgRating": 4.9,
+    "subtitle": "Class/Workshop",
+    "societyid": 3141,
+    "destination": "/?eid=40135",
+    "societyname": "General Practitioner Student Network UQ",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f3d60290-e7b8-402e-9b00-c8dbbbad8a75.png",
+    "title": "GPSN 2nd Year Mock OSCE",
+    "day": "13",
+    "info": "$15.00"
   },
   {
     "sortindex": 1756461246,
@@ -845,7 +804,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756385302,
+    "sortindex": 1756898668,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/e4138b46-0911-4d53-a428-2b68a4191466.png",
     "month": "September",
     "societyAvgRating": 4.8,
@@ -856,7 +815,7 @@
     "societylogo": "https://resources.hellorubric.com/images/642f6169b14a3_.png",
     "title": " Bits and Bytes with Rads Networking Night",
     "day": "25",
-    "info": "$22.03 - $27.26"
+    "info": "$20.00 - $30.00"
   },
   {
     "sortindex": 1755997754,
@@ -943,6 +902,20 @@
     "info": "$0.00 - $53.38"
   },
   {
+    "sortindex": 1756948032,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/3087bc5d-a86a-4119-92f5-a7044dab674c.jpg",
+    "month": "September",
+    "societyAvgRating": 4.8,
+    "subtitle": "Class/Workshop",
+    "societyid": 2434,
+    "destination": "/?eid=40071",
+    "societyname": "UQ Wildlife Association",
+    "societylogo": "https://resources.hellorubric.com/images/63fc64b90557d_.png",
+    "title": "Geckoes Wildlife - Wildlife Husbandry Workshop ",
+    "day": "27",
+    "info": "$48.16 - $53.38"
+  },
+  {
     "sortindex": 1753675750,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_16.png",
     "month": "September",
@@ -996,6 +969,20 @@
     "title": "When in Rome: OTSA Ball 2025",
     "day": "28",
     "info": "$116.07 - $152.64"
+  },
+  {
+    "sortindex": 1756872622,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/918478c0-e8c6-46c6-8086-eabcd4d9fd1a.jpeg",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Trip/Camp",
+    "societyid": 2420,
+    "destination": "/?eid=40220",
+    "societyname": "UQ Thai Students' Association",
+    "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
+    "title": "Interstate Sports Day 2025: Entrance Ticket",
+    "day": "4",
+    "info": "$8.45 - $27.26"
   },
   {
     "sortindex": 1756025349,
@@ -1178,7 +1165,7 @@
     "info": "$22.04"
   },
   {
-    "sortindex": 1755306132,
+    "sortindex": 1756874872,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/49d3b9bd-9333-45d7-b1a6-5775e2c8f368.jpeg",
     "month": "October",
     "subtitle": "Ball/Dinner/Gala",
