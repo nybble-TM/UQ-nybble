@@ -1,5 +1,18 @@
 [
   {
+    "sortindex": 1756974252,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/b8fcc13a-b9b9-482b-b032-1d83dbfa5477.png",
+    "month": "September",
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2652,
+    "destination": "/?eid=40115",
+    "societyname": "UQ Greens Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/265cbff9-789f-4b44-a3d3-16128abc5bd3.png",
+    "title": "RedRoom Social",
+    "day": "5",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756273013,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/65c52e33-27ab-4f05-bd15-25050ea31112.jpg",
     "month": "September",
@@ -10,19 +23,6 @@
     "societyname": "UQ K-pop Dance Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
     "title": "UQKDC Random Play Dance",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756681159,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_12.png",
-    "month": "September",
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2652,
-    "destination": "/?eid=40115",
-    "societyname": "UQ Greens Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/265cbff9-789f-4b44-a3d3-16128abc5bd3.png",
-    "title": "RedRoom Social",
     "day": "5",
     "info": "Free"
   },
@@ -111,8 +111,8 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756724179,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/80ffbd6e-544f-4f72-b41e-8b9c1034002e.jpg",
+    "sortindex": 1756972702,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f06c8247-05bb-437b-b6eb-7788e71a2c33.jpg",
     "month": "September",
     "societyAvgRating": 4.5,
     "subtitle": "Class/Workshop",
@@ -178,6 +178,48 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_649.png",
     "title": "Museum Crawl: QAG, GOMA & Onespace",
     "day": "13",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757029278,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d25a8ed-3af4-46d6-b435-cdbc359e722c.png",
+    "month": "September",
+    "societyAvgRating": 4.9,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7257,
+    "destination": "/?eid=36733",
+    "societyname": "Society of Lifesaving",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+    "title": "South Bank Bash",
+    "day": "14",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1756976813,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24c06fe9-2019-4b70-8a8c-9d52fd894795.jpg",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Class/Workshop",
+    "societyid": 6808,
+    "destination": "/?eid=40355",
+    "societyname": "UQ Neurological Society",
+    "societylogo": "https://resources.hellorubric.com/images/66d832c221b97_.png",
+    "title": "Invasive Neural Interfaces ",
+    "day": "15",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757024223,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ce5d1ea1-2804-4127-96da-ed73040c6b0c.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=40333",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/images/65ce9c62d21e6_.png",
+    "title": "Think Agency: Workshop with LCC Group",
+    "day": "16",
     "info": "Free"
   },
   {
