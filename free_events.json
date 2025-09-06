@@ -1,60 +1,5 @@
 [
   {
-    "sortindex": 1756974252,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/b8fcc13a-b9b9-482b-b032-1d83dbfa5477.png",
-    "month": "September",
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2652,
-    "destination": "/?eid=40115",
-    "societyname": "UQ Greens Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/265cbff9-789f-4b44-a3d3-16128abc5bd3.png",
-    "title": "RedRoom Social",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756273013,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/65c52e33-27ab-4f05-bd15-25050ea31112.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4271,
-    "destination": "/?eid=39868",
-    "societyname": "UQ K-pop Dance Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-    "title": "UQKDC Random Play Dance",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756184444,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/752ff7c9-9e48-4b82-a724-fb4b54255321.jpg",
-    "month": "September",
-    "societyAvgRating": 4.9,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1538,
-    "destination": "/?eid=39846",
-    "societyname": "The University of Queensland Biology Society",
-    "societylogo": "https://resources.hellorubric.com/images/6704e02e856a0_.png",
-    "title": "PUB TALKS",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756639156,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/01d341f3-b13b-49b9-b7bb-9b944ef45205.jpg",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2511,
-    "destination": "/?eid=40054",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Movie Night: The Furnace",
-    "day": "5",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756124132,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2339e04f-8f3a-4391-8729-76ddb7b39094.jpg",
     "month": "September",
@@ -223,6 +168,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757037620,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0875017e-4eb2-4338-a976-2872884540bc.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Class/Workshop",
+    "societyid": 4465,
+    "destination": "/?eid=40272",
+    "societyname": "UQ Political Science and International Relations Society",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4465.png",
+    "title": "Policy Writing Workshop ",
+    "day": "17",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756685944,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2ab674af-8d37-4c4a-bb51-0b9c5cd03e86.PNG",
     "month": "September",
@@ -265,6 +224,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757043207,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/76738b38-2545-4ac2-95a7-408ab889e8c4.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4650,
+    "destination": "/?eid=40140",
+    "societyname": "UQ Oncology",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4650.png",
+    "title": "World's Greatest Shave",
+    "day": "21",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756801630,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/539785c7-7ef4-4438-b520-79da62753909.png",
     "month": "September",
@@ -293,6 +266,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757045922,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=40426",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Sustainable Personal Finance Webinar",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756785366,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
     "month": "September",
@@ -304,6 +291,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_593.png",
     "title": "UQCC Careers and Canap\u00e9s",
     "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757120553,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd741adf-68d9-4d45-abfc-88a59e8b4b5c.jpeg",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 5729,
+    "destination": "/?eid=40478",
+    "societyname": "UQ Food Science Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+    "title": "AIFST: Careers And Networking Event",
+    "day": "1",
     "info": "Free"
   },
   {
