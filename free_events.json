@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1756124132,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2339e04f-8f3a-4391-8729-76ddb7b39094.jpg",
-    "month": "September",
-    "societyAvgRating": 4.8,
-    "subtitle": "Class/Workshop",
-    "societyid": 3180,
-    "destination": "/?eid=39764",
-    "societyname": "UQ Korean Medical Society",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3180.png",
-    "title": "Financial Literacy & Networking Workshop",
-    "day": "6",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756559519,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/dbf28db6-bba6-4d6f-b8db-f91876ca5230.jpg",
     "month": "September",
@@ -126,7 +112,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757029278,
+    "sortindex": 1757121939,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d25a8ed-3af4-46d6-b435-cdbc359e722c.png",
     "month": "September",
     "societyAvgRating": 4.9,
@@ -319,6 +305,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
     "title": "Surf Club Crawl",
     "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757145217,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1225c77e-2c97-4146-b6bd-f77a54f06883.png",
+    "month": "October",
+    "societyAvgRating": 4.8,
+    "subtitle": "Show/Performance",
+    "societyid": 2257,
+    "destination": "/?eid=39669",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
+    "title": "Eating Our Way To Extinction: screening + Q&A",
+    "day": "7",
     "info": "Free"
   },
   {

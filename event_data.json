@@ -303,7 +303,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 85,
+  "totalItemCount": 81,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2968,76 +2968,7 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1756508163,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/65ea73b4-b8bd-486b-987c-f32c863af8e0.png",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Class/Workshop",
-      "societyid": 7597,
-      "destination": "/?eid=40061",
-      "societyname": "UQ Bakeology",
-      "societylogo": "https://resources.hellorubric.com/images/65403834c2587_.png",
-      "title": "Doughnut Baking: Air Fryer Ed. (UQB x UQVegSoc)",
-      "day": "6",
-      "info": "$9.50"
-    },
-    {
-      "sortindex": 1756124132,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/2339e04f-8f3a-4391-8729-76ddb7b39094.jpg",
-      "month": "September",
-      "societyAvgRating": 4.8,
-      "subtitle": "Class/Workshop",
-      "societyid": 3180,
-      "destination": "/?eid=39764",
-      "societyname": "UQ Korean Medical Society",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3180.png",
-      "title": "Financial Literacy & Networking Workshop",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1757040765,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/a6e8f57a-27df-426c-a3f6-bf57ab9adcd8.jpg",
-      "month": "September",
-      "societyAvgRating": 4.7,
-      "subtitle": "Class/Workshop",
-      "societyid": 4430,
-      "destination": "/?eid=39681",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
-      "title": "Paint & Sip with cocktail & mocktail",
-      "day": "6",
-      "info": "$5.00 - $20.00"
-    },
-    {
-      "sortindex": 1753675661,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
-      "month": "September",
-      "subtitle": "Other",
-      "societyid": 10792,
-      "destination": "/?eid=37416",
-      "societyname": "UQ Chinese Cultural Dance Club",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-      "title": "Senior Workshop",
-      "day": "6",
-      "info": "$22.04"
-    },
-    {
-      "sortindex": 1756366923,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/24eb22d2-280d-4a26-b243-8a4ead989eb3.jpg",
-      "month": "September",
-      "societyAvgRating": 4.6,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 3932,
-      "destination": "/?eid=37219",
-      "societyname": "Queensland Pharmacy Students' Association",
-      "societylogo": "https://resources.hellorubric.com/images/65c1cb06e6124_.png",
-      "title": "QPSA Pharmacy Ball 2025: Alice in Pharmaland",
-      "day": "6",
-      "info": "$116.07 - $194.43"
-    },
-    {
-      "sortindex": 1756967577,
+      "sortindex": 1757143969,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/57ad0869-2356-44d0-b1e6-6ae469ebdb0f.png",
       "month": "September",
       "societyAvgRating": 4.3,
@@ -3046,7 +2977,7 @@
       "destination": "/?eid=40324",
       "societyname": "Australia-China Youth Association at UQ",
       "societylogo": "https://resources.hellorubric.com/images/641d01b87ef0d_.png",
-      "title": "Multi-Cultural Tea Workshop\ud83e\uded6",
+      "title": "ACYA x TSA x JX Multi-Cultural Tea Workshop\ud83e\uded6",
       "day": "8",
       "info": "$6.36 - $11.59"
     },
@@ -3107,20 +3038,6 @@
       "info": "Free"
     },
     {
-      "sortindex": 1756558101,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e5ebffa-c106-456c-8c98-e9e8a6f3e1e9.jpg",
-      "month": "September",
-      "societyAvgRating": 4.7,
-      "subtitle": "Show/Performance",
-      "societyid": 2225,
-      "destination": "/?eid=40073",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-      "title": "UQFAS presents 'The Killing of a Sacred Deer'",
-      "day": "9",
-      "info": "Free"
-    },
-    {
       "sortindex": 1756275773,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/31171b44-ceb6-4e8d-b0a1-f904d8309102.jpg",
       "month": "September",
@@ -3133,6 +3050,20 @@
       "title": "Science Postgraduate Mixer",
       "day": "9",
       "info": "$6.36 - $11.59"
+    },
+    {
+      "sortindex": 1756558101,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e5ebffa-c106-456c-8c98-e9e8a6f3e1e9.jpg",
+      "month": "September",
+      "societyAvgRating": 4.7,
+      "subtitle": "Show/Performance",
+      "societyid": 2225,
+      "destination": "/?eid=40073",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+      "title": "UQFAS presents 'The Killing of a Sacred Deer'",
+      "day": "9",
+      "info": "Free"
     },
     {
       "sortindex": 1754797170,
@@ -3177,20 +3108,6 @@
       "info": "$0.00 - $16.81"
     },
     {
-      "sortindex": 1755576043,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/8eb366d3-4fa8-4386-9875-ef27749e80d3.jpg",
-      "month": "September",
-      "societyAvgRating": 4.4,
-      "subtitle": "Industry/Career",
-      "societyid": 2348,
-      "destination": "/?eid=39156",
-      "societyname": "UQ Paediatric Society",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2348.png",
-      "title": "Paeds Networking Night",
-      "day": "10",
-      "info": "$8.00 - $13.00"
-    },
-    {
       "sortindex": 1756374009,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/4114d27f-4e1a-4e06-9e64-86ee7ccf27cb.png",
       "month": "September",
@@ -3203,6 +3120,20 @@
       "title": "UQBA x SV Partners Insolvency & Restructuring",
       "day": "10",
       "info": "Free"
+    },
+    {
+      "sortindex": 1755576043,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/8eb366d3-4fa8-4386-9875-ef27749e80d3.jpg",
+      "month": "September",
+      "societyAvgRating": 4.4,
+      "subtitle": "Industry/Career",
+      "societyid": 2348,
+      "destination": "/?eid=39156",
+      "societyname": "UQ Paediatric Society",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2348.png",
+      "title": "Paeds Networking Night",
+      "day": "10",
+      "info": "$8.00 - $13.00"
     },
     {
       "sortindex": 1757038267,
@@ -3344,7 +3275,7 @@
       "info": "$22.04"
     },
     {
-      "sortindex": 1755389621,
+      "sortindex": 1757160653,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/681869d6-92ff-4768-9fdf-e501e557e729.jpg",
       "month": "September",
       "societyAvgRating": 4.8,
@@ -3372,7 +3303,7 @@
       "info": "$74.28 - $126.52"
     },
     {
-      "sortindex": 1757029278,
+      "sortindex": 1757121939,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d25a8ed-3af4-46d6-b435-cdbc359e722c.png",
       "month": "September",
       "societyAvgRating": 4.9,
@@ -3413,20 +3344,6 @@
       "info": "$0.00 - $22.04"
     },
     {
-      "sortindex": 1756976813,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/24c06fe9-2019-4b70-8a8c-9d52fd894795.jpg",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Class/Workshop",
-      "societyid": 6808,
-      "destination": "/?eid=40355",
-      "societyname": "UQ Neurological Society",
-      "societylogo": "https://resources.hellorubric.com/images/66d832c221b97_.png",
-      "title": "Invasive Neural Interfaces ",
-      "day": "15",
-      "info": "Free"
-    },
-    {
       "sortindex": 1756117193,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/46a252ec-cadd-43f9-9c18-191e8b7b6ba8.jpg",
       "month": "September",
@@ -3441,17 +3358,17 @@
       "info": "$27.26"
     },
     {
-      "sortindex": 1757024223,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/ce5d1ea1-2804-4127-96da-ed73040c6b0c.png",
+      "sortindex": 1756976813,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/24c06fe9-2019-4b70-8a8c-9d52fd894795.jpg",
       "month": "September",
-      "societyAvgRating": 4.6,
+      "societyAvgRating": 4.5,
       "subtitle": "Class/Workshop",
-      "societyid": 186,
-      "destination": "/?eid=40333",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/images/65ce9c62d21e6_.png",
-      "title": "Think Agency: Workshop with LCC Group",
-      "day": "16",
+      "societyid": 6808,
+      "destination": "/?eid=40355",
+      "societyname": "UQ Neurological Society",
+      "societylogo": "https://resources.hellorubric.com/images/66d832c221b97_.png",
+      "title": "Invasive Neural Interfaces ",
+      "day": "15",
       "info": "Free"
     },
     {
@@ -3467,6 +3384,20 @@
       "title": "Pathways to ClinPsych",
       "day": "16",
       "info": "$5.66 - $15.89"
+    },
+    {
+      "sortindex": 1757024223,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/ce5d1ea1-2804-4127-96da-ed73040c6b0c.png",
+      "month": "September",
+      "societyAvgRating": 4.6,
+      "subtitle": "Class/Workshop",
+      "societyid": 186,
+      "destination": "/?eid=40333",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://resources.hellorubric.com/images/65ce9c62d21e6_.png",
+      "title": "Think Agency: Workshop with LCC Group",
+      "day": "16",
+      "info": "Free"
     },
     {
       "sortindex": 1756782525,
@@ -3608,20 +3539,6 @@
       "info": "$22.04"
     },
     {
-      "sortindex": 1756982431,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/1a9731d2-8469-41b6-b7bc-f864c6f78d31.png",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3147,
-      "destination": "/?eid=40022",
-      "societyname": "The UQ Women's Network",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-      "title": "Watercolour by the Water | UQWN \u00d7 UQSoFA",
-      "day": "21",
-      "info": "$8.45 - $13.68"
-    },
-    {
       "sortindex": 1757043207,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/76738b38-2545-4ac2-95a7-408ab889e8c4.png",
       "month": "September",
@@ -3634,6 +3551,20 @@
       "title": "World's Greatest Shave",
       "day": "21",
       "info": "Free"
+    },
+    {
+      "sortindex": 1756982431,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/1a9731d2-8469-41b6-b7bc-f864c6f78d31.png",
+      "month": "September",
+      "societyAvgRating": 4.5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3147,
+      "destination": "/?eid=40022",
+      "societyname": "The UQ Women's Network",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+      "title": "Watercolour by the Water | UQWN \u00d7 UQSoFA",
+      "day": "21",
+      "info": "$8.45 - $13.68"
     },
     {
       "sortindex": 1756801630,
@@ -3678,20 +3609,6 @@
       "info": "Free"
     },
     {
-      "sortindex": 1757114962,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/7abb98f8-2e78-494c-bc6f-037ae8c689d1.png",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Industry/Career",
-      "societyid": 3147,
-      "destination": "/?eid=40474",
-      "societyname": "The UQ Women's Network",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-      "title": "UQWN Strategy Showcase 2025",
-      "day": "25",
-      "info": "$0.00 - $6.36"
-    },
-    {
       "sortindex": 1756785366,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
       "month": "September",
@@ -3704,6 +3621,20 @@
       "title": "UQCC Careers and Canap\u00e9s",
       "day": "25",
       "info": "Free"
+    },
+    {
+      "sortindex": 1757200091,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/7abb98f8-2e78-494c-bc6f-037ae8c689d1.png",
+      "month": "September",
+      "societyAvgRating": 4.5,
+      "subtitle": "Industry/Career",
+      "societyid": 3147,
+      "destination": "/?eid=40474",
+      "societyname": "The UQ Women's Network",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+      "title": "UQWN Strategy Showcase 2025",
+      "day": "25",
+      "info": "$0.00 - $6.36"
     },
     {
       "sortindex": 1756898668,
@@ -3926,6 +3857,20 @@
       "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
       "title": "Surf Club Crawl",
       "day": "5",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1757145217,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/1225c77e-2c97-4146-b6bd-f77a54f06883.png",
+      "month": "October",
+      "societyAvgRating": 4.8,
+      "subtitle": "Show/Performance",
+      "societyid": 2257,
+      "destination": "/?eid=39669",
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
+      "title": "Eating Our Way To Extinction: screening + Q&A",
+      "day": "7",
       "info": "Free"
     },
     {
