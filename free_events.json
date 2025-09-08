@@ -154,7 +154,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757037620,
+    "sortindex": 1757241732,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0875017e-4eb2-4338-a976-2872884540bc.png",
     "month": "September",
     "societyAvgRating": 4.5,
@@ -280,6 +280,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757228865,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1e241d37-50b9-4fbc-8e64-afeb2a0d4baa.jpg",
+    "month": "September",
+    "societyAvgRating": 4.8,
+    "subtitle": "Other",
+    "societyid": 4688,
+    "destination": "/?eid=38414",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.hellorubric.com/images/64ca3c4c95979_.png",
+    "title": "2025 Girraween national park camp",
+    "day": "28",
+    "info": "Free"
+  },
+  {
     "sortindex": 1757120553,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd741adf-68d9-4d45-abfc-88a59e8b4b5c.jpeg",
     "month": "October",
@@ -294,8 +308,21 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756679967,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/b72db787-2883-47bb-8ae2-5875d05780fc.jpg",
+    "sortindex": 1757232439,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
+    "month": "October",
+    "subtitle": "Industry/Career",
+    "societyid": 5763,
+    "destination": "/?eid=40512",
+    "societyname": "Bachelor of Advanced Business (Honours) SPC",
+    "societylogo": "https://resources.hellorubric.com/images/651e1bc92c1a1_.png",
+    "title": "Bachelor of Advanced Business' Careers Connect",
+    "day": "2",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757291720,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a092a0d7-7fb2-4eb7-a944-6a3903d6ef5b.png",
     "month": "October",
     "societyAvgRating": 4.9,
     "subtitle": "Party/BBQ/Social",
@@ -308,8 +335,8 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757145217,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1225c77e-2c97-4146-b6bd-f77a54f06883.png",
+    "sortindex": 1757248282,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5efdebf7-9d19-426b-9ca3-da0929cb0331.png",
     "month": "October",
     "societyAvgRating": 4.8,
     "subtitle": "Show/Performance",
@@ -317,7 +344,7 @@
     "destination": "/?eid=39669",
     "societyname": "UQ Vegan Society",
     "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
-    "title": "Eating Our Way To Extinction: screening + Q&A",
+    "title": "Eating Our Way to Extinction: screening + Q&A",
     "day": "7",
     "info": "Free"
   },

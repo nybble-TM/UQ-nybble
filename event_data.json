@@ -303,7 +303,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 81,
+  "totalItemCount": 85,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2968,7 +2968,7 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1757143969,
+      "sortindex": 1757256893,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/57ad0869-2356-44d0-b1e6-6ae469ebdb0f.png",
       "month": "September",
       "societyAvgRating": 4.3,
@@ -2996,7 +2996,7 @@
       "info": "$6.36"
     },
     {
-      "sortindex": 1756016096,
+      "sortindex": 1757286253,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/6db714d4-9eb7-4701-9d84-ee6428b21965.png",
       "month": "September",
       "societyAvgRating": 4.5,
@@ -3022,6 +3022,20 @@
       "title": "The Book that Changed the World",
       "day": "8",
       "info": "$0.00 - $12.82"
+    },
+    {
+      "sortindex": 1757246494,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4c6496fc-f2bf-4189-bd89-4aa01ecfd54e.jpeg",
+      "month": "September",
+      "societyAvgRating": 4.7,
+      "subtitle": "Other",
+      "societyid": 4271,
+      "destination": "/?eid=40204",
+      "societyname": "UQ K-pop Dance Club",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+      "title": "UQKDC WEEK 7 CLASS DROP-IN TICKET",
+      "day": "9",
+      "info": "$2.00"
     },
     {
       "sortindex": 1756559519,
@@ -3275,7 +3289,7 @@
       "info": "$22.04"
     },
     {
-      "sortindex": 1757160653,
+      "sortindex": 1757212655,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/681869d6-92ff-4768-9fdf-e501e557e729.jpg",
       "month": "September",
       "societyAvgRating": 4.8,
@@ -3428,7 +3442,7 @@
       "info": "$0.00 - $6.36"
     },
     {
-      "sortindex": 1757037620,
+      "sortindex": 1757241732,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/0875017e-4eb2-4338-a976-2872884540bc.png",
       "month": "September",
       "societyAvgRating": 4.5,
@@ -3484,20 +3498,6 @@
       "info": "$16.81 - $27.26"
     },
     {
-      "sortindex": 1757055766,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/8d41d53d-36da-4477-b9ab-221142865137.png",
-      "month": "September",
-      "societyAvgRating": 4.9,
-      "subtitle": "Other",
-      "societyid": 1601,
-      "destination": "/?eid=40433",
-      "societyname": "UQ Skirts in Engineering",
-      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-      "title": "Clay and Sip '25",
-      "day": "18",
-      "info": "$27.26 - $32.48"
-    },
-    {
       "sortindex": 1756424054,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/3d36bc46-3163-463d-9681-b553f4667931.png",
       "month": "September",
@@ -3510,6 +3510,20 @@
       "title": "Trivia Night ",
       "day": "18",
       "info": "$9.99 - $16.99"
+    },
+    {
+      "sortindex": 1757055766,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/8d41d53d-36da-4477-b9ab-221142865137.png",
+      "month": "September",
+      "societyAvgRating": 4.9,
+      "subtitle": "Other",
+      "societyid": 1601,
+      "destination": "/?eid=40433",
+      "societyname": "UQ Skirts in Engineering",
+      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "title": "Clay and Sip '25",
+      "day": "18",
+      "info": "$27.26 - $32.48"
     },
     {
       "sortindex": 1756730340,
@@ -3693,6 +3707,20 @@
       "info": "$0.00 - $11.59"
     },
     {
+      "sortindex": 1757226383,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/25b24526-8abc-4372-b205-b26aeb172eab.jpg",
+      "month": "September",
+      "societyAvgRating": 4.3,
+      "subtitle": "Other",
+      "societyid": 2232,
+      "destination": "/?eid=40505",
+      "societyname": "Australia-China Youth Association at UQ",
+      "societylogo": "https://resources.hellorubric.com/images/641d01b87ef0d_.png",
+      "title": "Mid-Autumn Festival with ACYA National x ACYA UQ ",
+      "day": "26",
+      "info": "$0.00 - $63.83"
+    },
+    {
       "sortindex": 1753910738,
       "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_18.png",
       "month": "September",
@@ -3776,6 +3804,20 @@
       "info": "$0.00 - $189.69"
     },
     {
+      "sortindex": 1757228865,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/1e241d37-50b9-4fbc-8e64-afeb2a0d4baa.jpg",
+      "month": "September",
+      "societyAvgRating": 4.8,
+      "subtitle": "Other",
+      "societyid": 4688,
+      "destination": "/?eid=38414",
+      "societyname": "UQ Ecological Society",
+      "societylogo": "https://resources.hellorubric.com/images/64ca3c4c95979_.png",
+      "title": "2025 Girraween national park camp",
+      "day": "28",
+      "info": "Free"
+    },
+    {
       "sortindex": 1755853159,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/92bc8a6f-e79c-4b3c-ac48-efa4d80774d6.png",
       "month": "September",
@@ -3818,6 +3860,19 @@
       "info": "Free"
     },
     {
+      "sortindex": 1757232439,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
+      "month": "October",
+      "subtitle": "Industry/Career",
+      "societyid": 5763,
+      "destination": "/?eid=40512",
+      "societyname": "Bachelor of Advanced Business (Honours) SPC",
+      "societylogo": "https://resources.hellorubric.com/images/651e1bc92c1a1_.png",
+      "title": "Bachelor of Advanced Business' Careers Connect",
+      "day": "2",
+      "info": "Free"
+    },
+    {
       "sortindex": 1756872622,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/918478c0-e8c6-46c6-8086-eabcd4d9fd1a.jpeg",
       "month": "October",
@@ -3846,8 +3901,8 @@
       "info": "$0.00 - $10.00"
     },
     {
-      "sortindex": 1756679967,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/b72db787-2883-47bb-8ae2-5875d05780fc.jpg",
+      "sortindex": 1757291720,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/a092a0d7-7fb2-4eb7-a944-6a3903d6ef5b.png",
       "month": "October",
       "societyAvgRating": 4.9,
       "subtitle": "Party/BBQ/Social",
@@ -3857,20 +3912,6 @@
       "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
       "title": "Surf Club Crawl",
       "day": "5",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1757145217,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/1225c77e-2c97-4146-b6bd-f77a54f06883.png",
-      "month": "October",
-      "societyAvgRating": 4.8,
-      "subtitle": "Show/Performance",
-      "societyid": 2257,
-      "destination": "/?eid=39669",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
-      "title": "Eating Our Way To Extinction: screening + Q&A",
-      "day": "7",
       "info": "Free"
     },
     {
@@ -3886,6 +3927,20 @@
       "title": "UQ Internal Medicine Society Research Roundup",
       "day": "7",
       "info": "$0.00 - $5.00"
+    },
+    {
+      "sortindex": 1757248282,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5efdebf7-9d19-426b-9ca3-da0929cb0331.png",
+      "month": "October",
+      "societyAvgRating": 4.8,
+      "subtitle": "Show/Performance",
+      "societyid": 2257,
+      "destination": "/?eid=39669",
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
+      "title": "Eating Our Way to Extinction: screening + Q&A",
+      "day": "7",
+      "info": "Free"
     },
     {
       "sortindex": 1756253286,
