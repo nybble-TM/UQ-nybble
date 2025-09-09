@@ -252,6 +252,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757329432,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_3.png",
+    "month": "September",
+    "societyAvgRating": 5,
+    "subtitle": "Other",
+    "societyid": 10456,
+    "destination": "/?eid=40592",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "UQMHC Presents... September Book Club",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1757045922,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
     "month": "September",
@@ -280,7 +294,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757228865,
+    "sortindex": 1757312721,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1e241d37-50b9-4fbc-8e64-afeb2a0d4baa.jpg",
     "month": "September",
     "societyAvgRating": 4.8,
@@ -318,20 +332,6 @@
     "societylogo": "https://resources.hellorubric.com/images/651e1bc92c1a1_.png",
     "title": "Bachelor of Advanced Business' Careers Connect",
     "day": "2",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1757291720,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a092a0d7-7fb2-4eb7-a944-6a3903d6ef5b.png",
-    "month": "October",
-    "societyAvgRating": 4.9,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 7257,
-    "destination": "/?eid=40096",
-    "societyname": "Society of Lifesaving",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
-    "title": "Surf Club Crawl",
-    "day": "5",
     "info": "Free"
   },
   {
