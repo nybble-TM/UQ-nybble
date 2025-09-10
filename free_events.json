@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1756559519,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/dbf28db6-bba6-4d6f-b8db-f91876ca5230.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=40078",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Merlo Coffee & Chat Week 7",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756558101,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e5ebffa-c106-456c-8c98-e9e8a6f3e1e9.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Show/Performance",
-    "societyid": 2225,
-    "destination": "/?eid=40073",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS presents 'The Killing of a Sacred Deer'",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1754797170,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
-    "month": "September",
-    "societyAvgRating": 5,
-    "subtitle": "Class/Workshop",
-    "societyid": 2305,
-    "destination": "/?eid=38912",
-    "societyname": "Towards International Medical Equity",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2305.png",
-    "title": "Refugees & Migrants in Australian PHC",
-    "day": "9",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756972702,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/f06c8247-05bb-437b-b6eb-7788e71a2c33.jpg",
     "month": "September",
@@ -168,7 +126,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756685944,
+    "sortindex": 1757415492,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2ab674af-8d37-4c4a-bb51-0b9c5cd03e86.PNG",
     "month": "September",
     "societyAvgRating": 4.3,
@@ -252,20 +210,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757329432,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_3.png",
-    "month": "September",
-    "societyAvgRating": 5,
-    "subtitle": "Other",
-    "societyid": 10456,
-    "destination": "/?eid=40592",
-    "societyname": "UQ Medical Humanities Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-    "title": "UQMHC Presents... September Book Club",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757045922,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
     "month": "September",
@@ -276,6 +220,20 @@
     "societyname": "UQ Sustainable Innovators Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Sustainable Personal Finance Webinar",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757381916,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
+    "month": "September",
+    "societyAvgRating": 5,
+    "subtitle": "Other",
+    "societyid": 10456,
+    "destination": "/?eid=40592",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "UQMHC Presents... September Book Club",
     "day": "24",
     "info": "Free"
   },
@@ -349,6 +307,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757401573,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e3b2ef9-e504-4698-ba7b-06ee4806def9.png",
+    "month": "October",
+    "societyAvgRating": 4.6,
+    "subtitle": "Industry/Career",
+    "societyid": 165,
+    "destination": "/?eid=40661",
+    "societyname": "UQBA - UQ Business Association",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
+    "title": "UQBA x UQMAS Marketing Panel & Workshop",
+    "day": "8",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756785379,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/f79aff3c-746e-402d-ad4f-9352bb41d629.png",
     "month": "October",
@@ -363,7 +335,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756245994,
+    "sortindex": 1757404540,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_11.png",
     "month": "October",
     "societyAvgRating": 4.5,
