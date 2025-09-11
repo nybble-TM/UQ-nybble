@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1756972702,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f06c8247-05bb-437b-b6eb-7788e71a2c33.jpg",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Class/Workshop",
-    "societyid": 2511,
-    "destination": "/?eid=40145",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Confident Muslimah w/ Sr Nabeela Ehsaan",
-    "day": "10",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756374009,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/4114d27f-4e1a-4e06-9e64-86ee7ccf27cb.png",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Industry/Career",
-    "societyid": 165,
-    "destination": "/?eid=40001",
-    "societyname": "UQBA - UQ Business Association",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
-    "title": "UQBA x SV Partners Insolvency & Restructuring",
-    "day": "10",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1755685992,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/3cd7fe98-c501-4c73-a583-cbd669f692fe.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 4848,
-    "destination": "/?eid=39249",
-    "societyname": "Justice and the Law Society",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4848.png",
-    "title": "Diplomacy in 2025",
-    "day": "10",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756461246,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ca864cd-cb15-4348-9999-dff0e6bb5ac6.png",
     "month": "September",
@@ -106,8 +64,36 @@
     "societyid": 186,
     "destination": "/?eid=40333",
     "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/images/65ce9c62d21e6_.png",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/296ecf68-3287-4018-b480-0fc1993b6228.png",
     "title": "Think Agency: Workshop with LCC Group",
+    "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757509369,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/dbf28db6-bba6-4d6f-b8db-f91876ca5230.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=40781",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Merlo Coffee & Chat Week 8",
+    "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757509250,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ee225e02-6148-4a7a-98c1-788d066058bf.jpg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2225,
+    "destination": "/?eid=40074",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
+    "title": "UQFAS presents 'Okja (2018)'",
     "day": "16",
     "info": "Free"
   },
@@ -122,6 +108,19 @@
     "societyname": "UQ Political Science and International Relations Society",
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4465.png",
     "title": "Policy Writing Workshop ",
+    "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757510361,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ae3fa849-5da2-4cd4-a14a-031e2fe40236.png",
+    "month": "September",
+    "subtitle": "Class/Workshop",
+    "societyid": 7008,
+    "destination": "/?eid=40784",
+    "societyname": "UQ NeuroTech",
+    "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
+    "title": "UQ NeuroTech LabTalks: A/Prof. Suarez & Dr. Black",
     "day": "17",
     "info": "Free"
   },
@@ -168,6 +167,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757507289,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/c6170cb1-ed56-4856-a7fc-3df5f0897337.png",
+    "month": "September",
+    "societyAvgRating": 4.8,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=40641",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
+    "title": "Potluck + Clothing Swap",
+    "day": "20",
+    "info": "Free"
+  },
+  {
     "sortindex": 1757043207,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/76738b38-2545-4ac2-95a7-408ab889e8c4.png",
     "month": "September",
@@ -210,6 +223,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757550608,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/3c62bd56-2b15-4a12-ad3e-68173f029185.png",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=40810",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
+    "title": "Create Your Career",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1757045922,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
     "month": "September",
@@ -224,7 +251,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757381916,
+    "sortindex": 1757470527,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
     "month": "September",
     "societyAvgRating": 5,
@@ -263,6 +290,20 @@
     "societylogo": "https://resources.hellorubric.com/images/64ca3c4c95979_.png",
     "title": "2025 Girraween national park camp",
     "day": "28",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757475326,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ed4d57d-6e2d-4b61-b655-dd2b9d1607e4.png",
+    "month": "October",
+    "societyAvgRating": 4.8,
+    "subtitle": "Other",
+    "societyid": 8835,
+    "destination": "/?eid=40744",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "UQCCR Student Club AGM",
+    "day": "1",
     "info": "Free"
   },
   {
@@ -332,6 +373,20 @@
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
     "title": "OOPS Awards Night",
     "day": "15",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757543191,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24acf89b-6aec-4c06-a6fb-e88b0f117e57.png",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Sport/Competition",
+    "societyid": 534,
+    "destination": "/?eid=40786",
+    "societyname": "Queensland University Exchange Students Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+    "title": "Invitational 5000 m",
+    "day": "18",
     "info": "Free"
   },
   {
