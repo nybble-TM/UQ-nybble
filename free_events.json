@@ -56,7 +56,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757024223,
+    "sortindex": 1757560052,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/ce5d1ea1-2804-4127-96da-ed73040c6b0c.png",
     "month": "September",
     "societyAvgRating": 4.6,
@@ -195,6 +195,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757600237,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/05edc3b5-8cc3-4045-8316-16b5688095cc.jpg",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Other",
+    "societyid": 2511,
+    "destination": "/?eid=40870",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Reflections on Surah Yusuf - Part 2",
+    "day": "22",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756801630,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/539785c7-7ef4-4438-b520-79da62753909.png",
     "month": "September",
@@ -237,20 +251,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757045922,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 5398,
-    "destination": "/?eid=40426",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Sustainable Personal Finance Webinar",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757470527,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
     "month": "September",
@@ -261,6 +261,20 @@
     "societyname": "UQ Medical Humanities Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
     "title": "UQMHC Presents... September Book Club",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757045922,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=40426",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Sustainable Personal Finance Webinar",
     "day": "24",
     "info": "Free"
   },
