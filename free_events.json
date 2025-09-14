@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1756461246,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ca864cd-cb15-4348-9999-dff0e6bb5ac6.png",
-    "month": "September",
-    "societyAvgRating": 4.8,
-    "subtitle": "Trip/Camp",
-    "societyid": 2235,
-    "destination": "/?eid=40050",
-    "societyname": "UQ Photography Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
-    "title": "Oxley Creek Bird Walk",
-    "day": "13",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756805268,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/04d8eecf-21a8-4fad-a48c-3e8ecd47cf67.jpg",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 649,
-    "destination": "/?eid=39854",
-    "societyname": "Society of Fine Arts",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_649.png",
-    "title": "Museum Crawl: QAG, GOMA & Onespace",
-    "day": "13",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757121939,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d25a8ed-3af4-46d6-b435-cdbc359e722c.png",
     "month": "September",
@@ -251,20 +223,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757470527,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
-    "month": "September",
-    "societyAvgRating": 5,
-    "subtitle": "Other",
-    "societyid": 10456,
-    "destination": "/?eid=40592",
-    "societyname": "UQ Medical Humanities Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-    "title": "UQMHC Presents... September Book Club",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757045922,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
     "month": "September",
@@ -275,6 +233,20 @@
     "societyname": "UQ Sustainable Innovators Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Sustainable Personal Finance Webinar",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757470527,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
+    "month": "September",
+    "societyAvgRating": 5,
+    "subtitle": "Other",
+    "societyid": 10456,
+    "destination": "/?eid=40592",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "UQMHC Presents... September Book Club",
     "day": "24",
     "info": "Free"
   },
@@ -293,7 +265,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757312721,
+    "sortindex": 1757741068,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1e241d37-50b9-4fbc-8e64-afeb2a0d4baa.jpg",
     "month": "September",
     "societyAvgRating": 4.8,
