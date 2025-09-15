@@ -2968,47 +2968,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1757121939,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d25a8ed-3af4-46d6-b435-cdbc359e722c.png",
-      "month": "September",
-      "societyAvgRating": 4.9,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 7257,
-      "destination": "/?eid=36733",
-      "societyname": "Society of Lifesaving",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
-      "title": "South Bank Bash",
-      "day": "14",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1756211711,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/e4577409-673e-49b8-80c1-8256dce9f6ea.jpg",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3225,
-      "destination": "/?eid=39762",
-      "societyname": "UQ Gatton Student Association",
-      "societylogo": "https://resources.hellorubric.com/images/66ce6e88ac950_.png",
-      "title": "House Crawl",
-      "day": "14",
-      "info": "$35.10 - $69.05"
-    },
-    {
-      "sortindex": 1753258031,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_9.png",
-      "month": "September",
-      "subtitle": "Other",
-      "societyid": 10792,
-      "destination": "/?eid=37430",
-      "societyname": "UQ Chinese Cultural Dance Club",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-      "title": " Beginning Workshop",
-      "day": "14",
-      "info": "$0.00 - $22.04"
-    },
-    {
       "sortindex": 1757588957,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/73da0ab1-c381-4ec2-b791-686ba246a159.png",
       "month": "September",
@@ -3021,6 +2980,20 @@
       "title": "Dermal Therapy Skincare Workshop",
       "day": "15",
       "info": "$0.00 - $16.81"
+    },
+    {
+      "sortindex": 1757539749,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/46a252ec-cadd-43f9-9c18-191e8b7b6ba8.jpg",
+      "month": "September",
+      "societyAvgRating": 4.8,
+      "subtitle": "Industry/Career",
+      "societyid": 2365,
+      "destination": "/?eid=39754",
+      "societyname": "UQ Agribusiness Association",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a6d3123b-2d65-48a7-b2c3-da174aed4414.png",
+      "title": "Agribusiness Industry Dinner 2025",
+      "day": "15",
+      "info": "$27.26"
     },
     {
       "sortindex": 1756976813,
@@ -3037,18 +3010,32 @@
       "info": "Free"
     },
     {
-      "sortindex": 1757539749,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/46a252ec-cadd-43f9-9c18-191e8b7b6ba8.jpg",
+      "sortindex": 1757885713,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/25c3b9e8-b316-40f5-b683-324b2142d1e7.jpeg",
       "month": "September",
-      "societyAvgRating": 4.8,
+      "societyAvgRating": 4.7,
+      "subtitle": "Class/Workshop",
+      "societyid": 4271,
+      "destination": "/?eid=40665",
+      "societyname": "UQ K-pop Dance Club",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+      "title": "UQKDC WEEK 8 CLASS DROP-IN TICKET",
+      "day": "16",
+      "info": "$2.00"
+    },
+    {
+      "sortindex": 1756109929,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/f9dad75d-83ed-456e-84a5-bcccccba8367.png",
+      "month": "September",
+      "societyAvgRating": 4.4,
       "subtitle": "Industry/Career",
-      "societyid": 2365,
-      "destination": "/?eid=39754",
-      "societyname": "UQ Agribusiness Association",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a6d3123b-2d65-48a7-b2c3-da174aed4414.png",
-      "title": "Agribusiness Industry Dinner 2025",
-      "day": "15",
-      "info": "$27.26"
+      "societyid": 1857,
+      "destination": "/?eid=39725",
+      "societyname": "UQ Psychology Students Association",
+      "societylogo": "https://resources.hellorubric.com/images/63da1539b7b87_.png",
+      "title": "Pathways to ClinPsych",
+      "day": "16",
+      "info": "$5.66 - $15.89"
     },
     {
       "sortindex": 1757682839,
@@ -3079,18 +3066,18 @@
       "info": "Free"
     },
     {
-      "sortindex": 1756109929,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/f9dad75d-83ed-456e-84a5-bcccccba8367.png",
+      "sortindex": 1756782525,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/48fd46aa-86cc-4413-8bb7-fd2c2a8818da.jpg",
       "month": "September",
-      "societyAvgRating": 4.4,
-      "subtitle": "Industry/Career",
-      "societyid": 1857,
-      "destination": "/?eid=39725",
-      "societyname": "UQ Psychology Students Association",
-      "societylogo": "https://resources.hellorubric.com/images/63da1539b7b87_.png",
-      "title": "Pathways to ClinPsych",
+      "societyAvgRating": 4.6,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2308,
+      "destination": "/?eid=40146",
+      "societyname": "Occupational Therapy Students Association",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/3c6b3c0c-5393-4296-94d8-28740d4aab48.png",
+      "title": "OT 2nd Year Trivia Night 2025",
       "day": "16",
-      "info": "$5.66 - $15.89"
+      "info": "$6.36 - $11.59"
     },
     {
       "sortindex": 1757509250,
@@ -3107,20 +3094,6 @@
       "info": "Free"
     },
     {
-      "sortindex": 1756782525,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/48fd46aa-86cc-4413-8bb7-fd2c2a8818da.jpg",
-      "month": "September",
-      "societyAvgRating": 4.6,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2308,
-      "destination": "/?eid=40146",
-      "societyname": "Occupational Therapy Students Association",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/3c6b3c0c-5393-4296-94d8-28740d4aab48.png",
-      "title": "OT 2nd Year Trivia Night 2025",
-      "day": "16",
-      "info": "$6.36 - $11.59"
-    },
-    {
       "sortindex": 1756446286,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/42cc86ed-924f-4323-ad0e-ac3ec4cc68d6.png",
       "month": "September",
@@ -3135,7 +3108,7 @@
       "info": "$0.00 - $6.36"
     },
     {
-      "sortindex": 1757241732,
+      "sortindex": 1757842600,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/0875017e-4eb2-4338-a976-2872884540bc.png",
       "month": "September",
       "societyAvgRating": 4.5,
@@ -3260,19 +3233,6 @@
       "info": "$9.99 - $16.99"
     },
     {
-      "sortindex": 1757589609,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5f3d5f11-47d3-46a0-9ad6-8def5bca172d.jpg",
-      "month": "September",
-      "subtitle": "Industry/Career",
-      "societyid": 3444,
-      "destination": "/?eid=40864",
-      "societyname": "UQ Derm",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3444.png",
-      "title": "CSC Screening ",
-      "day": "18",
-      "info": "$3.23 - $6.36"
-    },
-    {
       "sortindex": 1756730340,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/357e505a-22e9-4b34-b2f1-eaf1b6319ee1.png",
       "month": "September",
@@ -3285,6 +3245,19 @@
       "title": "Enviros in Mining Night",
       "day": "18",
       "info": "Free"
+    },
+    {
+      "sortindex": 1757589609,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5f3d5f11-47d3-46a0-9ad6-8def5bca172d.jpg",
+      "month": "September",
+      "subtitle": "Industry/Career",
+      "societyid": 3444,
+      "destination": "/?eid=40864",
+      "societyname": "UQ Derm",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3444.png",
+      "title": "CSC Screening ",
+      "day": "18",
+      "info": "$0.00 - $3.23"
     },
     {
       "sortindex": 1757507289,
@@ -3312,6 +3285,20 @@
       "title": "Senior Workshop",
       "day": "20",
       "info": "$22.04"
+    },
+    {
+      "sortindex": 1757821757,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d5c1757-08d4-47b2-8cf6-501cf27a0c89.jpg",
+      "month": "September",
+      "societyAvgRating": 5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1404,
+      "destination": "/?eid=40840",
+      "societyname": "UQ Singapore Students' Society",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1404.png",
+      "title": "Picnic and Speed Befriending Event (MEMBERS only!)",
+      "day": "20",
+      "info": "$6.36"
     },
     {
       "sortindex": 1757043207,
@@ -3411,6 +3398,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1757846432,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/72e36723-2c8f-4c24-96ff-2977cbcfa65b.png",
+      "month": "September",
+      "societyAvgRating": 4.4,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2395,
+      "destination": "/?eid=41053",
+      "societyname": "Gatton International Student Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2395.png",
+      "title": "Eat & Dance",
+      "day": "23",
+      "info": "$0.00 - $6.36"
+    },
+    {
       "sortindex": 1757561068,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/7e9a779d-2a23-4fab-8876-39fcc89fdef0.jpg",
       "month": "September",
@@ -3467,20 +3468,6 @@
       "info": "Free"
     },
     {
-      "sortindex": 1756785366,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
-      "month": "September",
-      "societyAvgRating": 4.9,
-      "subtitle": "Industry/Career",
-      "societyid": 593,
-      "destination": "/?eid=38679",
-      "societyname": "UQ Chemistry Club",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_593.png",
-      "title": "UQCC Careers and Canap\u00e9s",
-      "day": "25",
-      "info": "Free"
-    },
-    {
       "sortindex": 1757200091,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/7abb98f8-2e78-494c-bc6f-037ae8c689d1.png",
       "month": "September",
@@ -3507,6 +3494,20 @@
       "title": "UQKDC Potluck and Movie Night",
       "day": "25",
       "info": "$0.00 - $15.00"
+    },
+    {
+      "sortindex": 1756785366,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
+      "month": "September",
+      "societyAvgRating": 4.9,
+      "subtitle": "Industry/Career",
+      "societyid": 593,
+      "destination": "/?eid=38679",
+      "societyname": "UQ Chemistry Club",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_593.png",
+      "title": "UQCC Careers and Canap\u00e9s",
+      "day": "25",
+      "info": "Free"
     },
     {
       "sortindex": 1756898668,
@@ -3926,7 +3927,7 @@
       "info": "$0.00 - $6.36"
     },
     {
-      "sortindex": 1757401573,
+      "sortindex": 1757821316,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e3b2ef9-e504-4698-ba7b-06ee4806def9.png",
       "month": "October",
       "societyAvgRating": 4.6,
@@ -3979,6 +3980,20 @@
       "title": "UQ Dance Ball: Just Dance!",
       "day": "11",
       "info": "$63.83 - $84.72"
+    },
+    {
+      "sortindex": 1757835641,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/d895a5b9-5f9e-4e11-94b8-d44e9ee6b812.png",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 57,
+      "destination": "/?eid=41045",
+      "societyname": "University of Queensland Law Society Incorporated",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS Valedictory Law Dinner 2025",
+      "day": "11",
+      "info": "$80.00 - $125.00"
     },
     {
       "sortindex": 1756281973,
@@ -4158,19 +4173,6 @@
       "title": "Senior Workshop",
       "day": "25",
       "info": "$22.04"
-    },
-    {
-      "sortindex": 1753258057,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_10.png",
-      "month": "October",
-      "subtitle": "Other",
-      "societyid": 10792,
-      "destination": "/?eid=37431",
-      "societyname": "UQ Chinese Cultural Dance Club",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-      "title": "Beginning Workshop",
-      "day": "26",
-      "info": "$0.00 - $22.04"
     },
     {
       "sortindex": 1753675879,
