@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1756976813,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24c06fe9-2019-4b70-8a8c-9d52fd894795.jpg",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Class/Workshop",
-    "societyid": 6808,
-    "destination": "/?eid=40355",
-    "societyname": "UQ Neurological Society",
-    "societylogo": "https://resources.hellorubric.com/images/66d832c221b97_.png",
-    "title": "Invasive Neural Interfaces ",
-    "day": "15",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757682839,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/ce5d1ea1-2804-4127-96da-ed73040c6b0c.png",
     "month": "September",
@@ -53,6 +39,20 @@
     "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
     "title": "UQFAS presents 'Okja (2018)'",
     "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757976929,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/42cc86ed-924f-4323-ad0e-ac3ec4cc68d6.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Industry/Career",
+    "societyid": 3147,
+    "destination": "/?eid=40025",
+    "societyname": "The UQ Women's Network",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+    "title": "UQWN Women in Law Coffee Chats",
+    "day": "17",
     "info": "Free"
   },
   {

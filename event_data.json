@@ -2968,48 +2968,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1757588957,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/73da0ab1-c381-4ec2-b791-686ba246a159.png",
-      "month": "September",
-      "societyAvgRating": 4.6,
-      "subtitle": "Industry/Career",
-      "societyid": 3932,
-      "destination": "/?eid=40861",
-      "societyname": "Queensland Pharmacy Students' Association",
-      "societylogo": "https://resources.hellorubric.com/images/65c1cb06e6124_.png",
-      "title": "Dermal Therapy Skincare Workshop",
-      "day": "15",
-      "info": "$0.00 - $16.81"
-    },
-    {
-      "sortindex": 1757539749,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/46a252ec-cadd-43f9-9c18-191e8b7b6ba8.jpg",
-      "month": "September",
-      "societyAvgRating": 4.8,
-      "subtitle": "Industry/Career",
-      "societyid": 2365,
-      "destination": "/?eid=39754",
-      "societyname": "UQ Agribusiness Association",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a6d3123b-2d65-48a7-b2c3-da174aed4414.png",
-      "title": "Agribusiness Industry Dinner 2025",
-      "day": "15",
-      "info": "$27.26"
-    },
-    {
-      "sortindex": 1756976813,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/24c06fe9-2019-4b70-8a8c-9d52fd894795.jpg",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Class/Workshop",
-      "societyid": 6808,
-      "destination": "/?eid=40355",
-      "societyname": "UQ Neurological Society",
-      "societylogo": "https://resources.hellorubric.com/images/66d832c221b97_.png",
-      "title": "Invasive Neural Interfaces ",
-      "day": "15",
-      "info": "Free"
-    },
-    {
       "sortindex": 1757885713,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/25c3b9e8-b316-40f5-b683-324b2142d1e7.jpeg",
       "month": "September",
@@ -3024,7 +2982,7 @@
       "info": "$2.00"
     },
     {
-      "sortindex": 1756109929,
+      "sortindex": 1757935336,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/f9dad75d-83ed-456e-84a5-bcccccba8367.png",
       "month": "September",
       "societyAvgRating": 4.4,
@@ -3094,7 +3052,7 @@
       "info": "Free"
     },
     {
-      "sortindex": 1756446286,
+      "sortindex": 1757976929,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/42cc86ed-924f-4323-ad0e-ac3ec4cc68d6.png",
       "month": "September",
       "societyAvgRating": 4.5,
@@ -3105,7 +3063,7 @@
       "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
       "title": "UQWN Women in Law Coffee Chats",
       "day": "17",
-      "info": "$0.00 - $6.36"
+      "info": "Free"
     },
     {
       "sortindex": 1757842600,
@@ -3274,19 +3232,6 @@
       "info": "Free"
     },
     {
-      "sortindex": 1753675728,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
-      "month": "September",
-      "subtitle": "Other",
-      "societyid": 10792,
-      "destination": "/?eid=37418",
-      "societyname": "UQ Chinese Cultural Dance Club",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-      "title": "Senior Workshop",
-      "day": "20",
-      "info": "$22.04"
-    },
-    {
       "sortindex": 1757821757,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d5c1757-08d4-47b2-8cf6-501cf27a0c89.jpg",
       "month": "September",
@@ -3301,18 +3246,17 @@
       "info": "$6.36"
     },
     {
-      "sortindex": 1757043207,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/76738b38-2545-4ac2-95a7-408ab889e8c4.png",
+      "sortindex": 1753675728,
+      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
       "month": "September",
-      "societyAvgRating": 4.6,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 4650,
-      "destination": "/?eid=40140",
-      "societyname": "UQ Oncology",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4650.png",
-      "title": "World's Greatest Shave",
-      "day": "21",
-      "info": "Free"
+      "subtitle": "Other",
+      "societyid": 10792,
+      "destination": "/?eid=37418",
+      "societyname": "UQ Chinese Cultural Dance Club",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
+      "title": "Senior Workshop",
+      "day": "20",
+      "info": "$22.04"
     },
     {
       "sortindex": 1756982431,
@@ -3327,6 +3271,20 @@
       "title": "Watercolour by the Water | UQWN \u00d7 UQSoFA",
       "day": "21",
       "info": "$8.45 - $13.68"
+    },
+    {
+      "sortindex": 1757043207,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/76738b38-2545-4ac2-95a7-408ab889e8c4.png",
+      "month": "September",
+      "societyAvgRating": 4.6,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 4650,
+      "destination": "/?eid=40140",
+      "societyname": "UQ Oncology",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4650.png",
+      "title": "World's Greatest Shave",
+      "day": "21",
+      "info": "Free"
     },
     {
       "sortindex": 1757567939,
@@ -3398,7 +3356,7 @@
       "info": "Free"
     },
     {
-      "sortindex": 1757846432,
+      "sortindex": 1757918068,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/72e36723-2c8f-4c24-96ff-2977cbcfa65b.png",
       "month": "September",
       "societyAvgRating": 4.4,
@@ -3536,6 +3494,20 @@
       "title": "UQLS x Corrs x KWM Women in Law Breakfast",
       "day": "26",
       "info": "$35.00 - $45.00"
+    },
+    {
+      "sortindex": 1757925040,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/eebc179a-f5b8-4e44-b492-dfb2f2ea22ca.jpeg",
+      "month": "September",
+      "societyAvgRating": 4.5,
+      "subtitle": "Sport/Competition",
+      "societyid": 2420,
+      "destination": "/?eid=40832",
+      "societyname": "UQ Thai Students' Association",
+      "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
+      "title": "UQISS x UQTSA Social Soccer",
+      "day": "26",
+      "info": "$11.59 - $16.81"
     },
     {
       "sortindex": 1757574040,
@@ -3885,18 +3857,18 @@
       "info": "$58.60 - $74.28"
     },
     {
-      "sortindex": 1757248282,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5efdebf7-9d19-426b-9ca3-da0929cb0331.png",
+      "sortindex": 1757918876,
+      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_6.png",
       "month": "October",
-      "societyAvgRating": 4.8,
-      "subtitle": "Show/Performance",
-      "societyid": 2257,
-      "destination": "/?eid=39669",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
-      "title": "Eating Our Way to Extinction: screening + Q&A",
+      "societyAvgRating": 4.4,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2395,
+      "destination": "/?eid=41135",
+      "societyname": "Gatton International Student Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2395.png",
+      "title": "Mid Autumn Festival ",
       "day": "7",
-      "info": "Free"
+      "info": "$0.00 - $6.36"
     },
     {
       "sortindex": 1756165904,
@@ -3911,6 +3883,20 @@
       "title": "UQ Internal Medicine Society Research Roundup",
       "day": "7",
       "info": "$0.00 - $5.00"
+    },
+    {
+      "sortindex": 1757248282,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5efdebf7-9d19-426b-9ca3-da0929cb0331.png",
+      "month": "October",
+      "societyAvgRating": 4.8,
+      "subtitle": "Show/Performance",
+      "societyid": 2257,
+      "destination": "/?eid=39669",
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
+      "title": "Eating Our Way to Extinction: screening + Q&A",
+      "day": "7",
+      "info": "Free"
     },
     {
       "sortindex": 1756253286,
@@ -3955,6 +3941,20 @@
       "info": "$0.00 - $6.99"
     },
     {
+      "sortindex": 1757923238,
+      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
+      "month": "October",
+      "societyAvgRating": 4.6,
+      "subtitle": "Industry/Career",
+      "societyid": 4650,
+      "destination": "/?eid=41142",
+      "societyname": "UQ Oncology",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4650.png",
+      "title": "UQOnc AGM + Cocktails for Cancer",
+      "day": "10",
+      "info": "$0.00 - $8.00"
+    },
+    {
       "sortindex": 1753675779,
       "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_17.png",
       "month": "October",
@@ -3982,20 +3982,6 @@
       "info": "$63.83 - $84.72"
     },
     {
-      "sortindex": 1757835641,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/d895a5b9-5f9e-4e11-94b8-d44e9ee6b812.png",
-      "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 57,
-      "destination": "/?eid=41045",
-      "societyname": "University of Queensland Law Society Incorporated",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
-      "title": "UQLS Valedictory Law Dinner 2025",
-      "day": "11",
-      "info": "$80.00 - $125.00"
-    },
-    {
       "sortindex": 1756281973,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/0c0914e8-9933-43b0-b857-98731416958b.jpeg",
       "month": "October",
@@ -4008,6 +3994,20 @@
       "title": "Ceylon Soiree 2025",
       "day": "11",
       "info": "$87.46 - $153.91"
+    },
+    {
+      "sortindex": 1757835641,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/d895a5b9-5f9e-4e11-94b8-d44e9ee6b812.png",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 57,
+      "destination": "/?eid=41045",
+      "societyname": "University of Queensland Law Society Incorporated",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS Valedictory Law Dinner 2025",
+      "day": "11",
+      "info": "$80.00 - $125.00"
     },
     {
       "sortindex": 1756071557,
