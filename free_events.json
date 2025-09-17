@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1757682839,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ce5d1ea1-2804-4127-96da-ed73040c6b0c.png",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=40333",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/296ecf68-3287-4018-b480-0fc1993b6228.png",
-    "title": "Think Agency: Workshop with LCC Group",
-    "day": "16",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1757509369,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/dbf28db6-bba6-4d6f-b8db-f91876ca5230.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=40781",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Merlo Coffee & Chat Week 8",
-    "day": "16",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1757509250,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ee225e02-6148-4a7a-98c1-788d066058bf.jpg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2225,
-    "destination": "/?eid=40074",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b759de92fc1_.png",
-    "title": "UQFAS presents 'Okja (2018)'",
-    "day": "16",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757976929,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/42cc86ed-924f-4323-ad0e-ac3ec4cc68d6.png",
     "month": "September",
@@ -56,7 +14,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757842600,
+    "sortindex": 1758018577,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0875017e-4eb2-4338-a976-2872884540bc.png",
     "month": "September",
     "societyAvgRating": 4.5,
@@ -97,7 +55,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756526318,
+    "sortindex": 1758026341,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ec46983-1f35-4de9-bd2e-90339626fe5f.png",
     "month": "September",
     "societyAvgRating": 4.5,
@@ -139,7 +97,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757043207,
+    "sortindex": 1757994819,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/76738b38-2545-4ac2-95a7-408ab889e8c4.png",
     "month": "September",
     "societyAvgRating": 4.6,
@@ -233,6 +191,19 @@
     "societyname": "UQ Medical Humanities Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
     "title": "UQMHC Presents... September Book Club",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1758009263,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_2.png",
+    "month": "September",
+    "subtitle": "Class/Workshop",
+    "societyid": 7008,
+    "destination": "/?eid=41257",
+    "societyname": "UQ NeuroTech",
+    "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
+    "title": "UQ NeuroTech LabTalks: Dr Clarissa Whitmire",
     "day": "24",
     "info": "Free"
   },
