@@ -1,74 +1,5 @@
 [
   {
-    "sortindex": 1757976929,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/42cc86ed-924f-4323-ad0e-ac3ec4cc68d6.png",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Industry/Career",
-    "societyid": 3147,
-    "destination": "/?eid=40025",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-    "title": "UQWN Women in Law Coffee Chats",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1758018577,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0875017e-4eb2-4338-a976-2872884540bc.png",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Class/Workshop",
-    "societyid": 4465,
-    "destination": "/?eid=40272",
-    "societyname": "UQ Political Science and International Relations Society",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4465.png",
-    "title": "Policy Writing Workshop ",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1757510361,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ae3fa849-5da2-4cd4-a14a-031e2fe40236.png",
-    "month": "September",
-    "subtitle": "Class/Workshop",
-    "societyid": 7008,
-    "destination": "/?eid=40784",
-    "societyname": "UQ NeuroTech",
-    "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
-    "title": "UQ NeuroTech LabTalks: A/Prof. Suarez & Dr. Black",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1757415492,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2ab674af-8d37-4c4a-bb51-0b9c5cd03e86.PNG",
-    "month": "September",
-    "societyAvgRating": 4.3,
-    "subtitle": "Industry/Career",
-    "societyid": 2232,
-    "destination": "/?eid=40118",
-    "societyname": "Australia-China Youth Association at UQ",
-    "societylogo": "https://resources.hellorubric.com/images/641d01b87ef0d_.png",
-    "title": "Career Panel 2025 - From Graduate to Growth ",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1758026341,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ec46983-1f35-4de9-bd2e-90339626fe5f.png",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3147,
-    "destination": "/?eid=40072",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-    "title": "TSITP: Final Episode Watch Party",
-    "day": "17",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756730340,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/357e505a-22e9-4b34-b2f1-eaf1b6319ee1.png",
     "month": "September",
@@ -305,6 +236,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1758083621,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/37c8294f-b2f2-42b9-9ac1-94bdc0586f1d.png",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 2274,
+    "destination": "/?eid=38317",
+    "societyname": "2025 BRUCE Architecture Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
+    "title": "BRUCE General Meeting ",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1756785379,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/f79aff3c-746e-402d-ad4f-9352bb41d629.png",
     "month": "October",
@@ -333,17 +278,17 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757404540,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_11.png",
+    "sortindex": 1758084905,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
     "month": "October",
-    "societyAvgRating": 4.5,
-    "subtitle": "Sport/Competition",
-    "societyid": 534,
-    "destination": "/?eid=39880",
-    "societyname": "Queensland University Exchange Students Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-    "title": "QUEST Invitational 5000 m",
-    "day": "18",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 2274,
+    "destination": "/?eid=38316",
+    "societyname": "2025 BRUCE Architecture Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
+    "title": "BRUCE Annual General Meeting ",
+    "day": "23",
     "info": "Free"
   }
 ]
