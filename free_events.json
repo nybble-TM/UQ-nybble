@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1756730340,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/357e505a-22e9-4b34-b2f1-eaf1b6319ee1.png",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 547,
-    "destination": "/?eid=40150",
-    "societyname": "UQ Geography and Environmental Management Society",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_547.png",
-    "title": "Enviros in Mining Night",
-    "day": "18",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757507289,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/c6170cb1-ed56-4856-a7fc-3df5f0897337.png",
     "month": "September",
@@ -98,20 +84,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757045922,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 5398,
-    "destination": "/?eid=40426",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Sustainable Personal Finance Webinar",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757470527,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
     "month": "September",
@@ -126,8 +98,22 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758009263,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_2.png",
+    "sortindex": 1757045922,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=40426",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Sustainable Personal Finance Webinar",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1758186845,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f164e4a-6b55-4a6a-b4df-4d363854ff10.png",
     "month": "September",
     "subtitle": "Class/Workshop",
     "societyid": 7008,
