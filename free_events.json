@@ -98,6 +98,19 @@
     "info": "Free"
   },
   {
+    "sortindex": 1758186845,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f164e4a-6b55-4a6a-b4df-4d363854ff10.png",
+    "month": "September",
+    "subtitle": "Class/Workshop",
+    "societyid": 7008,
+    "destination": "/?eid=41257",
+    "societyname": "UQ NeuroTech",
+    "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
+    "title": "UQ NeuroTech LabTalks: Dr Clarissa Whitmire",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1757045922,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
     "month": "September",
@@ -108,19 +121,6 @@
     "societyname": "UQ Sustainable Innovators Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Sustainable Personal Finance Webinar",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1758186845,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f164e4a-6b55-4a6a-b4df-4d363854ff10.png",
-    "month": "September",
-    "subtitle": "Class/Workshop",
-    "societyid": 7008,
-    "destination": "/?eid=41257",
-    "societyname": "UQ NeuroTech",
-    "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
-    "title": "UQ NeuroTech LabTalks: Dr Clarissa Whitmire",
     "day": "24",
     "info": "Free"
   },
@@ -233,6 +233,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
     "title": "BRUCE General Meeting ",
     "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1758269245,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/8237d3a5-491f-4faf-ab12-d4207f6e34b9.png",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Other",
+    "societyid": 7597,
+    "destination": "/?eid=41597",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/images/65403834c2587_.png",
+    "title": "UQ Bakeology 2025 Annual General Meeting",
+    "day": "10",
     "info": "Free"
   },
   {
