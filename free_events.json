@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1757507289,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/c6170cb1-ed56-4856-a7fc-3df5f0897337.png",
-    "month": "September",
-    "societyAvgRating": 4.8,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2257,
-    "destination": "/?eid=40641",
-    "societyname": "UQ Vegan Society",
-    "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
-    "title": "Potluck + Clothing Swap",
-    "day": "20",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757994819,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/76738b38-2545-4ac2-95a7-408ab889e8c4.png",
     "month": "September",
@@ -98,19 +84,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758186845,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f164e4a-6b55-4a6a-b4df-4d363854ff10.png",
-    "month": "September",
-    "subtitle": "Class/Workshop",
-    "societyid": 7008,
-    "destination": "/?eid=41257",
-    "societyname": "UQ NeuroTech",
-    "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
-    "title": "UQ NeuroTech LabTalks: Dr Clarissa Whitmire",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757045922,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
     "month": "September",
@@ -121,6 +94,19 @@
     "societyname": "UQ Sustainable Innovators Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Sustainable Personal Finance Webinar",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1758186845,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f164e4a-6b55-4a6a-b4df-4d363854ff10.png",
+    "month": "September",
+    "subtitle": "Class/Workshop",
+    "societyid": 7008,
+    "destination": "/?eid=41257",
+    "societyname": "UQ NeuroTech",
+    "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
+    "title": "UQ NeuroTech LabTalks: Dr Clarissa Whitmire",
     "day": "24",
     "info": "Free"
   },
@@ -181,7 +167,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757232439,
+    "sortindex": 1758416244,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
     "month": "October",
     "subtitle": "Industry/Career",

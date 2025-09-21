@@ -2968,47 +2968,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1757507289,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/c6170cb1-ed56-4856-a7fc-3df5f0897337.png",
-      "month": "September",
-      "societyAvgRating": 4.8,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2257,
-      "destination": "/?eid=40641",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
-      "title": "Potluck + Clothing Swap",
-      "day": "20",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1753675728,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
-      "month": "September",
-      "subtitle": "Other",
-      "societyid": 10792,
-      "destination": "/?eid=37418",
-      "societyname": "UQ Chinese Cultural Dance Club",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-      "title": "Senior Workshop",
-      "day": "20",
-      "info": "$22.04"
-    },
-    {
-      "sortindex": 1758268733,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d5c1757-08d4-47b2-8cf6-501cf27a0c89.jpg",
-      "month": "September",
-      "societyAvgRating": 5,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1404,
-      "destination": "/?eid=40840",
-      "societyname": "UQ Singapore Students' Society",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1404.png",
-      "title": "Picnic and Speed Befriending Event (MEMBERS only!)",
-      "day": "20",
-      "info": "$6.36"
-    },
-    {
       "sortindex": 1756982431,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/1a9731d2-8469-41b6-b7bc-f864c6f78d31.png",
       "month": "September",
@@ -3037,7 +2996,7 @@
       "info": "Free"
     },
     {
-      "sortindex": 1757567939,
+      "sortindex": 1758367589,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/61ffbfb8-deed-45ed-9996-10d33ec21472.png",
       "month": "September",
       "societyAvgRating": 4.8,
@@ -3134,7 +3093,7 @@
       "info": "$0.00 - $11.59"
     },
     {
-      "sortindex": 1757561068,
+      "sortindex": 1758336640,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/7e9a779d-2a23-4fab-8876-39fcc89fdef0.jpg",
       "month": "September",
       "societyAvgRating": 4.7,
@@ -3176,19 +3135,6 @@
       "info": "Free"
     },
     {
-      "sortindex": 1758186845,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f164e4a-6b55-4a6a-b4df-4d363854ff10.png",
-      "month": "September",
-      "subtitle": "Class/Workshop",
-      "societyid": 7008,
-      "destination": "/?eid=41257",
-      "societyname": "UQ NeuroTech",
-      "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
-      "title": "UQ NeuroTech LabTalks: Dr Clarissa Whitmire",
-      "day": "24",
-      "info": "Free"
-    },
-    {
       "sortindex": 1757045922,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
       "month": "September",
@@ -3203,32 +3149,17 @@
       "info": "Free"
     },
     {
-      "sortindex": 1756785366,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
+      "sortindex": 1758186845,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f164e4a-6b55-4a6a-b4df-4d363854ff10.png",
       "month": "September",
-      "societyAvgRating": 4.9,
-      "subtitle": "Industry/Career",
-      "societyid": 593,
-      "destination": "/?eid=38679",
-      "societyname": "UQ Chemistry Club",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_593.png",
-      "title": "UQCC Careers and Canap\u00e9s",
-      "day": "25",
+      "subtitle": "Class/Workshop",
+      "societyid": 7008,
+      "destination": "/?eid=41257",
+      "societyname": "UQ NeuroTech",
+      "societylogo": "https://resources.hellorubric.com/images/644a2c29e295d_.png",
+      "title": "UQ NeuroTech LabTalks: Dr Clarissa Whitmire",
+      "day": "24",
       "info": "Free"
-    },
-    {
-      "sortindex": 1757200091,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/7abb98f8-2e78-494c-bc6f-037ae8c689d1.png",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Industry/Career",
-      "societyid": 3147,
-      "destination": "/?eid=40474",
-      "societyname": "The UQ Women's Network",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-      "title": "UQWN Strategy Showcase 2025",
-      "day": "25",
-      "info": "$0.00 - $6.36"
     },
     {
       "sortindex": 1757467070,
@@ -3245,6 +3176,34 @@
       "info": "$0.00 - $15.00"
     },
     {
+      "sortindex": 1757200091,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/7abb98f8-2e78-494c-bc6f-037ae8c689d1.png",
+      "month": "September",
+      "societyAvgRating": 4.5,
+      "subtitle": "Industry/Career",
+      "societyid": 3147,
+      "destination": "/?eid=40474",
+      "societyname": "The UQ Women's Network",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+      "title": "UQWN Strategy Showcase 2025",
+      "day": "25",
+      "info": "$0.00 - $6.36"
+    },
+    {
+      "sortindex": 1756785366,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
+      "month": "September",
+      "societyAvgRating": 4.9,
+      "subtitle": "Industry/Career",
+      "societyid": 593,
+      "destination": "/?eid=38679",
+      "societyname": "UQ Chemistry Club",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_593.png",
+      "title": "UQCC Careers and Canap\u00e9s",
+      "day": "25",
+      "info": "Free"
+    },
+    {
       "sortindex": 1758019425,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/e4138b46-0911-4d53-a428-2b68a4191466.png",
       "month": "September",
@@ -3259,7 +3218,7 @@
       "info": "$20.00 - $30.00"
     },
     {
-      "sortindex": 1758330448,
+      "sortindex": 1758332367,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/853c71fe-b3bd-4e09-8a48-82a1be6647e9.png",
       "month": "September",
       "societyAvgRating": 4.5,
@@ -3329,20 +3288,6 @@
       "info": "$0.00 - $11.59"
     },
     {
-      "sortindex": 1753910738,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_18.png",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Other",
-      "societyid": 57,
-      "destination": "/?eid=35999",
-      "societyname": "University of Queensland Law Society Incorporated",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
-      "title": "2025 HSFK UQ Unjust Enrichment Moot",
-      "day": "27",
-      "info": "$500.00"
-    },
-    {
       "sortindex": 1757658721,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/510c163c-19c6-43c7-8149-1a9c34bab034.jpg",
       "month": "September",
@@ -3355,6 +3300,20 @@
       "title": "Toowoomba Day Trip",
       "day": "27",
       "info": "$6.36 - $48.15"
+    },
+    {
+      "sortindex": 1753910738,
+      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_18.png",
+      "month": "September",
+      "societyAvgRating": 4.5,
+      "subtitle": "Other",
+      "societyid": 57,
+      "destination": "/?eid=35999",
+      "societyname": "University of Queensland Law Society Incorporated",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
+      "title": "2025 HSFK UQ Unjust Enrichment Moot",
+      "day": "27",
+      "info": "$500.00"
     },
     {
       "sortindex": 1757487470,
@@ -3426,6 +3385,20 @@
       "info": "$22.04"
     },
     {
+      "sortindex": 1758339409,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d5c1757-08d4-47b2-8cf6-501cf27a0c89.jpg",
+      "month": "September",
+      "societyAvgRating": 5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1404,
+      "destination": "/?eid=40840",
+      "societyname": "UQ Singapore Students' Society",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1404.png",
+      "title": "Picnic and Speed Befriending Event (MEMBERS only!)",
+      "day": "27",
+      "info": "$6.36"
+    },
+    {
       "sortindex": 1747608970,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/fbd1eb2e-8871-4371-94c2-2bb29e5403a3.png",
       "month": "September",
@@ -3482,6 +3455,20 @@
       "info": "$116.07 - $152.64"
     },
     {
+      "sortindex": 1758355117,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/0465e83b-a6ba-4ca7-a377-63869408a3b0.jpg",
+      "month": "October",
+      "societyAvgRating": 5,
+      "subtitle": "Trip/Camp",
+      "societyid": 1404,
+      "destination": "/?eid=41235",
+      "societyname": "UQ Singapore Students' Society",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1404.png",
+      "title": "UQSSS Trip to North Straddie Island",
+      "day": "1",
+      "info": "$11.59 - $22.04"
+    },
+    {
       "sortindex": 1758100074,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/b4700e17-fa03-4ba3-bcb8-43a8c68cbc08.png",
       "month": "October",
@@ -3524,7 +3511,7 @@
       "info": "Free"
     },
     {
-      "sortindex": 1758106193,
+      "sortindex": 1758384821,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/bdcb7955-6af7-4b0c-a2d3-5cc09f531bbf.png",
       "month": "October",
       "subtitle": "Show/Performance",
@@ -3537,7 +3524,7 @@
       "info": "$3.50 - $4.00"
     },
     {
-      "sortindex": 1757232439,
+      "sortindex": 1758416244,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
       "month": "October",
       "subtitle": "Industry/Career",
@@ -3562,6 +3549,20 @@
       "title": "Mini Vegan Camp-Out",
       "day": "3",
       "info": "$0.00 - $22.04"
+    },
+    {
+      "sortindex": 1758344892,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/05704a65-8169-421e-9270-4ec560f5b095.jpeg",
+      "month": "October",
+      "societyAvgRating": 5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2218,
+      "destination": "/?eid=41660",
+      "societyname": "UQ Comedy and Improv Club",
+      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "title": "CAIC Ghost Tour",
+      "day": "3",
+      "info": "$20.00"
     },
     {
       "sortindex": 1756872622,
@@ -3954,7 +3955,7 @@
       "info": "$22.04"
     },
     {
-      "sortindex": 1756874872,
+      "sortindex": 1758349781,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/49d3b9bd-9333-45d7-b1a6-5775e2c8f368.jpeg",
       "month": "October",
       "subtitle": "Ball/Dinner/Gala",
