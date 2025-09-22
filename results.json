@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1756982431,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1a9731d2-8469-41b6-b7bc-f864c6f78d31.png",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3147,
-    "destination": "/?eid=40022",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-    "title": "Watercolour by the Water | UQWN \u00d7 UQSoFA",
-    "day": "21",
-    "info": "$8.45 - $13.68"
-  },
-  {
-    "sortindex": 1757994819,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/76738b38-2545-4ac2-95a7-408ab889e8c4.png",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4650,
-    "destination": "/?eid=40140",
-    "societyname": "UQ Oncology",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_4650.png",
-    "title": "World's Greatest Shave",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1758367589,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/61ffbfb8-deed-45ed-9996-10d33ec21472.png",
-    "month": "September",
-    "societyAvgRating": 4.8,
-    "subtitle": "Class/Workshop",
-    "societyid": 1539,
-    "destination": "/?eid=40585",
-    "societyname": "UQ Women in Science Association",
-    "societylogo": "https://resources.hellorubric.com/images/63b4bef04d52d_.png",
-    "title": "Coffee & Yoga ",
-    "day": "21",
-    "info": "$14.20"
-  },
-  {
     "sortindex": 1757600237,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/05edc3b5-8cc3-4045-8316-16b5688095cc.jpg",
     "month": "September",
@@ -153,20 +111,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757470527,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
-    "month": "September",
-    "societyAvgRating": 5,
-    "subtitle": "Other",
-    "societyid": 10456,
-    "destination": "/?eid=40592",
-    "societyname": "UQ Medical Humanities Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-    "title": "UQMHC Presents... September Book Club",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757045922,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
     "month": "September",
@@ -177,6 +121,20 @@
     "societyname": "UQ Sustainable Innovators Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Sustainable Personal Finance Webinar",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757470527,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
+    "month": "September",
+    "societyAvgRating": 5,
+    "subtitle": "Other",
+    "societyid": 10456,
+    "destination": "/?eid=40592",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "UQMHC Presents... September Book Club",
     "day": "24",
     "info": "Free"
   },
@@ -320,20 +278,6 @@
     "info": "$0.00 - $11.59"
   },
   {
-    "sortindex": 1757658721,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/510c163c-19c6-43c7-8149-1a9c34bab034.jpg",
-    "month": "September",
-    "societyAvgRating": 4.8,
-    "subtitle": "Trip/Camp",
-    "societyid": 2235,
-    "destination": "/?eid=40927",
-    "societyname": "UQ Photography Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
-    "title": "Toowoomba Day Trip",
-    "day": "27",
-    "info": "$6.36 - $48.15"
-  },
-  {
     "sortindex": 1753910738,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_18.png",
     "month": "September",
@@ -346,6 +290,20 @@
     "title": "2025 HSFK UQ Unjust Enrichment Moot",
     "day": "27",
     "info": "$500.00"
+  },
+  {
+    "sortindex": 1757658721,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/510c163c-19c6-43c7-8149-1a9c34bab034.jpg",
+    "month": "September",
+    "societyAvgRating": 4.8,
+    "subtitle": "Trip/Camp",
+    "societyid": 2235,
+    "destination": "/?eid=40927",
+    "societyname": "UQ Photography Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+    "title": "Toowoomba Day Trip",
+    "day": "27",
+    "info": "$6.36 - $48.15"
   },
   {
     "sortindex": 1757487470,
@@ -390,7 +348,7 @@
     "info": "$0.00 - $53.38"
   },
   {
-    "sortindex": 1756952267,
+    "sortindex": 1758458080,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/3087bc5d-a86a-4119-92f5-a7044dab674c.jpg",
     "month": "September",
     "societyAvgRating": 4.8,
@@ -402,19 +360,6 @@
     "title": "Geckoes Wildlife - Wildlife Husbandry Workshop ",
     "day": "27",
     "info": "$48.16 - $53.38"
-  },
-  {
-    "sortindex": 1753675750,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_16.png",
-    "month": "September",
-    "subtitle": "Other",
-    "societyid": 10792,
-    "destination": "/?eid=37419",
-    "societyname": "UQ Chinese Cultural Dance Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-    "title": "Senior Workshop",
-    "day": "27",
-    "info": "$22.04"
   },
   {
     "sortindex": 1758339409,
@@ -429,6 +374,19 @@
     "title": "Picnic and Speed Befriending Event (MEMBERS only!)",
     "day": "27",
     "info": "$6.36"
+  },
+  {
+    "sortindex": 1753675750,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_16.png",
+    "month": "September",
+    "subtitle": "Other",
+    "societyid": 10792,
+    "destination": "/?eid=37419",
+    "societyname": "UQ Chinese Cultural Dance Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
+    "title": "Senior Workshop",
+    "day": "27",
+    "info": "$22.04"
   },
   {
     "sortindex": 1747608970,
@@ -556,7 +514,7 @@
     "info": "$3.50 - $4.00"
   },
   {
-    "sortindex": 1758416244,
+    "sortindex": 1758420549,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
     "month": "October",
     "subtitle": "Industry/Career",
@@ -890,6 +848,20 @@
     "info": "$22.04"
   },
   {
+    "sortindex": 1758442033,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/c1f873ab-e55a-41b2-a9c2-091b6dc8c794.png",
+    "month": "October",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 3932,
+    "destination": "/?eid=41692",
+    "societyname": "Queensland Pharmacy Students' Association",
+    "societylogo": "https://resources.hellorubric.com/images/65c1cb06e6124_.png",
+    "title": "QPSA 2025 AGM",
+    "day": "13",
+    "info": "Free"
+  },
+  {
     "sortindex": 1757572419,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2d286d61-392f-49cc-91d2-3079003fff63.png",
     "month": "October",
@@ -1000,7 +972,7 @@
     "info": "$100.00 - $125.00"
   },
   {
-    "sortindex": 1757568549,
+    "sortindex": 1758501841,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
     "month": "October",
     "societyAvgRating": 4.4,
@@ -1009,9 +981,22 @@
     "destination": "/?eid=40838",
     "societyname": "UQ Internal Medicine Society",
     "societylogo": "https://resources.hellorubric.com/images/669523f8ead48_.png",
-    "title": "The Path to Practice: ECG Interepretation ",
+    "title": "The Path to Practice: ECG Interpretation ",
     "day": "21",
     "info": "$0.00 - $6.36"
+  },
+  {
+    "sortindex": 1758458734,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2f9f00b8-17c6-41e7-85c3-603bc11d6ca8.png",
+    "month": "October",
+    "subtitle": "Other",
+    "societyid": 2219,
+    "destination": "/?eid=41724",
+    "societyname": "UQ Climate & Energy",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2219.png",
+    "title": "Hunting for Consensus 2025",
+    "day": "22",
+    "info": "$6.36 - $11.59"
   },
   {
     "sortindex": 1758084905,
@@ -1080,6 +1065,20 @@
     "title": "Senior Workshop",
     "day": "1",
     "info": "$22.04"
+  },
+  {
+    "sortindex": 1758495130,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ee372a69-fff0-4aa1-99f9-705254ee6608.png",
+    "month": "November",
+    "societyAvgRating": 4.8,
+    "subtitle": "Other",
+    "societyid": 8835,
+    "destination": "/?eid=41753",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "Rewind and Rebalance: A healing journey with music",
+    "day": "5",
+    "info": "Free"
   },
   {
     "sortindex": 1758071040,
