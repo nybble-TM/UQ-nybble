@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1757600237,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/05edc3b5-8cc3-4045-8316-16b5688095cc.jpg",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Other",
-    "societyid": 2511,
-    "destination": "/?eid=40870",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Reflections on Surah Yusuf - Part 2",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1756801630,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/539785c7-7ef4-4438-b520-79da62753909.png",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Industry/Career",
-    "societyid": 933,
-    "destination": "/?eid=39461",
-    "societyname": "UQ Organisation of Planning Students",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
-    "title": "URBAN NEXUS:PLANNERS CONNECT-INDUSTRY NIGHT 2025",
-    "day": "22",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756378140,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1f28cc6e-dfe5-4c19-8d16-913368781f44.png",
     "month": "September",
@@ -42,6 +14,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1758542221,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/89bce3ee-72b8-40ae-b603-70aa83a8e7ab.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Class/Workshop",
+    "societyid": 2420,
+    "destination": "/?eid=41821",
+    "societyname": "UQ Thai Students' Association",
+    "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
+    "title": "Thai Language Lesson #2 2025!",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1757550608,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/3c62bd56-2b15-4a12-ad3e-68173f029185.png",
     "month": "September",
@@ -52,20 +38,6 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
     "title": "Create Your Career",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1757045922,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 5398,
-    "destination": "/?eid=40426",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Sustainable Personal Finance Webinar",
     "day": "24",
     "info": "Free"
   },
@@ -84,6 +56,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1757045922,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=40426",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Sustainable Personal Finance Webinar",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1758186845,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f164e4a-6b55-4a6a-b4df-4d363854ff10.png",
     "month": "September",
@@ -97,7 +83,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756785366,
+    "sortindex": 1758513751,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
     "month": "September",
     "societyAvgRating": 4.9,
@@ -153,7 +139,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758420549,
+    "sortindex": 1758508802,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
     "month": "October",
     "subtitle": "Industry/Career",
@@ -275,20 +261,6 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
     "title": "BRUCE Annual General Meeting ",
     "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1758495130,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ee372a69-fff0-4aa1-99f9-705254ee6608.png",
-    "month": "November",
-    "societyAvgRating": 4.8,
-    "subtitle": "Other",
-    "societyid": 8835,
-    "destination": "/?eid=41753",
-    "societyname": "UQCCR Student Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-    "title": "Rewind and Rebalance: A healing journey with music",
-    "day": "5",
     "info": "Free"
   }
 ]

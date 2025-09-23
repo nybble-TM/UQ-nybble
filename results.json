@@ -1,46 +1,5 @@
 [
   {
-    "sortindex": 1757600237,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/05edc3b5-8cc3-4045-8316-16b5688095cc.jpg",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Other",
-    "societyid": 2511,
-    "destination": "/?eid=40870",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Reflections on Surah Yusuf - Part 2",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1758172843,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/082e381e-ba12-4ac1-8719-249f98570114.png",
-    "month": "September",
-    "subtitle": "Quiz/Trivia",
-    "societyid": 2299,
-    "destination": "/?eid=40587",
-    "societyname": "The University of Queensland Computing Society",
-    "societylogo": "https://resources.hellorubric.com/images/6604a153e5754_.png",
-    "title": "UQCS x UQ Fintech x UQRL Trivia Night",
-    "day": "22",
-    "info": "$5.00"
-  },
-  {
-    "sortindex": 1756801630,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/539785c7-7ef4-4438-b520-79da62753909.png",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Industry/Career",
-    "societyid": 933,
-    "destination": "/?eid=39461",
-    "societyname": "UQ Organisation of Planning Students",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
-    "title": "URBAN NEXUS:PLANNERS CONNECT-INDUSTRY NIGHT 2025",
-    "day": "22",
-    "info": "Free"
-  },
-  {
     "sortindex": 1756378140,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1f28cc6e-dfe5-4c19-8d16-913368781f44.png",
     "month": "September",
@@ -55,7 +14,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758272035,
+    "sortindex": 1758547152,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/72e36723-2c8f-4c24-96ff-2977cbcfa65b.png",
     "month": "September",
     "societyAvgRating": 4.4,
@@ -67,6 +26,34 @@
     "title": "Eat & Dance",
     "day": "23",
     "info": "$0.00 - $6.36"
+  },
+  {
+    "sortindex": 1758512367,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/160e2423-f2f7-4a7b-9c5c-09edb78b0066.jpeg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Class/Workshop",
+    "societyid": 4271,
+    "destination": "/?eid=40666",
+    "societyname": "UQ K-pop Dance Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "UQKDC WEEK 9 CLASS DROP-IN TICKET",
+    "day": "23",
+    "info": "$2.00"
+  },
+  {
+    "sortindex": 1758542221,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/89bce3ee-72b8-40ae-b603-70aa83a8e7ab.png",
+    "month": "September",
+    "societyAvgRating": 4.5,
+    "subtitle": "Class/Workshop",
+    "societyid": 2420,
+    "destination": "/?eid=41821",
+    "societyname": "UQ Thai Students' Association",
+    "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
+    "title": "Thai Language Lesson #2 2025!",
+    "day": "24",
+    "info": "Free"
   },
   {
     "sortindex": 1758155040,
@@ -111,20 +98,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757045922,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
-    "month": "September",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 5398,
-    "destination": "/?eid=40426",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Sustainable Personal Finance Webinar",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1757470527,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
     "month": "September",
@@ -135,6 +108,20 @@
     "societyname": "UQ Medical Humanities Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
     "title": "UQMHC Presents... September Book Club",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1757045922,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
+    "month": "September",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=40426",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Sustainable Personal Finance Webinar",
     "day": "24",
     "info": "Free"
   },
@@ -180,7 +167,7 @@
     "info": "$0.00 - $6.36"
   },
   {
-    "sortindex": 1756785366,
+    "sortindex": 1758513751,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/7c8218d0-19f4-468b-9e16-4e7e6079f1cb.png",
     "month": "September",
     "societyAvgRating": 4.9,
@@ -250,6 +237,20 @@
     "info": "$3.00 - $5.00"
   },
   {
+    "sortindex": 1758530921,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/59495025-b227-4297-bc37-0ab91c144301.jpeg",
+    "month": "September",
+    "societyAvgRating": 4.7,
+    "subtitle": "Class/Workshop",
+    "societyid": 4430,
+    "destination": "/?eid=41678",
+    "societyname": "Handcraft & Art Club",
+    "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
+    "title": "Shrink Plastic Workshop",
+    "day": "26",
+    "info": "$11.59 - $16.81"
+  },
+  {
     "sortindex": 1758201154,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/43087523-6644-4dc2-907a-228385b84e30.png",
     "month": "September",
@@ -306,7 +307,7 @@
     "info": "$6.36 - $48.15"
   },
   {
-    "sortindex": 1757487470,
+    "sortindex": 1758514100,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/5dc1630b-5753-4cad-94b4-9e3ac445c7d4.jpeg",
     "month": "September",
     "societyAvgRating": 4.8,
@@ -487,6 +488,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1758585949,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
+    "month": "October",
+    "societyAvgRating": 4.3,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4787,
+    "destination": "/?eid=41718",
+    "societyname": "UQ Cyber Squad",
+    "societylogo": "https://resources.hellorubric.com/images/65a3651e473ec_.png",
+    "title": "UQ Cyber Squad Mid Semester Meetup @ Vault Games",
+    "day": "1",
+    "info": "$6.36"
+  },
+  {
     "sortindex": 1757120553,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd741adf-68d9-4d45-abfc-88a59e8b4b5c.jpeg",
     "month": "October",
@@ -514,7 +529,7 @@
     "info": "$3.50 - $4.00"
   },
   {
-    "sortindex": 1758420549,
+    "sortindex": 1758508802,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
     "month": "October",
     "subtitle": "Industry/Career",
@@ -695,6 +710,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1758529615,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/041350b2-a072-4883-994d-1a2ff4dc1ccb.jpg",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 5729,
+    "destination": "/?eid=40629",
+    "societyname": "UQ Food Science Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+    "title": "Golden Cockerel Industry Tour",
+    "day": "9",
+    "info": "$11.59 - $16.81"
+  },
+  {
     "sortindex": 1758083621,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/37c8294f-b2f2-42b9-9ac1-94bdc0586f1d.png",
     "month": "October",
@@ -751,8 +780,8 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758329722,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/b27d971d-5deb-4725-b5ff-1285fa177a18.png",
+    "sortindex": 1758509221,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/7e60bd9c-d2a2-4d20-bcf7-e48b9a1f1e6f.png",
     "month": "October",
     "societyAvgRating": 4.6,
     "subtitle": "Class/Workshop",
@@ -762,7 +791,7 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b5607b9e-f315-41c3-9754-143a82d6d2fe.png",
     "title": "RSG Training Course",
     "day": "11",
-    "info": "$79.50 - $84.72"
+    "info": "$80.00 - $85.00"
   },
   {
     "sortindex": 1753675779,
@@ -806,20 +835,6 @@
     "info": "$6.36 - $11.59"
   },
   {
-    "sortindex": 1756281973,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0c0914e8-9933-43b0-b857-98731416958b.jpeg",
-    "month": "October",
-    "societyAvgRating": 4.6,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 648,
-    "destination": "/?eid=39383",
-    "societyname": "UQ Sri Lankan Association",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_648.png",
-    "title": "Ceylon Soiree 2025",
-    "day": "11",
-    "info": "$87.46 - $153.91"
-  },
-  {
     "sortindex": 1757835641,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/d895a5b9-5f9e-4e11-94b8-d44e9ee6b812.png",
     "month": "October",
@@ -832,6 +847,20 @@
     "title": "UQLS Valedictory Law Dinner 2025",
     "day": "11",
     "info": "$80.00 - $125.00"
+  },
+  {
+    "sortindex": 1756281973,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0c0914e8-9933-43b0-b857-98731416958b.jpeg",
+    "month": "October",
+    "societyAvgRating": 4.6,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 648,
+    "destination": "/?eid=39383",
+    "societyname": "UQ Sri Lankan Association",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_648.png",
+    "title": "Ceylon Soiree 2025",
+    "day": "11",
+    "info": "$87.46 - $153.91"
   },
   {
     "sortindex": 1756071557,
@@ -959,6 +988,20 @@
     "info": "$22.04"
   },
   {
+    "sortindex": 1758520601,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1fc2c3db-27ea-43bd-890f-06bb44ddf6d0.png",
+    "month": "October",
+    "societyAvgRating": 4.6,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 6808,
+    "destination": "/?eid=41781",
+    "societyname": "UQ Neurological Society",
+    "societylogo": "https://resources.hellorubric.com/images/66d832c221b97_.png",
+    "title": "UQ Neurological Society Networking Gala",
+    "day": "18",
+    "info": "$15.00 - $30.01"
+  },
+  {
     "sortindex": 1758349781,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/49d3b9bd-9333-45d7-b1a6-5775e2c8f368.jpeg",
     "month": "October",
@@ -1067,7 +1110,7 @@
     "info": "$22.04"
   },
   {
-    "sortindex": 1758495130,
+    "sortindex": 1758574576,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/ee372a69-fff0-4aa1-99f9-705254ee6608.png",
     "month": "November",
     "societyAvgRating": 4.8,
@@ -1078,7 +1121,7 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
     "title": "Rewind and Rebalance: A healing journey with music",
     "day": "5",
-    "info": "Free"
+    "info": "$3.23 - $5.32"
   },
   {
     "sortindex": 1758071040,
