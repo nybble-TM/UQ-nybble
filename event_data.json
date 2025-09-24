@@ -303,7 +303,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 82,
+  "totalItemCount": 81,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2968,48 +2968,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1756378140,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/1f28cc6e-dfe5-4c19-8d16-913368781f44.png",
-      "month": "September",
-      "societyAvgRating": 4.6,
-      "subtitle": "Industry/Career",
-      "societyid": 165,
-      "destination": "/?eid=40004",
-      "societyname": "UQBA - UQ Business Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
-      "title": "BDO Insights Day",
-      "day": "23",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1758547152,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/72e36723-2c8f-4c24-96ff-2977cbcfa65b.png",
-      "month": "September",
-      "societyAvgRating": 4.4,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2395,
-      "destination": "/?eid=41053",
-      "societyname": "Gatton International Student Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2395.png",
-      "title": "Eat & Dance",
-      "day": "23",
-      "info": "$0.00 - $6.36"
-    },
-    {
-      "sortindex": 1758512367,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/160e2423-f2f7-4a7b-9c5c-09edb78b0066.jpeg",
-      "month": "September",
-      "societyAvgRating": 4.7,
-      "subtitle": "Class/Workshop",
-      "societyid": 4271,
-      "destination": "/?eid=40666",
-      "societyname": "UQ K-pop Dance Club",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-      "title": "UQKDC WEEK 9 CLASS DROP-IN TICKET",
-      "day": "23",
-      "info": "$2.00"
-    },
-    {
       "sortindex": 1758542221,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/89bce3ee-72b8-40ae-b603-70aa83a8e7ab.png",
       "month": "September",
@@ -3066,20 +3024,6 @@
       "info": "Free"
     },
     {
-      "sortindex": 1757470527,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
-      "month": "September",
-      "societyAvgRating": 5,
-      "subtitle": "Other",
-      "societyid": 10456,
-      "destination": "/?eid=40592",
-      "societyname": "UQ Medical Humanities Club",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-      "title": "UQMHC Presents... September Book Club",
-      "day": "24",
-      "info": "Free"
-    },
-    {
       "sortindex": 1757045922,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/24d165c0-3021-47ce-8a74-5014f1de584f.png",
       "month": "September",
@@ -3090,6 +3034,20 @@
       "societyname": "UQ Sustainable Innovators Club",
       "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
       "title": "Sustainable Personal Finance Webinar",
+      "day": "24",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1757470527,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/0caef6eb-45ad-4acd-a600-73f797c014c2.jpeg",
+      "month": "September",
+      "societyAvgRating": 5,
+      "subtitle": "Other",
+      "societyid": 10456,
+      "destination": "/?eid=40592",
+      "societyname": "UQ Medical Humanities Club",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+      "title": "UQMHC Presents... September Book Club",
       "day": "24",
       "info": "Free"
     },
@@ -3124,7 +3082,7 @@
       "sortindex": 1757200091,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/7abb98f8-2e78-494c-bc6f-037ae8c689d1.png",
       "month": "September",
-      "societyAvgRating": 4.5,
+      "societyAvgRating": 4.6,
       "subtitle": "Industry/Career",
       "societyid": 3147,
       "destination": "/?eid=40474",
@@ -3191,6 +3149,20 @@
       "info": "$11.59 - $16.81"
     },
     {
+      "sortindex": 1758601631,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/59495025-b227-4297-bc37-0ab91c144301.jpeg",
+      "month": "September",
+      "societyAvgRating": 4.7,
+      "subtitle": "Class/Workshop",
+      "societyid": 4430,
+      "destination": "/?eid=41678",
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
+      "title": "Shrink Plastic Workshop",
+      "day": "26",
+      "info": "$11.59 - $16.81"
+    },
+    {
       "sortindex": 1757574040,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/0f6619ff-8026-46be-a40a-a2a301caf334.png",
       "month": "September",
@@ -3203,20 +3175,6 @@
       "title": "\ud83e\udde0\ud83c\udf1f Trivia Night \ud83c\udf1f\ud83c\udf89",
       "day": "26",
       "info": "$3.00 - $5.00"
-    },
-    {
-      "sortindex": 1758530921,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/59495025-b227-4297-bc37-0ab91c144301.jpeg",
-      "month": "September",
-      "societyAvgRating": 4.7,
-      "subtitle": "Class/Workshop",
-      "societyid": 4430,
-      "destination": "/?eid=41678",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
-      "title": "Shrink Plastic Workshop",
-      "day": "26",
-      "info": "$11.59 - $16.81"
     },
     {
       "sortindex": 1758201154,
@@ -3261,7 +3219,7 @@
       "info": "$500.00"
     },
     {
-      "sortindex": 1757658721,
+      "sortindex": 1758629012,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/510c163c-19c6-43c7-8149-1a9c34bab034.jpg",
       "month": "September",
       "societyAvgRating": 4.8,
@@ -3272,7 +3230,7 @@
       "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
       "title": "Toowoomba Day Trip",
       "day": "27",
-      "info": "$6.36 - $48.15"
+      "info": "$6.36 - $48.16"
     },
     {
       "sortindex": 1758514100,
@@ -3456,8 +3414,8 @@
       "info": "Free"
     },
     {
-      "sortindex": 1758585949,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
+      "sortindex": 1758609317,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/123f3ce7-59ca-43f8-a1c0-0762f12bce67.png",
       "month": "October",
       "societyAvgRating": 4.3,
       "subtitle": "Party/BBQ/Social",
@@ -3467,7 +3425,7 @@
       "societylogo": "https://resources.hellorubric.com/images/65a3651e473ec_.png",
       "title": "UQ Cyber Squad Mid Semester Meetup @ Vault Games",
       "day": "1",
-      "info": "$6.36"
+      "info": "$5.00"
     },
     {
       "sortindex": 1757120553,
@@ -3494,7 +3452,7 @@
       "societylogo": "https://resources.hellorubric.com/images/64661e9472474_.png",
       "title": "Indonesia Day 2025",
       "day": "2",
-      "info": "$3.50 - $4.00"
+      "info": "$2.60 - $10.00"
     },
     {
       "sortindex": 1758508802,
@@ -3803,20 +3761,6 @@
       "info": "$6.36 - $11.59"
     },
     {
-      "sortindex": 1757835641,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/d895a5b9-5f9e-4e11-94b8-d44e9ee6b812.png",
-      "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 57,
-      "destination": "/?eid=41045",
-      "societyname": "University of Queensland Law Society Incorporated",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
-      "title": "UQLS Valedictory Law Dinner 2025",
-      "day": "11",
-      "info": "$80.00 - $125.00"
-    },
-    {
       "sortindex": 1756281973,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/0c0914e8-9933-43b0-b857-98731416958b.jpeg",
       "month": "October",
@@ -3831,10 +3775,24 @@
       "info": "$87.46 - $153.91"
     },
     {
+      "sortindex": 1757835641,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/d895a5b9-5f9e-4e11-94b8-d44e9ee6b812.png",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 57,
+      "destination": "/?eid=41045",
+      "societyname": "University of Queensland Law Society Incorporated",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS Valedictory Law Dinner 2025",
+      "day": "11",
+      "info": "$80.00 - $125.00"
+    },
+    {
       "sortindex": 1756071557,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/d63ab536-fac6-44bf-9d44-d2fd0f4735ff.jpg",
       "month": "October",
-      "societyAvgRating": 4.5,
+      "societyAvgRating": 4.6,
       "subtitle": "Other",
       "societyid": 3147,
       "destination": "/?eid=39174",
@@ -3997,6 +3955,20 @@
       "info": "$0.00 - $6.36"
     },
     {
+      "sortindex": 1758590889,
+      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_18.png",
+      "month": "October",
+      "societyAvgRating": 4.6,
+      "subtitle": "Class/Workshop",
+      "societyid": 3932,
+      "destination": "/?eid=41903",
+      "societyname": "Queensland Pharmacy Students' Association",
+      "societylogo": "https://resources.hellorubric.com/images/65c1cb06e6124_.png",
+      "title": "Bioderma \u2013 Adjunctive Therapy Education Night",
+      "day": "22",
+      "info": "$0.00 - $16.81"
+    },
+    {
       "sortindex": 1758458734,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/2f9f00b8-17c6-41e7-85c3-603bc11d6ca8.png",
       "month": "October",
@@ -4036,6 +4008,20 @@
       "title": "UQCCJS x CSS | Masquerade Ball",
       "day": "24",
       "info": "$116.07 - $142.19"
+    },
+    {
+      "sortindex": 1758676352,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/300051ad-adb7-47eb-851a-897a6d791ed9.png",
+      "month": "October",
+      "societyAvgRating": 4.7,
+      "subtitle": "Other",
+      "societyid": 614,
+      "destination": "/?eid=42052",
+      "societyname": "UQ Beach Volleyball Club",
+      "societylogo": "https://resources.hellorubric.com/images/639fc8b3c4017_.png",
+      "title": "UQBVC Spooky Social 4s",
+      "day": "25",
+      "info": "$16.81 - $32.48"
     },
     {
       "sortindex": 1753675842,
