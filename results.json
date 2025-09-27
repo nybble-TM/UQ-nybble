@@ -1,104 +1,6 @@
 [
   {
-    "sortindex": 1758332367,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/853c71fe-b3bd-4e09-8a48-82a1be6647e9.png",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Industry/Career",
-    "societyid": 57,
-    "destination": "/?eid=39667",
-    "societyname": "University of Queensland Law Society Incorporated",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
-    "title": "UQLS x Corrs x KWM Women in Law Breakfast",
-    "day": "26",
-    "info": "$35.00 - $45.00"
-  },
-  {
-    "sortindex": 1758707571,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/eebc179a-f5b8-4e44-b492-dfb2f2ea22ca.jpeg",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Sport/Competition",
-    "societyid": 2420,
-    "destination": "/?eid=40832",
-    "societyname": "UQ Thai Students' Association",
-    "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
-    "title": "UQISS x UQTSA Social Soccer",
-    "day": "26",
-    "info": "$11.59 - $16.81"
-  },
-  {
-    "sortindex": 1757574040,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0f6619ff-8026-46be-a40a-a2a301caf334.png",
-    "month": "September",
-    "societyAvgRating": 4.9,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 3220,
-    "destination": "/?eid=40842",
-    "societyname": "UQ Ladies in Technology",
-    "societylogo": "https://resources.hellorubric.com/images/65d4a9ca3dd03_.png",
-    "title": "\ud83e\udde0\ud83c\udf1f Trivia Night \ud83c\udf1f\ud83c\udf89",
-    "day": "26",
-    "info": "$3.00 - $5.00"
-  },
-  {
-    "sortindex": 1758601631,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/59495025-b227-4297-bc37-0ab91c144301.jpeg",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Class/Workshop",
-    "societyid": 4430,
-    "destination": "/?eid=41678",
-    "societyname": "Handcraft & Art Club",
-    "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
-    "title": "Shrink Plastic Workshop",
-    "day": "26",
-    "info": "$11.59 - $16.81"
-  },
-  {
-    "sortindex": 1758201154,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/43087523-6644-4dc2-907a-228385b84e30.png",
-    "month": "September",
-    "societyAvgRating": 4.5,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 933,
-    "destination": "/?eid=37981",
-    "societyname": "UQ Organisation of Planning Students",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
-    "title": "Last Stop - the 2025 ADP Ball",
-    "day": "26",
-    "info": "$105.62 - $126.52"
-  },
-  {
-    "sortindex": 1755164904,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/d1c8e91e-9e42-4042-b553-ea1cc4bc2037.png",
-    "month": "September",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 1542,
-    "destination": "/?eid=39169",
-    "societyname": "UQ Association of Biomedical Students",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1542.png",
-    "title": "Honours Night ",
-    "day": "26",
-    "info": "$0.00 - $11.59"
-  },
-  {
-    "sortindex": 1758629012,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/510c163c-19c6-43c7-8149-1a9c34bab034.jpg",
-    "month": "September",
-    "societyAvgRating": 4.8,
-    "subtitle": "Trip/Camp",
-    "societyid": 2235,
-    "destination": "/?eid=40927",
-    "societyname": "UQ Photography Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
-    "title": "Toowoomba Day Trip",
-    "day": "27",
-    "info": "$6.36 - $48.16"
-  },
-  {
-    "sortindex": 1753910738,
+    "sortindex": 1758924000,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_18.png",
     "month": "September",
     "societyAvgRating": 4.5,
@@ -112,7 +14,21 @@
     "info": "$500.00"
   },
   {
-    "sortindex": 1758514100,
+    "sortindex": 1758924000,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/510c163c-19c6-43c7-8149-1a9c34bab034.jpg",
+    "month": "September",
+    "societyAvgRating": 4.8,
+    "subtitle": "Trip/Camp",
+    "societyid": 2235,
+    "destination": "/?eid=40927",
+    "societyname": "UQ Photography Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+    "title": "Toowoomba Day Trip",
+    "day": "27",
+    "info": "$6.36 - $48.16"
+  },
+  {
+    "sortindex": 1758931200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/5dc1630b-5753-4cad-94b4-9e3ac445c7d4.jpeg",
     "month": "September",
     "societyAvgRating": 4.8,
@@ -126,7 +42,7 @@
     "info": "$10.00 - $15.00"
   },
   {
-    "sortindex": 1758235839,
+    "sortindex": 1758934800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/687c0894-1030-4938-9f68-887a2738e149.jpg",
     "month": "September",
     "societyAvgRating": 4.8,
@@ -140,7 +56,7 @@
     "info": "$13.68 - $16.81"
   },
   {
-    "sortindex": 1758707604,
+    "sortindex": 1758936600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/acb47967-cbdd-4f91-bd3a-858ee531e4d3.png",
     "month": "September",
     "societyAvgRating": 4.6,
@@ -154,7 +70,7 @@
     "info": "$0.00 - $53.38"
   },
   {
-    "sortindex": 1758458080,
+    "sortindex": 1758942000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/3087bc5d-a86a-4119-92f5-a7044dab674c.jpg",
     "month": "September",
     "societyAvgRating": 4.8,
@@ -168,20 +84,7 @@
     "info": "$48.16 - $53.38"
   },
   {
-    "sortindex": 1753675750,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_16.png",
-    "month": "September",
-    "subtitle": "Other",
-    "societyid": 10792,
-    "destination": "/?eid=37419",
-    "societyname": "UQ Chinese Cultural Dance Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-    "title": "Senior Workshop",
-    "day": "27",
-    "info": "$22.04"
-  },
-  {
-    "sortindex": 1758339409,
+    "sortindex": 1758947400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d5c1757-08d4-47b2-8cf6-501cf27a0c89.jpg",
     "month": "September",
     "societyAvgRating": 5,
@@ -195,7 +98,20 @@
     "info": "$6.36"
   },
   {
-    "sortindex": 1747608970,
+    "sortindex": 1758947400,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_16.png",
+    "month": "September",
+    "subtitle": "Other",
+    "societyid": 10792,
+    "destination": "/?eid=37419",
+    "societyname": "UQ Chinese Cultural Dance Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
+    "title": "Senior Workshop",
+    "day": "27",
+    "info": "$22.04"
+  },
+  {
+    "sortindex": 1758960000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/fbd1eb2e-8871-4371-94c2-2bb29e5403a3.png",
     "month": "September",
     "societyAvgRating": 4.6,
@@ -209,7 +125,7 @@
     "info": "$0.00 - $189.69"
   },
   {
-    "sortindex": 1757741068,
+    "sortindex": 1759010400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1e241d37-50b9-4fbc-8e64-afeb2a0d4baa.jpg",
     "month": "September",
     "societyAvgRating": 4.8,
@@ -223,7 +139,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758698350,
+    "sortindex": 1759028400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/92bc8a6f-e79c-4b3c-ac48-efa4d80774d6.png",
     "month": "September",
     "societyAvgRating": 4.5,
@@ -237,7 +153,7 @@
     "info": "$84.72 - $89.95"
   },
   {
-    "sortindex": 1756855559,
+    "sortindex": 1759050000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/888a5935-c6d7-4933-be4d-899653f88893.png",
     "month": "September",
     "societyAvgRating": 4.6,
@@ -251,7 +167,7 @@
     "info": "$116.07 - $152.64"
   },
   {
-    "sortindex": 1758355117,
+    "sortindex": 1759267800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0465e83b-a6ba-4ca7-a377-63869408a3b0.jpg",
     "month": "October",
     "societyAvgRating": 5,
@@ -265,7 +181,7 @@
     "info": "$11.59 - $22.04"
   },
   {
-    "sortindex": 1758100074,
+    "sortindex": 1759273200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/b4700e17-fa03-4ba3-bcb8-43a8c68cbc08.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -279,7 +195,7 @@
     "info": "$11.59 - $32.48"
   },
   {
-    "sortindex": 1757475326,
+    "sortindex": 1759280400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ed4d57d-6e2d-4b61-b655-dd2b9d1607e4.png",
     "month": "October",
     "societyAvgRating": 4.8,
@@ -293,7 +209,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758609317,
+    "sortindex": 1759291200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/123f3ce7-59ca-43f8-a1c0-0762f12bce67.png",
     "month": "October",
     "societyAvgRating": 4.3,
@@ -307,7 +223,7 @@
     "info": "$5.00"
   },
   {
-    "sortindex": 1757120553,
+    "sortindex": 1759305600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd741adf-68d9-4d45-abfc-88a59e8b4b5c.jpeg",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -321,7 +237,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758679986,
+    "sortindex": 1759377600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/bdcb7955-6af7-4b0c-a2d3-5cc09f531bbf.png",
     "month": "October",
     "subtitle": "Show/Performance",
@@ -334,7 +250,7 @@
     "info": "$2.60 - $10.00"
   },
   {
-    "sortindex": 1758508802,
+    "sortindex": 1759392000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
     "month": "October",
     "subtitle": "Industry/Career",
@@ -347,7 +263,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757387082,
+    "sortindex": 1759449600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/c6d05dd1-14e4-4377-b641-b33e994635de.png",
     "month": "October",
     "societyAvgRating": 4.8,
@@ -361,7 +277,7 @@
     "info": "$0.00 - $22.04"
   },
   {
-    "sortindex": 1758344892,
+    "sortindex": 1759482000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/05704a65-8169-421e-9270-4ec560f5b095.jpeg",
     "month": "October",
     "societyAvgRating": 5,
@@ -375,7 +291,7 @@
     "info": "$20.00"
   },
   {
-    "sortindex": 1758721051,
+    "sortindex": 1759532400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/918478c0-e8c6-46c6-8086-eabcd4d9fd1a.jpeg",
     "month": "October",
     "societyAvgRating": 4.5,
@@ -389,7 +305,7 @@
     "info": "$8.45 - $27.26"
   },
   {
-    "sortindex": 1757302344,
+    "sortindex": 1759546800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/829fd5f2-5d00-47a0-b37d-5979cd871bd4.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -403,7 +319,7 @@
     "info": "$36.34 - $41.45"
   },
   {
-    "sortindex": 1757780473,
+    "sortindex": 1759554000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/ff169ce6-3e96-4292-a1c2-a03289b3f195.png",
     "month": "October",
     "societyAvgRating": 4.3,
@@ -417,7 +333,7 @@
     "info": "$0.00 - $63.83"
   },
   {
-    "sortindex": 1756025349,
+    "sortindex": 1759642200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/f614a774-9545-4ffb-afb9-c58498aea4b0.png",
     "month": "October",
     "societyAvgRating": 4.9,
@@ -431,7 +347,7 @@
     "info": "$0.00 - $10.00"
   },
   {
-    "sortindex": 1757473008,
+    "sortindex": 1759644000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/a092a0d7-7fb2-4eb7-a944-6a3903d6ef5b.png",
     "month": "October",
     "societyAvgRating": 4.9,
@@ -445,7 +361,7 @@
     "info": "$58.60 - $74.28"
   },
   {
-    "sortindex": 1758848627,
+    "sortindex": 1759797000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/18ac6eb7-42b2-40fa-8b2c-12e0ba961f88.jpg",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -459,7 +375,7 @@
     "info": "$21.00"
   },
   {
-    "sortindex": 1758776431,
+    "sortindex": 1759824000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/a6acf6af-9076-480a-a177-15f9ccc8316a.png",
     "month": "October",
     "societyAvgRating": 4.4,
@@ -473,7 +389,7 @@
     "info": "$0.00 - $11.59"
   },
   {
-    "sortindex": 1756165904,
+    "sortindex": 1759825800,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
     "month": "October",
     "societyAvgRating": 4.4,
@@ -487,7 +403,7 @@
     "info": "$0.00 - $5.00"
   },
   {
-    "sortindex": 1757248282,
+    "sortindex": 1759825800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/5efdebf7-9d19-426b-9ca3-da0929cb0331.png",
     "month": "October",
     "societyAvgRating": 4.8,
@@ -501,7 +417,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1756253286,
+    "sortindex": 1759912200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/5bd9ad77-7252-473f-9430-166f884b9b19.png",
     "month": "October",
     "societyAvgRating": 4.5,
@@ -515,7 +431,7 @@
     "info": "$0.00 - $6.36"
   },
   {
-    "sortindex": 1757821316,
+    "sortindex": 1759914000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e3b2ef9-e504-4698-ba7b-06ee4806def9.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -529,7 +445,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758765429,
+    "sortindex": 1759914000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/fd83e655-abea-4fc9-929b-601dc30ebe87.png",
     "month": "October",
     "societyAvgRating": 4.8,
@@ -543,7 +459,7 @@
     "info": "$0.00 - $6.36"
   },
   {
-    "sortindex": 1758846072,
+    "sortindex": 1759975200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/041350b2-a072-4883-994d-1a2ff4dc1ccb.jpg",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -557,7 +473,7 @@
     "info": "$0.00 - $11.59"
   },
   {
-    "sortindex": 1758083621,
+    "sortindex": 1759993200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/37c8294f-b2f2-42b9-9ac1-94bdc0586f1d.png",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -571,7 +487,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757379905,
+    "sortindex": 1759998600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/f45033c6-1607-4573-b952-8709c1667d90.png",
     "month": "October",
     "societyAvgRating": 4.8,
@@ -585,7 +501,21 @@
     "info": "$0.00 - $6.99"
   },
   {
-    "sortindex": 1758677614,
+    "sortindex": 1760000400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/da6bd13a-8013-4bd4-aa37-66af60503302.png",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 3855,
+    "destination": "/?eid=42305",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Resume & CV Workshop",
+    "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1760000400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e795097-0aa7-4548-98dc-486b6d2d3aec.png",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -599,7 +529,20 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758695856,
+    "sortindex": 1760085000,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/c2a027b8-99aa-496c-bbdf-c35dfb53d790.JPG",
+    "month": "October",
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 10976,
+    "destination": "/?eid=42326",
+    "societyname": "UQ Punjabi Association",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
+    "title": "Ludo & Lassi",
+    "day": "10",
+    "info": "$6.36 - $8.45"
+  },
+  {
+    "sortindex": 1760086800,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -613,7 +556,7 @@
     "info": "$0.00 - $8.00"
   },
   {
-    "sortindex": 1758269245,
+    "sortindex": 1760088600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/8237d3a5-491f-4faf-ab12-d4207f6e34b9.png",
     "month": "October",
     "societyAvgRating": 4.5,
@@ -627,7 +570,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758509221,
+    "sortindex": 1760151600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/7e60bd9c-d2a2-4d20-bcf7-e48b9a1f1e6f.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -641,7 +584,7 @@
     "info": "$80.00 - $85.00"
   },
   {
-    "sortindex": 1753675779,
+    "sortindex": 1760160600,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_17.png",
     "month": "October",
     "subtitle": "Other",
@@ -654,35 +597,7 @@
     "info": "$22.04"
   },
   {
-    "sortindex": 1758804773,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5bc9c417-8cb4-40ed-8994-c3fce4b8122e.jpeg",
-    "month": "October",
-    "societyAvgRating": 4.5,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 2224,
-    "destination": "/?eid=42200",
-    "societyname": "UQ Social Runners Club",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2224.png",
-    "title": "UQSRC Awards Night 2025",
-    "day": "11",
-    "info": "$0.00 - $15.00"
-  },
-  {
-    "sortindex": 1756431658,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/cb21f912-65e9-4fb3-bcc7-71ee1dd24103.png",
-    "month": "October",
-    "societyAvgRating": 4.9,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 806,
-    "destination": "/?eid=37858",
-    "societyname": "UQ Dance",
-    "societylogo": "https://resources.hellorubric.com/images/65cdb43e75bef_.png",
-    "title": "UQ Dance Ball: Just Dance!",
-    "day": "11",
-    "info": "$63.83 - $84.72"
-  },
-  {
-    "sortindex": 1758011109,
+    "sortindex": 1760173200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/b80961c6-f2c2-4542-9e54-c1500a038c1d.png",
     "month": "October",
     "societyAvgRating": 4.8,
@@ -696,7 +611,35 @@
     "info": "$6.36 - $11.59"
   },
   {
-    "sortindex": 1757835641,
+    "sortindex": 1760173200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5bc9c417-8cb4-40ed-8994-c3fce4b8122e.jpeg",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 2224,
+    "destination": "/?eid=42200",
+    "societyname": "UQ Social Runners Club",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2224.png",
+    "title": "UQSRC Awards Night 2025",
+    "day": "11",
+    "info": "$0.00 - $15.00"
+  },
+  {
+    "sortindex": 1760173200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/cb21f912-65e9-4fb3-bcc7-71ee1dd24103.png",
+    "month": "October",
+    "societyAvgRating": 4.9,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 806,
+    "destination": "/?eid=37858",
+    "societyname": "UQ Dance",
+    "societylogo": "https://resources.hellorubric.com/images/65cdb43e75bef_.png",
+    "title": "UQ Dance Ball: Just Dance!",
+    "day": "11",
+    "info": "$63.83 - $84.72"
+  },
+  {
+    "sortindex": 1760176800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/d895a5b9-5f9e-4e11-94b8-d44e9ee6b812.png",
     "month": "October",
     "societyAvgRating": 4.5,
@@ -710,7 +653,7 @@
     "info": "$80.00 - $125.00"
   },
   {
-    "sortindex": 1756281973,
+    "sortindex": 1760176800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0c0914e8-9933-43b0-b857-98731416958b.jpeg",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -724,7 +667,7 @@
     "info": "$87.46 - $153.91"
   },
   {
-    "sortindex": 1756071557,
+    "sortindex": 1760230800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/d63ab536-fac6-44bf-9d44-d2fd0f4735ff.jpg",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -738,7 +681,7 @@
     "info": "$22.04"
   },
   {
-    "sortindex": 1758442033,
+    "sortindex": 1760344200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/c1f873ab-e55a-41b2-a9c2-091b6dc8c794.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -752,7 +695,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1757572419,
+    "sortindex": 1760346000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2d286d61-392f-49cc-91d2-3079003fff63.png",
     "month": "October",
     "societyAvgRating": 4.8,
@@ -766,7 +709,7 @@
     "info": "$0.00 - $11.59"
   },
   {
-    "sortindex": 1758153251,
+    "sortindex": 1760433300,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/f0d0c7f9-0d9b-4f77-a309-59af3c38670f.jpg",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -780,7 +723,7 @@
     "info": "$6.36 - $11.59"
   },
   {
-    "sortindex": 1756785379,
+    "sortindex": 1760518800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/f79aff3c-746e-402d-ad4f-9352bb41d629.png",
     "month": "October",
     "societyAvgRating": 4.5,
@@ -794,7 +737,21 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758278884,
+    "sortindex": 1760603400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/7145af04-3de2-4ed9-add7-beb9bf5f5547.jpg",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 5729,
+    "destination": "/?eid=41159",
+    "societyname": "UQ Food Science Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+    "title": "Annual General Meeting (AGM)",
+    "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1760605200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/3c04d1c9-1d6e-468c-be02-bfdb0298fa12.png",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -808,7 +765,7 @@
     "info": "$30.00 - $35.00"
   },
   {
-    "sortindex": 1755642658,
+    "sortindex": 1760689800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/388dcbff-4dee-4448-abcc-d8044491ddd3.png",
     "month": "October",
     "societyAvgRating": 4.4,
@@ -822,7 +779,7 @@
     "info": "$5.66 - $15.89"
   },
   {
-    "sortindex": 1757543191,
+    "sortindex": 1760751000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/24acf89b-6aec-4c06-a6fb-e88b0f117e57.png",
     "month": "October",
     "societyAvgRating": 4.5,
@@ -836,7 +793,7 @@
     "info": "Free"
   },
   {
-    "sortindex": 1753675818,
+    "sortindex": 1760765400,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_18.png",
     "month": "October",
     "subtitle": "Other",
@@ -849,7 +806,7 @@
     "info": "$22.04"
   },
   {
-    "sortindex": 1758520601,
+    "sortindex": 1760774400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/1fc2c3db-27ea-43bd-890f-06bb44ddf6d0.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -863,7 +820,7 @@
     "info": "$15.00 - $30.01"
   },
   {
-    "sortindex": 1758349781,
+    "sortindex": 1760781600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/49d3b9bd-9333-45d7-b1a6-5775e2c8f368.jpeg",
     "month": "October",
     "subtitle": "Ball/Dinner/Gala",
@@ -876,7 +833,7 @@
     "info": "$100.00 - $125.00"
   },
   {
-    "sortindex": 1758501841,
+    "sortindex": 1761039000,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
     "month": "October",
     "societyAvgRating": 4.4,
@@ -890,7 +847,7 @@
     "info": "$0.00 - $6.36"
   },
   {
-    "sortindex": 1758590889,
+    "sortindex": 1761120000,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_18.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -904,7 +861,7 @@
     "info": "$0.00 - $16.81"
   },
   {
-    "sortindex": 1758458734,
+    "sortindex": 1761123600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2f9f00b8-17c6-41e7-85c3-603bc11d6ca8.png",
     "month": "October",
     "subtitle": "Other",
@@ -917,7 +874,7 @@
     "info": "$6.36 - $11.59"
   },
   {
-    "sortindex": 1758084905,
+    "sortindex": 1761206400,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -931,8 +888,8 @@
     "info": "Free"
   },
   {
-    "sortindex": 1758760708,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_2.png",
+    "sortindex": 1761292800,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6bf79312-a3c8-4b08-b85e-5e1a1c8b7752.jpg",
     "month": "October",
     "societyAvgRating": 4.9,
     "subtitle": "Trip/Camp",
@@ -945,7 +902,7 @@
     "info": "$42.93"
   },
   {
-    "sortindex": 1753407195,
+    "sortindex": 1761300000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/b383e934-28db-4b0c-99f3-b0ca1449dfb0.png",
     "month": "October",
     "societyAvgRating": 4.9,
@@ -959,7 +916,7 @@
     "info": "$116.07 - $142.19"
   },
   {
-    "sortindex": 1758676352,
+    "sortindex": 1761346800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/300051ad-adb7-47eb-851a-897a6d791ed9.png",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -973,7 +930,7 @@
     "info": "$16.81 - $32.48"
   },
   {
-    "sortindex": 1753675842,
+    "sortindex": 1761370200,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_1.png",
     "month": "October",
     "subtitle": "Other",
@@ -986,7 +943,7 @@
     "info": "$22.04"
   },
   {
-    "sortindex": 1758806561,
+    "sortindex": 1761386400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/8edf6b9e-f11f-45a9-a4e5-8e9b0fa388a5.jpeg",
     "month": "October",
     "societyAvgRating": 4.8,
@@ -1000,7 +957,7 @@
     "info": "$53.38 - $58.60"
   },
   {
-    "sortindex": 1758249187,
+    "sortindex": 1761904800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/6e62a645-4065-4f90-8557-9b6cfb6acef0.jpeg",
     "month": "October",
     "societyAvgRating": 4.5,
@@ -1014,7 +971,7 @@
     "info": "$13.68 - $18.90"
   },
   {
-    "sortindex": 1753675879,
+    "sortindex": 1761975000,
     "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_2.png",
     "month": "November",
     "subtitle": "Other",
@@ -1027,7 +984,7 @@
     "info": "$22.04"
   },
   {
-    "sortindex": 1758574576,
+    "sortindex": 1762331400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/ee372a69-fff0-4aa1-99f9-705254ee6608.png",
     "month": "November",
     "societyAvgRating": 4.8,
@@ -1041,7 +998,7 @@
     "info": "$3.23 - $5.32"
   },
   {
-    "sortindex": 1758071040,
+    "sortindex": 1764320400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/695a3526-d650-4466-a0d6-a90dc7c6df3b.jpg",
     "month": "November",
     "societyAvgRating": 4.8,
