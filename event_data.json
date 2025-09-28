@@ -302,7 +302,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 73,
+  "totalItemCount": 65,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2967,131 +2967,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1758924000,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_18.png",
-      "month": "September",
-      "societyAvgRating": 4.5,
-      "subtitle": "Other",
-      "societyid": 57,
-      "destination": "/?eid=35999",
-      "societyname": "University of Queensland Law Society Incorporated",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
-      "title": "2025 HSFK UQ Unjust Enrichment Moot",
-      "day": "27",
-      "info": "$500.00"
-    },
-    {
-      "sortindex": 1758924000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/510c163c-19c6-43c7-8149-1a9c34bab034.jpg",
-      "month": "September",
-      "societyAvgRating": 4.8,
-      "subtitle": "Trip/Camp",
-      "societyid": 2235,
-      "destination": "/?eid=40927",
-      "societyname": "UQ Photography Society",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
-      "title": "Toowoomba Day Trip",
-      "day": "27",
-      "info": "$6.36 - $48.16"
-    },
-    {
-      "sortindex": 1758931200,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5dc1630b-5753-4cad-94b4-9e3ac445c7d4.jpeg",
-      "month": "September",
-      "societyAvgRating": 4.8,
-      "subtitle": "Other",
-      "societyid": 2040,
-      "destination": "/?eid=40664",
-      "societyname": "UQ Critical Care Interest Group",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2040.png",
-      "title": "UQ Crit Presents: Emergency Medical Challenge II",
-      "day": "27",
-      "info": "$10.00 - $15.00"
-    },
-    {
-      "sortindex": 1758934800,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/687c0894-1030-4938-9f68-887a2738e149.jpg",
-      "month": "September",
-      "societyAvgRating": 4.8,
-      "subtitle": "Class/Workshop",
-      "societyid": 1028,
-      "destination": "/?eid=40106",
-      "societyname": "UQ Muslimah Society",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/e7802692-c3b5-45ef-a87a-94216bd3869c.png",
-      "title": "Sisters Self Defence",
-      "day": "27",
-      "info": "$13.68 - $16.81"
-    },
-    {
-      "sortindex": 1758936600,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/acb47967-cbdd-4f91-bd3a-858ee531e4d3.png",
-      "month": "September",
-      "societyAvgRating": 4.6,
-      "subtitle": "Other",
-      "societyid": 6808,
-      "destination": "/?eid=37165",
-      "societyname": "UQ Neurological Society",
-      "societylogo": "https://resources.hellorubric.com/images/66d832c221b97_.png",
-      "title": "Brain Surge: From Synapse to Scalpel",
-      "day": "27",
-      "info": "$0.00 - $53.38"
-    },
-    {
-      "sortindex": 1758942000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/3087bc5d-a86a-4119-92f5-a7044dab674c.jpg",
-      "month": "September",
-      "societyAvgRating": 4.8,
-      "subtitle": "Class/Workshop",
-      "societyid": 2434,
-      "destination": "/?eid=40071",
-      "societyname": "UQ Wildlife Association",
-      "societylogo": "https://resources.hellorubric.com/images/63fc64b90557d_.png",
-      "title": "Geckoes Wildlife - Wildlife Husbandry Workshop ",
-      "day": "27",
-      "info": "$48.16 - $53.38"
-    },
-    {
-      "sortindex": 1758947400,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d5c1757-08d4-47b2-8cf6-501cf27a0c89.jpg",
-      "month": "September",
-      "societyAvgRating": 5,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1404,
-      "destination": "/?eid=40840",
-      "societyname": "UQ Singapore Students' Society",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1404.png",
-      "title": "Picnic and Speed Befriending Event (MEMBERS only!)",
-      "day": "27",
-      "info": "$6.36"
-    },
-    {
-      "sortindex": 1758947400,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_16.png",
-      "month": "September",
-      "subtitle": "Other",
-      "societyid": 10792,
-      "destination": "/?eid=37419",
-      "societyname": "UQ Chinese Cultural Dance Club",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-      "title": "Senior Workshop",
-      "day": "27",
-      "info": "$22.04"
-    },
-    {
-      "sortindex": 1758960000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/fbd1eb2e-8871-4371-94c2-2bb29e5403a3.png",
-      "month": "September",
-      "societyAvgRating": 4.6,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 165,
-      "destination": "/?eid=35447",
-      "societyname": "UQBA - UQ Business Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
-      "title": "UQBA Annual Business Ball 2025: Timeless",
-      "day": "27",
-      "info": "$0.00 - $189.69"
-    },
-    {
       "sortindex": 1759010400,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/1e241d37-50b9-4fbc-8e64-afeb2a0d4baa.jpg",
       "month": "September",
@@ -3399,20 +3274,6 @@
     },
     {
       "sortindex": 1759914000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e3b2ef9-e504-4698-ba7b-06ee4806def9.png",
-      "month": "October",
-      "societyAvgRating": 4.6,
-      "subtitle": "Industry/Career",
-      "societyid": 165,
-      "destination": "/?eid=40661",
-      "societyname": "UQBA - UQ Business Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
-      "title": "UQBA x UQMAS Marketing Panel & Workshop",
-      "day": "8",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1759914000,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/fd83e655-abea-4fc9-929b-601dc30ebe87.png",
       "month": "October",
       "societyAvgRating": 4.8,
@@ -3424,6 +3285,20 @@
       "title": "Research Networking Night ",
       "day": "8",
       "info": "$0.00 - $6.36"
+    },
+    {
+      "sortindex": 1759914000,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e3b2ef9-e504-4698-ba7b-06ee4806def9.png",
+      "month": "October",
+      "societyAvgRating": 4.6,
+      "subtitle": "Industry/Career",
+      "societyid": 165,
+      "destination": "/?eid=40661",
+      "societyname": "UQBA - UQ Business Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
+      "title": "UQBA x UQMAS Marketing Panel & Workshop",
+      "day": "8",
+      "info": "Free"
     },
     {
       "sortindex": 1759975200,
@@ -3506,7 +3381,7 @@
       "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
       "title": "Ludo & Lassi",
       "day": "10",
-      "info": "$6.36 - $8.45"
+      "info": "$5.00 - $7.00"
     },
     {
       "sortindex": 1760086800,
@@ -3565,20 +3440,6 @@
     },
     {
       "sortindex": 1760173200,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/b80961c6-f2c2-4542-9e54-c1500a038c1d.png",
-      "month": "October",
-      "societyAvgRating": 4.8,
-      "subtitle": "Show/Performance",
-      "societyid": 2428,
-      "destination": "/?eid=41047",
-      "societyname": "UQ South Pacific Islander Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2428.png",
-      "title": "UQ SPIA Cultural Night: With love, UQSPIA",
-      "day": "11",
-      "info": "$6.36 - $11.59"
-    },
-    {
-      "sortindex": 1760173200,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/5bc9c417-8cb4-40ed-8994-c3fce4b8122e.jpeg",
       "month": "October",
       "societyAvgRating": 4.5,
@@ -3590,6 +3451,20 @@
       "title": "UQSRC Awards Night 2025",
       "day": "11",
       "info": "$0.00 - $15.00"
+    },
+    {
+      "sortindex": 1760173200,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/b80961c6-f2c2-4542-9e54-c1500a038c1d.png",
+      "month": "October",
+      "societyAvgRating": 4.8,
+      "subtitle": "Show/Performance",
+      "societyid": 2428,
+      "destination": "/?eid=41047",
+      "societyname": "UQ South Pacific Islander Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2428.png",
+      "title": "UQ SPIA Cultural Night: With love, UQSPIA",
+      "day": "11",
+      "info": "$6.36 - $11.59"
     },
     {
       "sortindex": 1760173200,
@@ -3674,6 +3549,20 @@
       "title": "Exhibition Night 2025",
       "day": "13",
       "info": "$0.00 - $11.59"
+    },
+    {
+      "sortindex": 1760430600,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/8204719d-b9c2-4c6c-b6be-c5f86fa3397c.jpeg",
+      "month": "October",
+      "societyAvgRating": 4.7,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 4271,
+      "destination": "/?eid=42386",
+      "societyname": "UQ K-pop Dance Club",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+      "title": "UQKDC AGM & End of Sem Party",
+      "day": "14",
+      "info": "$0.00 - $5.00"
     },
     {
       "sortindex": 1760433300,
