@@ -301,7 +301,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 65,
+  "totalItemCount": 70,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2290,11 +2290,11 @@
     },
     {
       "country": "GB",
-      "logo_url": "https://resources.hellorubric.com/images/university_logos/74.jpg",
+      "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/a50e47e9-a159-4f66-8ec1-c0857dfc23f7.png",
       "name": "University of Brighton",
       "id": 74,
       "state": "South East",
-      "shortname": "Brighton"
+      "shortname": "BSU"
     },
     {
       "country": "GB",
@@ -2966,7 +2966,7 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1759062622,
+      "sortindex": 1759147327,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/0465e83b-a6ba-4ca7-a377-63869408a3b0.jpg",
       "month": "October",
       "societyAvgRating": 5,
@@ -3036,7 +3036,7 @@
       "info": "Free"
     },
     {
-      "sortindex": 1758888255,
+      "sortindex": 1759124590,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/bdcb7955-6af7-4b0c-a2d3-5cc09f531bbf.png",
       "month": "October",
       "subtitle": "Show/Performance",
@@ -3188,20 +3188,6 @@
       "info": "$0.00 - $11.59"
     },
     {
-      "sortindex": 1757248282,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5efdebf7-9d19-426b-9ca3-da0929cb0331.png",
-      "month": "October",
-      "societyAvgRating": 4.8,
-      "subtitle": "Show/Performance",
-      "societyid": 2257,
-      "destination": "/?eid=39669",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
-      "title": "Eating Our Way to Extinction: screening + Q&A",
-      "day": "7",
-      "info": "Free"
-    },
-    {
       "sortindex": 1756165904,
       "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
       "month": "October",
@@ -3216,7 +3202,35 @@
       "info": "$0.00 - $5.00"
     },
     {
-      "sortindex": 1759106480,
+      "sortindex": 1757248282,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5efdebf7-9d19-426b-9ca3-da0929cb0331.png",
+      "month": "October",
+      "societyAvgRating": 4.8,
+      "subtitle": "Show/Performance",
+      "societyid": 2257,
+      "destination": "/?eid=39669",
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
+      "title": "Eating Our Way to Extinction: screening + Q&A",
+      "day": "7",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1759182358,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/e0e4f166-158d-46cd-ab88-d8ae5bf4b541.JPG",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Industry/Career",
+      "societyid": 57,
+      "destination": "/?eid=42589",
+      "societyname": "University of Queensland Law Society Incorporated",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS x COL Grad & International Networking Evening",
+      "day": "8",
+      "info": "$20.00"
+    },
+    {
+      "sortindex": 1759110252,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/5bd9ad77-7252-473f-9430-166f884b9b19.png",
       "month": "October",
       "societyAvgRating": 4.5,
@@ -3226,6 +3240,20 @@
       "societyname": "UQ HMNS Student Society",
       "societylogo": "https://resources.hellorubric.com/images/64586f6e7688b_.png",
       "title": "HMNS Careers and Networking Night Sem 2",
+      "day": "8",
+      "info": "$0.00 - $6.36"
+    },
+    {
+      "sortindex": 1758765429,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/fd83e655-abea-4fc9-929b-601dc30ebe87.png",
+      "month": "October",
+      "societyAvgRating": 4.8,
+      "subtitle": "Industry/Career",
+      "societyid": 1539,
+      "destination": "/?eid=42181",
+      "societyname": "UQ Women in Science Association",
+      "societylogo": "https://resources.hellorubric.com/images/63b4bef04d52d_.png",
+      "title": "Research Networking Night ",
       "day": "8",
       "info": "$0.00 - $6.36"
     },
@@ -3242,20 +3270,6 @@
       "title": "UQBA x UQMAS Marketing Panel & Workshop",
       "day": "8",
       "info": "Free"
-    },
-    {
-      "sortindex": 1758765429,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/fd83e655-abea-4fc9-929b-601dc30ebe87.png",
-      "month": "October",
-      "societyAvgRating": 4.8,
-      "subtitle": "Industry/Career",
-      "societyid": 1539,
-      "destination": "/?eid=42181",
-      "societyname": "UQ Women in Science Association",
-      "societylogo": "https://resources.hellorubric.com/images/63b4bef04d52d_.png",
-      "title": "Research Networking Night ",
-      "day": "8",
-      "info": "$0.00 - $6.36"
     },
     {
       "sortindex": 1758876031,
@@ -3314,6 +3328,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1759190940,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5e87d537-a4a7-4059-9daf-a5b906a66b80.png",
+      "month": "October",
+      "societyAvgRating": 4.6,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1862,
+      "destination": "/?eid=42600",
+      "societyname": "UQ Economics Society",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1862.png",
+      "title": "UQES Poker Night",
+      "day": "9",
+      "info": "$5.66 - $10.78"
+    },
+    {
       "sortindex": 1758855847,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/da6bd13a-8013-4bd4-aa37-66af60503302.png",
       "month": "October",
@@ -3341,7 +3369,7 @@
       "info": "$5.00 - $7.00"
     },
     {
-      "sortindex": 1759096768,
+      "sortindex": 1759112462,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/edec5faa-5bd1-4006-9515-f167ac213203.jpeg",
       "month": "October",
       "societyAvgRating": 4.7,
@@ -3381,6 +3409,19 @@
       "title": "UQ Bakeology 2025 Annual General Meeting",
       "day": "10",
       "info": "Free"
+    },
+    {
+      "sortindex": 1759114392,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/0e48d168-4827-4e04-9f8d-05afce3fbd2a.png",
+      "month": "October",
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 8915,
+      "destination": "/?eid=41774",
+      "societyname": "Real Estate Investment Student Association (REISA)",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/95340434-182b-4a11-a152-aaeaa2a7dd7a.png",
+      "title": "REISA EOY Networking & Movie Night",
+      "day": "10",
+      "info": "$0.00 - $6.36"
     },
     {
       "sortindex": 1758509221,
@@ -3452,20 +3493,6 @@
       "info": "$6.36 - $11.59"
     },
     {
-      "sortindex": 1757835641,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/d895a5b9-5f9e-4e11-94b8-d44e9ee6b812.png",
-      "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 57,
-      "destination": "/?eid=41045",
-      "societyname": "University of Queensland Law Society Incorporated",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
-      "title": "UQLS Valedictory Law Dinner 2025",
-      "day": "11",
-      "info": "$80.00 - $125.00"
-    },
-    {
       "sortindex": 1756281973,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/0c0914e8-9933-43b0-b857-98731416958b.jpeg",
       "month": "October",
@@ -3478,6 +3505,20 @@
       "title": "Ceylon Soiree 2025",
       "day": "11",
       "info": "$87.46 - $153.91"
+    },
+    {
+      "sortindex": 1759190669,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/d895a5b9-5f9e-4e11-94b8-d44e9ee6b812.png",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 57,
+      "destination": "/?eid=41045",
+      "societyname": "University of Queensland Law Society Incorporated",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS Valedictory Law Dinner 2025",
+      "day": "11",
+      "info": "$50.00 - $125.00"
     },
     {
       "sortindex": 1756071557,
@@ -3522,8 +3563,8 @@
       "info": "$0.00 - $11.59"
     },
     {
-      "sortindex": 1759068068,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_7.png",
+      "sortindex": 1759155216,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d74690a-824e-4b58-95ed-39b1836090ad.png",
       "month": "October",
       "societyAvgRating": 4.4,
       "subtitle": "Other",
@@ -3550,10 +3591,24 @@
       "info": "$0.00 - $5.00"
     },
     {
+      "sortindex": 1759142920,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/7d4030ee-16aa-48e7-b8fb-90044a2a0e01.PNG",
+      "month": "October",
+      "societyAvgRating": 4.7,
+      "subtitle": "Industry/Career",
+      "societyid": 5729,
+      "destination": "/?eid=41158",
+      "societyname": "UQ Food Science Club",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+      "title": "Career Night with FIAQ",
+      "day": "14",
+      "info": "$3.23 - $6.36"
+    },
+    {
       "sortindex": 1758153251,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/f0d0c7f9-0d9b-4f77-a309-59af3c38670f.jpg",
       "month": "October",
-      "societyAvgRating": 4.6,
+      "societyAvgRating": 4.7,
       "subtitle": "Industry/Career",
       "societyid": 5398,
       "destination": "/?eid=41229",
@@ -3796,6 +3851,20 @@
       "title": "Drinks on the Pier",
       "day": "25",
       "info": "$53.38 - $58.60"
+    },
+    {
+      "sortindex": 1759118643,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/489ee94a-f132-492d-81e1-7f01c59686a6.png",
+      "month": "October",
+      "societyAvgRating": 4.8,
+      "subtitle": "Other",
+      "societyid": 4520,
+      "destination": "/?eid=42519",
+      "societyname": "UQ Radiology Interest Group",
+      "societylogo": "https://resources.hellorubric.com/images/642f6169b14a3_.png",
+      "title": "End of Year Quiz",
+      "day": "30",
+      "info": "$0.00 - $6.99"
     },
     {
       "sortindex": 1758249187,
