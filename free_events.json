@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1759280400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/1ed4d57d-6e2d-4b61-b655-dd2b9d1607e4.png",
-    "month": "October",
-    "societyAvgRating": 4.8,
-    "subtitle": "Other",
-    "societyid": 8835,
-    "destination": "/?eid=40744",
-    "societyname": "UQCCR Student Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-    "title": "UQCCR Student Club AGM",
-    "day": "1",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1759305600,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd741adf-68d9-4d45-abfc-88a59e8b4b5c.jpeg",
-    "month": "October",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 5729,
-    "destination": "/?eid=40478",
-    "societyname": "UQ Food Science Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-    "title": "AIFST: Careers And Networking Event",
-    "day": "1",
-    "info": "Free"
-  },
-  {
     "sortindex": 1759392000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
     "month": "October",
@@ -192,6 +164,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
     "title": "Invitational 5000 m",
     "day": "18",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761123600,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
+    "month": "October",
+    "societyAvgRating": 5,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 10456,
+    "destination": "/?eid=42765",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "UQMHC Presents... October Book Club & AGM",
+    "day": "22",
     "info": "Free"
   },
   {
