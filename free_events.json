@@ -1,18 +1,5 @@
 [
   {
-    "sortindex": 1759392000,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/cd99b010-7832-4819-89e9-1c1405f6cab8.PNG",
-    "month": "October",
-    "subtitle": "Industry/Career",
-    "societyid": 5763,
-    "destination": "/?eid=40512",
-    "societyname": "Bachelor of Advanced Business (Honours) SPC",
-    "societylogo": "https://resources.hellorubric.com/images/651e1bc92c1a1_.png",
-    "title": "Bachelor of Advanced Business' Careers Connect",
-    "day": "2",
-    "info": "Free"
-  },
-  {
     "sortindex": 1759825800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/5efdebf7-9d19-426b-9ca3-da0929cb0331.png",
     "month": "October",
@@ -24,6 +11,20 @@
     "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
     "title": "Eating Our Way to Extinction: screening + Q&A",
     "day": "7",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1759910400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/912e57cc-fd2c-4fef-ae9b-cfa7a321d089.jpg",
+    "month": "October",
+    "societyAvgRating": 4.8,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 4688,
+    "destination": "/?eid=42099",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.hellorubric.com/images/64ca3c4c95979_.png",
+    "title": "SENV Trivia",
+    "day": "8",
     "info": "Free"
   },
   {
@@ -150,6 +151,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
     "title": "Annual General Meeting (AGM)",
     "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1760677200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/812502af-aac1-488f-b7f1-505bec0caf4d.jpg",
+    "month": "October",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=42874",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_649.png",
+    "title": "Valley Gallery Crawl",
+    "day": "17",
     "info": "Free"
   },
   {
