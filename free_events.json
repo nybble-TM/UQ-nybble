@@ -57,20 +57,6 @@
   },
   {
     "sortindex": 1760000400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/da6bd13a-8013-4bd4-aa37-66af60503302.png",
-    "month": "October",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 3855,
-    "destination": "/?eid=42305",
-    "societyname": "UQ Women in Business Economics and Law Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
-    "title": "UQWiBELS Resume & CV Workshop",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1760000400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e795097-0aa7-4548-98dc-486b6d2d3aec.png",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -80,6 +66,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
     "title": "Women in Business Evening",
+    "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1760000400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/da6bd13a-8013-4bd4-aa37-66af60503302.png",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 3855,
+    "destination": "/?eid=42305",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Resume & CV Workshop",
     "day": "9",
     "info": "Free"
   },
@@ -112,6 +112,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1760346000,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/0e606dca-fcdd-445d-9bf7-e038de42c069.png",
+    "month": "October",
+    "societyAvgRating": 4.6,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1862,
+    "destination": "/?eid=42925",
+    "societyname": "UQ Economics Society",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1862.png",
+    "title": "UQES Movie Night",
+    "day": "13",
+    "info": "Free"
+  },
+  {
     "sortindex": 1760425200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/4d74690a-824e-4b58-95ed-39b1836090ad.png",
     "month": "October",
@@ -122,6 +136,20 @@
     "societyname": "Gatton International Student Association",
     "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2395.png",
     "title": "GISA 2025 Annual General Meeting ",
+    "day": "14",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1760434200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f2e634b5-9da4-4fd1-9be5-42b349ac7d75.png",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=42947",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
+    "title": "Trivial PSuit",
     "day": "14",
     "info": "Free"
   },
@@ -207,6 +235,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
     "title": "BRUCE Annual General Meeting ",
     "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761555600,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5c9f9082-17dd-47af-b5da-4a90d1c83c16.jpg",
+    "month": "October",
+    "societyAvgRating": 4.8,
+    "subtitle": "Other",
+    "societyid": 2257,
+    "destination": "/?eid=42930",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
+    "title": "AGM 2025",
+    "day": "27",
     "info": "Free"
   }
 ]
