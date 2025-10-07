@@ -57,20 +57,6 @@
   },
   {
     "sortindex": 1759996800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/da6bd13a-8013-4bd4-aa37-66af60503302.png",
-    "month": "October",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 3855,
-    "destination": "/?eid=42305",
-    "societyname": "UQ Women in Business Economics and Law Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
-    "title": "UQWiBELS Resume & CV Workshop",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1759996800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e795097-0aa7-4548-98dc-486b6d2d3aec.png",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -80,6 +66,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
     "title": "Women in Business Evening",
+    "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1759996800,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/da6bd13a-8013-4bd4-aa37-66af60503302.png",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Industry/Career",
+    "societyid": 3855,
+    "destination": "/?eid=42305",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Resume & CV Workshop",
     "day": "9",
     "info": "Free"
   },
@@ -249,6 +249,20 @@
     "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
     "title": "AGM 2025",
     "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761946200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/8cd90fc0-95f5-42f6-be6c-e2f8094f8a82.jpg",
+    "month": "November",
+    "societyAvgRating": 4.6,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2308,
+    "destination": "/?eid=43067",
+    "societyname": "Occupational Therapy Students Association",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/3c6b3c0c-5393-4296-94d8-28740d4aab48.png",
+    "title": "OT Week Coffee Walk",
+    "day": "1",
     "info": "Free"
   }
 ]
