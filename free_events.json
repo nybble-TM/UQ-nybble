@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1759906800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/912e57cc-fd2c-4fef-ae9b-cfa7a321d089.jpg",
-    "month": "October",
-    "societyAvgRating": 4.8,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 4688,
-    "destination": "/?eid=42099",
-    "societyname": "UQ Ecological Society",
-    "societylogo": "https://resources.hellorubric.com/images/64ca3c4c95979_.png",
-    "title": "SENV Trivia",
-    "day": "8",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1759910400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e3b2ef9-e504-4698-ba7b-06ee4806def9.png",
-    "month": "October",
-    "societyAvgRating": 4.6,
-    "subtitle": "Industry/Career",
-    "societyid": 165,
-    "destination": "/?eid=40661",
-    "societyname": "UQBA - UQ Business Association",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_165.png",
-    "title": "UQBA x UQMAS Marketing Panel & Workshop",
-    "day": "8",
-    "info": "Free"
-  },
-  {
     "sortindex": 1759989600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/37c8294f-b2f2-42b9-9ac1-94bdc0586f1d.png",
     "month": "October",
@@ -43,20 +15,6 @@
   },
   {
     "sortindex": 1759996800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e795097-0aa7-4548-98dc-486b6d2d3aec.png",
-    "month": "October",
-    "societyAvgRating": 4.7,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=42057",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
-    "title": "Women in Business Evening",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1759996800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/da6bd13a-8013-4bd4-aa37-66af60503302.png",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -66,6 +24,20 @@
     "societyname": "UQ Women in Business Economics and Law Society",
     "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
     "title": "UQWiBELS Resume & CV Workshop",
+    "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1759996800,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e795097-0aa7-4548-98dc-486b6d2d3aec.png",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=42057",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
+    "title": "Women in Business Evening",
     "day": "9",
     "info": "Free"
   },
@@ -192,6 +164,20 @@
     "societyname": "Queensland University Exchange Students Society",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
     "title": "Invitational 5000 m",
+    "day": "18",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1760779800,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5671c377-e970-4441-97d6-2a073ddd28d6.jpg",
+    "month": "October",
+    "societyAvgRating": 4.3,
+    "subtitle": "Other",
+    "societyid": 2232,
+    "destination": "/?eid=43396",
+    "societyname": "Australia-China Youth Association at UQ",
+    "societylogo": "https://resources.hellorubric.com/images/641d01b87ef0d_.png",
+    "title": "ACYAUNSW x ACYAUQ Clash Royale Tournament",
     "day": "18",
     "info": "Free"
   },
