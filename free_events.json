@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1759989600,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/37c8294f-b2f2-42b9-9ac1-94bdc0586f1d.png",
-    "month": "October",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 2274,
-    "destination": "/?eid=38317",
-    "societyname": "2025 BRUCE Architecture Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
-    "title": "BRUCE General Meeting ",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1759996800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/da6bd13a-8013-4bd4-aa37-66af60503302.png",
-    "month": "October",
-    "societyAvgRating": 4.7,
-    "subtitle": "Industry/Career",
-    "societyid": 3855,
-    "destination": "/?eid=42305",
-    "societyname": "UQ Women in Business Economics and Law Society",
-    "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
-    "title": "UQWiBELS Resume & CV Workshop",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1759996800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2e795097-0aa7-4548-98dc-486b6d2d3aec.png",
-    "month": "October",
-    "societyAvgRating": 4.7,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=42057",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
-    "title": "Women in Business Evening",
-    "day": "9",
-    "info": "Free"
-  },
-  {
     "sortindex": 1760085000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/8237d3a5-491f-4faf-ab12-d4207f6e34b9.png",
     "month": "October",
@@ -182,6 +140,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1761026400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a87475e6-b041-4a05-b525-2c08c07645f0.jpeg",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 2511,
+    "destination": "/?eid=43133",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "MSA Wrapped - Annual General Meeting",
+    "day": "21",
+    "info": "Free"
+  },
+  {
     "sortindex": 1761120000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
     "month": "October",
@@ -210,6 +182,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1761206400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/48423285-16f2-4e60-8037-2b957a809192.png",
+    "month": "October",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=43510",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/88de8658-7837-4c4f-b8d8-80fff871b162.png",
+    "title": "Meta Masterclass with TFM Digital",
+    "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761292800,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_17.png",
+    "month": "October",
+    "societyAvgRating": 4.9,
+    "subtitle": "Other",
+    "societyid": 6188,
+    "destination": "/?eid=43558",
+    "societyname": "UQ Tamil Society",
+    "societylogo": "https://resources.hellorubric.com/images/644631feecc20_.png",
+    "title": "AGM - 2025",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1761552000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/5c9f9082-17dd-47af-b5da-4a90d1c83c16.jpg",
     "month": "October",
@@ -235,6 +235,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/3c6b3c0c-5393-4296-94d8-28740d4aab48.png",
     "title": "OT Week Coffee Walk",
     "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1763104500,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/e01ea6cb-2eae-44b1-94f9-6fbbb1bc51dc.jpeg",
+    "month": "November",
+    "societyAvgRating": 4.6,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1835,
+    "destination": "/?eid=43483",
+    "societyname": "Public Health Association University of Queensland",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1835.png",
+    "title": "UQPHA Annual General Meeting 2025",
+    "day": "14",
     "info": "Free"
   }
 ]
