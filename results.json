@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1760227200,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/d63ab536-fac6-44bf-9d44-d2fd0f4735ff.jpg",
-    "month": "October",
-    "societyAvgRating": 4.6,
-    "subtitle": "Other",
-    "societyid": 3147,
-    "destination": "/?eid=39174",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-    "title": "Spin to Support 2025",
-    "day": "12",
-    "info": "$22.04"
-  },
-  {
     "sortindex": 1760340600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/c1f873ab-e55a-41b2-a9c2-091b6dc8c794.png",
     "month": "October",
@@ -43,20 +29,6 @@
   },
   {
     "sortindex": 1760342400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2d286d61-392f-49cc-91d2-3079003fff63.png",
-    "month": "October",
-    "societyAvgRating": 4.8,
-    "subtitle": "Industry/Career",
-    "societyid": 5809,
-    "destination": "/?eid=39778",
-    "societyname": "UQ Reality Labs",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_5809.png",
-    "title": "Exhibition Night 2025",
-    "day": "13",
-    "info": "$0.00 - $11.59"
-  },
-  {
-    "sortindex": 1760342400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/0e606dca-fcdd-445d-9bf7-e038de42c069.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -68,6 +40,20 @@
     "title": "UQES Movie Night",
     "day": "13",
     "info": "Free"
+  },
+  {
+    "sortindex": 1760342400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/2d286d61-392f-49cc-91d2-3079003fff63.png",
+    "month": "October",
+    "societyAvgRating": 4.8,
+    "subtitle": "Industry/Career",
+    "societyid": 5809,
+    "destination": "/?eid=39778",
+    "societyname": "UQ Reality Labs",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_5809.png",
+    "title": "Exhibition Night 2025",
+    "day": "13",
+    "info": "$0.00 - $11.59"
   },
   {
     "sortindex": 1760421600,
@@ -141,20 +127,6 @@
   },
   {
     "sortindex": 1760515200,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f79aff3c-746e-402d-ad4f-9352bb41d629.png",
-    "month": "October",
-    "societyAvgRating": 4.5,
-    "subtitle": "Industry/Career",
-    "societyid": 933,
-    "destination": "/?eid=40180",
-    "societyname": "UQ Organisation of Planning Students",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
-    "title": "OOPS Awards Night",
-    "day": "15",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1760515200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/c67c7288-2fe4-4ef1-ae40-76fcc4511a5c.jpg",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -166,6 +138,20 @@
     "title": "LASA Networking Night",
     "day": "15",
     "info": "$0.00 - $6.36"
+  },
+  {
+    "sortindex": 1760515200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f79aff3c-746e-402d-ad4f-9352bb41d629.png",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Industry/Career",
+    "societyid": 933,
+    "destination": "/?eid=40180",
+    "societyname": "UQ Organisation of Planning Students",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
+    "title": "OOPS Awards Night",
+    "day": "15",
+    "info": "Free"
   },
   {
     "sortindex": 1760599800,
@@ -376,6 +362,20 @@
     "info": "$35.00 - $38.00"
   },
   {
+    "sortindex": 1760947200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5d00fdf4-740a-4962-af08-21908b79633c.JPG",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Industry/Career",
+    "societyid": 933,
+    "destination": "/?eid=42109",
+    "societyname": "UQ Organisation of Planning Students",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
+    "title": "2025 Annual General Meeting",
+    "day": "20",
+    "info": "Free"
+  },
+  {
     "sortindex": 1761026400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/a87475e6-b041-4a05-b525-2c08c07645f0.jpeg",
     "month": "October",
@@ -419,6 +419,20 @@
   },
   {
     "sortindex": 1761120000,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
+    "month": "October",
+    "societyAvgRating": 5,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 10456,
+    "destination": "/?eid=42765",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "UQMHC Presents... October Book Club & AGM",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761120000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/2f9f00b8-17c6-41e7-85c3-603bc11d6ca8.png",
     "month": "October",
     "subtitle": "Other",
@@ -432,15 +446,15 @@
   },
   {
     "sortindex": 1761120000,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
     "month": "October",
-    "societyAvgRating": 5,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 10456,
-    "destination": "/?eid=42765",
-    "societyname": "UQ Medical Humanities Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-    "title": "UQMHC Presents... October Book Club & AGM",
+    "societyAvgRating": 4.5,
+    "subtitle": "Industry/Career",
+    "societyid": 3147,
+    "destination": "/?eid=43718",
+    "societyname": "The UQ Women's Network",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+    "title": "A Night With Style",
     "day": "22",
     "info": "Free"
   },
@@ -460,6 +474,20 @@
   },
   {
     "sortindex": 1761206400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/523ea033-de9b-4bf0-bdbc-50d2387ddf52.png",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=43715",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
+    "title": "Intern Speaker Panel",
+    "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761206400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/48423285-16f2-4e60-8037-2b957a809192.png",
     "month": "October",
     "societyAvgRating": 4.6,
@@ -470,6 +498,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/88de8658-7837-4c4f-b8d8-80fff871b162.png",
     "title": "Meta Masterclass with TFM Digital",
     "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761289200,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
+    "month": "October",
+    "societyAvgRating": 4.8,
+    "subtitle": "Other",
+    "societyid": 2235,
+    "destination": "/?eid=43626",
+    "societyname": "UQ Photography Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+    "title": "AGM 2025",
+    "day": "24",
     "info": "Free"
   },
   {
@@ -487,22 +529,8 @@
     "info": "$42.93"
   },
   {
-    "sortindex": 1761289200,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
-    "month": "October",
-    "societyAvgRating": 4.8,
-    "subtitle": "Other",
-    "societyid": 2235,
-    "destination": "/?eid=43626",
-    "societyname": "UQ Photography Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
-    "title": "AGM 2025",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1761292800,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_17.png",
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/c963a5f5-849c-4302-a13e-fabdda026fd2.png",
     "month": "October",
     "societyAvgRating": 4.9,
     "subtitle": "Other",
@@ -513,6 +541,20 @@
     "title": "AGM - 2025",
     "day": "24",
     "info": "Free"
+  },
+  {
+    "sortindex": 1761296400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/df29c523-8e38-4bb0-827c-60d920226c72.png",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 57,
+    "destination": "/?eid=43460",
+    "societyname": "University of Queensland Law Society Incorporated",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
+    "title": "UQLS Trivia Night: The Summer I Turned Trivial",
+    "day": "24",
+    "info": "$20.00"
   },
   {
     "sortindex": 1761296400,
@@ -529,24 +571,10 @@
     "info": "$116.07 - $142.19"
   },
   {
-    "sortindex": 1761296400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/df29c523-8e38-4bb0-827c-60d920226c72.png",
-    "month": "October",
-    "societyAvgRating": 4.6,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 57,
-    "destination": "/?eid=43460",
-    "societyname": "University of Queensland Law Society Incorporated",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_57.png",
-    "title": "UQLS Trivia Night: The Summer I Turned Trivial",
-    "day": "24",
-    "info": "$20.00"
-  },
-  {
     "sortindex": 1761300000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/6acd68e0-5f38-42b1-b68c-770c39c7592e.png",
     "month": "October",
-    "societyAvgRating": 4.6,
+    "societyAvgRating": 4.5,
     "subtitle": "Ball/Dinner/Gala",
     "societyid": 57,
     "destination": "/?eid=42994",
