@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1760515200,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f79aff3c-746e-402d-ad4f-9352bb41d629.png",
-    "month": "October",
-    "societyAvgRating": 4.5,
-    "subtitle": "Industry/Career",
-    "societyid": 933,
-    "destination": "/?eid=40180",
-    "societyname": "UQ Organisation of Planning Students",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_933.png",
-    "title": "OOPS Awards Night",
-    "day": "15",
-    "info": "Free"
-  },
-  {
     "sortindex": 1760599800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/7145af04-3de2-4ed9-add7-beb9bf5f5547.jpg",
     "month": "October",
@@ -99,20 +85,6 @@
   },
   {
     "sortindex": 1761120000,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
-    "month": "October",
-    "societyAvgRating": 5,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 10456,
-    "destination": "/?eid=42765",
-    "societyname": "UQ Medical Humanities Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-    "title": "UQMHC Presents... October Book Club & AGM",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1761120000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/f7a3687e-429c-44a9-af3a-68417922d072.png",
     "month": "October",
     "societyAvgRating": 4.5,
@@ -126,16 +98,30 @@
     "info": "Free"
   },
   {
-    "sortindex": 1761202800,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
+    "sortindex": 1761120000,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
     "month": "October",
-    "societyAvgRating": 4.7,
-    "subtitle": "Other",
-    "societyid": 2274,
-    "destination": "/?eid=38316",
-    "societyname": "2025 BRUCE Architecture Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
-    "title": "BRUCE Annual General Meeting ",
+    "societyAvgRating": 5,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 10456,
+    "destination": "/?eid=42765",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "UQMHC Presents... October Book Club & AGM",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761206400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/48423285-16f2-4e60-8037-2b957a809192.png",
+    "month": "October",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=43510",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/88de8658-7837-4c4f-b8d8-80fff871b162.png",
+    "title": "Meta Masterclass with TFM Digital",
     "day": "23",
     "info": "Free"
   },
@@ -150,20 +136,6 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
     "title": "Intern Speaker Panel",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1761206400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/48423285-16f2-4e60-8037-2b957a809192.png",
-    "month": "October",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=43510",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/88de8658-7837-4c4f-b8d8-80fff871b162.png",
-    "title": "Meta Masterclass with TFM Digital",
     "day": "23",
     "info": "Free"
   },
@@ -249,6 +221,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/3c6b3c0c-5393-4296-94d8-28740d4aab48.png",
     "title": "OT Week Coffee Walk",
     "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1762326000,
+    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
+    "month": "November",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 2274,
+    "destination": "/?eid=38316",
+    "societyname": "2025 BRUCE Architecture Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
+    "title": "BRUCE Annual General Meeting ",
+    "day": "5",
     "info": "Free"
   },
   {
