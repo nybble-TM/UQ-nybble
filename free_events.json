@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1760599800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/7145af04-3de2-4ed9-add7-beb9bf5f5547.jpg",
-    "month": "October",
-    "societyAvgRating": 4.7,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 5729,
-    "destination": "/?eid=41159",
-    "societyname": "UQ Food Science Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-    "title": "Annual General Meeting (AGM)",
-    "day": "16",
-    "info": "Free"
-  },
-  {
     "sortindex": 1760673600,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/812502af-aac1-488f-b7f1-505bec0caf4d.jpg",
     "month": "October",
@@ -59,7 +45,7 @@
     "sortindex": 1760947200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/5d00fdf4-740a-4962-af08-21908b79633c.JPG",
     "month": "October",
-    "societyAvgRating": 4.5,
+    "societyAvgRating": 4.6,
     "subtitle": "Industry/Career",
     "societyid": 933,
     "destination": "/?eid=42109",
@@ -179,6 +165,20 @@
     "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
     "title": "AGM 2025",
     "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761724800,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6356629f-7206-40ee-815c-5fd09d4a3fa3.png",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Other",
+    "societyid": 2420,
+    "destination": "/?eid=44095",
+    "societyname": "UQ Thai Students' Association",
+    "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
+    "title": "UQTSA Annual General Meeting 2025 ",
+    "day": "29",
     "info": "Free"
   },
   {
