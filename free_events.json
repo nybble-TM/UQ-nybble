@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1760747400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/24acf89b-6aec-4c06-a6fb-e88b0f117e57.png",
-    "month": "October",
-    "societyAvgRating": 4.5,
-    "subtitle": "Sport/Competition",
-    "societyid": 534,
-    "destination": "/?eid=40786",
-    "societyname": "Queensland University Exchange Students Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-    "title": "Invitational 5000 m",
-    "day": "18",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1760779800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/5671c377-e970-4441-97d6-2a073ddd28d6.jpg",
-    "month": "October",
-    "societyAvgRating": 4.3,
-    "subtitle": "Other",
-    "societyid": 2232,
-    "destination": "/?eid=43396",
-    "societyname": "Australia-China Youth Association at UQ",
-    "societylogo": "https://resources.hellorubric.com/images/641d01b87ef0d_.png",
-    "title": "ACYAUNSW x ACYAUQ Clash Royale Tournament",
-    "day": "18",
-    "info": "Free"
-  },
-  {
     "sortindex": 1760947200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/5d00fdf4-740a-4962-af08-21908b79633c.JPG",
     "month": "October",
@@ -57,20 +29,6 @@
   },
   {
     "sortindex": 1761120000,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f7a3687e-429c-44a9-af3a-68417922d072.png",
-    "month": "October",
-    "societyAvgRating": 4.5,
-    "subtitle": "Industry/Career",
-    "societyid": 3147,
-    "destination": "/?eid=43718",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-    "title": "A Night With Style",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1761120000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
     "month": "October",
     "societyAvgRating": 5,
@@ -80,6 +38,20 @@
     "societyname": "UQ Medical Humanities Club",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
     "title": "UQMHC Presents... October Book Club & AGM",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761120000,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f7a3687e-429c-44a9-af3a-68417922d072.png",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Industry/Career",
+    "societyid": 3147,
+    "destination": "/?eid=43718",
+    "societyname": "The UQ Women's Network",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+    "title": "A Night With Style",
     "day": "22",
     "info": "Free"
   },
@@ -155,20 +127,6 @@
   },
   {
     "sortindex": 1761724800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6356629f-7206-40ee-815c-5fd09d4a3fa3.png",
-    "month": "October",
-    "societyAvgRating": 4.5,
-    "subtitle": "Other",
-    "societyid": 2420,
-    "destination": "/?eid=44095",
-    "societyname": "UQ Thai Students' Association",
-    "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
-    "title": "UQTSA Annual General Meeting 2025 ",
-    "day": "29",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1761724800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/60815990-c660-43a6-bd5d-485a134480e9.png",
     "month": "October",
     "societyAvgRating": 4.8,
@@ -178,6 +136,20 @@
     "societyname": "UQ Ecological Society",
     "societylogo": "https://resources.hellorubric.com/images/64ca3c4c95979_.png",
     "title": "EcoSoc AGM 2025",
+    "day": "29",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761724800,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/6356629f-7206-40ee-815c-5fd09d4a3fa3.png",
+    "month": "October",
+    "societyAvgRating": 4.5,
+    "subtitle": "Other",
+    "societyid": 2420,
+    "destination": "/?eid=44095",
+    "societyname": "UQ Thai Students' Association",
+    "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
+    "title": "UQTSA Annual General Meeting 2025 ",
     "day": "29",
     "info": "Free"
   },
