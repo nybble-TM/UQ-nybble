@@ -8,7 +8,7 @@
     "Other",
     "Party/BBQ/Social",
     "Quiz/Trivia",
-    "Show/Performance",
+    "Sport/Competition",
     "Trip/Camp"
   ],
   "selectedEventsPeriodFilter": "All",
@@ -302,7 +302,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 49,
+  "totalItemCount": 47,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2967,62 +2967,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1761026400,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/a87475e6-b041-4a05-b525-2c08c07645f0.jpeg",
-      "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 2511,
-      "destination": "/?eid=43133",
-      "societyname": "Muslim Students Association UQ",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-      "title": "MSA Wrapped - Annual General Meeting",
-      "day": "21",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1761033600,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/f4f9aee2-96e8-429e-b512-2d33a54d92da.jfif",
-      "month": "October",
-      "societyAvgRating": 4.6,
-      "subtitle": "Industry/Career",
-      "societyid": 1862,
-      "destination": "/?eid=43952",
-      "societyname": "UQ Economics Society",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1862.png",
-      "title": "UQES Financial Markets & Services Panel",
-      "day": "21",
-      "info": "$0.00 - $5.66"
-    },
-    {
-      "sortindex": 1761033600,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/1af6f51a-9ebb-4b21-a6c5-bfd4a9dd95c8.png",
-      "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Show/Performance",
-      "societyid": 2420,
-      "destination": "/?eid=44196",
-      "societyname": "UQ Thai Students' Association",
-      "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
-      "title": "Thai Movie Night #2!",
-      "day": "21",
-      "info": "$0.00 - $6.36"
-    },
-    {
-      "sortindex": 1761035400,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_15.png",
-      "month": "October",
-      "societyAvgRating": 4.4,
-      "subtitle": "Industry/Career",
-      "societyid": 7437,
-      "destination": "/?eid=40838",
-      "societyname": "UQ Internal Medicine Society",
-      "societylogo": "https://resources.hellorubric.com/images/669523f8ead48_.png",
-      "title": "The Path to Practice: ECG Interpretation ",
-      "day": "21",
-      "info": "$0.00 - $6.36"
-    },
-    {
       "sortindex": 1761116400,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/97761184-1b65-440c-8a7c-b2b836f805c1.png",
       "month": "October",
@@ -3038,15 +2982,15 @@
     },
     {
       "sortindex": 1761120000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/f7a3687e-429c-44a9-af3a-68417922d072.png",
       "month": "October",
-      "societyAvgRating": 5,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 10456,
-      "destination": "/?eid=42765",
-      "societyname": "UQ Medical Humanities Club",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-      "title": "UQMHC Presents... October Book Club & AGM",
+      "societyAvgRating": 4.5,
+      "subtitle": "Industry/Career",
+      "societyid": 3147,
+      "destination": "/?eid=43718",
+      "societyname": "The UQ Women's Network",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+      "title": "A Night With Style",
       "day": "22",
       "info": "Free"
     },
@@ -3065,16 +3009,30 @@
     },
     {
       "sortindex": 1761120000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/f7a3687e-429c-44a9-af3a-68417922d072.png",
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
       "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Industry/Career",
-      "societyid": 3147,
-      "destination": "/?eid=43718",
-      "societyname": "The UQ Women's Network",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-      "title": "A Night With Style",
+      "societyAvgRating": 5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 10456,
+      "destination": "/?eid=42765",
+      "societyname": "UQ Medical Humanities Club",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+      "title": "UQMHC Presents... October Book Club & AGM",
       "day": "22",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1761206400,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/48423285-16f2-4e60-8037-2b957a809192.png",
+      "month": "October",
+      "societyAvgRating": 4.6,
+      "subtitle": "Class/Workshop",
+      "societyid": 186,
+      "destination": "/?eid=43510",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/88de8658-7837-4c4f-b8d8-80fff871b162.png",
+      "title": "Meta Masterclass with TFM Digital",
+      "day": "23",
       "info": "Free"
     },
     {
@@ -3092,18 +3050,18 @@
       "info": "Free"
     },
     {
-      "sortindex": 1761206400,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/48423285-16f2-4e60-8037-2b957a809192.png",
+      "sortindex": 1761285600,
+      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_4.png",
       "month": "October",
-      "societyAvgRating": 4.6,
-      "subtitle": "Class/Workshop",
-      "societyid": 186,
-      "destination": "/?eid=43510",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/88de8658-7837-4c4f-b8d8-80fff871b162.png",
-      "title": "Meta Masterclass with TFM Digital",
-      "day": "23",
-      "info": "Free"
+      "societyAvgRating": 4.9,
+      "subtitle": "Sport/Competition",
+      "societyid": 6816,
+      "destination": "/?eid=44445",
+      "societyname": "UQ Taekwondo Club",
+      "societylogo": "https://resources.hellorubric.com/images/64c05e17404d1_.png",
+      "title": "2025 semester 2 grading ",
+      "day": "24",
+      "info": "$29.98"
     },
     {
       "sortindex": 1761289200,
@@ -3316,34 +3274,6 @@
     },
     {
       "sortindex": 1761724800,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/51397bfe-b3cd-4be6-ac76-1018fa02df34.jpg",
-      "month": "October",
-      "societyAvgRating": 4.7,
-      "subtitle": "Other",
-      "societyid": 6994,
-      "destination": "/?eid=44292",
-      "societyname": "Financial Management Association of Australia",
-      "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
-      "title": "Funds Management Evening",
-      "day": "29",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1761724800,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/6356629f-7206-40ee-815c-5fd09d4a3fa3.png",
-      "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Other",
-      "societyid": 2420,
-      "destination": "/?eid=44095",
-      "societyname": "UQ Thai Students' Association",
-      "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
-      "title": "UQTSA Annual General Meeting 2025 ",
-      "day": "29",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1761724800,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/a6c45118-218b-4744-b180-9ea57d8b3e08.png",
       "month": "October",
       "societyAvgRating": 4.3,
@@ -3371,18 +3301,32 @@
       "info": "Free"
     },
     {
-      "sortindex": 1761809400,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5283d6de-87c1-4f7c-b3cb-83d0e159149d.png",
+      "sortindex": 1761724800,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/51397bfe-b3cd-4be6-ac76-1018fa02df34.jpg",
+      "month": "October",
+      "societyAvgRating": 4.7,
+      "subtitle": "Other",
+      "societyid": 6994,
+      "destination": "/?eid=44292",
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
+      "title": "Funds Management Evening",
+      "day": "29",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1761724800,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/6356629f-7206-40ee-815c-5fd09d4a3fa3.png",
       "month": "October",
       "societyAvgRating": 4.5,
-      "subtitle": "Cruise",
-      "societyid": 534,
-      "destination": "/?eid=43004",
-      "societyname": "Queensland University Exchange Students Society",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-      "title": "QUEST End of Sem Boat Party",
-      "day": "30",
-      "info": "$51.67"
+      "subtitle": "Other",
+      "societyid": 2420,
+      "destination": "/?eid=44095",
+      "societyname": "UQ Thai Students' Association",
+      "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
+      "title": "UQTSA Annual General Meeting 2025 ",
+      "day": "29",
+      "info": "Free"
     },
     {
       "sortindex": 1761809400,
@@ -3411,6 +3355,20 @@
       "title": "End of Year Quiz",
       "day": "30",
       "info": "$0.00 - $6.99"
+    },
+    {
+      "sortindex": 1761809400,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5283d6de-87c1-4f7c-b3cb-83d0e159149d.png",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Cruise",
+      "societyid": 534,
+      "destination": "/?eid=43004",
+      "societyname": "Queensland University Exchange Students Society",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+      "title": "QUEST End of Sem Boat Party",
+      "day": "30",
+      "info": "$51.67"
     },
     {
       "sortindex": 1761811200,
@@ -3442,20 +3400,6 @@
     },
     {
       "sortindex": 1761897600,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd560f07-36d7-4521-9d8a-3f3c5cfb3981.png",
-      "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 601,
-      "destination": "/?eid=42870",
-      "societyname": "UQ Surfers Club",
-      "societylogo": "https://resources.hellorubric.com/images/640f8a0a38742_.png",
-      "title": "Halloween Haunted House Party",
-      "day": "31",
-      "info": "$11.59 - $22.04"
-    },
-    {
-      "sortindex": 1761897600,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/f492d75f-c7a3-4bdc-b3d7-82aba19b3ac0.jpg",
       "month": "October",
       "societyAvgRating": 4.8,
@@ -3470,6 +3414,20 @@
     },
     {
       "sortindex": 1761897600,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd560f07-36d7-4521-9d8a-3f3c5cfb3981.png",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 601,
+      "destination": "/?eid=42870",
+      "societyname": "UQ Surfers Club",
+      "societylogo": "https://resources.hellorubric.com/images/640f8a0a38742_.png",
+      "title": "Halloween Haunted House Party",
+      "day": "31",
+      "info": "$0.00 - $22.04"
+    },
+    {
+      "sortindex": 1761897600,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/ca7aaa5c-6a5c-47f8-8517-dc9154febd59.jpg",
       "month": "October",
       "societyAvgRating": 4.3,
@@ -3480,21 +3438,7 @@
       "societylogo": "https://resources.hellorubric.com/images/641d01b87ef0d_.png",
       "title": "\ud83c\udf83 Spook in Style \u2013 UQ ACYA Halloween Party \ud83c\udf83",
       "day": "31",
-      "info": "$32.48 - $37.71"
-    },
-    {
-      "sortindex": 1761901200,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_14.png",
-      "month": "October",
-      "societyAvgRating": 4.6,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 648,
-      "destination": "/?eid=43105",
-      "societyname": "UQ Sri Lankan Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_648.png",
-      "title": "UQSLA & UQNC Fright Night 2025",
-      "day": "31",
-      "info": "$10.78 - $26.11"
+      "info": "$22.04 - $37.71"
     },
     {
       "sortindex": 1761901200,
@@ -3509,6 +3453,20 @@
       "title": "UQ Health Societies: HALLOWEEN PARTY",
       "day": "31",
       "info": "$13.68 - $22.04"
+    },
+    {
+      "sortindex": 1761901200,
+      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_14.png",
+      "month": "October",
+      "societyAvgRating": 4.6,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 648,
+      "destination": "/?eid=43105",
+      "societyname": "UQ Sri Lankan Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_648.png",
+      "title": "UQSLA & UQNC Fright Night 2025",
+      "day": "31",
+      "info": "$10.78 - $26.11"
     },
     {
       "sortindex": 1761946200,
@@ -3538,8 +3496,8 @@
       "info": "$22.04"
     },
     {
-      "sortindex": 1762326000,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
+      "sortindex": 1762308000,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/a9fe24ef-b38c-4c37-8278-c3773bc92405.jpeg",
       "month": "November",
       "societyAvgRating": 4.7,
       "subtitle": "Other",
@@ -3620,6 +3578,20 @@
       "title": "Pasifika Ball",
       "day": "28",
       "info": "$74.28 - $105.62"
+    },
+    {
+      "sortindex": 1764318600,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/e1522af7-d569-46ee-8751-88169d9bbafa.jpg",
+      "month": "November",
+      "societyAvgRating": 4.4,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 1345,
+      "destination": "/?eid=44437",
+      "societyname": "Underground Theatre Company",
+      "societylogo": "https://resources.hellorubric.com/images/642f822a29f1b_.png",
+      "title": "Undies Ball 2025",
+      "day": "28",
+      "info": "$48.15 - $74.28"
     },
     {
       "sortindex": 1765528200,

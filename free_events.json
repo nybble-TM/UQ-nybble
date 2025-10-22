@@ -1,16 +1,16 @@
 [
   {
-    "sortindex": 1761026400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a87475e6-b041-4a05-b525-2c08c07645f0.jpeg",
+    "sortindex": 1761120000,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f7a3687e-429c-44a9-af3a-68417922d072.png",
     "month": "October",
     "societyAvgRating": 4.5,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 2511,
-    "destination": "/?eid=43133",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "MSA Wrapped - Annual General Meeting",
-    "day": "21",
+    "subtitle": "Industry/Career",
+    "societyid": 3147,
+    "destination": "/?eid=43718",
+    "societyname": "The UQ Women's Network",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
+    "title": "A Night With Style",
+    "day": "22",
     "info": "Free"
   },
   {
@@ -28,17 +28,17 @@
     "info": "Free"
   },
   {
-    "sortindex": 1761120000,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f7a3687e-429c-44a9-af3a-68417922d072.png",
+    "sortindex": 1761206400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/48423285-16f2-4e60-8037-2b957a809192.png",
     "month": "October",
-    "societyAvgRating": 4.5,
-    "subtitle": "Industry/Career",
-    "societyid": 3147,
-    "destination": "/?eid=43718",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-    "title": "A Night With Style",
-    "day": "22",
+    "societyAvgRating": 4.6,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=43510",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/88de8658-7837-4c4f-b8d8-80fff871b162.png",
+    "title": "Meta Masterclass with TFM Digital",
+    "day": "23",
     "info": "Free"
   },
   {
@@ -52,20 +52,6 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.hellorubric.com/images/65c8abeef255b_.png",
     "title": "Intern Speaker Panel",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1761206400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/48423285-16f2-4e60-8037-2b957a809192.png",
-    "month": "October",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=43510",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/88de8658-7837-4c4f-b8d8-80fff871b162.png",
-    "title": "Meta Masterclass with TFM Digital",
     "day": "23",
     "info": "Free"
   },
@@ -127,6 +113,20 @@
   },
   {
     "sortindex": 1761724800,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/60815990-c660-43a6-bd5d-485a134480e9.png",
+    "month": "October",
+    "societyAvgRating": 4.8,
+    "subtitle": "Other",
+    "societyid": 4688,
+    "destination": "/?eid=43565",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.hellorubric.com/images/64ca3c4c95979_.png",
+    "title": "EcoSoc AGM 2025",
+    "day": "29",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761724800,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/51397bfe-b3cd-4be6-ac76-1018fa02df34.jpg",
     "month": "October",
     "societyAvgRating": 4.7,
@@ -150,20 +150,6 @@
     "societyname": "UQ Thai Students' Association",
     "societylogo": "https://resources.hellorubric.com/images/64084d6c99c2e_.png",
     "title": "UQTSA Annual General Meeting 2025 ",
-    "day": "29",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1761724800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/60815990-c660-43a6-bd5d-485a134480e9.png",
-    "month": "October",
-    "societyAvgRating": 4.8,
-    "subtitle": "Other",
-    "societyid": 4688,
-    "destination": "/?eid=43565",
-    "societyname": "UQ Ecological Society",
-    "societylogo": "https://resources.hellorubric.com/images/64ca3c4c95979_.png",
-    "title": "EcoSoc AGM 2025",
     "day": "29",
     "info": "Free"
   },
@@ -196,8 +182,8 @@
     "info": "Free"
   },
   {
-    "sortindex": 1762326000,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_13.png",
+    "sortindex": 1762308000,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a9fe24ef-b38c-4c37-8278-c3773bc92405.jpeg",
     "month": "November",
     "societyAvgRating": 4.7,
     "subtitle": "Other",
