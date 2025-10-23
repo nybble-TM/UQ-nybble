@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1761120000,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f7a3687e-429c-44a9-af3a-68417922d072.png",
-    "month": "October",
-    "societyAvgRating": 4.5,
-    "subtitle": "Industry/Career",
-    "societyid": 3147,
-    "destination": "/?eid=43718",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_3147.png",
-    "title": "A Night With Style",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1761120000,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/881592d3-7016-4025-840e-ec77bb023d38.jpeg",
-    "month": "October",
-    "societyAvgRating": 5,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 10456,
-    "destination": "/?eid=42765",
-    "societyname": "UQ Medical Humanities Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-    "title": "UQMHC Presents... October Book Club & AGM",
-    "day": "22",
-    "info": "Free"
-  },
-  {
     "sortindex": 1761206400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/48423285-16f2-4e60-8037-2b957a809192.png",
     "month": "October",
@@ -109,6 +81,34 @@
     "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
     "title": "AGM 2025",
     "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761640200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/8e4ff393-1574-41c9-bae7-fe84ff9ef077.png",
+    "month": "October",
+    "societyAvgRating": 4.3,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 2332,
+    "destination": "/?eid=44498",
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2332.png",
+    "title": "UNIT Trivia Night Semester 2",
+    "day": "28",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1761692400,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ffc26c97-f0cd-47e4-9d93-6f33a5546c6b.png",
+    "month": "October",
+    "societyAvgRating": 4.7,
+    "subtitle": "Other",
+    "societyid": 3855,
+    "destination": "/?eid=44482",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.hellorubric.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Study Sisters Semester 2 2026",
+    "day": "29",
     "info": "Free"
   },
   {
