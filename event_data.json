@@ -301,7 +301,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 33,
+  "totalItemCount": 32,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2966,20 +2966,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1761552000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5c9f9082-17dd-47af-b5da-4a90d1c83c16.jpg",
-      "month": "October",
-      "societyAvgRating": 4.8,
-      "subtitle": "Other",
-      "societyid": 2257,
-      "destination": "/?eid=42930",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/images/660f6b73a3c61_.png",
-      "title": "AGM 2025",
-      "day": "27",
-      "info": "Free"
-    },
-    {
       "sortindex": 1761638400,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb6fede3-bf7e-4e37-81c5-3d6ee6833158.png",
       "month": "October",
@@ -3121,6 +3107,20 @@
     },
     {
       "sortindex": 1761809400,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5283d6de-87c1-4f7c-b3cb-83d0e159149d.png",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Cruise",
+      "societyid": 534,
+      "destination": "/?eid=43004",
+      "societyname": "Queensland University Exchange Students Society",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+      "title": "QUEST End of Sem Boat Party",
+      "day": "30",
+      "info": "$51.67"
+    },
+    {
+      "sortindex": 1761809400,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/7caea34b-1ab1-4831-a7c4-54249b704bc3.png",
       "month": "October",
       "societyAvgRating": 4.8,
@@ -3146,20 +3146,6 @@
       "title": "End of Year Quiz",
       "day": "30",
       "info": "$0.00 - $6.99"
-    },
-    {
-      "sortindex": 1761809400,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5283d6de-87c1-4f7c-b3cb-83d0e159149d.png",
-      "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Cruise",
-      "societyid": 534,
-      "destination": "/?eid=43004",
-      "societyname": "Queensland University Exchange Students Society",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-      "title": "QUEST End of Sem Boat Party",
-      "day": "30",
-      "info": "$51.67"
     },
     {
       "sortindex": 1761811200,
@@ -3201,21 +3187,7 @@
       "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
       "title": "2025 HAC AGM with FREE DIY Workshops & Snacks",
       "day": "31",
-      "info": "$0.00 - $11.59"
-    },
-    {
-      "sortindex": 1761897600,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd560f07-36d7-4521-9d8a-3f3c5cfb3981.png",
-      "month": "October",
-      "societyAvgRating": 4.5,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 601,
-      "destination": "/?eid=42870",
-      "societyname": "UQ Surfers Club",
-      "societylogo": "https://resources.hellorubric.com/images/640f8a0a38742_.png",
-      "title": "Halloween Haunted House Party",
-      "day": "31",
-      "info": "$0.00 - $22.04"
+      "info": "$0.00 - $10.00"
     },
     {
       "sortindex": 1761897600,
@@ -3244,6 +3216,20 @@
       "title": "2025 Ag Soiree ",
       "day": "31",
       "info": "$37.71 - $42.93"
+    },
+    {
+      "sortindex": 1761897600,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd560f07-36d7-4521-9d8a-3f3c5cfb3981.png",
+      "month": "October",
+      "societyAvgRating": 4.5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 601,
+      "destination": "/?eid=42870",
+      "societyname": "UQ Surfers Club",
+      "societylogo": "https://resources.hellorubric.com/images/640f8a0a38742_.png",
+      "title": "Halloween Haunted House Party",
+      "day": "31",
+      "info": "$0.00 - $22.04"
     },
     {
       "sortindex": 1761901200,
@@ -3343,6 +3329,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1763713800,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/e1522af7-d569-46ee-8751-88169d9bbafa.jpg",
+      "month": "November",
+      "societyAvgRating": 4.4,
+      "subtitle": "Other",
+      "societyid": 1345,
+      "destination": "/?eid=44848",
+      "societyname": "Underground Theatre Company",
+      "societylogo": "https://resources.hellorubric.com/images/642f822a29f1b_.png",
+      "title": "Undies Ball 2025",
+      "day": "21",
+      "info": "$48.15 - $74.28"
+    },
+    {
       "sortindex": 1763715600,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/e561edf8-e041-42a1-8edc-53549fdd5c5c.png",
       "month": "November",
@@ -3383,20 +3383,6 @@
       "title": "Pasifika Ball",
       "day": "28",
       "info": "$74.28 - $105.62"
-    },
-    {
-      "sortindex": 1764318600,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/e1522af7-d569-46ee-8751-88169d9bbafa.jpg",
-      "month": "November",
-      "societyAvgRating": 4.4,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 1345,
-      "destination": "/?eid=44437",
-      "societyname": "Underground Theatre Company",
-      "societylogo": "https://resources.hellorubric.com/images/642f822a29f1b_.png",
-      "title": "Undies Ball 2025",
-      "day": "28",
-      "info": "$48.15 - $74.28"
     },
     {
       "sortindex": 1765528200,
