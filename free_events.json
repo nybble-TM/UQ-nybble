@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1761807600,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_10.png",
-    "month": "October",
-    "societyAvgRating": 4.6,
-    "subtitle": "Class/Workshop",
-    "societyid": 649,
-    "destination": "/?eid=44397",
-    "societyname": "Society of Fine Arts",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_649.png",
-    "title": "Halloween Double Feature",
-    "day": "30",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1761809400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/7caea34b-1ab1-4831-a7c4-54249b704bc3.png",
-    "month": "October",
-    "societyAvgRating": 4.8,
-    "subtitle": "Other",
-    "societyid": 593,
-    "destination": "/?eid=43583",
-    "societyname": "UQ Chemistry Club",
-    "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_593.png",
-    "title": "UQCC AGM & Movie Night",
-    "day": "30",
-    "info": "Free"
-  },
-  {
     "sortindex": 1761946200,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/8cd90fc0-95f5-42f6-be6c-e2f8094f8a82.jpg",
     "month": "November",
@@ -39,6 +11,20 @@
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/3c6b3c0c-5393-4296-94d8-28740d4aab48.png",
     "title": "OT Week Coffee Walk",
     "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1762092000,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/fef53119-72e9-4f28-8bb4-8a36650ad481.png",
+    "month": "November",
+    "societyAvgRating": 4.9,
+    "subtitle": "Class/Workshop",
+    "societyid": 358,
+    "destination": "/?eid=45126",
+    "societyname": "UQ African Students Association",
+    "societylogo": "https://resources.hellorubric.com/images/642f5e7100980_.png",
+    "title": "ASA Study Sesh",
+    "day": "3",
     "info": "Free"
   },
   {
