@@ -1,32 +1,5 @@
 [
   {
-    "sortindex": 1761946200,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/8cd90fc0-95f5-42f6-be6c-e2f8094f8a82.jpg",
-    "month": "November",
-    "societyAvgRating": 4.6,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2308,
-    "destination": "/?eid=43067",
-    "societyname": "Occupational Therapy Students Association",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/3c6b3c0c-5393-4296-94d8-28740d4aab48.png",
-    "title": "OT Week Coffee Walk",
-    "day": "1",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1761971400,
-    "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_2.png",
-    "month": "November",
-    "subtitle": "Other",
-    "societyid": 10792,
-    "destination": "/?eid=37423",
-    "societyname": "UQ Chinese Cultural Dance Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/b1c10ab7-64e8-467f-9e0d-425ecd282272.png",
-    "title": "Senior Workshop",
-    "day": "1",
-    "info": "$22.04"
-  },
-  {
     "sortindex": 1762092000,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/fef53119-72e9-4f28-8bb4-8a36650ad481.png",
     "month": "November",
@@ -93,6 +66,19 @@
     "societyname": "2025 BRUCE Architecture Society",
     "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
     "title": "BRUCE Annual General Meeting ",
+    "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1762315200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/94a208f5-57ea-47c5-a5a0-049da2fcf85b.png",
+    "month": "November",
+    "subtitle": "Other",
+    "societyid": 7218,
+    "destination": "/?eid=45223",
+    "societyname": "UQ Naatak",
+    "societylogo": "https://resources.hellorubric.com/images/64bfdd3478d1f_.png",
+    "title": "Study Session",
     "day": "5",
     "info": "Free"
   },
