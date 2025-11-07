@@ -297,7 +297,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 11,
+  "totalItemCount": 13,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -3060,6 +3060,20 @@
       "info": "$32.48 - $37.71"
     },
     {
+      "sortindex": 1763883000,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/91668843-a80d-474b-b9d3-5e6c12363e97.png",
+      "month": "November",
+      "societyAvgRating": 4.7,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 1816,
+      "destination": "/?eid=45593",
+      "societyname": "UQ Speech Pathology and Audiology Student's Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1816.png",
+      "title": "Grad Party 2025",
+      "day": "23",
+      "info": "$32.48 - $37.71"
+    },
+    {
       "sortindex": 1764025200,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/5f35fd54-4ecf-4694-a61d-81f6d2915d94.png",
       "month": "November",
@@ -3086,6 +3100,20 @@
       "title": "Pasifika Ball",
       "day": "28",
       "info": "$74.28 - $105.62"
+    },
+    {
+      "sortindex": 1765008000,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f696aa6-f499-4cf6-95fe-20b373395163.png",
+      "month": "December",
+      "societyAvgRating": 4.5,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2517,
+      "destination": "/?eid=45601",
+      "societyname": "UQ Cheer and Dance Club",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2517.png",
+      "title": "Awards Night",
+      "day": "6",
+      "info": "$32.48 - $42.93"
     },
     {
       "sortindex": 1765528200,
