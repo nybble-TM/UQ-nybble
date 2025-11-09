@@ -3,6 +3,7 @@
   "society_event_types": [
     "Ball/Dinner/Gala",
     "Class/Workshop",
+    "Industry/Career",
     "Party/BBQ/Social",
     "Trip/Camp"
   ],
@@ -297,7 +298,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 13,
+  "totalItemCount": 15,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -3074,6 +3075,20 @@
       "info": "$32.48 - $37.71"
     },
     {
+      "sortindex": 1763942400,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/f0c2455e-7b4f-4d93-b5d1-575b1ba8e1a9.png",
+      "month": "November",
+      "societyAvgRating": 4.9,
+      "subtitle": "Industry/Career",
+      "societyid": 3906,
+      "destination": "/?eid=45651",
+      "societyname": "The University of Queensland's Biomedical Engineering Society",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/823c799e-cac0-4f15-a1c3-acc3b30dc9b3.png",
+      "title": "UQ BMES Cochlear Site Tour",
+      "day": "24",
+      "info": "$0.00 - $5.00"
+    },
+    {
       "sortindex": 1764025200,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/5f35fd54-4ecf-4694-a61d-81f6d2915d94.png",
       "month": "November",
@@ -3114,6 +3129,20 @@
       "title": "Awards Night",
       "day": "6",
       "info": "$32.48 - $42.93"
+    },
+    {
+      "sortindex": 1765009800,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd513b2b-5d39-4fb3-8c57-203d26aaea52.png",
+      "month": "December",
+      "societyAvgRating": 4.8,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 2428,
+      "destination": "/?eid=45707",
+      "societyname": "UQ South Pacific Islander Association",
+      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2428.png",
+      "title": "UQ Pasifika Graduation Celebration ",
+      "day": "6",
+      "info": "Free"
     },
     {
       "sortindex": 1765528200,
