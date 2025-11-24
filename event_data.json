@@ -297,7 +297,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 11,
+  "totalItemCount": 9,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2961,34 +2961,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1763874000,
-      "image": "https://portal.hellorubric.com/assets/img/patterns/pattern_6.png",
-      "month": "November",
-      "societyAvgRating": 4.6,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1547,
-      "destination": "/?eid=45329",
-      "societyname": "UQ Science Students Society",
-      "societylogo": "https://resources.hellorubric.com/images/656bd0e67611d_.png",
-      "title": "Crazy Wigs Pub Crawl",
-      "day": "23",
-      "info": "$32.48 - $48.16"
-    },
-    {
-      "sortindex": 1763883000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/91668843-a80d-474b-b9d3-5e6c12363e97.png",
-      "month": "November",
-      "societyAvgRating": 4.7,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 1816,
-      "destination": "/?eid=45593",
-      "societyname": "UQ Speech Pathology and Audiology Student's Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1816.png",
-      "title": "Grad Party 2025",
-      "day": "23",
-      "info": "$32.48 - $37.71"
-    },
     {
       "sortindex": 1763942400,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/f0c2455e-7b4f-4d93-b5d1-575b1ba8e1a9.png",
