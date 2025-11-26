@@ -297,7 +297,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 8,
+  "totalItemCount": 9,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2962,20 +2962,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1764025200,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/5f35fd54-4ecf-4694-a61d-81f6d2915d94.png",
-      "month": "November",
-      "societyAvgRating": 4.5,
-      "subtitle": "Other",
-      "societyid": 11194,
-      "destination": "/?eid=42487",
-      "societyname": "UQ Wildlife Special Interest Group",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/570a0932-b77a-439e-8829-a6fed0c76c93.png",
-      "title": "Currumbin Wildlife Sanctuary Hospital Tour",
-      "day": "25",
-      "info": "$27.25"
-    },
-    {
       "sortindex": 1764136800,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/a975866d-ac2d-4618-abae-ea0c400f35c4.PNG",
       "month": "November",
@@ -3044,6 +3030,34 @@
       "title": "UQ Pasifika Graduation Celebration ",
       "day": "6",
       "info": "Free"
+    },
+    {
+      "sortindex": 1765404000,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/72b54fbf-d8f4-4487-b4b9-921744d97245.jpg",
+      "month": "December",
+      "societyAvgRating": 4.9,
+      "subtitle": "Trip/Camp",
+      "societyid": 7257,
+      "destination": "/?eid=46440",
+      "societyname": "Society of Lifesaving",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+      "title": "Bundy - Moore Park Patrol Trip",
+      "day": "11",
+      "info": "$120.00"
+    },
+    {
+      "sortindex": 1765524600,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/59495025-b227-4297-bc37-0ab91c144301.jpeg",
+      "month": "December",
+      "societyAvgRating": 4.7,
+      "subtitle": "Other",
+      "societyid": 4430,
+      "destination": "/?eid=46491",
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
+      "title": "Christmas Shrink Plastic Workshop",
+      "day": "12",
+      "info": "$22.03 - $37.71"
     },
     {
       "sortindex": 1765528200,
