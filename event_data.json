@@ -297,7 +297,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 9,
+  "totalItemCount": 8,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2962,20 +2962,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1764136800,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/a975866d-ac2d-4618-abae-ea0c400f35c4.PNG",
-      "month": "November",
-      "societyAvgRating": 4.7,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1816,
-      "destination": "/?eid=46135",
-      "societyname": "UQ Speech Pathology and Audiology Student's Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_1816.png",
-      "title": "Paint and Sip!",
-      "day": "26",
-      "info": "$4.27 - $9.50"
-    },
-    {
       "sortindex": 1764316800,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/695a3526-d650-4466-a0d6-a90dc7c6df3b.jpg",
       "month": "November",
@@ -3047,7 +3033,7 @@
     },
     {
       "sortindex": 1765524600,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/59495025-b227-4297-bc37-0ab91c144301.jpeg",
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/870967fe-6557-4d3d-8628-612a3d167ea3.jpeg",
       "month": "December",
       "societyAvgRating": 4.7,
       "subtitle": "Other",
@@ -3057,7 +3043,7 @@
       "societylogo": "https://resources.hellorubric.com/images/64afd1d7b81fd_.png",
       "title": "Christmas Shrink Plastic Workshop",
       "day": "12",
-      "info": "$22.03 - $37.71"
+      "info": "$22.04 - $37.71"
     },
     {
       "sortindex": 1765528200,
