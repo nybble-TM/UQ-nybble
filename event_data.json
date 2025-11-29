@@ -297,7 +297,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 8,
+  "totalItemCount": 7,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -1431,7 +1431,15 @@
     {
       "country": "CA",
       "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/463925cb-34e8-4392-ac39-fd9ac160bf72.png",
-      "name": "Western University",
+      "name": "Western University CA",
+      "id": 542,
+      "state": "Ontario",
+      "shortname": "Western"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/463925cb-34e8-4392-ac39-fd9ac160bf72.png",
+      "name": "Eastern University",
       "id": 193,
       "state": "Ontario",
       "shortname": "Western"
@@ -2961,20 +2969,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1764316800,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/695a3526-d650-4466-a0d6-a90dc7c6df3b.jpg",
-      "month": "November",
-      "societyAvgRating": 4.8,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 2428,
-      "destination": "/?eid=40491",
-      "societyname": "UQ South Pacific Islander Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2428.png",
-      "title": "Pasifika Ball",
-      "day": "28",
-      "info": "$74.28 - $105.62"
-    },
     {
       "sortindex": 1764741600,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/e9913921-8861-4c79-884f-67a9fe7eb79b.jpg",
