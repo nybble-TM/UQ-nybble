@@ -2,7 +2,6 @@
   "selectedUniversityId": "12",
   "society_event_types": [
     "Ball/Dinner/Gala",
-    "Industry/Career",
     "Party/BBQ/Social",
     "Trip/Camp"
   ],
@@ -297,7 +296,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 7,
+  "totalItemCount": 6,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -1198,6 +1197,14 @@
     },
     {
       "country": "CA",
+      "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/463925cb-34e8-4392-ac39-fd9ac160bf72.png",
+      "name": "Eastern University",
+      "id": 193,
+      "state": "Ontario",
+      "shortname": "Eastern"
+    },
+    {
+      "country": "CA",
       "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/7f2dd453ac1387273302aca7f7cba8be.png",
       "name": "George Brown College",
       "id": 511,
@@ -1433,14 +1440,6 @@
       "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/463925cb-34e8-4392-ac39-fd9ac160bf72.png",
       "name": "Western University CA",
       "id": 542,
-      "state": "Ontario",
-      "shortname": "Western"
-    },
-    {
-      "country": "CA",
-      "logo_url": "https://cachedresources.hellorubric.com/uploaded_assets/463925cb-34e8-4392-ac39-fd9ac160bf72.png",
-      "name": "Eastern University",
-      "id": 193,
       "state": "Ontario",
       "shortname": "Western"
     },
@@ -2969,20 +2968,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1764741600,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/e9913921-8861-4c79-884f-67a9fe7eb79b.jpg",
-      "month": "December",
-      "societyAvgRating": 4.3,
-      "subtitle": "Industry/Career",
-      "societyid": 4787,
-      "destination": "/?eid=46216",
-      "societyname": "UQ Cyber Squad",
-      "societylogo": "https://resources.hellorubric.com/images/65a3651e473ec_.png",
-      "title": "Industry Networking - Cognitio Digital",
-      "day": "3",
-      "info": "Free"
-    },
     {
       "sortindex": 1765008000,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f696aa6-f499-4cf6-95fe-20b373395163.png",
