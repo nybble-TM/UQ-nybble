@@ -1,7 +1,6 @@
 {
   "selectedUniversityId": "12",
   "society_event_types": [
-    "Ball/Dinner/Gala",
     "Party/BBQ/Social",
     "Trip/Camp"
   ],
@@ -296,7 +295,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 6,
+  "totalItemCount": 4,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2968,34 +2967,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1765008000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/6f696aa6-f499-4cf6-95fe-20b373395163.png",
-      "month": "December",
-      "societyAvgRating": 4.5,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2517,
-      "destination": "/?eid=45601",
-      "societyname": "UQ Cheer and Dance Club",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2517.png",
-      "title": "Awards Night",
-      "day": "6",
-      "info": "$32.48 - $42.93"
-    },
-    {
-      "sortindex": 1765009800,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/dd513b2b-5d39-4fb3-8c57-203d26aaea52.png",
-      "month": "December",
-      "societyAvgRating": 4.8,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 2428,
-      "destination": "/?eid=45707",
-      "societyname": "UQ South Pacific Islander Association",
-      "societylogo": "https://portal.hellorubric.com/content/logos/logo_societyid_2428.png",
-      "title": "UQ Pasifika Graduation Celebration ",
-      "day": "6",
-      "info": "Free"
-    },
     {
       "sortindex": 1765152000,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/f0143ac7-bbff-467b-95e2-56c2a705fd88.png",
