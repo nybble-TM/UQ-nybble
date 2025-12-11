@@ -1,8 +1,7 @@
 {
   "selectedUniversityId": "12",
   "society_event_types": [
-    "Party/BBQ/Social",
-    "Trip/Camp"
+    "Party/BBQ/Social"
   ],
   "selectedEventsPeriodFilter": "All",
   "countries": [
