@@ -294,7 +294,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 2,
+  "totalItemCount": 1,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2966,20 +2966,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1765404000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/72b54fbf-d8f4-4487-b4b9-921744d97245.jpg",
-      "month": "December",
-      "societyAvgRating": 4.9,
-      "subtitle": "Trip/Camp",
-      "societyid": 7257,
-      "destination": "/?eid=46440",
-      "societyname": "Society of Lifesaving",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
-      "title": "Bundy - Moore Park Patrol Trip",
-      "day": "11",
-      "info": "$120.00"
-    },
     {
       "sortindex": 1765528200,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/09b18e63-4c99-48fa-ac17-d5b5bd0c4ac0.png",
