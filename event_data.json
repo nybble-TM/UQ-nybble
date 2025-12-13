@@ -1,8 +1,6 @@
 {
   "selectedUniversityId": "12",
-  "society_event_types": [
-    "Party/BBQ/Social"
-  ],
+  "society_event_types": [],
   "selectedEventsPeriodFilter": "All",
   "countries": [
     {
@@ -294,7 +292,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 1,
+  "totalItemCount": 0,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2965,21 +2963,6 @@
   "sortType": "date",
   "selectedCountryCode": "AU",
   "success": true,
-  "results": [
-    {
-      "sortindex": 1765528200,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/09b18e63-4c99-48fa-ac17-d5b5bd0c4ac0.png",
-      "month": "December",
-      "societyAvgRating": 4.6,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2308,
-      "destination": "/?eid=43249",
-      "societyname": "Occupational Therapy Students Association",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/3c6b3c0c-5393-4296-94d8-28740d4aab48.png",
-      "title": "OT Graduation Celebration",
-      "day": "12",
-      "info": "$42.93"
-    }
-  ],
+  "results": [],
   "selectedState": "Queensland"
 }
