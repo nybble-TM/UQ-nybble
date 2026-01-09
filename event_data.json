@@ -1,6 +1,7 @@
 {
   "selectedUniversityId": "12",
   "society_event_types": [
+    "Class/Workshop",
     "Party/BBQ/Social"
   ],
   "selectedEventsPeriodFilter": "All",
@@ -294,7 +295,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 1,
+  "totalItemCount": 2,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2979,6 +2980,20 @@
       "title": "Brisbane Photowalk",
       "day": "16",
       "info": "Free"
+    },
+    {
+      "sortindex": 1768608000,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/df920246-5594-4a18-b931-0c9fc898b950.jpg",
+      "month": "January",
+      "societyAvgRating": 4.8,
+      "subtitle": "Class/Workshop",
+      "societyid": 2040,
+      "destination": "/?eid=47524",
+      "societyname": "UQ Critical Care Interest Group",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2040.png",
+      "title": "CPR + First Aid [17th Jan]",
+      "day": "17",
+      "info": "$37.18 - $94.19"
     }
   ],
   "selectedState": "Queensland"
