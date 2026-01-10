@@ -26,5 +26,47 @@
     "title": "CPR + First Aid [17th Jan]",
     "day": "17",
     "info": "$37.18 - $94.19"
+  },
+  {
+    "sortindex": 1769212800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
+    "month": "January",
+    "societyAvgRating": 4.8,
+    "subtitle": "Other",
+    "societyid": 2040,
+    "destination": "/?eid=47629",
+    "societyname": "UQ Critical Care Interest Group",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2040.png",
+    "title": "CPR + First Aid [24th Jan]",
+    "day": "24",
+    "info": "$37.18 - $94.19"
+  },
+  {
+    "sortindex": 1769817600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
+    "month": "January",
+    "societyAvgRating": 4.8,
+    "subtitle": "Other",
+    "societyid": 2040,
+    "destination": "/?eid=47631",
+    "societyname": "UQ Critical Care Interest Group",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2040.png",
+    "title": "CPR + First Aid [31th Jan]",
+    "day": "31",
+    "info": "$37.18 - $94.18"
+  },
+  {
+    "sortindex": 1770422400,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "month": "February",
+    "societyAvgRating": 4.8,
+    "subtitle": "Other",
+    "societyid": 2040,
+    "destination": "/?eid=47632",
+    "societyname": "UQ Critical Care Interest Group",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2040.png",
+    "title": "CPR + First Aid [7th Feb]",
+    "day": "7",
+    "info": "$37.18 - $94.18"
   }
 ]
