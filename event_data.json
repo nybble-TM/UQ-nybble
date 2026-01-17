@@ -1,9 +1,6 @@
 {
   "selectedUniversityId": "12",
-  "society_event_types": [
-    "Class/Workshop",
-    "Party/BBQ/Social"
-  ],
+  "society_event_types": [],
   "selectedEventsPeriodFilter": "All",
   "countries": [
     {
@@ -295,7 +292,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 5,
+  "totalItemCount": 4,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2967,20 +2964,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1768543200,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/ae9acd7c-7d8a-40c2-9dc3-8031482fd706.jpeg",
-      "month": "January",
-      "societyAvgRating": 4.8,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2235,
-      "destination": "/?eid=47098",
-      "societyname": "UQ Photography Society",
-      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
-      "title": "Brisbane Photowalk",
-      "day": "16",
-      "info": "Free"
-    },
     {
       "sortindex": 1768608000,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/4cc58ab5-cf8b-426a-a5ad-1dd6bd88e51e.jpeg",
