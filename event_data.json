@@ -292,7 +292,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 4,
+  "totalItemCount": 3,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2964,20 +2964,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1768608000,
-      "image": "https://cachedresources.hellorubric.com/uploaded_assets/4cc58ab5-cf8b-426a-a5ad-1dd6bd88e51e.jpeg",
-      "month": "January",
-      "societyAvgRating": 4.8,
-      "subtitle": "Class/Workshop",
-      "societyid": 2040,
-      "destination": "/?eid=47524",
-      "societyname": "UQ Critical Care Interest Group",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2040.png",
-      "title": "CPR + First Aid [17th Jan]",
-      "day": "17",
-      "info": "$37.18 - $94.19"
-    },
     {
       "sortindex": 1769212800,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/e4b1e862-3dbf-495c-a3f3-5826c7b927a2.jpg",
