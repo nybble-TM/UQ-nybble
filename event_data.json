@@ -1,6 +1,7 @@
 {
   "selectedUniversityId": "12",
   "society_event_types": [],
+  "showRatingsReviews": true,
   "selectedEventsPeriodFilter": "All",
   "countries": [
     {
