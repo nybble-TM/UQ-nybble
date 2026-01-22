@@ -1,8 +1,11 @@
 {
   "selectedUniversityId": "12",
-  "society_event_types": [],
+  "society_event_types": [
+    "Party/BBQ/Social"
+  ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
+  "unionEvents": [],
   "countries": [
     {
       "country_code": "AU",
@@ -293,14 +296,16 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 3,
+  "totalItemCount": 4,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
     "Arts and Performance",
     "Course Union",
     "Cultural and International",
+    "Faculty - Science",
     "Hobby and Special Interest",
+    "International",
     "Medical Science",
     "Other",
     "Political",
@@ -3006,6 +3011,20 @@
       "title": "CPR + First Aid [7th Feb]",
       "day": "7",
       "info": "$37.18 - $94.19"
+    },
+    {
+      "sortindex": 1771315200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2343,
+      "destination": "/?eid=48401",
+      "societyname": "Super Manga Anime Culture Kingdom",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2343.png",
+      "title": "Sneaky Games Night",
+      "day": "17",
+      "info": "Free"
     }
   ],
   "selectedState": "Queensland"
