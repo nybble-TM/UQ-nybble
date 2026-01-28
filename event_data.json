@@ -1,7 +1,8 @@
 {
   "selectedUniversityId": "12",
   "society_event_types": [
-    "Party/BBQ/Social"
+    "Party/BBQ/Social",
+    "Trip/Camp"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -296,7 +297,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 3,
+  "totalItemCount": 4,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -305,6 +306,7 @@
     "Cultural and International",
     "Faculty - EAIT",
     "Faculty - Science",
+    "Gatton Based",
     "Hobby",
     "Hobby and Special Interest",
     "International",
@@ -3014,6 +3016,20 @@
       "title": "Sneaky Games Night",
       "day": "17",
       "info": "Free"
+    },
+    {
+      "sortindex": 1771570800,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/ab59ffa4-2196-4128-b178-969da1fc2bf5.jpg",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 7257,
+      "destination": "/?eid=48472",
+      "societyname": "Society of Lifesaving",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+      "title": "Semester 1 2026 Straddie Trip",
+      "day": "20",
+      "info": "$42.36"
     }
   ],
   "selectedState": "Queensland"
