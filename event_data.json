@@ -1,6 +1,7 @@
 {
   "selectedUniversityId": "12",
   "society_event_types": [
+    "Class/Workshop",
     "Party/BBQ/Social",
     "Trip/Camp"
   ],
@@ -297,7 +298,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 4,
+  "totalItemCount": 5,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -3002,6 +3003,20 @@
       "title": "CPR + First Aid [7th Feb]",
       "day": "7",
       "info": "$37.18 - $94.19"
+    },
+    {
+      "sortindex": 1770881400,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb386b5e-3ea3-4322-a005-a7d899499b42.png",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 4520,
+      "destination": "/?eid=49213",
+      "societyname": "UQ Radiology Interest Group",
+      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+      "title": "Intro to Imaging Modalities",
+      "day": "12",
+      "info": "$0.00 - $6.08"
     },
     {
       "sortindex": 1771315200,
