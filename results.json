@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1770422400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a1ce9d5f-705b-4fa6-8290-44fdf29129de.jpg",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2040,
-    "destination": "/?eid=47632",
-    "societyname": "UQ Critical Care Interest Group",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2040.png",
-    "title": "CPR + First Aid [7th Feb]",
-    "day": "7",
-    "info": "$37.18 - $94.19"
-  },
-  {
     "sortindex": 1770881400,
     "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb386b5e-3ea3-4322-a005-a7d899499b42.png",
     "month": "February",
@@ -39,6 +25,34 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2343.png",
     "title": "Sneaky Games Night",
     "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1771372800,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a4af100c-2342-4ff4-a759-a4710cfb27b5.jpeg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2251,
+    "destination": "/?eid=49742",
+    "societyname": "Every Nation Campus UQ",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "ENC Market Day Sign ups",
+    "day": "18",
+    "info": "$6.08"
+  },
+  {
+    "sortindex": 1771567200,
+    "image": "https://cachedresources.hellorubric.com/uploaded_assets/fd276b39-3f13-40fa-9a0e-3bf0a90c3092.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2251,
+    "destination": "/?eid=49740",
+    "societyname": "Every Nation Campus UQ",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Introduction Night: Hello Summer ",
+    "day": "20",
     "info": "Free"
   },
   {
