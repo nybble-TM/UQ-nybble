@@ -4,6 +4,7 @@
     "Class/Workshop",
     "Other",
     "Party/BBQ/Social",
+    "Quiz/Trivia",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -299,7 +300,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 5,
+  "totalItemCount": 6,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -3046,6 +3047,20 @@
       "title": "Semester 1 2026 Straddie Trip",
       "day": "20",
       "info": "$42.36"
+    },
+    {
+      "sortindex": 1772092800,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/a74214b5-5ad4-4bfe-b112-0592e33ca207.png",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 1410,
+      "destination": "/?eid=49796",
+      "societyname": "UQMS Ashintosh Foundation",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
+      "title": "Scrubs & Soundtracks Trivia Night 2026",
+      "day": "26",
+      "info": "$8.68 - $19.04"
     }
   ],
   "selectedState": "Queensland"
