@@ -301,7 +301,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 9,
+  "totalItemCount": 10,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2980,7 +2980,7 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1770364800,
+      "sortindex": 1770366600,
       "image": "https://cachedresources.hellorubric.com/uploaded_assets/a99749ae-34e7-44ba-b9bf-ccecb57d8f64.jpg",
       "month": "February",
       "societyAvgRating": 0,
@@ -3104,6 +3104,20 @@
       "title": "Professional Pathways 2026",
       "day": "4",
       "info": "$35.00 - $45.00"
+    },
+    {
+      "sortindex": 1773442800,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/f81a4c3d-e6b7-452e-9b0b-4ab8a1e45e6d.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 3444,
+      "destination": "/?eid=50549",
+      "societyname": "UQ Derm",
+      "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/ab4bab0b-60be-42fe-a7ab-64ce977927d6.png",
+      "title": "UQ DERM SUTURING WORKSHOP",
+      "day": "14",
+      "info": "$5.00 - $10.00"
     }
   ],
   "selectedState": "Queensland"
