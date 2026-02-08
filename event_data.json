@@ -301,7 +301,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 9,
+  "totalItemCount": 11,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -309,7 +309,6 @@
     "Course Union",
     "Cultural and International",
     "Faculty - EAIT",
-    "Faculty - HASS",
     "Faculty - Science",
     "Gatton Based",
     "Hobby",
@@ -3051,6 +3050,34 @@
       "info": "$42.36"
     },
     {
+      "sortindex": 1771632000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/1568d1df-0553-48cf-b548-5539e209bb7d.png",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2431,
+      "destination": "/?eid=51026",
+      "societyname": "UQ Taiko Japanese Drumming Club",
+      "societylogo": "https://resources.getqpay.com/images/65d6bdbd211b0_.png",
+      "title": "TRY TAIKO Sem 1 2026",
+      "day": "21",
+      "info": "$2.97"
+    },
+    {
+      "sortindex": 1772179200,
+      "image": "https://cachedresources.hellorubric.com/uploaded_assets/ceaa127b-4485-46b9-b2b7-5f80c0d54f3d.JPEG",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 164,
+      "destination": "/?eid=50475",
+      "societyname": "Nursing & Midwifery Student Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_164.png",
+      "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
+      "day": "27",
+      "info": "$15.41 - $26.81"
+    },
+    {
       "sortindex": 1772179200,
       "image": "https://resources.hellorubric.com/uploaded_assets/8a606b1d-091f-4f76-89b3-01c869621b89.jpg",
       "month": "February",
@@ -3062,7 +3089,7 @@
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
       "title": "Scrubs & Soundtracks Trivia Night 2026",
       "day": "27",
-      "info": "$8.68 - $19.04"
+      "info": "$8.68 - $16.45"
     },
     {
       "sortindex": 1772611200,
