@@ -26,5 +26,33 @@
     "title": "Introduction Night: Hello Summer ",
     "day": "20",
     "info": "Free"
+  },
+  {
+    "sortindex": 1771813800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5cb3a6d3-ce68-4009-aac4-ff9cd1b0f369.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=51308",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "UBS on Campus",
+    "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772089200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e781c8cd-6a16-4458-b839-b5531eb38f3c.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 173,
+    "destination": "/?eid=51252",
+    "societyname": "UQ German Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
+    "title": "2026 Sem 1 Welcome Event ",
+    "day": "26",
+    "info": "Free"
   }
 ]
