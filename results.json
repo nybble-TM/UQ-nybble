@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1770881400,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/eb386b5e-3ea3-4322-a005-a7d899499b42.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 4520,
-    "destination": "/?eid=49213",
-    "societyname": "UQ Radiology Interest Group",
-    "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
-    "title": "Intro to Imaging Modalities",
-    "day": "12",
-    "info": "$0.00 - $6.08"
-  },
-  {
     "sortindex": 1771315200,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
     "month": "February",
@@ -40,6 +26,20 @@
     "title": "ENC Market Day Sign ups",
     "day": "18",
     "info": "$6.08"
+  },
+  {
+    "sortindex": 1771486200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/55ac268c-f91e-49df-bed0-51deef70404d.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 4520,
+    "destination": "/?eid=49213",
+    "societyname": "UQ Radiology Interest Group",
+    "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+    "title": "Intro to Imaging Modalities",
+    "day": "19",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1771567200,
@@ -95,6 +95,20 @@
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "UBS on Campus",
     "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772060400,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3855,
+    "destination": "/?eid=51690",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Coffee Mixer Sem 1 2026",
+    "day": "26",
     "info": "Free"
   },
   {
@@ -204,7 +218,7 @@
     "societyid": 3444,
     "destination": "/?eid=50549",
     "societyname": "UQ Derm",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/ab4bab0b-60be-42fe-a7ab-64ce977927d6.png",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76d5a9d7-a09e-42d4-b6ea-210543c61f19.png",
     "title": "UQ DERM SUTURING WORKSHOP",
     "day": "14",
     "info": "$5.00 - $10.00"
