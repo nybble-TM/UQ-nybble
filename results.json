@@ -15,7 +15,7 @@
   },
   {
     "sortindex": 1771372800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/a4af100c-2342-4ff4-a759-a4710cfb27b5.jpeg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/a4af100c-2342-4ff4-a759-a4710cfb27b5.jpeg",
     "month": "February",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -43,7 +43,7 @@
   },
   {
     "sortindex": 1771567200,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/fd276b39-3f13-40fa-9a0e-3bf0a90c3092.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/fd276b39-3f13-40fa-9a0e-3bf0a90c3092.png",
     "month": "February",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -57,14 +57,14 @@
   },
   {
     "sortindex": 1771570800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ab59ffa4-2196-4128-b178-969da1fc2bf5.jpg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/ab59ffa4-2196-4128-b178-969da1fc2bf5.jpg",
     "month": "February",
     "societyAvgRating": 0,
     "subtitle": "Trip/Camp",
     "societyid": 7257,
     "destination": "/?eid=48472",
     "societyname": "Society of Lifesaving",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
     "title": "Semester 1 2026 Straddie Trip",
     "day": "20",
     "info": "$42.36"
@@ -84,6 +84,20 @@
     "info": "$2.97"
   },
   {
+    "sortindex": 1771808400,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 593,
+    "destination": "/?eid=51849",
+    "societyname": "UQ Chemistry Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_593.png",
+    "title": "UQCC Welcome Picnic",
+    "day": "23",
+    "info": "Free"
+  },
+  {
     "sortindex": 1771813800,
     "image": "https://resources.hellorubric.com/uploaded_assets/5cb3a6d3-ce68-4009-aac4-ff9cd1b0f369.png",
     "month": "February",
@@ -96,6 +110,20 @@
     "title": "UBS on Campus",
     "day": "23",
     "info": "Free"
+  },
+  {
+    "sortindex": 1771995600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a35bba87-80ad-4418-a227-5549cb61d709.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1539,
+    "destination": "/?eid=51984",
+    "societyname": "UQ Women in Science Association",
+    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+    "title": "WiSA Welcome Picnic ",
+    "day": "25",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1772060400,
@@ -127,20 +155,6 @@
   },
   {
     "sortindex": 1772179200,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/ceaa127b-4485-46b9-b2b7-5f80c0d54f3d.JPEG",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 164,
-    "destination": "/?eid=50475",
-    "societyname": "Nursing & Midwifery Student Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_164.png",
-    "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
-    "day": "27",
-    "info": "$15.41 - $26.81"
-  },
-  {
-    "sortindex": 1772179200,
     "image": "https://resources.hellorubric.com/uploaded_assets/8a606b1d-091f-4f76-89b3-01c869621b89.jpg",
     "month": "February",
     "societyAvgRating": 0,
@@ -152,6 +166,20 @@
     "title": "Scrubs & Soundtracks Trivia Night 2026",
     "day": "27",
     "info": "$8.68 - $16.45"
+  },
+  {
+    "sortindex": 1772179200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ceaa127b-4485-46b9-b2b7-5f80c0d54f3d.JPEG",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 164,
+    "destination": "/?eid=50475",
+    "societyname": "Nursing & Midwifery Student Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_164.png",
+    "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
+    "day": "27",
+    "info": "$15.41 - $26.81"
   },
   {
     "sortindex": 1772247600,
@@ -168,8 +196,22 @@
     "info": "$0.00 - $11.27"
   },
   {
+    "sortindex": 1772521200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 593,
+    "destination": "/?eid=51851",
+    "societyname": "UQ Chemistry Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_593.png",
+    "title": "UQCC Board Game Night",
+    "day": "3",
+    "info": "$0.00 - $6.08"
+  },
+  {
     "sortindex": 1772611200,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/139e1a67-c3b9-4c52-8c45-3213fc4fb967.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/139e1a67-c3b9-4c52-8c45-3213fc4fb967.png",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Class/Workshop",
@@ -183,7 +225,7 @@
   },
   {
     "sortindex": 1772613000,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f0a05055-8b30-470a-88fc-895fdffe50d7.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/f0a05055-8b30-470a-88fc-895fdffe50d7.png",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",
@@ -204,14 +246,28 @@
     "societyid": 8835,
     "destination": "/?eid=51398",
     "societyname": "UQCCR Student Club",
-    "societylogo": "https://cachedresources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
     "title": "UQCCR x Fraser x QIMR Trivia Night",
     "day": "11",
     "info": "$5.01 - $10.01"
   },
   {
+    "sortindex": 1773300600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 593,
+    "destination": "/?eid=51853",
+    "societyname": "UQ Chemistry Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_593.png",
+    "title": "UQCC Nitro Ice Cream Night",
+    "day": "12",
+    "info": "$6.08 - $11.27"
+  },
+  {
     "sortindex": 1773442800,
-    "image": "https://cachedresources.hellorubric.com/uploaded_assets/f81a4c3d-e6b7-452e-9b0b-4ab8a1e45e6d.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/f81a4c3d-e6b7-452e-9b0b-4ab8a1e45e6d.png",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Class/Workshop",
