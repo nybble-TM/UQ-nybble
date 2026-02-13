@@ -29,7 +29,7 @@
   },
   {
     "sortindex": 1771808400,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/ed5ebd30-fe92-483f-a9fb-d3344d0a4b67.png",
     "month": "February",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -53,6 +53,20 @@
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "UBS on Campus",
     "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772004600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/adbfab1c-044a-4a24-9053-0ae25c6f021c.jpg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=49086",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "FMAA Presents: First Year Drinks",
+    "day": "25",
     "info": "Free"
   },
   {
@@ -81,6 +95,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
     "title": "2026 Sem 1 Welcome Event ",
     "day": "26",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772697600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d198c9e5-f01a-4078-be98-0760b6b4c66e.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=52134",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Altman Solon On Campus",
+    "day": "5",
     "info": "Free"
   }
 ]
