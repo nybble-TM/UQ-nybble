@@ -42,6 +42,20 @@
     "info": "$0.00 - $6.08"
   },
   {
+    "sortindex": 1771488900,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fb17e3d7-be44-4dcf-b0dd-3e69a44d534f.jpg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2511,
+    "destination": "/?eid=52302",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Ramadan Iftars - Orientation Week",
+    "day": "19",
+    "info": "$0.00 - $10.00"
+  },
+  {
     "sortindex": 1771567200,
     "image": "https://resources.hellorubric.com/uploaded_assets/fd276b39-3f13-40fa-9a0e-3bf0a90c3092.png",
     "month": "February",
@@ -169,20 +183,6 @@
   },
   {
     "sortindex": 1772179200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ceaa127b-4485-46b9-b2b7-5f80c0d54f3d.JPEG",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 164,
-    "destination": "/?eid=50475",
-    "societyname": "Nursing & Midwifery Student Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_164.png",
-    "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
-    "day": "27",
-    "info": "$15.41 - $26.81"
-  },
-  {
-    "sortindex": 1772179200,
     "image": "https://resources.hellorubric.com/uploaded_assets/8a606b1d-091f-4f76-89b3-01c869621b89.jpg",
     "month": "February",
     "societyAvgRating": 0,
@@ -194,6 +194,20 @@
     "title": "Scrubs & Soundtracks Trivia Night 2026",
     "day": "27",
     "info": "$8.68 - $16.45"
+  },
+  {
+    "sortindex": 1772179200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ceaa127b-4485-46b9-b2b7-5f80c0d54f3d.JPEG",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 164,
+    "destination": "/?eid=50475",
+    "societyname": "Nursing & Midwifery Student Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_164.png",
+    "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
+    "day": "27",
+    "info": "$15.41 - $26.81"
   },
   {
     "sortindex": 1772247600,
@@ -208,6 +222,20 @@
     "title": "Week 1 Street Groove Dance Classes",
     "day": "28",
     "info": "$0.00 - $11.27"
+  },
+  {
+    "sortindex": 1772247600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/731ebbbf-3136-469c-a759-19d3f53e2cbd.jpg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 534,
+    "destination": "/?eid=52338",
+    "societyname": "Queensland University Exchange Students Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+    "title": "QUEST White T shirt pub crawl ",
+    "day": "28",
+    "info": "$41.35"
   },
   {
     "sortindex": 1772521200,
@@ -252,7 +280,7 @@
     "info": "$35.00 - $45.00"
   },
   {
-    "sortindex": 1772697600,
+    "sortindex": 1772694000,
     "image": "https://resources.hellorubric.com/uploaded_assets/d198c9e5-f01a-4078-be98-0760b6b4c66e.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -264,6 +292,20 @@
     "title": "Altman Solon On Campus",
     "day": "5",
     "info": "Free"
+  },
+  {
+    "sortindex": 1772762400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/673aed34-70f6-4a74-855b-5e14621d09f5.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 165,
+    "destination": "/?eid=52335",
+    "societyname": "UQBA - UQ Business Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+    "title": "First Year Mixer",
+    "day": "6",
+    "info": "$10.00 - $20.00"
   },
   {
     "sortindex": 1773214200,
