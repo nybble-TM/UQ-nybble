@@ -155,7 +155,7 @@
   },
   {
     "sortindex": 1772060400,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/cc395219-2807-4c33-876a-e8224d366e59.png",
     "month": "February",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -194,6 +194,20 @@
     "title": "Scrubs & Soundtracks Trivia Night 2026",
     "day": "27",
     "info": "$8.68 - $16.45"
+  },
+  {
+    "sortindex": 1772179200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4430,
+    "destination": "/?eid=52548",
+    "societyname": "Handcraft & Art Club",
+    "societylogo": "https://resources.getqpay.com/images/64afd1d7b81fd_.png",
+    "title": "Welcome Tea Party",
+    "day": "27",
+    "info": "$10.00 - $20.00"
   },
   {
     "sortindex": 1772179200,
