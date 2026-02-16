@@ -301,7 +301,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 26,
+  "totalItemCount": 29,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -3107,6 +3107,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1771833600,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2343,
+      "destination": "/?eid=52852",
+      "societyname": "Super Manga Anime Culture Kingdom",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2343.png",
+      "title": "Get To Know You Party",
+      "day": "23",
+      "info": "Free"
+    },
+    {
       "sortindex": 1771995600,
       "image": "https://resources.hellorubric.com/uploaded_assets/a35bba87-80ad-4418-a227-5549cb61d709.png",
       "month": "February",
@@ -3164,20 +3178,6 @@
     },
     {
       "sortindex": 1772179200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8a606b1d-091f-4f76-89b3-01c869621b89.jpg",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 1410,
-      "destination": "/?eid=49796",
-      "societyname": "UQMS Ashintosh Foundation",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
-      "title": "Scrubs & Soundtracks Trivia Night 2026",
-      "day": "27",
-      "info": "$8.68 - $16.45"
-    },
-    {
-      "sortindex": 1772179200,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
       "month": "February",
       "societyAvgRating": 0,
@@ -3189,6 +3189,20 @@
       "title": "Welcome Tea Party",
       "day": "27",
       "info": "$10.00 - $20.00"
+    },
+    {
+      "sortindex": 1772179200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8a606b1d-091f-4f76-89b3-01c869621b89.jpg",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 1410,
+      "destination": "/?eid=49796",
+      "societyname": "UQMS Ashintosh Foundation",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
+      "title": "Scrubs & Soundtracks Trivia Night 2026",
+      "day": "27",
+      "info": "$8.68 - $16.45"
     },
     {
       "sortindex": 1772179200,
@@ -3213,7 +3227,7 @@
       "societyid": 799,
       "destination": "/?eid=51004",
       "societyname": "UQ Street Groove Dance Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/432a3d09-f675-46f6-a0a2-64f21828129e.png",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
       "title": "Week 1 Street Groove Dance Classes",
       "day": "28",
       "info": "$0.00 - $11.27"
@@ -3331,6 +3345,20 @@
       "info": "$6.08 - $11.27"
     },
     {
+      "sortindex": 1773390600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a0bb5125-5e52-492d-987b-af062c4c19d9.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1345,
+      "destination": "/?eid=52881",
+      "societyname": "Underground Theatre Company",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
+      "title": "Season launch Party",
+      "day": "13",
+      "info": "$11.27 - $18.52"
+    },
+    {
       "sortindex": 1773442800,
       "image": "https://resources.hellorubric.com/uploaded_assets/f81a4c3d-e6b7-452e-9b0b-4ab8a1e45e6d.png",
       "month": "March",
@@ -3343,6 +3371,20 @@
       "title": "UQ DERM SUTURING WORKSHOP",
       "day": "14",
       "info": "$5.00 - $10.00"
+    },
+    {
+      "sortindex": 1778036400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/0c7898f8-9a2c-4796-b7b7-12df4efb6d94.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 8835,
+      "destination": "/?eid=52865",
+      "societyname": "UQCCR Student Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+      "title": "UQCCR Student Club Lawn Bowls",
+      "day": "6",
+      "info": "$20.01 - $25.01"
     }
   ],
   "selectedState": "Queensland"
