@@ -301,14 +301,14 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 29,
+  "totalItemCount": 33,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
     "Arts and Performance",
-    "Course Union",
     "Cultural and International",
     "Faculty - EAIT",
+    "Faculty - HASS",
     "Faculty - HMBS",
     "Faculty - Science",
     "Gatton Based",
@@ -319,7 +319,6 @@
     "Other",
     "Performance",
     "Political",
-    "Recreational",
     "Religious",
     "Science and Technology",
     "Social Club",
@@ -3094,7 +3093,7 @@
     },
     {
       "sortindex": 1771813800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/5cb3a6d3-ce68-4009-aac4-ff9cd1b0f369.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/44043497-6fbd-429d-9699-f7bad7bd5ae9.png",
       "month": "February",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3164,7 +3163,7 @@
     },
     {
       "sortindex": 1772089200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/e781c8cd-6a16-4458-b839-b5531eb38f3c.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/0ff95646-4633-469d-921f-7bc613c15e4e.png",
       "month": "February",
       "societyAvgRating": 0,
       "subtitle": "Party/BBQ/Social",
@@ -3175,6 +3174,20 @@
       "title": "2026 Sem 1 Welcome Event ",
       "day": "26",
       "info": "Free"
+    },
+    {
+      "sortindex": 1772177400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/f661ba5a-cccb-4028-b0ab-cae320c320b2.png",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3147,
+      "destination": "/?eid=53042",
+      "societyname": "The UQ Women's Network",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
+      "title": "UQWN Platters and Punch",
+      "day": "27",
+      "info": "$0.00 - $6.08"
     },
     {
       "sortindex": 1772179200,
@@ -3217,20 +3230,6 @@
       "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
       "day": "27",
       "info": "$15.41 - $26.81"
-    },
-    {
-      "sortindex": 1772247600,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_11.png",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 799,
-      "destination": "/?eid=51004",
-      "societyname": "UQ Street Groove Dance Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
-      "title": "Week 1 Street Groove Dance Classes",
-      "day": "28",
-      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1772247600,
@@ -3303,6 +3302,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1772697600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/44fb930b-2247-44b7-b1b1-a30ce945325a.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5763,
+      "destination": "/?eid=52971",
+      "societyname": "Bachelor of Advanced Business (Honours) SPC",
+      "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+      "title": "BAB First-Years Roadshow and Mixer",
+      "day": "5",
+      "info": "Free"
+    },
+    {
       "sortindex": 1772762400,
       "image": "https://resources.hellorubric.com/uploaded_assets/673aed34-70f6-4a74-855b-5e14621d09f5.png",
       "month": "March",
@@ -3359,6 +3372,20 @@
       "info": "$11.27 - $18.52"
     },
     {
+      "sortindex": 1773439200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/c87b5148-85e2-46ca-a1c5-48c6d986e76a.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 1857,
+      "destination": "/?eid=50271",
+      "societyname": "UQ Psychology Students Association",
+      "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+      "title": "2026 Psychology First Year Retreat",
+      "day": "14",
+      "info": "$133.16 - $148.46"
+    },
+    {
       "sortindex": 1773442800,
       "image": "https://resources.hellorubric.com/uploaded_assets/f81a4c3d-e6b7-452e-9b0b-4ab8a1e45e6d.png",
       "month": "March",
@@ -3371,6 +3398,34 @@
       "title": "UQ DERM SUTURING WORKSHOP",
       "day": "14",
       "info": "$5.00 - $10.00"
+    },
+    {
+      "sortindex": 1773795600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/653bcbb6-d1ff-4db6-bd94-e7b518f0da08.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1643,
+      "destination": "/?eid=53067",
+      "societyname": "UQ Education Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1643.png",
+      "title": "LANTITE Workshop 2026",
+      "day": "18",
+      "info": "$0.00 - $5.00"
+    },
+    {
+      "sortindex": 1774083600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b8e031ca-fc3b-4253-bf5e-41bb12bff6f5.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2517,
+      "destination": "/?eid=52858",
+      "societyname": "UQ Cheer and Dance Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2517.png",
+      "title": "2026 Season Launch",
+      "day": "21",
+      "info": "$21.63 - $35.11"
     },
     {
       "sortindex": 1778036400,

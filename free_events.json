@@ -43,7 +43,7 @@
   },
   {
     "sortindex": 1771813800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5cb3a6d3-ce68-4009-aac4-ff9cd1b0f369.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/44043497-6fbd-429d-9699-f7bad7bd5ae9.png",
     "month": "February",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -99,7 +99,7 @@
   },
   {
     "sortindex": 1772089200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e781c8cd-6a16-4458-b839-b5531eb38f3c.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/0ff95646-4633-469d-921f-7bc613c15e4e.png",
     "month": "February",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -122,6 +122,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "Altman Solon On Campus",
+    "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772697600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/44fb930b-2247-44b7-b1b1-a30ce945325a.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 5763,
+    "destination": "/?eid=52971",
+    "societyname": "Bachelor of Advanced Business (Honours) SPC",
+    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+    "title": "BAB First-Years Roadshow and Mixer",
     "day": "5",
     "info": "Free"
   }
