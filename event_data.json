@@ -6,6 +6,7 @@
     "Other",
     "Party/BBQ/Social",
     "Quiz/Trivia",
+    "Show/Performance",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -301,7 +302,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 33,
+  "totalItemCount": 41,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2980,20 +2981,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1771315200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2343,
-      "destination": "/?eid=48401",
-      "societyname": "Super Manga Anime Culture Kingdom",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2343.png",
-      "title": "Sneaky Games Night",
-      "day": "17",
-      "info": "Free"
-    },
-    {
       "sortindex": 1771372800,
       "image": "https://resources.hellorubric.com/uploaded_assets/a4af100c-2342-4ff4-a759-a4710cfb27b5.jpeg",
       "month": "February",
@@ -3006,6 +2993,20 @@
       "title": "ENC Market Day Sign ups ",
       "day": "18",
       "info": "$6.08"
+    },
+    {
+      "sortindex": 1771480800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6249,
+      "destination": "/?eid=53106",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
+      "day": "19",
+      "info": "Free"
     },
     {
       "sortindex": 1771486200,
@@ -3076,6 +3077,20 @@
       "title": "TRY TAIKO Sem 1 2026",
       "day": "21",
       "info": "$2.97"
+    },
+    {
+      "sortindex": 1771646400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b606a3d4-95c3-4c42-9d66-c1962d971530.jpg",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 1168,
+      "destination": "/?eid=53240",
+      "societyname": "UQ Quadball",
+      "societylogo": "https://resources.hellorubric.com/images/671f7984b3a92_.png",
+      "title": "Come and Try Quadball!",
+      "day": "21",
+      "info": "Free"
     },
     {
       "sortindex": 1771808400,
@@ -3176,6 +3191,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1772092800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b3f946b7-dca0-460d-8611-8ceb66a59f3f.jpeg",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Show/Performance",
+      "societyid": 3219,
+      "destination": "/?eid=53224",
+      "societyname": "UQ Anthropology Society",
+      "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
+      "title": "UQ Anthropology Society Short Film Festival",
+      "day": "26",
+      "info": "Free"
+    },
+    {
       "sortindex": 1772177400,
       "image": "https://resources.hellorubric.com/uploaded_assets/f661ba5a-cccb-4028-b0ab-cae320c320b2.png",
       "month": "February",
@@ -3188,20 +3217,6 @@
       "title": "UQWN Platters and Punch",
       "day": "27",
       "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1772179200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4430,
-      "destination": "/?eid=52548",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.getqpay.com/images/64afd1d7b81fd_.png",
-      "title": "Welcome Tea Party",
-      "day": "27",
-      "info": "$10.00 - $20.00"
     },
     {
       "sortindex": 1772179200,
@@ -3219,6 +3234,20 @@
     },
     {
       "sortindex": 1772179200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d4475814-b0be-453a-9111-65d966ba8a15.jpeg",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4430,
+      "destination": "/?eid=52548",
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.getqpay.com/images/64afd1d7b81fd_.png",
+      "title": "Welcome Tea Party",
+      "day": "27",
+      "info": "$10.00 - $20.00"
+    },
+    {
+      "sortindex": 1772179200,
       "image": "https://resources.hellorubric.com/uploaded_assets/ceaa127b-4485-46b9-b2b7-5f80c0d54f3d.JPEG",
       "month": "February",
       "societyAvgRating": 0,
@@ -3230,6 +3259,20 @@
       "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
       "day": "27",
       "info": "$15.41 - $26.81"
+    },
+    {
+      "sortindex": 1772179200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b1eade86-5682-4ed1-a018-c0309cbbea0d.png",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4430,
+      "destination": "/?eid=48054",
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.getqpay.com/images/64afd1d7b81fd_.png",
+      "title": "HAC Welcome Tea Party Workshop & Food",
+      "day": "27",
+      "info": "$10.11 - $20.00"
     },
     {
       "sortindex": 1772247600,
@@ -3244,6 +3287,20 @@
       "title": "QUEST White T shirt pub crawl ",
       "day": "28",
       "info": "$41.35"
+    },
+    {
+      "sortindex": 1772431200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6249,
+      "destination": "/?eid=53133",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "UQISA x IISB Ramadhan | FREE Takjil (2-6 Mar)",
+      "day": "2",
+      "info": "Free"
     },
     {
       "sortindex": 1772521200,
@@ -3330,6 +3387,48 @@
       "info": "$10.00 - $20.00"
     },
     {
+      "sortindex": 1772791200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3b5f3e29-2009-47f1-af5e-fea8e87cee18.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 186,
+      "destination": "/?eid=53210",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+      "title": "UQMAS x TH&E x UNSA x BANA Sem 1 Launch Party",
+      "day": "6",
+      "info": "$11.27 - $16.45"
+    },
+    {
+      "sortindex": 1772848800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/740fa1a8-3e8d-49c1-85f5-f6818c32ac3b.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 1404,
+      "destination": "/?eid=51897",
+      "societyname": "UQ Singapore Students' Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
+      "title": "UQSSS Orientation: Alice in Borderland ",
+      "day": "7",
+      "info": "$6.08 - $11.27"
+    },
+    {
+      "sortindex": 1773036000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6249,
+      "destination": "/?eid=53134",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "UQISA x IISB Ramadhan | FREE Takjil (9-13 Mar)",
+      "day": "9",
+      "info": "Free"
+    },
+    {
       "sortindex": 1773214200,
       "image": "https://resources.hellorubric.com/uploaded_assets/2ab67c43-0f1d-4103-bc6a-4f7778330ca3.png",
       "month": "March",
@@ -3412,6 +3511,20 @@
       "title": "LANTITE Workshop 2026",
       "day": "18",
       "info": "$0.00 - $5.00"
+    },
+    {
+      "sortindex": 1773824400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3ce90633-1497-4606-b041-117f8fa3bdd5.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3855,
+      "destination": "/?eid=52959",
+      "societyname": "UQ Women in Business Economics and Law Society",
+      "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+      "title": "UQWiBELS Felons Trivia Sem 1 2026",
+      "day": "18",
+      "info": "$6.00 - $11.00"
     },
     {
       "sortindex": 1774083600,

@@ -1,16 +1,16 @@
 [
   {
-    "sortindex": 1771315200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
+    "sortindex": 1771480800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
     "month": "February",
     "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2343,
-    "destination": "/?eid=48401",
-    "societyname": "Super Manga Anime Culture Kingdom",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2343.png",
-    "title": "Sneaky Games Night",
-    "day": "17",
+    "subtitle": "Other",
+    "societyid": 6249,
+    "destination": "/?eid=53106",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
+    "day": "19",
     "info": "Free"
   },
   {
@@ -25,6 +25,20 @@
     "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
     "title": "Introduction Night: Hello Summer ",
     "day": "20",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1771646400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b606a3d4-95c3-4c42-9d66-c1962d971530.jpg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 1168,
+    "destination": "/?eid=53240",
+    "societyname": "UQ Quadball",
+    "societylogo": "https://resources.hellorubric.com/images/671f7984b3a92_.png",
+    "title": "Come and Try Quadball!",
+    "day": "21",
     "info": "Free"
   },
   {
@@ -112,6 +126,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1772092800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b3f946b7-dca0-460d-8611-8ceb66a59f3f.jpeg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Show/Performance",
+    "societyid": 3219,
+    "destination": "/?eid=53224",
+    "societyname": "UQ Anthropology Society",
+    "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
+    "title": "UQ Anthropology Society Short Film Festival",
+    "day": "26",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772431200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6249,
+    "destination": "/?eid=53133",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISA x IISB Ramadhan | FREE Takjil (2-6 Mar)",
+    "day": "2",
+    "info": "Free"
+  },
+  {
     "sortindex": 1772694000,
     "image": "https://resources.hellorubric.com/uploaded_assets/d198c9e5-f01a-4078-be98-0760b6b4c66e.png",
     "month": "March",
@@ -137,6 +179,20 @@
     "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
     "title": "BAB First-Years Roadshow and Mixer",
     "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773036000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6249,
+    "destination": "/?eid=53134",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISA x IISB Ramadhan | FREE Takjil (9-13 Mar)",
+    "day": "9",
     "info": "Free"
   }
 ]
