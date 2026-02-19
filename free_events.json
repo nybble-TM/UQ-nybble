@@ -1,7 +1,7 @@
 [
   {
     "sortindex": 1771480800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
     "month": "February",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -25,6 +25,20 @@
     "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
     "title": "Introduction Night: Hello Summer ",
     "day": "20",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1771635600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_6.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2403,
+    "destination": "/?eid=53303",
+    "societyname": "Who UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f1075088-e0d5-43b6-84ab-0f2f54a1f84a.png",
+    "title": "Welcome BBQ",
+    "day": "21",
     "info": "Free"
   },
   {
@@ -70,6 +84,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1771830900,
+    "image": "https://resources.hellorubric.com/uploaded_assets/07285653-a532-47f2-b1bc-12b6cf26f0c5.jpg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2511,
+    "destination": "/?eid=53483",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Welcome Event",
+    "day": "23",
+    "info": "Free"
+  },
+  {
     "sortindex": 1771833600,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
     "month": "February",
@@ -84,6 +112,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1771833600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2403,
+    "destination": "/?eid=53302",
+    "societyname": "Who UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f1075088-e0d5-43b6-84ab-0f2f54a1f84a.png",
+    "title": "Episode screening",
+    "day": "23",
+    "info": "Free"
+  },
+  {
     "sortindex": 1772004600,
     "image": "https://resources.hellorubric.com/uploaded_assets/adbfab1c-044a-4a24-9053-0ae25c6f021c.jpg",
     "month": "February",
@@ -94,6 +136,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "FMAA Presents: First Year Drinks",
+    "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772008200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/0959806a-2cb5-43bc-880c-2b26f5770aa6.jpg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 7257,
+    "destination": "/?eid=48473",
+    "societyname": "Society of Lifesaving",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+    "title": "Welcome Trivia Semester 1 2026",
     "day": "25",
     "info": "Free"
   },
@@ -141,7 +197,7 @@
   },
   {
     "sortindex": 1772431200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/24b90e63-6ece-4255-96db-48a7f63adf2f.jpeg",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -183,7 +239,7 @@
   },
   {
     "sortindex": 1773036000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/524e62d6-82e4-4b61-b7ad-cc9d0304533e.jpeg",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -193,6 +249,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
     "title": "UQISA x IISB Ramadhan | FREE Takjil (9-13 Mar)",
     "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773388800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8db5c035-3405-4a8f-9d62-cf58466a75a2.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 6808,
+    "destination": "/?eid=53365",
+    "societyname": "UQ Neurological Society",
+    "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
+    "title": "UQNS Welcoming Event 2026",
+    "day": "13",
     "info": "Free"
   }
 ]
