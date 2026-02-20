@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1771480800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6249,
-    "destination": "/?eid=53106",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
-    "day": "19",
-    "info": "Free"
-  },
-  {
     "sortindex": 1771567200,
     "image": "https://resources.hellorubric.com/uploaded_assets/fd276b39-3f13-40fa-9a0e-3bf0a90c3092.png",
     "month": "February",
@@ -24,6 +10,20 @@
     "societyname": "Every Nation Campus UQ",
     "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
     "title": "Introduction Night: Hello Summer ",
+    "day": "20",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1771567200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6249,
+    "destination": "/?eid=53106",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
     "day": "20",
     "info": "Free"
   },
@@ -80,20 +80,6 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "UBS on Campus",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1771830900,
-    "image": "https://resources.hellorubric.com/uploaded_assets/07285653-a532-47f2-b1bc-12b6cf26f0c5.jpg",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2511,
-    "destination": "/?eid=53483",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Welcome Event",
     "day": "23",
     "info": "Free"
   },
@@ -193,6 +179,20 @@
     "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
     "title": "UQ Anthropology Society Short Film Festival",
     "day": "26",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772262000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 799,
+    "destination": "/?eid=52824",
+    "societyname": "UQ Street Groove Dance Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
+    "title": "Street Groove Welcome Day",
+    "day": "28",
     "info": "Free"
   },
   {

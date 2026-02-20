@@ -302,7 +302,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 46,
+  "totalItemCount": 44,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -323,6 +323,7 @@
     "Religious",
     "Science and Technology",
     "Social Club",
+    "Social Justice",
     "Sports and Fitness",
     "Volunteer and Community"
   ],
@@ -2981,48 +2982,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1771480800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 6249,
-      "destination": "/?eid=53106",
-      "societyname": "UQ Indonesian Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
-      "day": "19",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1771486200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/55ac268c-f91e-49df-bed0-51deef70404d.png",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 4520,
-      "destination": "/?eid=49213",
-      "societyname": "UQ Radiology Interest Group",
-      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
-      "title": "Intro to Imaging Modalities",
-      "day": "19",
-      "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1771488900,
-      "image": "https://resources.hellorubric.com/uploaded_assets/fb17e3d7-be44-4dcf-b0dd-3e69a44d534f.jpg",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2511,
-      "destination": "/?eid=52302",
-      "societyname": "Muslim Students Association UQ",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-      "title": "Ramadan Iftars - Orientation Week",
-      "day": "19",
-      "info": "$0.00 - $10.00"
-    },
-    {
       "sortindex": 1771567200,
       "image": "https://resources.hellorubric.com/uploaded_assets/fd276b39-3f13-40fa-9a0e-3bf0a90c3092.png",
       "month": "February",
@@ -3033,6 +2992,20 @@
       "societyname": "Every Nation Campus UQ",
       "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
       "title": "Introduction Night: Hello Summer ",
+      "day": "20",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1771567200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6249,
+      "destination": "/?eid=53106",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
       "day": "20",
       "info": "Free"
     },
@@ -3121,20 +3094,6 @@
       "info": "Free"
     },
     {
-      "sortindex": 1771830900,
-      "image": "https://resources.hellorubric.com/uploaded_assets/07285653-a532-47f2-b1bc-12b6cf26f0c5.jpg",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2511,
-      "destination": "/?eid=53483",
-      "societyname": "Muslim Students Association UQ",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-      "title": "Welcome Event",
-      "day": "23",
-      "info": "Free"
-    },
-    {
       "sortindex": 1771833600,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
       "month": "February",
@@ -3164,7 +3123,7 @@
     },
     {
       "sortindex": 1771834500,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/f5004f95-ca96-4031-aef2-87268f3aefe7.jpg",
       "month": "February",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3172,7 +3131,7 @@
       "destination": "/?eid=53166",
       "societyname": "Muslim Students Association UQ",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-      "title": "Ramadan Iftars - Week 1",
+      "title": "Ramadan Iftars - Week 1 AND Welcome Event",
       "day": "23",
       "info": "$2.00 - $10.00"
     },
@@ -3304,20 +3263,6 @@
     },
     {
       "sortindex": 1772179200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ceaa127b-4485-46b9-b2b7-5f80c0d54f3d.JPEG",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 164,
-      "destination": "/?eid=50475",
-      "societyname": "Nursing & Midwifery Student Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_164.png",
-      "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
-      "day": "27",
-      "info": "$15.41 - $26.81"
-    },
-    {
-      "sortindex": 1772179200,
       "image": "https://resources.hellorubric.com/uploaded_assets/d4475814-b0be-453a-9111-65d966ba8a15.jpeg",
       "month": "February",
       "societyAvgRating": 0,
@@ -3329,6 +3274,20 @@
       "title": "Welcome Tea Party",
       "day": "27",
       "info": "$10.00 - $20.00"
+    },
+    {
+      "sortindex": 1772179200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ceaa127b-4485-46b9-b2b7-5f80c0d54f3d.JPEG",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 164,
+      "destination": "/?eid=50475",
+      "societyname": "Nursing & Midwifery Student Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_164.png",
+      "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
+      "day": "27",
+      "info": "$15.41 - $26.81"
     },
     {
       "sortindex": 1772247600,
@@ -3343,6 +3302,20 @@
       "title": "QUEST White T shirt pub crawl ",
       "day": "28",
       "info": "$41.35"
+    },
+    {
+      "sortindex": 1772262000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 799,
+      "destination": "/?eid=52824",
+      "societyname": "UQ Street Groove Dance Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
+      "title": "Street Groove Welcome Day",
+      "day": "28",
+      "info": "Free"
     },
     {
       "sortindex": 1772431200,
