@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1771567200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fd276b39-3f13-40fa-9a0e-3bf0a90c3092.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2251,
-    "destination": "/?eid=49740",
-    "societyname": "Every Nation Campus UQ",
-    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-    "title": "Introduction Night: Hello Summer ",
-    "day": "20",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1771567200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6249,
-    "destination": "/?eid=53106",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
-    "day": "20",
-    "info": "Free"
-  },
-  {
     "sortindex": 1771635600,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_6.png",
     "month": "February",
@@ -88,6 +60,20 @@
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
     "month": "February",
     "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2403,
+    "destination": "/?eid=53302",
+    "societyname": "Who UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f1075088-e0d5-43b6-84ab-0f2f54a1f84a.png",
+    "title": "Episode screening",
+    "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1771833600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "month": "February",
+    "societyAvgRating": 0,
     "subtitle": "Other",
     "societyid": 2343,
     "destination": "/?eid=52852",
@@ -98,17 +84,17 @@
     "info": "Free"
   },
   {
-    "sortindex": 1771833600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "sortindex": 1771995600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6bc813fe-c250-435e-9a29-626f6c8190ee.png",
     "month": "February",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
-    "societyid": 2403,
-    "destination": "/?eid=53302",
-    "societyname": "Who UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f1075088-e0d5-43b6-84ab-0f2f54a1f84a.png",
-    "title": "Episode screening",
-    "day": "23",
+    "societyid": 2257,
+    "destination": "/?eid=53840",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.getqpay.com/images/660f6b73a3c61_.png",
+    "title": "Welcome + Craft Picnic",
+    "day": "25",
     "info": "Free"
   },
   {
@@ -182,20 +168,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1772262000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 799,
-    "destination": "/?eid=52824",
-    "societyname": "UQ Street Groove Dance Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
-    "title": "Street Groove Welcome Day",
-    "day": "28",
-    "info": "Free"
-  },
-  {
     "sortindex": 1772431200,
     "image": "https://resources.hellorubric.com/uploaded_assets/24b90e63-6ece-4255-96db-48a7f63adf2f.jpeg",
     "month": "March",
@@ -249,6 +221,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
     "title": "UQISA x IISB Ramadhan | FREE Takjil (9-13 Mar)",
     "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773302400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c9ffcaaa-ef29-4eeb-87d4-0bf8e804b9f7.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1862,
+    "destination": "/?eid=53779",
+    "societyname": "UQ Economics Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+    "title": "First Year Mixer",
+    "day": "12",
     "info": "Free"
   },
   {
