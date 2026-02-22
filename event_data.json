@@ -302,7 +302,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 45,
+  "totalItemCount": 44,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2984,48 +2984,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1771632000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/1568d1df-0553-48cf-b548-5539e209bb7d.png",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2431,
-      "destination": "/?eid=51026",
-      "societyname": "UQ Taiko Japanese Drumming Club",
-      "societylogo": "https://resources.getqpay.com/images/65d6bdbd211b0_.png",
-      "title": "TRY TAIKO Sem 1 2026",
-      "day": "21",
-      "info": "$2.97"
-    },
-    {
-      "sortindex": 1771635600,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_6.png",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2403,
-      "destination": "/?eid=53303",
-      "societyname": "Who UQ",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f1075088-e0d5-43b6-84ab-0f2f54a1f84a.png",
-      "title": "Welcome BBQ",
-      "day": "21",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1771646400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b606a3d4-95c3-4c42-9d66-c1962d971530.jpg",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 1168,
-      "destination": "/?eid=53240",
-      "societyname": "UQ Quadball",
-      "societylogo": "https://resources.hellorubric.com/images/671f7984b3a92_.png",
-      "title": "Come and Try Quadball!",
-      "day": "21",
-      "info": "Free"
-    },
-    {
       "sortindex": 1771808400,
       "image": "https://resources.hellorubric.com/uploaded_assets/ed5ebd30-fe92-483f-a9fb-d3344d0a4b67.png",
       "month": "February",
@@ -3058,12 +3016,12 @@
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
       "month": "February",
       "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2403,
-      "destination": "/?eid=53302",
-      "societyname": "Who UQ",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f1075088-e0d5-43b6-84ab-0f2f54a1f84a.png",
-      "title": "Episode screening",
+      "subtitle": "Other",
+      "societyid": 2343,
+      "destination": "/?eid=52852",
+      "societyname": "Super Manga Anime Culture Kingdom",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2343.png",
+      "title": "Get To Know You Party",
       "day": "23",
       "info": "Free"
     },
@@ -3072,12 +3030,12 @@
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
       "month": "February",
       "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2343,
-      "destination": "/?eid=52852",
-      "societyname": "Super Manga Anime Culture Kingdom",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2343.png",
-      "title": "Get To Know You Party",
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2403,
+      "destination": "/?eid=53302",
+      "societyname": "Who UQ",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f1075088-e0d5-43b6-84ab-0f2f54a1f84a.png",
+      "title": "Episode screening",
       "day": "23",
       "info": "Free"
     },
@@ -3237,20 +3195,6 @@
     },
     {
       "sortindex": 1772179200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8a606b1d-091f-4f76-89b3-01c869621b89.jpg",
-      "month": "February",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 1410,
-      "destination": "/?eid=49796",
-      "societyname": "UQMS Ashintosh Foundation",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
-      "title": "Scrubs & Soundtracks Trivia Night 2026",
-      "day": "27",
-      "info": "$8.68 - $16.45"
-    },
-    {
-      "sortindex": 1772179200,
       "image": "https://resources.hellorubric.com/uploaded_assets/d4475814-b0be-453a-9111-65d966ba8a15.jpeg",
       "month": "February",
       "societyAvgRating": 0,
@@ -3262,6 +3206,20 @@
       "title": "Welcome Tea Party",
       "day": "27",
       "info": "$10.00 - $20.00"
+    },
+    {
+      "sortindex": 1772179200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8a606b1d-091f-4f76-89b3-01c869621b89.jpg",
+      "month": "February",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 1410,
+      "destination": "/?eid=49796",
+      "societyname": "UQMS Ashintosh Foundation",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
+      "title": "Scrubs & Soundtracks Trivia Night 2026",
+      "day": "27",
+      "info": "$8.68 - $16.45"
     },
     {
       "sortindex": 1772179200,
@@ -3376,6 +3334,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1772697600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/fce6c97f-0fc2-4fd8-9218-af3979037ef8.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 10456,
+      "destination": "/?eid=54064",
+      "societyname": "UQ Medical Humanities Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+      "title": "The Pitt Screening",
+      "day": "5",
+      "info": "$0.00 - $6.08"
+    },
+    {
       "sortindex": 1772748000,
       "image": "https://resources.hellorubric.com/uploaded_assets/53aaf794-21ec-4302-a4f2-952deb295ec9.png",
       "month": "March",
@@ -3458,6 +3430,20 @@
       "title": "UQCCR x Fraser x QIMR Trivia Night",
       "day": "11",
       "info": "$5.01 - $10.01"
+    },
+    {
+      "sortindex": 1773298800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/07b8ba37-ec06-4ebc-b266-9aea3189e258.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 2354,
+      "destination": "/?eid=53981",
+      "societyname": "UQ United Nations Student Association",
+      "societylogo": "https://resources.getqpay.com/images/63e1a2927627b_.png",
+      "title": "Women In Conflict Panel",
+      "day": "12",
+      "info": "$6.08 - $11.27"
     },
     {
       "sortindex": 1773300600,
