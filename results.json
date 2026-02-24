@@ -1,89 +1,5 @@
 [
   {
-    "sortindex": 1771808400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ed5ebd30-fe92-483f-a9fb-d3344d0a4b67.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 593,
-    "destination": "/?eid=51849",
-    "societyname": "UQ Chemistry Club",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_593.png",
-    "title": "UQCC Welcome Picnic",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1771813800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/44043497-6fbd-429d-9699-f7bad7bd5ae9.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=51308",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "UBS on Campus",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1771828200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6249,
-    "destination": "/?eid=53106",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1771833600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2343,
-    "destination": "/?eid=52852",
-    "societyname": "Super Manga Anime Culture Kingdom",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2343.png",
-    "title": "Get To Know You Party",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1771833600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2403,
-    "destination": "/?eid=53302",
-    "societyname": "Who UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f1075088-e0d5-43b6-84ab-0f2f54a1f84a.png",
-    "title": "Episode screening",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1771834500,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f5004f95-ca96-4031-aef2-87268f3aefe7.jpg",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2511,
-    "destination": "/?eid=53166",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Ramadan Iftars - Week 1 AND Welcome Event",
-    "day": "23",
-    "info": "$2.00 - $10.00"
-  },
-  {
     "sortindex": 1771898400,
     "image": "https://resources.hellorubric.com/uploaded_assets/99833fce-4124-4d5e-8961-6f03250b1ce1.png",
     "month": "February",
@@ -96,6 +12,48 @@
     "title": "Welcome Picinic",
     "day": "24",
     "info": "$0.00 - $6.56"
+  },
+  {
+    "sortindex": 1771914600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6249,
+    "destination": "/?eid=53106",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1771977600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/32c06f44-9aca-4d35-8bff-8cec68c3128c.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54582",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
+    "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1771977600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f4e16353-1db8-4fc1-a362-4fc2ac12d73e.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=54660",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Study Group",
+    "day": "25",
+    "info": "Free"
   },
   {
     "sortindex": 1771981200,
@@ -113,20 +71,6 @@
   },
   {
     "sortindex": 1771995600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/6bc813fe-c250-435e-9a29-626f6c8190ee.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2257,
-    "destination": "/?eid=53840",
-    "societyname": "UQ Vegan Society",
-    "societylogo": "https://resources.getqpay.com/images/660f6b73a3c61_.png",
-    "title": "Welcome + Craft Picnic",
-    "day": "25",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1771995600,
     "image": "https://resources.hellorubric.com/uploaded_assets/a35bba87-80ad-4418-a227-5549cb61d709.png",
     "month": "February",
     "societyAvgRating": 0,
@@ -138,6 +82,20 @@
     "title": "WiSA Welcome Picnic ",
     "day": "25",
     "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1771995600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6bc813fe-c250-435e-9a29-626f6c8190ee.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=53840",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Welcome + Craft Picnic",
+    "day": "25",
+    "info": "Free"
   },
   {
     "sortindex": 1772004600,
@@ -224,6 +182,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1772150400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/0f3bae01-137f-407d-8629-e75d0c1ecf8f.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=54663",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Study Group",
+    "day": "27",
+    "info": "Free"
+  },
+  {
     "sortindex": 1772177400,
     "image": "https://resources.hellorubric.com/uploaded_assets/f661ba5a-cccb-4028-b0ab-cae320c320b2.png",
     "month": "February",
@@ -261,7 +233,7 @@
     "destination": "/?eid=50475",
     "societyname": "Nursing & Midwifery Student Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
-    "title": "Launch Party: Howdey Howdey Let's Get Rowdy",
+    "title": "Launch Party: Howdy Howdy Let's Get Rowdy",
     "day": "27",
     "info": "$15.41 - $26.81"
   },
@@ -278,6 +250,20 @@
     "title": "Scrubs & Soundtracks Trivia Night 2026",
     "day": "27",
     "info": "$8.68 - $16.45"
+  },
+  {
+    "sortindex": 1772247600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_11.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 799,
+    "destination": "/?eid=51004",
+    "societyname": "UQ Street Groove Dance Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
+    "title": "Week 1 Street Groove Dance Classes",
+    "day": "28",
+    "info": "$0.00 - $11.27"
   },
   {
     "sortindex": 1772247600,
@@ -323,20 +309,6 @@
   },
   {
     "sortindex": 1772521200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d3eda8ae-c1a6-4489-ab56-54ab53b310bb.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=54259",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "Bain Capital Information & Networking Session",
-    "day": "3",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1772521200,
     "image": "https://resources.hellorubric.com/uploaded_assets/0aea6842-83f7-4d86-9768-adbd1ca150a2.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -348,6 +320,20 @@
     "title": "UQCC Board Game Night",
     "day": "3",
     "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1772521200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d3eda8ae-c1a6-4489-ab56-54ab53b310bb.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=54259",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Bain Capital Information & Networking Session",
+    "day": "3",
+    "info": "Free"
   },
   {
     "sortindex": 1772611200,
@@ -365,20 +351,6 @@
   },
   {
     "sortindex": 1772613000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f0a05055-8b30-470a-88fc-895fdffe50d7.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 165,
-    "destination": "/?eid=50273",
-    "societyname": "UQBA - UQ Business Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
-    "title": "Professional Pathways 2026",
-    "day": "4",
-    "info": "$35.00 - $45.00"
-  },
-  {
-    "sortindex": 1772613000,
     "image": "https://resources.hellorubric.com/uploaded_assets/415a0725-2e67-48d4-9467-6f6dbcdf4a36.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -392,6 +364,20 @@
     "info": "$0.00 - $5.65"
   },
   {
+    "sortindex": 1772613000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f0a05055-8b30-470a-88fc-895fdffe50d7.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 165,
+    "destination": "/?eid=50273",
+    "societyname": "UQBA - UQ Business Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+    "title": "Professional Pathways 2026",
+    "day": "4",
+    "info": "$35.00 - $45.00"
+  },
+  {
     "sortindex": 1772694000,
     "image": "https://resources.hellorubric.com/uploaded_assets/d198c9e5-f01a-4078-be98-0760b6b4c66e.png",
     "month": "March",
@@ -402,6 +388,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "Altman Solon On Campus",
+    "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772697600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/44fb930b-2247-44b7-b1b1-a30ce945325a.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 5763,
+    "destination": "/?eid=52971",
+    "societyname": "Bachelor of Advanced Business (Honours) SPC",
+    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+    "title": "BAB First-Years Roadshow and Mixer",
     "day": "5",
     "info": "Free"
   },
@@ -420,20 +420,6 @@
     "info": "$0.00 - $6.08"
   },
   {
-    "sortindex": 1772697600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/44fb930b-2247-44b7-b1b1-a30ce945325a.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 5763,
-    "destination": "/?eid=52971",
-    "societyname": "Bachelor of Advanced Business (Honours) SPC",
-    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-    "title": "BAB First-Years Roadshow and Mixer",
-    "day": "5",
-    "info": "Free"
-  },
-  {
     "sortindex": 1772748000,
     "image": "https://resources.hellorubric.com/uploaded_assets/53aaf794-21ec-4302-a4f2-952deb295ec9.png",
     "month": "March",
@@ -448,6 +434,20 @@
     "info": "$245.37"
   },
   {
+    "sortindex": 1772755200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/72847fec-5f58-4e8b-a661-61c4b6d042fc.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54590",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Even Weeks) \ud83c\udf75\ud83c\udf31",
+    "day": "6",
+    "info": "Free"
+  },
+  {
     "sortindex": 1772762400,
     "image": "https://resources.hellorubric.com/uploaded_assets/673aed34-70f6-4a74-855b-5e14621d09f5.png",
     "month": "March",
@@ -460,6 +460,20 @@
     "title": "First Year Mixer",
     "day": "6",
     "info": "$10.00 - $20.00"
+  },
+  {
+    "sortindex": 1772775000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b5f754e-d67b-4d81-b5ea-f4eb5151a5a1.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1539,
+    "destination": "/?eid=54478",
+    "societyname": "UQ Women in Science Association",
+    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+    "title": "International Women's Day Picnic",
+    "day": "6",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1772791200,
@@ -518,6 +532,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1773187200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/32c06f44-9aca-4d35-8bff-8cec68c3128c.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54583",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
+    "day": "11",
+    "info": "Free"
+  },
+  {
     "sortindex": 1773214200,
     "image": "https://resources.hellorubric.com/uploaded_assets/2ab67c43-0f1d-4103-bc6a-4f7778330ca3.png",
     "month": "March",
@@ -533,20 +561,6 @@
   },
   {
     "sortindex": 1773298800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3be9479d-71b1-405a-9f5a-0cd3a3951cdf.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 4520,
-    "destination": "/?eid=54260",
-    "societyname": "UQ Radiology Interest Group",
-    "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
-    "title": "How to Become a Radiologist",
-    "day": "12",
-    "info": "$0.00 - $6.08"
-  },
-  {
-    "sortindex": 1773298800,
     "image": "https://resources.hellorubric.com/uploaded_assets/07b8ba37-ec06-4ebc-b266-9aea3189e258.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -558,6 +572,20 @@
     "title": "Women In Conflict Panel",
     "day": "12",
     "info": "$6.08 - $11.27"
+  },
+  {
+    "sortindex": 1773298800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3be9479d-71b1-405a-9f5a-0cd3a3951cdf.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 4520,
+    "destination": "/?eid=54260",
+    "societyname": "UQ Radiology Interest Group",
+    "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+    "title": "How to Become a Radiologist",
+    "day": "12",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1773300600,
@@ -686,6 +714,34 @@
     "info": "$6.00 - $11.00"
   },
   {
+    "sortindex": 1773909000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/95ed652d-f6a8-42d0-b5a4-e5b4bb406376.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1862,
+    "destination": "/?eid=54567",
+    "societyname": "UQ Economics Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+    "title": "UQES Careers & Cocktails 2026",
+    "day": "19",
+    "info": "$37.78"
+  },
+  {
+    "sortindex": 1773964800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/72847fec-5f58-4e8b-a661-61c4b6d042fc.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54591",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Even Weeks) \ud83c\udf75\ud83c\udf31",
+    "day": "20",
+    "info": "Free"
+  },
+  {
     "sortindex": 1774050300,
     "image": "https://resources.hellorubric.com/uploaded_assets/af5ba62e-7bce-4938-8a8b-25c76c7c161c.png",
     "month": "March",
@@ -714,6 +770,90 @@
     "info": "$21.63 - $35.11"
   },
   {
+    "sortindex": 1774396800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/32c06f44-9aca-4d35-8bff-8cec68c3128c.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54584",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
+    "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775007000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3cba3807-ce26-4bff-ad07-88f4f52a6048.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 8835,
+    "destination": "/?eid=54613",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "Easter potluck and scavengar hunt",
+    "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775174400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/72847fec-5f58-4e8b-a661-61c4b6d042fc.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54592",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Even Weeks) \ud83c\udf75\ud83c\udf31",
+    "day": "3",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776207600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/32c06f44-9aca-4d35-8bff-8cec68c3128c.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54585",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
+    "day": "15",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776985200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/72847fec-5f58-4e8b-a661-61c4b6d042fc.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54593",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Even Weeks) \ud83c\udf75\ud83c\udf31",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777417200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/32c06f44-9aca-4d35-8bff-8cec68c3128c.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54586",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
+    "day": "29",
+    "info": "Free"
+  },
+  {
     "sortindex": 1778036400,
     "image": "https://resources.hellorubric.com/uploaded_assets/0c7898f8-9a2c-4796-b7b7-12df4efb6d94.png",
     "month": "May",
@@ -726,5 +866,61 @@
     "title": "UQCCR Student Club Lawn Bowls",
     "day": "6",
     "info": "$20.01 - $25.01"
+  },
+  {
+    "sortindex": 1778194800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/72847fec-5f58-4e8b-a661-61c4b6d042fc.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54594",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Even Weeks) \ud83c\udf75\ud83c\udf31",
+    "day": "8",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778626800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/32c06f44-9aca-4d35-8bff-8cec68c3128c.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54587",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
+    "day": "13",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779404400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/72847fec-5f58-4e8b-a661-61c4b6d042fc.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54595",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Even Weeks) \ud83c\udf75\ud83c\udf31",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779836400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/32c06f44-9aca-4d35-8bff-8cec68c3128c.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=54588",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
+    "day": "27",
+    "info": "Free"
   }
 ]
