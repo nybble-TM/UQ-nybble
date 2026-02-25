@@ -1,30 +1,16 @@
 [
   {
-    "sortindex": 1771898400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/99833fce-4124-4d5e-8961-6f03250b1ce1.png",
+    "sortindex": 1771977600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f4e16353-1db8-4fc1-a362-4fc2ac12d73e.png",
     "month": "February",
     "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1835,
-    "destination": "/?eid=52936",
-    "societyname": "Public Health Association University of Queensland",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
-    "title": "Welcome Picinic",
-    "day": "24",
-    "info": "$0.00 - $6.56"
-  },
-  {
-    "sortindex": 1771914600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6249,
-    "destination": "/?eid=53106",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
-    "day": "24",
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=54660",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Study Group",
+    "day": "25",
     "info": "Free"
   },
   {
@@ -38,20 +24,6 @@
     "societyname": "UQ Vegan Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
-    "day": "25",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1771977600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f4e16353-1db8-4fc1-a362-4fc2ac12d73e.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 5398,
-    "destination": "/?eid=54660",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Study Group",
     "day": "25",
     "info": "Free"
   },
@@ -94,6 +66,20 @@
     "societyname": "UQ Vegan Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "title": "Welcome + Craft Picnic",
+    "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772001000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6249,
+    "destination": "/?eid=53106",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
     "day": "25",
     "info": "Free"
   },
@@ -196,6 +182,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1772172000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=54668",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Pickleball Friday 27th Feb",
+    "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772177400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d4475814-b0be-453a-9111-65d966ba8a15.jpeg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4430,
+    "destination": "/?eid=52548",
+    "societyname": "Handcraft & Art Club",
+    "societylogo": "https://resources.getqpay.com/images/64afd1d7b81fd_.png",
+    "title": "Welcome Tea Party",
+    "day": "27",
+    "info": "$10.00 - $20.00"
+  },
+  {
     "sortindex": 1772177400,
     "image": "https://resources.hellorubric.com/uploaded_assets/f661ba5a-cccb-4028-b0ab-cae320c320b2.png",
     "month": "February",
@@ -211,17 +225,17 @@
   },
   {
     "sortindex": 1772179200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d4475814-b0be-453a-9111-65d966ba8a15.jpeg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/8a606b1d-091f-4f76-89b3-01c869621b89.jpg",
     "month": "February",
     "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 4430,
-    "destination": "/?eid=52548",
-    "societyname": "Handcraft & Art Club",
-    "societylogo": "https://resources.getqpay.com/images/64afd1d7b81fd_.png",
-    "title": "Welcome Tea Party",
+    "subtitle": "Quiz/Trivia",
+    "societyid": 1410,
+    "destination": "/?eid=49796",
+    "societyname": "UQMS Ashintosh Foundation",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
+    "title": "Scrubs & Soundtracks Trivia Night 2026",
     "day": "27",
-    "info": "$10.00 - $20.00"
+    "info": "$8.68 - $16.45"
   },
   {
     "sortindex": 1772179200,
@@ -236,20 +250,6 @@
     "title": "Launch Party: Howdy Howdy Let's Get Rowdy",
     "day": "27",
     "info": "$15.41 - $26.81"
-  },
-  {
-    "sortindex": 1772179200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8a606b1d-091f-4f76-89b3-01c869621b89.jpg",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 1410,
-    "destination": "/?eid=49796",
-    "societyname": "UQMS Ashintosh Foundation",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
-    "title": "Scrubs & Soundtracks Trivia Night 2026",
-    "day": "27",
-    "info": "$8.68 - $16.45"
   },
   {
     "sortindex": 1772247600,
@@ -306,6 +306,20 @@
     "title": "Ramadan Iftars - Week 2",
     "day": "2",
     "info": "$2.00 - $10.00"
+  },
+  {
+    "sortindex": 1772517600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4271,
+    "destination": "/?eid=54780",
+    "societyname": "UQ K-pop Dance Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "UQKDC WEEK 2 CLASS DROP-IN TICKET",
+    "day": "3",
+    "info": "$2.00"
   },
   {
     "sortindex": 1772521200,
@@ -393,20 +407,6 @@
   },
   {
     "sortindex": 1772697600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/44fb930b-2247-44b7-b1b1-a30ce945325a.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 5763,
-    "destination": "/?eid=52971",
-    "societyname": "Bachelor of Advanced Business (Honours) SPC",
-    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-    "title": "BAB First-Years Roadshow and Mixer",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1772697600,
     "image": "https://resources.hellorubric.com/uploaded_assets/fce6c97f-0fc2-4fd8-9218-af3979037ef8.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -418,6 +418,20 @@
     "title": "The Pitt Screening",
     "day": "5",
     "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1772697600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/44fb930b-2247-44b7-b1b1-a30ce945325a.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 5763,
+    "destination": "/?eid=52971",
+    "societyname": "Bachelor of Advanced Business (Honours) SPC",
+    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+    "title": "BAB First-Years Roadshow and Mixer",
+    "day": "5",
+    "info": "Free"
   },
   {
     "sortindex": 1772748000,
@@ -502,6 +516,20 @@
     "title": "UQSSS Orientation: Alice in Borderland ",
     "day": "7",
     "info": "$6.08 - $11.27"
+  },
+  {
+    "sortindex": 1772946000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4080f606-3514-4c3e-8edf-b92e6ff1385e.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=51837",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "Drinky Drawy",
+    "day": "8",
+    "info": "$10.00 - $15.00"
   },
   {
     "sortindex": 1773036000,
@@ -616,6 +644,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1773349200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/052b1f73-3106-4101-a9b2-0ed3af5005dc.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 601,
+    "destination": "/?eid=54357",
+    "societyname": "UQ Surfers Club",
+    "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
+    "title": "Flat Rock Surf Camp",
+    "day": "13",
+    "info": "$90.00 - $135.00"
+  },
+  {
     "sortindex": 1773388800,
     "image": "https://resources.hellorubric.com/uploaded_assets/8db5c035-3405-4a8f-9d62-cf58466a75a2.png",
     "month": "March",
@@ -698,6 +740,20 @@
     "title": "LANTITE Workshop 2026",
     "day": "18",
     "info": "$0.00 - $5.00"
+  },
+  {
+    "sortindex": 1773820800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/edc888ec-3768-410b-b8c3-b5d013b599d2.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 165,
+    "destination": "/?eid=54766",
+    "societyname": "UQBA - UQ Business Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+    "title": "The Accounting Advantage",
+    "day": "18",
+    "info": "$0.00 - $10.75"
   },
   {
     "sortindex": 1773824400,

@@ -1,16 +1,16 @@
 [
   {
-    "sortindex": 1771914600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
+    "sortindex": 1771977600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f4e16353-1db8-4fc1-a362-4fc2ac12d73e.png",
     "month": "February",
     "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6249,
-    "destination": "/?eid=53106",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
-    "day": "24",
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=54660",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Study Group",
+    "day": "25",
     "info": "Free"
   },
   {
@@ -28,20 +28,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1771977600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f4e16353-1db8-4fc1-a362-4fc2ac12d73e.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 5398,
-    "destination": "/?eid=54660",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Study Group",
-    "day": "25",
-    "info": "Free"
-  },
-  {
     "sortindex": 1771995600,
     "image": "https://resources.hellorubric.com/uploaded_assets/6bc813fe-c250-435e-9a29-626f6c8190ee.png",
     "month": "February",
@@ -52,6 +38,20 @@
     "societyname": "UQ Vegan Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "title": "Welcome + Craft Picnic",
+    "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772001000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6249,
+    "destination": "/?eid=53106",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
     "day": "25",
     "info": "Free"
   },
@@ -136,6 +136,20 @@
     "societyname": "UQ Sustainable Innovators Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Study Group",
+    "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772172000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+    "month": "February",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=54668",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Pickleball Friday 27th Feb",
     "day": "27",
     "info": "Free"
   },
