@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1772150400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/0f3bae01-137f-407d-8629-e75d0c1ecf8f.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 5398,
-    "destination": "/?eid=54663",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Study Group",
-    "day": "27",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1772172000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 4982,
-    "destination": "/?eid=54668",
-    "societyname": "UQ Backyard Sports Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-    "title": "Pickleball Friday 27th Feb",
-    "day": "27",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1772173800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7b006751-49c4-4a47-b320-915b00124912.jpeg",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6249,
-    "destination": "/?eid=53106",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA x IISB Ramadhan | FREE Takjil (19-27 Feb)",
-    "day": "27",
-    "info": "Free"
-  },
-  {
     "sortindex": 1772431200,
     "image": "https://resources.hellorubric.com/uploaded_assets/24b90e63-6ece-4255-96db-48a7f63adf2f.jpeg",
     "month": "March",
@@ -70,6 +28,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1772524800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4c35af65-ffda-4f11-83d9-356169f2d2c5.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55426",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Synechdoche, New York\u2019",
+    "day": "3",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772589600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 173,
+    "destination": "/?eid=55420",
+    "societyname": "UQ German Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
+    "title": "2026 Euro BBQ Potluck",
+    "day": "4",
+    "info": "Free"
+  },
+  {
     "sortindex": 1772694000,
     "image": "https://resources.hellorubric.com/uploaded_assets/d198c9e5-f01a-4078-be98-0760b6b4c66e.png",
     "month": "March",
@@ -94,6 +80,20 @@
     "societyname": "Bachelor of Advanced Business (Honours) SPC",
     "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
     "title": "BAB First-Years Roadshow and Mixer",
+    "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772697600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2c415003-5091-4745-84df-2a1cef085bf7.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55429",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'The Holy Mountain\u2019",
     "day": "5",
     "info": "Free"
   },
@@ -154,6 +154,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1772784000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/42530056-e795-41e7-bb3d-2aeee2508b0f.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=55487",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Twilight Vegan Markets",
+    "day": "6",
+    "info": "Free"
+  },
+  {
     "sortindex": 1773036000,
     "image": "https://resources.hellorubric.com/uploaded_assets/524e62d6-82e4-4b61-b7ad-cc9d0304533e.jpeg",
     "month": "March",
@@ -197,6 +211,20 @@
   },
   {
     "sortindex": 1773129600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fb8a54a9-96cf-4c0c-a81f-9abcbc953e16.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55434",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Everything Everywhere All at Once'",
+    "day": "10",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773129600,
     "image": "https://resources.hellorubric.com/uploaded_assets/ef555c23-e992-43b6-b354-ccd7cea58ad1.jpeg",
     "month": "March",
     "societyAvgRating": 0,
@@ -225,20 +253,6 @@
   },
   {
     "sortindex": 1773302400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8d773e08-e1d5-489a-afbc-994fe41773af.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=55152",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "Careers in Accounting",
-    "day": "12",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773302400,
     "image": "https://resources.hellorubric.com/uploaded_assets/c9ffcaaa-ef29-4eeb-87d4-0bf8e804b9f7.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -248,6 +262,20 @@
     "societyname": "UQ Economics Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "First Year Mixer",
+    "day": "12",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773302400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8d773e08-e1d5-489a-afbc-994fe41773af.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=55152",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Careers in Accounting",
     "day": "12",
     "info": "Free"
   },
@@ -263,6 +291,34 @@
     "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
     "title": "UQNS Welcoming Event 2026",
     "day": "13",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773734400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55439",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Red Desert'",
+    "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773907200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6d4316fd-9d14-41c8-a54e-444bcd7a5bf2.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55437",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Farewell My Concubine\u2019",
+    "day": "19",
     "info": "Free"
   },
   {
