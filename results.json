@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1772247600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 534,
-    "destination": "/?eid=52338",
-    "societyname": "Queensland University Exchange Students Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-    "title": "QUEST White T shirt pub crawl ",
-    "day": "28",
-    "info": "$41.35"
-  },
-  {
-    "sortindex": 1772247600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e27d3755-0c8f-4877-9013-159182475015.png",
-    "month": "February",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 799,
-    "destination": "/?eid=51004",
-    "societyname": "UQ Street Groove Dance Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
-    "title": "Week 1 Street Groove Dance Classes",
-    "day": "28",
-    "info": "$0.00 - $11.27"
-  },
-  {
     "sortindex": 1772431200,
     "image": "https://resources.hellorubric.com/uploaded_assets/24b90e63-6ece-4255-96db-48a7f63adf2f.jpeg",
     "month": "March",
@@ -113,7 +85,7 @@
   },
   {
     "sortindex": 1772589600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/d864fdae-975f-4ff2-8ba6-65d6cb13a149.png",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -533,20 +505,6 @@
   },
   {
     "sortindex": 1773298800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3be9479d-71b1-405a-9f5a-0cd3a3951cdf.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 4520,
-    "destination": "/?eid=54260",
-    "societyname": "UQ Radiology Interest Group",
-    "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
-    "title": "How to Become a Radiologist",
-    "day": "12",
-    "info": "$0.00 - $6.08"
-  },
-  {
-    "sortindex": 1773298800,
     "image": "https://resources.hellorubric.com/uploaded_assets/07b8ba37-ec06-4ebc-b266-9aea3189e258.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -558,6 +516,20 @@
     "title": "Women In Conflict Panel",
     "day": "12",
     "info": "$6.08 - $11.27"
+  },
+  {
+    "sortindex": 1773298800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3be9479d-71b1-405a-9f5a-0cd3a3951cdf.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 4520,
+    "destination": "/?eid=54260",
+    "societyname": "UQ Radiology Interest Group",
+    "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+    "title": "How to Become a Radiologist",
+    "day": "12",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1773300600,
@@ -575,20 +547,6 @@
   },
   {
     "sortindex": 1773302400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/c9ffcaaa-ef29-4eeb-87d4-0bf8e804b9f7.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1862,
-    "destination": "/?eid=53779",
-    "societyname": "UQ Economics Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
-    "title": "First Year Mixer",
-    "day": "12",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773302400,
     "image": "https://resources.hellorubric.com/uploaded_assets/8d773e08-e1d5-489a-afbc-994fe41773af.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -598,6 +556,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "Careers in Accounting",
+    "day": "12",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773302400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a888341c-50a2-49c9-92ff-a41f2f62f739.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1862,
+    "destination": "/?eid=53779",
+    "societyname": "UQ Economics Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+    "title": "First Year Mixer",
     "day": "12",
     "info": "Free"
   },
@@ -672,6 +644,20 @@
     "info": "$5.00 - $10.00"
   },
   {
+    "sortindex": 1773469800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fbd8fb38-5d6b-4756-a92f-2f567945ddc6.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1387,
+    "destination": "/?eid=55392",
+    "societyname": "UQ Hong Kong Students Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
+    "title": "O-Night",
+    "day": "14",
+    "info": "$24.74 - $29.92"
+  },
+  {
     "sortindex": 1773543600,
     "image": "https://resources.hellorubric.com/uploaded_assets/a8250b88-4184-4fc3-af75-efd7da082e20.jpg",
     "month": "March",
@@ -712,6 +698,20 @@
     "title": "Public Health Employability Night",
     "day": "16",
     "info": "$0.00 - $11.27"
+  },
+  {
+    "sortindex": 1773646200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/9fb135d8-04b6-4f20-b0f3-5aa8d45bf16c.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=55151",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Macquarie on Campus",
+    "day": "16",
+    "info": "Free"
   },
   {
     "sortindex": 1773734400,
@@ -826,6 +826,20 @@
     "info": "$0.00 - $11.27"
   },
   {
+    "sortindex": 1773997200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1a075146-088d-4106-9f76-1681407edd04.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 648,
+    "destination": "/?eid=55570",
+    "societyname": "UQ Sri Lankan Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
+    "title": "SARONG PARTY 2026",
+    "day": "20",
+    "info": "$10.75 - $26.05"
+  },
+  {
     "sortindex": 1774050300,
     "image": "https://resources.hellorubric.com/uploaded_assets/af5ba62e-7bce-4938-8a8b-25c76c7c161c.png",
     "month": "March",
@@ -866,6 +880,20 @@
     "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
     "day": "25",
     "info": "Free"
+  },
+  {
+    "sortindex": 1774427400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/508cb99b-ee2f-4871-b271-4c9a56551af3.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 1601,
+    "destination": "/?eid=55598",
+    "societyname": "UQ Skirts in Engineering",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "UQ Skirts Networking Dinner 2026",
+    "day": "25",
+    "info": "$0.00 - $37.18"
   },
   {
     "sortindex": 1775007000,
@@ -1048,5 +1076,19 @@
     "title": "Weekly Vegan Coffee Catch-Ups (Odd Weeks) \u2615\ud83c\udf31",
     "day": "27",
     "info": "Free"
+  },
+  {
+    "sortindex": 1784880000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/399bb813-701a-4c7e-96f6-af9f5d523eca.png",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 648,
+    "destination": "/?eid=51857",
+    "societyname": "UQ Sri Lankan Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
+    "title": "Suits and Sarees 2026",
+    "day": "24",
+    "info": "$87.26 - $133.16"
   }
 ]
