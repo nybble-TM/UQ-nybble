@@ -56,6 +56,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1772607600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d57bd551-675e-4903-a77a-1d3b7b49b050.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1603,
+    "destination": "/?eid=55724",
+    "societyname": "UQ Red Cross Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/049920f7-79ea-4c9e-94a6-09ac87b729a3.png",
+    "title": "Welcome Night Semester 1 2026",
+    "day": "4",
+    "info": "Free"
+  },
+  {
     "sortindex": 1772694000,
     "image": "https://resources.hellorubric.com/uploaded_assets/d198c9e5-f01a-4078-be98-0760b6b4c66e.png",
     "month": "March",
@@ -182,20 +196,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1773108000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5f214afb-d4cc-4d66-b90b-04e8a60d99dd.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 3220,
-    "destination": "/?eid=55240",
-    "societyname": "UQ Ladies in Technology",
-    "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
-    "title": "UQLIT x Atlassian Coding Interview Workshop",
-    "day": "10",
-    "info": "Free"
-  },
-  {
     "sortindex": 1773115200,
     "image": "https://resources.hellorubric.com/uploaded_assets/f9bac9c6-968f-4502-b8dc-623f45917318.jpg",
     "month": "March",
@@ -210,16 +210,16 @@
     "info": "Free"
   },
   {
-    "sortindex": 1773129600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fb8a54a9-96cf-4c0c-a81f-9abcbc953e16.jpeg",
+    "sortindex": 1773122400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5f214afb-d4cc-4d66-b90b-04e8a60d99dd.png",
     "month": "March",
     "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=55434",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Everything Everywhere All at Once'",
+    "subtitle": "Class/Workshop",
+    "societyid": 3220,
+    "destination": "/?eid=55240",
+    "societyname": "UQ Ladies in Technology",
+    "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
+    "title": "UQLIT x Atlassian Coding Interview Workshop",
     "day": "10",
     "info": "Free"
   },
@@ -234,6 +234,20 @@
     "societyname": "Justice and the Law Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
     "title": "UQUNSA x JATL Intro to Model UN Night",
+    "day": "10",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773129600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fb8a54a9-96cf-4c0c-a81f-9abcbc953e16.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55434",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Everything Everywhere All at Once'",
     "day": "10",
     "info": "Free"
   },
@@ -295,7 +309,7 @@
   },
   {
     "sortindex": 1773646200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/9fb135d8-04b6-4f20-b0f3-5aa8d45bf16c.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/bc224701-2ac1-4330-a97f-ea5d0c7ec589.png",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -347,6 +361,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "title": "Weekly Vegan Coffee Catch-Ups (Even Weeks) \ud83c\udf75\ud83c\udf31",
     "day": "20",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1774339200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4e2549ba-b5a6-40a6-976f-4a2b7f54aa5c.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55825",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Daisies'",
+    "day": "24",
     "info": "Free"
   },
   {
