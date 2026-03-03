@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1772431200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/24b90e63-6ece-4255-96db-48a7f63adf2f.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6249,
-    "destination": "/?eid=53133",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA x IISB Ramadhan | FREE Takjil (2-6 Mar)",
-    "day": "2",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1772521200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d3eda8ae-c1a6-4489-ab56-54ab53b310bb.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=54259",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "Bain Capital Information & Networking Session",
-    "day": "3",
-    "info": "Free"
-  },
-  {
     "sortindex": 1772524800,
     "image": "https://resources.hellorubric.com/uploaded_assets/4c35af65-ffda-4f11-83d9-356169f2d2c5.jpeg",
     "month": "March",
@@ -66,6 +38,20 @@
     "societyname": "UQ Red Cross Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/049920f7-79ea-4c9e-94a6-09ac87b729a3.png",
     "title": "Welcome Night Semester 1 2026",
+    "day": "4",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1772608500,
+    "image": "https://resources.hellorubric.com/uploaded_assets/85352887-22c3-4fd1-9b1a-163bd67eac32.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Show/Performance",
+    "societyid": 177,
+    "destination": "/?eid=54948",
+    "societyname": "UQ Latin American Students Association",
+    "societylogo": "https://resources.getqpay.com/images/63f145ad22c17_.png",
+    "title": "Venezuelan VR Sessions",
     "day": "4",
     "info": "Free"
   },
@@ -168,6 +154,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1772782200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/dc8225ed-c500-4b98-b87a-d300c0e2d40a.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=54259",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Bain Capital Information & Networking Session",
+    "day": "6",
+    "info": "Free"
+  },
+  {
     "sortindex": 1772784000,
     "image": "https://resources.hellorubric.com/uploaded_assets/42530056-e795-41e7-bb3d-2aeee2508b0f.png",
     "month": "March",
@@ -179,20 +179,6 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "title": "Twilight Vegan Markets",
     "day": "6",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773036000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/524e62d6-82e4-4b61-b7ad-cc9d0304533e.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6249,
-    "destination": "/?eid=53134",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA x IISB Ramadhan | FREE Takjil (9-13 Mar)",
-    "day": "9",
     "info": "Free"
   },
   {
@@ -225,20 +211,6 @@
   },
   {
     "sortindex": 1773129600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ef555c23-e992-43b6-b354-ccd7cea58ad1.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 4848,
-    "destination": "/?eid=54937",
-    "societyname": "Justice and the Law Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-    "title": "UQUNSA x JATL Intro to Model UN Night",
-    "day": "10",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773129600,
     "image": "https://resources.hellorubric.com/uploaded_assets/fb8a54a9-96cf-4c0c-a81f-9abcbc953e16.jpeg",
     "month": "March",
     "societyAvgRating": 0,
@@ -248,6 +220,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Everything Everywhere All at Once'",
+    "day": "10",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773129600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ef555c23-e992-43b6-b354-ccd7cea58ad1.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 4848,
+    "destination": "/?eid=54937",
+    "societyname": "Justice and the Law Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
+    "title": "UQUNSA x JATL Intro to Model UN Night",
     "day": "10",
     "info": "Free"
   },
@@ -266,17 +252,17 @@
     "info": "Free"
   },
   {
-    "sortindex": 1773302400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8d773e08-e1d5-489a-afbc-994fe41773af.png",
+    "sortindex": 1773217800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/0047e178-e0ea-486e-a6ad-26e172e3a563.png",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=55152",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "Careers in Accounting",
-    "day": "12",
+    "societyid": 2332,
+    "destination": "/?eid=55943",
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "title": "UNIT First Years Evening",
+    "day": "11",
     "info": "Free"
   },
   {
@@ -290,6 +276,20 @@
     "societyname": "UQ Economics Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "First Year Mixer",
+    "day": "12",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773302400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8d773e08-e1d5-489a-afbc-994fe41773af.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=55152",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Careers in Accounting",
     "day": "12",
     "info": "Free"
   },
@@ -319,6 +319,20 @@
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "Macquarie on Campus",
     "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773734400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4c255c13-7cae-4fc6-86f4-a45badc47baa.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=55866",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Inside Investment Banking",
+    "day": "17",
     "info": "Free"
   },
   {
