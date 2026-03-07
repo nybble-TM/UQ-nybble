@@ -302,7 +302,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 89,
+  "totalItemCount": 82,
   "sortDirection": "asc",
   "society_club_types": [
     "Academic and Professional",
@@ -2985,174 +2985,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1772748000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/53aaf794-21ec-4302-a4f2-952deb295ec9.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 534,
-      "destination": "/?eid=53216",
-      "societyname": "Queensland University Exchange Students Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-      "title": "QUEST goes to Byron Bay ",
-      "day": "6",
-      "info": "$245.37"
-    },
-    {
-      "sortindex": 1772751600,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 4982,
-      "destination": "/?eid=56159",
-      "societyname": "UQ Backyard Sports Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-      "title": "Pickleball 06/03",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1772755200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/72847fec-5f58-4e8b-a661-61c4b6d042fc.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2257,
-      "destination": "/?eid=54590",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-      "title": "Weekly Vegan Coffee Catch-Ups (Even Weeks) \ud83c\udf75\ud83c\udf31",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1772762400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/673aed34-70f6-4a74-855b-5e14621d09f5.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 165,
-      "destination": "/?eid=52335",
-      "societyname": "UQBA - UQ Business Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
-      "title": "First Year Mixer",
-      "day": "6",
-      "info": "$10.00 - $20.00"
-    },
-    {
-      "sortindex": 1772775000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7b5f754e-d67b-4d81-b5ea-f4eb5151a5a1.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1539,
-      "destination": "/?eid=54478",
-      "societyname": "UQ Women in Science Association",
-      "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
-      "title": "International Women's Day Picnic",
-      "day": "6",
-      "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1772776800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/e381d7e3-cc69-4938-86c8-94dbf7cdd717.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2251,
-      "destination": "/?eid=49792",
-      "societyname": "Every Nation Campus UQ",
-      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-      "title": "Dinner & a Dare!",
-      "day": "6",
-      "info": "$0.00 - $4.01"
-    },
-    {
-      "sortindex": 1772780400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f897a7ca-9a69-473e-aae8-8b373c13aa3c.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 7597,
-      "destination": "/?eid=55184",
-      "societyname": "UQ Bakeology",
-      "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
-      "title": "Semester 1 2026 Welcoming: Sunset Picnic",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1772782200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/dc8225ed-c500-4b98-b87a-d300c0e2d40a.jpg",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 6994,
-      "destination": "/?eid=54259",
-      "societyname": "Financial Management Association of Australia",
-      "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-      "title": "Bain Capital Information & Networking Session",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1772782200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/164ec959-3214-4556-a4bc-fbf4b73a0522.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4688,
-      "destination": "/?eid=53573",
-      "societyname": "UQ Ecological Society",
-      "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-      "title": "Mt Glorious Spotlighting",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1772782200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/74f46fdc-79ef-4d90-9c3b-ecdefee28e31.jpeg",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4430,
-      "destination": "/?eid=48056",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.getqpay.com/images/64afd1d7b81fd_.png",
-      "title": "Free Melty Beads Workshop for Members!!",
-      "day": "6",
-      "info": "$0.00 - $11.27"
-    },
-    {
-      "sortindex": 1772784000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/42530056-e795-41e7-bb3d-2aeee2508b0f.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2257,
-      "destination": "/?eid=55487",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-      "title": "Twilight Vegan Markets",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1772791200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3b5f3e29-2009-47f1-af5e-fea8e87cee18.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 186,
-      "destination": "/?eid=53210",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-      "title": "UQMAS x TH&E x UNSA x BANA Sem 1 Launch Party",
-      "day": "6",
-      "info": "$11.27 - $16.45"
-    },
-    {
       "sortindex": 1772838000,
       "image": "https://resources.hellorubric.com/uploaded_assets/16e09c9d-38e7-4769-9c8e-fe56d43a49a8.jpg",
       "month": "March",
@@ -3168,7 +3000,7 @@
     },
     {
       "sortindex": 1772839800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6d88f194-4068-4a3b-85f4-27c1cc0d2dfc.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/87ec5470-e639-47c4-a831-2aec2464c106.png",
       "month": "March",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3266,17 +3098,17 @@
     },
     {
       "sortindex": 1773129600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ef555c23-e992-43b6-b354-ccd7cea58ad1.jpeg",
+      "image": "https://resources.hellorubric.com/uploaded_assets/c3e97b0e-0b01-4bba-a784-e642a4314ab1.jpeg",
       "month": "March",
       "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 4848,
-      "destination": "/?eid=54937",
-      "societyname": "Justice and the Law Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-      "title": "UQUNSA x JATL Intro to Model UN Night",
+      "subtitle": "Other",
+      "societyid": 933,
+      "destination": "/?eid=56133",
+      "societyname": "UQ Organisation of Planning Students",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
+      "title": "Women in Planning",
       "day": "10",
-      "info": "Free"
+      "info": "$0.00 - $5.00"
     },
     {
       "sortindex": 1773129600,
@@ -3294,17 +3126,17 @@
     },
     {
       "sortindex": 1773129600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c3e97b0e-0b01-4bba-a784-e642a4314ab1.jpeg",
+      "image": "https://resources.hellorubric.com/uploaded_assets/ef555c23-e992-43b6-b354-ccd7cea58ad1.jpeg",
       "month": "March",
       "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 933,
-      "destination": "/?eid=56133",
-      "societyname": "UQ Organisation of Planning Students",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
-      "title": "Women in Planning",
+      "subtitle": "Class/Workshop",
+      "societyid": 4848,
+      "destination": "/?eid=54937",
+      "societyname": "Justice and the Law Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
+      "title": "UQUNSA x JATL Intro to Model UN Night",
       "day": "10",
-      "info": "$0.00 - $5.00"
+      "info": "Free"
     },
     {
       "sortindex": 1773187200,
@@ -3363,6 +3195,20 @@
       "info": "$6.08 - $11.27"
     },
     {
+      "sortindex": 1773216000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/db05a898-d271-431d-b823-5305b00deb97.jpg",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3867,
+      "destination": "/?eid=56852",
+      "societyname": "UQ International Students' Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+      "title": "Brains & Banter: A Global Fiesta Night \ud83e\udde0 \ud83c\udf0d",
+      "day": "11",
+      "info": "$6.08 - $16.45"
+    },
+    {
       "sortindex": 1773217800,
       "image": "https://resources.hellorubric.com/uploaded_assets/c9f6f87a-2e83-49cc-8148-47c0bb366da1.png",
       "month": "March",
@@ -3378,17 +3224,17 @@
     },
     {
       "sortindex": 1773298800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3be9479d-71b1-405a-9f5a-0cd3a3951cdf.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/07b8ba37-ec06-4ebc-b266-9aea3189e258.png",
       "month": "March",
       "societyAvgRating": 0,
       "subtitle": "Industry/Career",
-      "societyid": 4520,
-      "destination": "/?eid=54260",
-      "societyname": "UQ Radiology Interest Group",
-      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
-      "title": "How to Become a Radiologist",
+      "societyid": 2354,
+      "destination": "/?eid=53981",
+      "societyname": "UQ United Nations Student Association",
+      "societylogo": "https://resources.getqpay.com/images/63e1a2927627b_.png",
+      "title": "Women In Conflict Panel",
       "day": "12",
-      "info": "$0.00 - $6.08"
+      "info": "$6.08 - $11.27"
     },
     {
       "sortindex": 1773298800,
@@ -3406,17 +3252,17 @@
     },
     {
       "sortindex": 1773298800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/07b8ba37-ec06-4ebc-b266-9aea3189e258.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/3be9479d-71b1-405a-9f5a-0cd3a3951cdf.png",
       "month": "March",
       "societyAvgRating": 0,
       "subtitle": "Industry/Career",
-      "societyid": 2354,
-      "destination": "/?eid=53981",
-      "societyname": "UQ United Nations Student Association",
-      "societylogo": "https://resources.getqpay.com/images/63e1a2927627b_.png",
-      "title": "Women In Conflict Panel",
+      "societyid": 4520,
+      "destination": "/?eid=54260",
+      "societyname": "UQ Radiology Interest Group",
+      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+      "title": "How to Become a Radiologist",
       "day": "12",
-      "info": "$6.08 - $11.27"
+      "info": "$0.00 - $6.08"
     },
     {
       "sortindex": 1773300600,
@@ -3654,7 +3500,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/dca13ae0-64bb-4f42-b082-6ee3d345e782.png",
       "title": "GSA House Party",
       "day": "15",
-      "info": "$58.60 - $60.69"
+      "info": "$60.69"
     },
     {
       "sortindex": 1773645300,
@@ -3683,6 +3529,20 @@
       "title": "Macquarie on Campus",
       "day": "16",
       "info": "Free"
+    },
+    {
+      "sortindex": 1773648900,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d4382b1f-4318-41cc-b3cc-9ea5cc007692.jpg",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2511,
+      "destination": "/?eid=55697",
+      "societyname": "Muslim Students Association UQ",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+      "title": "Ramadan Iftars - Week 4",
+      "day": "16",
+      "info": "$2.00 - $10.00"
     },
     {
       "sortindex": 1773705600,
@@ -3714,6 +3574,20 @@
     },
     {
       "sortindex": 1773734400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=55439",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Red Desert'",
+      "day": "17",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1773734400,
       "image": "https://resources.hellorubric.com/uploaded_assets/2575d651-f693-4d5e-b047-1e2962161858.jpg",
       "month": "March",
       "societyAvgRating": 0,
@@ -3727,16 +3601,16 @@
       "info": "Free"
     },
     {
-      "sortindex": 1773734400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
+      "sortindex": 1773736200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7e67c406-2991-4a1b-8ca7-2c0c6fd814a4.png",
       "month": "March",
       "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=55439",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Red Desert'",
+      "subtitle": "Industry/Career",
+      "societyid": 2332,
+      "destination": "/?eid=56855",
+      "societyname": "University Network for Investing and Trading (UQ)",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+      "title": "UNIT x SMIF Case Competition Info Evening",
       "day": "17",
       "info": "Free"
     },
@@ -3781,6 +3655,20 @@
       "title": "The Accounting Advantage",
       "day": "18",
       "info": "$0.00 - $10.75"
+    },
+    {
+      "sortindex": 1773820800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/dd8af313-0909-43c6-8e90-b13ff9a305cf.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 1547,
+      "destination": "/?eid=56930",
+      "societyname": "UQ Science Students Society",
+      "societylogo": "https://resources.getqpay.com/images/656bd0e67611d_.png",
+      "title": "Ultimate Science Trivia 2026",
+      "day": "18",
+      "info": "$6.08 - $11.27"
     },
     {
       "sortindex": 1773824400,
@@ -3923,6 +3811,20 @@
       "info": "$75.00"
     },
     {
+      "sortindex": 1774069200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/46e280a5-e8f2-4dba-92e8-8f73bd905263.jpg",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 2235,
+      "destination": "/?eid=56785",
+      "societyname": "UQ Photography Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+      "title": "Moogerah Astro Trip",
+      "day": "21",
+      "info": "$6.08 - $41.32"
+    },
+    {
       "sortindex": 1774083600,
       "image": "https://resources.hellorubric.com/uploaded_assets/b8e031ca-fc3b-4253-bf5e-41bb12bff6f5.png",
       "month": "March",
@@ -4004,7 +3906,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
       "title": "Farm Animal Rescue Visit",
       "day": "28",
-      "info": "$21.63"
+      "info": "$16.45"
     },
     {
       "sortindex": 1775007000,
