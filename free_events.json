@@ -1,61 +1,5 @@
 [
   {
-    "sortindex": 1773115200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f9bac9c6-968f-4502-b8dc-623f45917318.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 5763,
-    "destination": "/?eid=54335",
-    "societyname": "Bachelor of Advanced Business (Honours) SPC",
-    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-    "title": "From Study to Strategy",
-    "day": "10",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773122400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5f214afb-d4cc-4d66-b90b-04e8a60d99dd.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 3220,
-    "destination": "/?eid=55240",
-    "societyname": "UQ Ladies in Technology",
-    "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
-    "title": "UQLIT x Atlassian Coding Interview Workshop",
-    "day": "10",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773129600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ef555c23-e992-43b6-b354-ccd7cea58ad1.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 4848,
-    "destination": "/?eid=54937",
-    "societyname": "Justice and the Law Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-    "title": "UQUNSA x JATL Intro to Model UN Night",
-    "day": "10",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773129600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fb8a54a9-96cf-4c0c-a81f-9abcbc953e16.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=55434",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Everything Everywhere All at Once'",
-    "day": "10",
-    "info": "Free"
-  },
-  {
     "sortindex": 1773214200,
     "image": "https://resources.hellorubric.com/uploaded_assets/752c5a67-4b56-45cb-b9bf-9f346d1a5f44.jpg",
     "month": "March",
@@ -112,6 +56,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1773360000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/bfcd9bb7-e13f-497e-b5ae-7086b9679647.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 670,
+    "destination": "/?eid=57396",
+    "societyname": "R2P Student Coalition UQ",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_670.png",
+    "title": "R2P Morning Tea at the Asia-Pacific Centre",
+    "day": "13",
+    "info": "Free"
+  },
+  {
     "sortindex": 1773378000,
     "image": "https://resources.hellorubric.com/uploaded_assets/2e17dd89-2cbe-4302-a425-435e28b6c5b7.jpeg",
     "month": "March",
@@ -127,7 +85,7 @@
   },
   {
     "sortindex": 1773379800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/16df698b-84c8-480a-b5d3-ccbbd72bff73.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/52844142-6df9-45aa-b313-c0299320d066.jpeg",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Class/Workshop",
@@ -211,20 +169,6 @@
   },
   {
     "sortindex": 1773734400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=55439",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Red Desert'",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773734400,
     "image": "https://resources.hellorubric.com/uploaded_assets/e1f96b80-c202-4552-8f1e-73ed9bb0868a.jpeg",
     "month": "March",
     "societyAvgRating": 0,
@@ -234,6 +178,20 @@
     "societyname": "Justice and the Law Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
     "title": "First Nations Peoples + Climate Justice Webinar",
+    "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773734400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55439",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Red Desert'",
     "day": "17",
     "info": "Free"
   },
@@ -262,6 +220,20 @@
     "societyname": "University Network for Investing and Trading (UQ)",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
     "title": "UNIT x SMIF Case Competition Info Evening",
+    "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773736200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/88eee9b3-1444-4051-805f-9ce55ea54d52.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 1168,
+    "destination": "/?eid=57237",
+    "societyname": "UQ Quadball",
+    "societylogo": "https://resources.hellorubric.com/images/671f7984b3a92_.png",
+    "title": "Trivia Night ",
     "day": "17",
     "info": "Free"
   },
@@ -319,6 +291,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Daisies'",
     "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1774855800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e78fe13b-6f1b-444e-96e3-d182be557c81.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 3932,
+    "destination": "/?eid=57374",
+    "societyname": "Queensland Pharmacy Students' Association",
+    "societylogo": "https://resources.getqpay.com/images/65c1cb06e6124_.png",
+    "title": "QPSA 2026 SGM",
+    "day": "30",
     "info": "Free"
   },
   {
