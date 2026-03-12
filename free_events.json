@@ -1,30 +1,16 @@
 [
   {
-    "sortindex": 1773214200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/752c5a67-4b56-45cb-b9bf-9f346d1a5f44.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 4688,
-    "destination": "/?eid=56988",
-    "societyname": "UQ Ecological Society",
-    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-    "title": "iNaturalist Identification Night",
-    "day": "11",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773217800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/4ef78014-8249-4f07-84ea-0921d38c6e27.png",
+    "sortindex": 1773302400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8d773e08-e1d5-489a-afbc-994fe41773af.png",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Other",
-    "societyid": 2332,
-    "destination": "/?eid=55943",
-    "societyname": "University Network for Investing and Trading (UQ)",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "title": "UNIT First Years Evening",
-    "day": "11",
+    "societyid": 6994,
+    "destination": "/?eid=55152",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Careers in Accounting",
+    "day": "12",
     "info": "Free"
   },
   {
@@ -38,20 +24,6 @@
     "societyname": "UQ Economics Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "First Year Mixer",
-    "day": "12",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773302400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8d773e08-e1d5-489a-afbc-994fe41773af.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=55152",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "Careers in Accounting",
     "day": "12",
     "info": "Free"
   },
@@ -169,20 +141,6 @@
   },
   {
     "sortindex": 1773734400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e1f96b80-c202-4552-8f1e-73ed9bb0868a.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 4848,
-    "destination": "/?eid=56340",
-    "societyname": "Justice and the Law Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-    "title": "First Nations Peoples + Climate Justice Webinar",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773734400,
     "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
     "month": "March",
     "societyAvgRating": 0,
@@ -192,6 +150,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Red Desert'",
+    "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773734400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e1f96b80-c202-4552-8f1e-73ed9bb0868a.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 4848,
+    "destination": "/?eid=56340",
+    "societyname": "Justice and the Law Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
+    "title": "First Nations Peoples + Climate Justice Webinar",
     "day": "17",
     "info": "Free"
   },
@@ -291,6 +263,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Daisies'",
     "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1774409400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/069bf562-eeb7-4f10-b59c-688a20879eaa.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=57581",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "UQ Citi Event",
+    "day": "25",
     "info": "Free"
   },
   {
