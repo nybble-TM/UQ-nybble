@@ -1,89 +1,5 @@
 [
   {
-    "sortindex": 1773360000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bfcd9bb7-e13f-497e-b5ae-7086b9679647.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 670,
-    "destination": "/?eid=57396",
-    "societyname": "R2P Student Coalition UQ",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_670.png",
-    "title": "R2P Morning Tea at the Asia-Pacific Centre",
-    "day": "13",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773378000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2e17dd89-2cbe-4302-a425-435e28b6c5b7.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1028,
-    "destination": "/?eid=57349",
-    "societyname": "UQ Muslimah Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/e7802692-c3b5-45ef-a87a-94216bd3869c.png",
-    "title": "Craft & Fast ",
-    "day": "13",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773379800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/52844142-6df9-45aa-b313-c0299320d066.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 6249,
-    "destination": "/?eid=57066",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA Freshman Kit Series",
-    "day": "13",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773385200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b3d8181c-6607-425f-87ab-96afdde19074.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 8824,
-    "destination": "/?eid=56533",
-    "societyname": "UQ Society of Australia Awards Scholars",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f94225d5-808e-4aab-a9cf-556a5cc1de11.png",
-    "title": "UQSAAS 20216 1st AGM and Movie Night",
-    "day": "13",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773388800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ea2fda0f-e28f-4c82-ad12-4d0a1acbd0b8.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 6808,
-    "destination": "/?eid=53365",
-    "societyname": "UQ Neurological Society",
-    "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
-    "title": "UQNS Welcoming Event 2026",
-    "day": "13",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773396000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_9.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 4982,
-    "destination": "/?eid=57356",
-    "societyname": "UQ Backyard Sports Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-    "title": "Pickleball 13/03",
-    "day": "13",
-    "info": "Free"
-  },
-  {
     "sortindex": 1773646200,
     "image": "https://resources.hellorubric.com/uploaded_assets/bc224701-2ac1-4330-a97f-ea5d0c7ec589.png",
     "month": "March",
@@ -182,6 +98,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1773820800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 3911,
+    "destination": "/?eid=58017",
+    "societyname": "University of Queensland Fintech Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
+    "title": "UQ Fintech Trading & Tech Internship Panel",
+    "day": "18",
+    "info": "Free"
+  },
+  {
     "sortindex": 1773907200,
     "image": "https://resources.hellorubric.com/uploaded_assets/6d4316fd-9d14-41c8-a54e-444bcd7a5bf2.jpg",
     "month": "March",
@@ -192,6 +122,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Farewell My Concubine\u2019",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773907200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2a84fb93-2799-4556-a0e8-3c89d1efcaa9.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 1338,
+    "destination": "/?eid=57750",
+    "societyname": "Aus Legal Philosophy Students Assoc",
+    "societylogo": "https://resources.getqpay.com/images/65c1ecb5d8ddf_.png",
+    "title": "Ethics of 'Indirect' Immigration Regulation",
     "day": "19",
     "info": "Free"
   },
@@ -224,6 +168,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1774069200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8554ee00-0c94-4cd8-9ac6-48064b36d7f5.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=58005",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "IMA Museum Meet Up",
+    "day": "21",
+    "info": "Free"
+  },
+  {
     "sortindex": 1774339200,
     "image": "https://resources.hellorubric.com/uploaded_assets/4e2549ba-b5a6-40a6-976f-4a2b7f54aa5c.jpg",
     "month": "March",
@@ -249,6 +207,20 @@
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "UQ Citi Event",
     "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1774513800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/04eef4ea-53cc-4ad0-b49a-9dc6eeca8091.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2274,
+    "destination": "/?eid=57837",
+    "societyname": "BRUCE Architecture Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
+    "title": "WHO IS BRUCE?",
+    "day": "26",
     "info": "Free"
   },
   {
