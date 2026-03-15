@@ -29,20 +29,6 @@
   },
   {
     "sortindex": 1773734400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2575d651-f693-4d5e-b047-1e2962161858.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=55866",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "Inside Investment Banking",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773734400,
     "image": "https://resources.hellorubric.com/uploaded_assets/e1f96b80-c202-4552-8f1e-73ed9bb0868a.jpeg",
     "month": "March",
     "societyAvgRating": 0,
@@ -66,6 +52,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Red Desert'",
+    "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773734400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2575d651-f693-4d5e-b047-1e2962161858.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=55866",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Inside Investment Banking",
     "day": "17",
     "info": "Free"
   },
