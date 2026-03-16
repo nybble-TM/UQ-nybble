@@ -29,20 +29,6 @@
   },
   {
     "sortindex": 1773734400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e1f96b80-c202-4552-8f1e-73ed9bb0868a.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 4848,
-    "destination": "/?eid=56340",
-    "societyname": "Justice and the Law Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-    "title": "First Nations Peoples + Climate Justice Webinar",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773734400,
     "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
     "month": "March",
     "societyAvgRating": 0,
@@ -66,6 +52,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
     "title": "Inside Investment Banking",
+    "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773734400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e1f96b80-c202-4552-8f1e-73ed9bb0868a.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 4848,
+    "destination": "/?eid=56340",
+    "societyname": "Justice and the Law Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
+    "title": "First Nations Peoples + Climate Justice Webinar",
     "day": "17",
     "info": "Free"
   },
@@ -112,16 +112,16 @@
     "info": "Free"
   },
   {
-    "sortindex": 1773907200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/6d4316fd-9d14-41c8-a54e-444bcd7a5bf2.jpg",
+    "sortindex": 1773885600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3c7a51ca-03b4-49ca-8b14-a2f3c5ca0208.png",
     "month": "March",
     "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=55437",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Farewell My Concubine\u2019",
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 262,
+    "destination": "/?eid=58230",
+    "societyname": "UQ Criminology & Criminal Justice Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+    "title": "First Year Pizza Picnic ",
     "day": "19",
     "info": "Free"
   },
@@ -136,6 +136,20 @@
     "societyname": "Aus Legal Philosophy Students Assoc",
     "societylogo": "https://resources.getqpay.com/images/65c1ecb5d8ddf_.png",
     "title": "Ethics of 'Indirect' Immigration Regulation",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773907200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6d4316fd-9d14-41c8-a54e-444bcd7a5bf2.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55437",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Farewell My Concubine\u2019",
     "day": "19",
     "info": "Free"
   },
@@ -224,6 +238,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1774575000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 670,
+    "destination": "/?eid=58156",
+    "societyname": "R2P Student Coalition UQ",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_670.png",
+    "title": "Common Grounds: A R2P Book Club (March)",
+    "day": "27",
+    "info": "Free"
+  },
+  {
     "sortindex": 1774855800,
     "image": "https://resources.hellorubric.com/uploaded_assets/e78fe13b-6f1b-444e-96e3-d182be557c81.png",
     "month": "March",
@@ -235,6 +263,20 @@
     "societylogo": "https://resources.getqpay.com/images/65c1cb06e6124_.png",
     "title": "QPSA 2026 SGM",
     "day": "30",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1774944000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/52f02e62-aa40-42c7-83fe-ed1a0f8d3ba0.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=58168",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Taste of Cherry' ",
+    "day": "31",
     "info": "Free"
   },
   {
@@ -252,6 +294,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1775116800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=58194",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Universal Language\u2019",
+    "day": "2",
+    "info": "Free"
+  },
+  {
     "sortindex": 1775455200,
     "image": "https://resources.hellorubric.com/uploaded_assets/d0c83e7b-e72e-4891-b385-2d39d622372a.png",
     "month": "April",
@@ -263,6 +319,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
     "title": "Archicad Workshop",
     "day": "6",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775527200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/05e79ec0-37f7-4e48-999e-f491bae5dae6.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=58193",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents MID-SEM MARATHON",
+    "day": "7",
     "info": "Free"
   }
 ]

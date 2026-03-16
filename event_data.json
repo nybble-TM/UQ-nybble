@@ -303,7 +303,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 64,
+  "totalItemCount": 69,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2984,48 +2984,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1773532800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/81f18891-6458-4f31-8958-ee87a7a4c02c.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 7597,
-      "destination": "/?eid=57138",
-      "societyname": "UQ Bakeology",
-      "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
-      "title": "Sponsor Crawl: Cafe, Boba, Photobooth, & Karaoke",
-      "day": "15",
-      "info": "$6.08"
-    },
-    {
-      "sortindex": 1773543600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a8250b88-4184-4fc3-af75-efd7da082e20.jpg",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3225,
-      "destination": "/?eid=46444",
-      "societyname": "UQ Gatton Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/dca13ae0-64bb-4f42-b082-6ee3d345e782.png",
-      "title": "GSA House Party",
-      "day": "15",
-      "info": "$60.69"
-    },
-    {
-      "sortindex": 1773550800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/4080f606-3514-4c3e-8edf-b92e6ff1385e.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 649,
-      "destination": "/?eid=51837",
-      "societyname": "Society of Fine Arts",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-      "title": "Drinky Drawy",
-      "day": "15",
-      "info": "$10.00 - $15.00"
-    },
-    {
       "sortindex": 1773645300,
       "image": "https://resources.hellorubric.com/uploaded_assets/f4bb5a1c-b9ef-4685-a645-61eba34927d5.png",
       "month": "March",
@@ -3097,20 +3055,6 @@
     },
     {
       "sortindex": 1773734400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/e1f96b80-c202-4552-8f1e-73ed9bb0868a.jpeg",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 4848,
-      "destination": "/?eid=56340",
-      "societyname": "Justice and the Law Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-      "title": "First Nations Peoples + Climate Justice Webinar",
-      "day": "17",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1773734400,
       "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
       "month": "March",
       "societyAvgRating": 0,
@@ -3134,6 +3078,20 @@
       "societyname": "Financial Management Association of Australia",
       "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
       "title": "Inside Investment Banking",
+      "day": "17",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1773734400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/e1f96b80-c202-4552-8f1e-73ed9bb0868a.jpeg",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 4848,
+      "destination": "/?eid=56340",
+      "societyname": "Justice and the Law Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
+      "title": "First Nations Peoples + Climate Justice Webinar",
       "day": "17",
       "info": "Free"
     },
@@ -3265,6 +3223,20 @@
     },
     {
       "sortindex": 1773885600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3c7a51ca-03b4-49ca-8b14-a2f3c5ca0208.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 262,
+      "destination": "/?eid=58230",
+      "societyname": "UQ Criminology & Criminal Justice Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+      "title": "First Year Pizza Picnic ",
+      "day": "19",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1773885600,
       "image": "https://resources.hellorubric.com/uploaded_assets/1ff21625-2eb4-472e-8730-cc3c1c6be09c.jpeg",
       "month": "March",
       "societyAvgRating": 0,
@@ -3307,6 +3279,20 @@
     },
     {
       "sortindex": 1773907200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2a84fb93-2799-4556-a0e8-3c89d1efcaa9.jpg",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 1338,
+      "destination": "/?eid=57750",
+      "societyname": "Aus Legal Philosophy Students Assoc",
+      "societylogo": "https://resources.getqpay.com/images/65c1ecb5d8ddf_.png",
+      "title": "Ethics of 'Indirect' Immigration Regulation",
+      "day": "19",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1773907200,
       "image": "https://resources.hellorubric.com/uploaded_assets/6d4316fd-9d14-41c8-a54e-444bcd7a5bf2.jpg",
       "month": "March",
       "societyAvgRating": 0,
@@ -3320,16 +3306,16 @@
       "info": "Free"
     },
     {
-      "sortindex": 1773907200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/2a84fb93-2799-4556-a0e8-3c89d1efcaa9.jpg",
+      "sortindex": 1773909000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/79d853a9-9dd2-4e29-af10-adea64949ccf.png",
       "month": "March",
       "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 1338,
-      "destination": "/?eid=57750",
-      "societyname": "Aus Legal Philosophy Students Assoc",
-      "societylogo": "https://resources.getqpay.com/images/65c1ecb5d8ddf_.png",
-      "title": "Ethics of 'Indirect' Immigration Regulation",
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2257,
+      "destination": "/?eid=57038",
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+      "title": "Pixels & Plants: UQ Vegan Games Night",
       "day": "19",
       "info": "Free"
     },
@@ -3348,20 +3334,6 @@
       "info": "$37.78"
     },
     {
-      "sortindex": 1773909000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/79d853a9-9dd2-4e29-af10-adea64949ccf.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2257,
-      "destination": "/?eid=57038",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-      "title": "Pixels & Plants: UQ Vegan Games Night",
-      "day": "19",
-      "info": "Free"
-    },
-    {
       "sortindex": 1773991800,
       "image": "https://resources.hellorubric.com/uploaded_assets/039a2be8-4b54-4f7a-a91d-6ce0f63bb7d1.jpeg",
       "month": "March",
@@ -3374,6 +3346,20 @@
       "title": "Free Phone Charm Workshop  for Members!!",
       "day": "20",
       "info": "$0.00 - $11.27"
+    },
+    {
+      "sortindex": 1773993600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/e53a491e-c534-40ee-8065-5984a1628642.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 2289,
+      "destination": "/?eid=55821",
+      "societyname": "UQ Mafia",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/b111cce9-f6d9-4846-b3e2-7984c7eddc61.png",
+      "title": "Mafia Scavenger Murder Mystery",
+      "day": "20",
+      "info": "Free"
     },
     {
       "sortindex": 1773993600,
@@ -3402,20 +3388,6 @@
       "title": "UQPSIR's Welcome Mixer",
       "day": "20",
       "info": "$11.27 - $25.77"
-    },
-    {
-      "sortindex": 1773993600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/e53a491e-c534-40ee-8065-5984a1628642.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 2289,
-      "destination": "/?eid=55821",
-      "societyname": "UQ Mafia",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/b111cce9-f6d9-4846-b3e2-7984c7eddc61.png",
-      "title": "Mafia Scavenger Murder Mystery",
-      "day": "20",
-      "info": "Free"
     },
     {
       "sortindex": 1773997200,
@@ -3447,7 +3419,7 @@
     },
     {
       "sortindex": 1774043100,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d004bbe3-97f3-479c-b0f1-c845726decc0.jpg",
+      "image": "https://resources.hellorubric.com/uploaded_assets/c63bbc5d-4ce0-44aa-9e7c-a6a8392a811a.jpg",
       "month": "March",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3455,9 +3427,9 @@
       "destination": "/?eid=55223",
       "societyname": "UQ Surfers Club",
       "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
-      "title": "Learn to Surf @ Alexandra Headland 7/3",
+      "title": "Learn to Surf @ Alexandra Headland 21/3",
       "day": "21",
-      "info": "$32.00 - $63.09"
+      "info": "$35.11 - $68.27"
     },
     {
       "sortindex": 1774050300,
@@ -3472,6 +3444,20 @@
       "title": "UQLS First Year Retreat 2026",
       "day": "21",
       "info": "$75.00"
+    },
+    {
+      "sortindex": 1774051200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/87533d97-3d4d-48e7-bc77-b41ed20e4946.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 7597,
+      "destination": "/?eid=58192",
+      "societyname": "UQ Bakeology",
+      "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
+      "title": "Martabak Bake Class: An Indonesian Dessert",
+      "day": "21",
+      "info": "$6.08 - $9.19"
     },
     {
       "sortindex": 1774069200,
@@ -3628,6 +3614,34 @@
       "info": "Free"
     },
     {
+      "sortindex": 1774575000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 670,
+      "destination": "/?eid=58156",
+      "societyname": "R2P Student Coalition UQ",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_670.png",
+      "title": "Common Grounds: A R2P Book Club (March)",
+      "day": "27",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1774598400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ea835420-7ec4-42fc-8762-b997bbc3d0b6.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 489,
+      "destination": "/?eid=58209",
+      "societyname": "UQ Journalism and Communication Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
+      "title": "2016 Pub Crawl",
+      "day": "27",
+      "info": "$11.27 - $16.45"
+    },
+    {
       "sortindex": 1774656000,
       "image": "https://resources.hellorubric.com/uploaded_assets/53ff451f-f632-4d6a-a33d-be950cbefdec.png",
       "month": "March",
@@ -3653,6 +3667,20 @@
       "societylogo": "https://resources.getqpay.com/images/65c1cb06e6124_.png",
       "title": "QPSA 2026 SGM",
       "day": "30",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1774944000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/52f02e62-aa40-42c7-83fe-ed1a0f8d3ba0.jpg",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=58168",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Taste of Cherry' ",
+      "day": "31",
       "info": "Free"
     },
     {
@@ -3698,6 +3726,20 @@
       "info": "$0.00 - $16.45"
     },
     {
+      "sortindex": 1775116800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=58194",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Universal Language\u2019",
+      "day": "2",
+      "info": "Free"
+    },
+    {
       "sortindex": 1775117700,
       "image": "https://resources.hellorubric.com/uploaded_assets/93e4c409-2f80-4b27-a97b-3662a0b59307.png",
       "month": "April",
@@ -3723,6 +3765,20 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
       "title": "Archicad Workshop",
       "day": "6",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1775527200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/05e79ec0-37f7-4e48-999e-f491bae5dae6.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=58193",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents MID-SEM MARATHON",
+      "day": "7",
       "info": "Free"
     },
     {
@@ -3794,6 +3850,20 @@
       "title": "Photography Competition Closing Ceremony",
       "day": "16",
       "info": "$16.45 - $32.00"
+    },
+    {
+      "sortindex": 1776411000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/abddb4cf-5538-40bb-8a34-36879c4a54c2.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4520,
+      "destination": "/?eid=58203",
+      "societyname": "UQ Radiology Interest Group",
+      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+      "title": "UQRIG Social Networking Night",
+      "day": "17",
+      "info": "$25.00 - $30.00"
     },
     {
       "sortindex": 1776924000,
