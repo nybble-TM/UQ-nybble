@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1773646200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bc224701-2ac1-4330-a97f-ea5d0c7ec589.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=55151",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "Macquarie on Campus",
-    "day": "16",
-    "info": "Free"
-  },
-  {
     "sortindex": 1773705600,
     "image": "https://resources.hellorubric.com/uploaded_assets/6430d1c7-a37c-4c57-a215-a6dcc9e01fc2.png",
     "month": "March",
@@ -24,20 +10,6 @@
     "societyname": "UQ Economics Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "Coffee on Macquarie",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773734400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=55439",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Red Desert'",
     "day": "17",
     "info": "Free"
   },
@@ -66,6 +38,20 @@
     "societyname": "Justice and the Law Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
     "title": "First Nations Peoples + Climate Justice Webinar",
+    "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773734400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55439",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Red Desert'",
     "day": "17",
     "info": "Free"
   },
@@ -112,6 +98,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1773828000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=58446",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Pickleball 18/03",
+    "day": "18",
+    "info": "Free"
+  },
+  {
     "sortindex": 1773885600,
     "image": "https://resources.hellorubric.com/uploaded_assets/3c7a51ca-03b4-49ca-8b14-a2f3c5ca0208.png",
     "month": "March",
@@ -122,20 +122,6 @@
     "societyname": "UQ Criminology & Criminal Justice Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
     "title": "First Year Pizza Picnic ",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773907200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2a84fb93-2799-4556-a0e8-3c89d1efcaa9.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 1338,
-    "destination": "/?eid=57750",
-    "societyname": "Aus Legal Philosophy Students Assoc",
-    "societylogo": "https://resources.getqpay.com/images/65c1ecb5d8ddf_.png",
-    "title": "Ethics of 'Indirect' Immigration Regulation",
     "day": "19",
     "info": "Free"
   },
@@ -154,6 +140,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1773907200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2a84fb93-2799-4556-a0e8-3c89d1efcaa9.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 1338,
+    "destination": "/?eid=57750",
+    "societyname": "Aus Legal Philosophy Students Assoc",
+    "societylogo": "https://resources.getqpay.com/images/65c1ecb5d8ddf_.png",
+    "title": "Ethics of 'Indirect' Immigration Regulation",
+    "day": "19",
+    "info": "Free"
+  },
+  {
     "sortindex": 1773909000,
     "image": "https://resources.hellorubric.com/uploaded_assets/79d853a9-9dd2-4e29-af10-adea64949ccf.png",
     "month": "March",
@@ -165,6 +165,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "title": "Pixels & Plants: UQ Vegan Games Night",
     "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773990000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8a243b3d-2d78-4af8-a074-82c1bb49ddd2.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2401,
+    "destination": "/?eid=58287",
+    "societyname": "UQ Slavic Society",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Meet The Slavs",
+    "day": "20",
     "info": "Free"
   },
   {

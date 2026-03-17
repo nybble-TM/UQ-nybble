@@ -1,61 +1,5 @@
 [
   {
-    "sortindex": 1773645300,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f4bb5a1c-b9ef-4685-a645-61eba34927d5.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 1835,
-    "destination": "/?eid=53785",
-    "societyname": "Public Health Association University of Queensland",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
-    "title": "Public Health Employability Night",
-    "day": "16",
-    "info": "$0.00 - $11.27"
-  },
-  {
-    "sortindex": 1773646200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bc224701-2ac1-4330-a97f-ea5d0c7ec589.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=55151",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "Macquarie on Campus",
-    "day": "16",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773648900,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d4382b1f-4318-41cc-b3cc-9ea5cc007692.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2511,
-    "destination": "/?eid=55697",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Ramadan Iftars - Week 4",
-    "day": "16",
-    "info": "$2.00 - $10.00"
-  },
-  {
-    "sortindex": 1773651600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/09e70c57-f128-4438-afa1-c888911feb15.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 57,
-    "destination": "/?eid=57609",
-    "societyname": "University of Queensland Law Society Incorporated",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "Obiter Comedy Debate",
-    "day": "16",
-    "info": "$15.85"
-  },
-  {
     "sortindex": 1773705600,
     "image": "https://resources.hellorubric.com/uploaded_assets/6430d1c7-a37c-4c57-a215-a6dcc9e01fc2.png",
     "month": "March",
@@ -70,18 +14,18 @@
     "info": "Free"
   },
   {
-    "sortindex": 1773734400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
+    "sortindex": 1773727200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d3dd61a6-6850-40f4-8f1e-3fecb561f54d.png",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=55439",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Red Desert'",
+    "societyid": 4271,
+    "destination": "/?eid=58316",
+    "societyname": "UQ K-pop Dance Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "UQKDC WEEK 4 CLASS DROP-IN TICKET",
     "day": "17",
-    "info": "Free"
+    "info": "$2.00"
   },
   {
     "sortindex": 1773734400,
@@ -108,6 +52,20 @@
     "societyname": "Justice and the Law Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
     "title": "First Nations Peoples + Climate Justice Webinar",
+    "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773734400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=55439",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Red Desert'",
     "day": "17",
     "info": "Free"
   },
@@ -183,6 +141,20 @@
   },
   {
     "sortindex": 1773820800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/edc888ec-3768-410b-b8c3-b5d013b599d2.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 165,
+    "destination": "/?eid=54766",
+    "societyname": "UQBA - UQ Business Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+    "title": "The Accounting Advantage",
+    "day": "18",
+    "info": "$0.00 - $10.75"
+  },
+  {
+    "sortindex": 1773820800,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -210,20 +182,6 @@
     "info": "$6.08 - $11.27"
   },
   {
-    "sortindex": 1773820800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/edc888ec-3768-410b-b8c3-b5d013b599d2.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 165,
-    "destination": "/?eid=54766",
-    "societyname": "UQBA - UQ Business Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
-    "title": "The Accounting Advantage",
-    "day": "18",
-    "info": "$0.00 - $10.75"
-  },
-  {
     "sortindex": 1773824400,
     "image": "https://resources.hellorubric.com/uploaded_assets/3ce90633-1497-4606-b041-117f8fa3bdd5.png",
     "month": "March",
@@ -238,17 +196,17 @@
     "info": "$6.00 - $11.00"
   },
   {
-    "sortindex": 1773885600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3c7a51ca-03b4-49ca-8b14-a2f3c5ca0208.png",
+    "sortindex": 1773828000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
     "month": "March",
     "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 262,
-    "destination": "/?eid=58230",
-    "societyname": "UQ Criminology & Criminal Justice Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
-    "title": "First Year Pizza Picnic ",
-    "day": "19",
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=58446",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Pickleball 18/03",
+    "day": "18",
     "info": "Free"
   },
   {
@@ -264,6 +222,20 @@
     "title": "Aquaponic Workshop",
     "day": "19",
     "info": "$0.00 - $5.05"
+  },
+  {
+    "sortindex": 1773885600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3c7a51ca-03b4-49ca-8b14-a2f3c5ca0208.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 262,
+    "destination": "/?eid=58230",
+    "societyname": "UQ Criminology & Criminal Justice Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+    "title": "First Year Pizza Picnic ",
+    "day": "19",
+    "info": "Free"
   },
   {
     "sortindex": 1773903600,
@@ -295,20 +267,6 @@
   },
   {
     "sortindex": 1773907200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2a84fb93-2799-4556-a0e8-3c89d1efcaa9.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 1338,
-    "destination": "/?eid=57750",
-    "societyname": "Aus Legal Philosophy Students Assoc",
-    "societylogo": "https://resources.getqpay.com/images/65c1ecb5d8ddf_.png",
-    "title": "Ethics of 'Indirect' Immigration Regulation",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773907200,
     "image": "https://resources.hellorubric.com/uploaded_assets/6d4316fd-9d14-41c8-a54e-444bcd7a5bf2.jpg",
     "month": "March",
     "societyAvgRating": 0,
@@ -322,16 +280,16 @@
     "info": "Free"
   },
   {
-    "sortindex": 1773909000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/79d853a9-9dd2-4e29-af10-adea64949ccf.png",
+    "sortindex": 1773907200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2a84fb93-2799-4556-a0e8-3c89d1efcaa9.jpg",
     "month": "March",
     "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2257,
-    "destination": "/?eid=57038",
-    "societyname": "UQ Vegan Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-    "title": "Pixels & Plants: UQ Vegan Games Night",
+    "subtitle": "Other",
+    "societyid": 1338,
+    "destination": "/?eid=57750",
+    "societyname": "Aus Legal Philosophy Students Assoc",
+    "societylogo": "https://resources.getqpay.com/images/65c1ecb5d8ddf_.png",
+    "title": "Ethics of 'Indirect' Immigration Regulation",
     "day": "19",
     "info": "Free"
   },
@@ -350,6 +308,62 @@
     "info": "$37.78"
   },
   {
+    "sortindex": 1773909000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/79d853a9-9dd2-4e29-af10-adea64949ccf.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=57038",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Pixels & Plants: UQ Vegan Games Night",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773914400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d9dc68de-3fe5-49b9-b616-9e6420093574.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 601,
+    "destination": "/?eid=58340",
+    "societyname": "UQ Surfers Club",
+    "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
+    "title": "Zip-Tied Pub Games",
+    "day": "19",
+    "info": "$10.00"
+  },
+  {
+    "sortindex": 1773990000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8a243b3d-2d78-4af8-a074-82c1bb49ddd2.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2401,
+    "destination": "/?eid=58287",
+    "societyname": "UQ Slavic Society",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Meet The Slavs",
+    "day": "20",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1773990000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/61df0530-0522-4a12-98bd-2f9af5bc3663.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1982,
+    "destination": "/?eid=58332",
+    "societyname": "UQ Vietnamese International Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/09152086-088a-42ff-8eb2-414e490d477b.png",
+    "title": "Poker night",
+    "day": "20",
+    "info": "$6.08"
+  },
+  {
     "sortindex": 1773991800,
     "image": "https://resources.hellorubric.com/uploaded_assets/039a2be8-4b54-4f7a-a91d-6ce0f63bb7d1.jpeg",
     "month": "March",
@@ -365,17 +379,17 @@
   },
   {
     "sortindex": 1773993600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e53a491e-c534-40ee-8065-5984a1628642.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/2504fec1-9715-4efd-9e05-7f7358c247c1.jpeg",
     "month": "March",
     "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 2289,
-    "destination": "/?eid=55821",
-    "societyname": "UQ Mafia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b111cce9-f6d9-4846-b3e2-7984c7eddc61.png",
-    "title": "Mafia Scavenger Murder Mystery",
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4465,
+    "destination": "/?eid=53535",
+    "societyname": "UQ Political Science and International Relations Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
+    "title": "UQPSIR's Welcome Mixer",
     "day": "20",
-    "info": "Free"
+    "info": "$11.27 - $25.77"
   },
   {
     "sortindex": 1773993600,
@@ -393,17 +407,17 @@
   },
   {
     "sortindex": 1773993600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2504fec1-9715-4efd-9e05-7f7358c247c1.jpeg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/e53a491e-c534-40ee-8065-5984a1628642.png",
     "month": "March",
     "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4465,
-    "destination": "/?eid=53535",
-    "societyname": "UQ Political Science and International Relations Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
-    "title": "UQPSIR's Welcome Mixer",
+    "subtitle": "Quiz/Trivia",
+    "societyid": 2289,
+    "destination": "/?eid=55821",
+    "societyname": "UQ Mafia",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b111cce9-f6d9-4846-b3e2-7984c7eddc61.png",
+    "title": "Mafia Scavenger Murder Mystery",
     "day": "20",
-    "info": "$11.27 - $25.77"
+    "info": "Free"
   },
   {
     "sortindex": 1773997200,
@@ -602,6 +616,20 @@
     "info": "$0.00 - $35.00"
   },
   {
+    "sortindex": 1774504800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4271,
+    "destination": "/?eid=58317",
+    "societyname": "UQ K-pop Dance Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "Toploader Picnic ",
+    "day": "26",
+    "info": "$0.00 - $8.16"
+  },
+  {
     "sortindex": 1774512000,
     "image": "https://resources.hellorubric.com/uploaded_assets/b7d7d00e-0fc2-4c6e-bf89-38a1b8dd5670.png",
     "month": "March",
@@ -613,7 +641,7 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Ocean with David Attenborough Screening",
     "day": "26",
-    "info": "$0.00 - $15.00"
+    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1774513800,
@@ -812,6 +840,20 @@
     "info": "$0.00 - $6.00"
   },
   {
+    "sortindex": 1775718000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 10456,
+    "destination": "/?eid=58291",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "April Book Club",
+    "day": "9",
+    "info": "$0.00 - $5.00"
+  },
+  {
     "sortindex": 1775858400,
     "image": "https://resources.hellorubric.com/uploaded_assets/a8d331bb-a211-4449-a182-1466d5acafff.jpg",
     "month": "April",
@@ -893,7 +935,7 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Write for Change: Writers Workshop to your MP",
     "day": "23",
-    "info": "$0.00 - $10.00"
+    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1777013100,
@@ -921,7 +963,7 @@
     "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
     "title": "Scrub Crawl 2026",
     "day": "3",
-    "info": "$48.50 - $53.60"
+    "info": "$48.50 - $63.80"
   },
   {
     "sortindex": 1778036400,
@@ -939,17 +981,17 @@
   },
   {
     "sortindex": 1784880000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/399bb813-701a-4c7e-96f6-af9f5d523eca.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/e7ebd4c3-b5df-44cc-ac5d-372c88af841e.png",
     "month": "July",
     "societyAvgRating": 0,
-    "subtitle": "Other",
+    "subtitle": "Ball/Dinner/Gala",
     "societyid": 648,
-    "destination": "/?eid=51857",
+    "destination": "/?eid=58338",
     "societyname": "UQ Sri Lankan Association",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
     "title": "Suits and Sarees 2026",
     "day": "24",
-    "info": "$87.26 - $128.06"
+    "info": "$87.26 - $92.36"
   },
   {
     "sortindex": 1790373600,
