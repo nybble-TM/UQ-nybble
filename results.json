@@ -1,103 +1,5 @@
 [
   {
-    "sortindex": 1773705600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/6430d1c7-a37c-4c57-a215-a6dcc9e01fc2.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1862,
-    "destination": "/?eid=56339",
-    "societyname": "UQ Economics Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
-    "title": "Coffee on Macquarie",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773727200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d3dd61a6-6850-40f4-8f1e-3fecb561f54d.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 4271,
-    "destination": "/?eid=58316",
-    "societyname": "UQ K-pop Dance Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-    "title": "UQKDC WEEK 4 CLASS DROP-IN TICKET",
-    "day": "17",
-    "info": "$2.00"
-  },
-  {
-    "sortindex": 1773734400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2575d651-f693-4d5e-b047-1e2962161858.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=55866",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "Inside Investment Banking",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773734400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e1f96b80-c202-4552-8f1e-73ed9bb0868a.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 4848,
-    "destination": "/?eid=56340",
-    "societyname": "Justice and the Law Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-    "title": "First Nations Peoples + Climate Justice Webinar",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773734400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d0722ba6-cb5b-47e0-9ca1-40e88d777c60.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=55439",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Red Desert'",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773736200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/88eee9b3-1444-4051-805f-9ce55ea54d52.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 1168,
-    "destination": "/?eid=57237",
-    "societyname": "UQ Quadball",
-    "societylogo": "https://resources.hellorubric.com/images/671f7984b3a92_.png",
-    "title": "Trivia Night ",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773736200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bdb280df-4d8c-48b2-b538-0ed9b3841217.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2332,
-    "destination": "/?eid=56855",
-    "societyname": "University Network for Investing and Trading (UQ)",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "title": "UNIT x SMIF Case Competition Info Evening",
-    "day": "17",
-    "info": "Free"
-  },
-  {
     "sortindex": 1773795600,
     "image": "https://resources.hellorubric.com/uploaded_assets/653bcbb6-d1ff-4db6-bd94-e7b518f0da08.png",
     "month": "March",
@@ -155,20 +57,6 @@
   },
   {
     "sortindex": 1773820800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 3911,
-    "destination": "/?eid=58017",
-    "societyname": "University of Queensland Fintech Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
-    "title": "UQ Fintech Trading & Tech Internship Panel",
-    "day": "18",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773820800,
     "image": "https://resources.hellorubric.com/uploaded_assets/dd8af313-0909-43c6-8e90-b13ff9a305cf.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -180,6 +68,20 @@
     "title": "Ultimate Science Trivia 2026",
     "day": "18",
     "info": "$6.08 - $11.27"
+  },
+  {
+    "sortindex": 1773820800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 3911,
+    "destination": "/?eid=58017",
+    "societyname": "University of Queensland Fintech Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
+    "title": "UQ Fintech Trading & Tech Internship Panel",
+    "day": "18",
+    "info": "Free"
   },
   {
     "sortindex": 1773824400,
@@ -211,20 +113,6 @@
   },
   {
     "sortindex": 1773885600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1ff21625-2eb4-472e-8730-cc3c1c6be09c.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 5398,
-    "destination": "/?eid=57401",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Aquaponic Workshop",
-    "day": "19",
-    "info": "$0.00 - $5.05"
-  },
-  {
-    "sortindex": 1773885600,
     "image": "https://resources.hellorubric.com/uploaded_assets/3c7a51ca-03b4-49ca-8b14-a2f3c5ca0208.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -236,6 +124,20 @@
     "title": "First Year Pizza Picnic ",
     "day": "19",
     "info": "Free"
+  },
+  {
+    "sortindex": 1773885600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1ff21625-2eb4-472e-8730-cc3c1c6be09c.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 5398,
+    "destination": "/?eid=57401",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Aquaponic Workshop",
+    "day": "19",
+    "info": "$0.00 - $5.05"
   },
   {
     "sortindex": 1773903600,
@@ -295,20 +197,6 @@
   },
   {
     "sortindex": 1773909000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/95ed652d-f6a8-42d0-b5a4-e5b4bb406376.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 1862,
-    "destination": "/?eid=54567",
-    "societyname": "UQ Economics Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
-    "title": "UQES Careers & Cocktails 2026",
-    "day": "19",
-    "info": "$37.78"
-  },
-  {
-    "sortindex": 1773909000,
     "image": "https://resources.hellorubric.com/uploaded_assets/79d853a9-9dd2-4e29-af10-adea64949ccf.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -320,6 +208,20 @@
     "title": "Pixels & Plants: UQ Vegan Games Night",
     "day": "19",
     "info": "Free"
+  },
+  {
+    "sortindex": 1773909000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/95ed652d-f6a8-42d0-b5a4-e5b4bb406376.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1862,
+    "destination": "/?eid=54567",
+    "societyname": "UQ Economics Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+    "title": "UQES Careers & Cocktails 2026",
+    "day": "19",
+    "info": "$37.78"
   },
   {
     "sortindex": 1773914400,
@@ -379,20 +281,6 @@
   },
   {
     "sortindex": 1773993600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2504fec1-9715-4efd-9e05-7f7358c247c1.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4465,
-    "destination": "/?eid=53535",
-    "societyname": "UQ Political Science and International Relations Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
-    "title": "UQPSIR's Welcome Mixer",
-    "day": "20",
-    "info": "$11.27 - $25.77"
-  },
-  {
-    "sortindex": 1773993600,
     "image": "https://resources.hellorubric.com/uploaded_assets/77095757-ba2c-4526-a1b7-9ca15f64c66f.jpeg",
     "month": "March",
     "societyAvgRating": 0,
@@ -418,6 +306,20 @@
     "title": "Mafia Scavenger Murder Mystery",
     "day": "20",
     "info": "Free"
+  },
+  {
+    "sortindex": 1773993600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2504fec1-9715-4efd-9e05-7f7358c247c1.jpeg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4465,
+    "destination": "/?eid=53535",
+    "societyname": "UQ Political Science and International Relations Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
+    "title": "UQPSIR's Welcome Mixer",
+    "day": "20",
+    "info": "$11.27 - $25.77"
   },
   {
     "sortindex": 1773997200,
@@ -768,6 +670,20 @@
     "title": "Public Health Legends Get Together",
     "day": "2",
     "info": "$0.00 - $16.45"
+  },
+  {
+    "sortindex": 1775113200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a74f073e-3a88-4ee8-a07f-f4f87ca94065.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2224,
+    "destination": "/?eid=58491",
+    "societyname": "UQ Social Runners Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2224.png",
+    "title": "Donut Dash",
+    "day": "2",
+    "info": "$10.00 - $14.00"
   },
   {
     "sortindex": 1775116800,
