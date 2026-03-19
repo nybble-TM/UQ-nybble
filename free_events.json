@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1773820800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 3911,
-    "destination": "/?eid=58017",
-    "societyname": "University of Queensland Fintech Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
-    "title": "UQ Fintech Trading & Tech Internship Panel",
-    "day": "18",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773828000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 4982,
-    "destination": "/?eid=58446",
-    "societyname": "UQ Backyard Sports Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-    "title": "Pickleball 18/03",
-    "day": "18",
-    "info": "Free"
-  },
-  {
     "sortindex": 1773885600,
     "image": "https://resources.hellorubric.com/uploaded_assets/3c7a51ca-03b4-49ca-8b14-a2f3c5ca0208.png",
     "month": "March",
@@ -182,6 +154,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1774639800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7e1c5aee-06ad-4cfa-b746-7c91edb5c824.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 4688,
+    "destination": "/?eid=58633",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
+    "title": "Lamington Day Hike",
+    "day": "28",
+    "info": "Free"
+  },
+  {
     "sortindex": 1774855800,
     "image": "https://resources.hellorubric.com/uploaded_assets/e78fe13b-6f1b-444e-96e3-d182be557c81.png",
     "month": "March",
@@ -263,6 +249,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents MID-SEM MARATHON",
     "day": "7",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775876400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/620891c9-d9a2-4171-9065-7e0edb7e27ab.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 3180,
+    "destination": "/?eid=58269",
+    "societyname": "UQ Korean Medical Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
+    "title": "UQKMS GUKMS MT 2026",
+    "day": "11",
     "info": "Free"
   }
 ]
