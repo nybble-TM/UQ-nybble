@@ -1,117 +1,5 @@
 [
   {
-    "sortindex": 1773990000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/61df0530-0522-4a12-98bd-2f9af5bc3663.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1982,
-    "destination": "/?eid=58332",
-    "societyname": "UQ Vietnamese International Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/09152086-088a-42ff-8eb2-414e490d477b.png",
-    "title": "Poker night",
-    "day": "20",
-    "info": "$6.08"
-  },
-  {
-    "sortindex": 1773990000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8a243b3d-2d78-4af8-a074-82c1bb49ddd2.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2401,
-    "destination": "/?eid=58287",
-    "societyname": "UQ Slavic Society",
-    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-    "title": "Meet The Slavs",
-    "day": "20",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773991800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/039a2be8-4b54-4f7a-a91d-6ce0f63bb7d1.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 4430,
-    "destination": "/?eid=48226",
-    "societyname": "Handcraft & Art Club",
-    "societylogo": "https://resources.getqpay.com/images/64afd1d7b81fd_.png",
-    "title": "Free Phone Charm Workshop  for Members!!",
-    "day": "20",
-    "info": "$0.00 - $11.27"
-  },
-  {
-    "sortindex": 1773993600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e53a491e-c534-40ee-8065-5984a1628642.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 2289,
-    "destination": "/?eid=55821",
-    "societyname": "UQ Mafia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b111cce9-f6d9-4846-b3e2-7984c7eddc61.png",
-    "title": "Mafia Scavenger Murder Mystery",
-    "day": "20",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1773993600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/77095757-ba2c-4526-a1b7-9ca15f64c66f.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 649,
-    "destination": "/?eid=57534",
-    "societyname": "Society of Fine Arts",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-    "title": "Grand Creative Arts Trivia",
-    "day": "20",
-    "info": "$0.00 - $5.00"
-  },
-  {
-    "sortindex": 1773993600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2504fec1-9715-4efd-9e05-7f7358c247c1.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4465,
-    "destination": "/?eid=53535",
-    "societyname": "UQ Political Science and International Relations Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
-    "title": "UQPSIR's Welcome Mixer",
-    "day": "20",
-    "info": "$11.27 - $25.77"
-  },
-  {
-    "sortindex": 1773997200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/de8fbb40-91bc-4e88-b944-778f3c538124.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 648,
-    "destination": "/?eid=55570",
-    "societyname": "UQ Sri Lankan Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
-    "title": "SARONG PARTY 2026",
-    "day": "20",
-    "info": "$10.75 - $26.05"
-  },
-  {
-    "sortindex": 1774015200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/0ef55d95-8c83-4e1b-a8b1-6d2350cfdccf.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 2040,
-    "destination": "/?eid=56979",
-    "societyname": "UQ Critical Care Interest Group",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2040.png",
-    "title": "UQCRIT Social EMC ",
-    "day": "21",
-    "info": "$0.00 - $16.44"
-  },
-  {
     "sortindex": 1774043100,
     "image": "https://resources.hellorubric.com/uploaded_assets/c63bbc5d-4ce0-44aa-9e7c-a6a8392a811a.jpg",
     "month": "March",
@@ -154,6 +42,20 @@
     "info": "$6.08 - $9.19"
   },
   {
+    "sortindex": 1774051200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/0ef55d95-8c83-4e1b-a8b1-6d2350cfdccf.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 2040,
+    "destination": "/?eid=56979",
+    "societyname": "UQ Critical Care Interest Group",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2040.png",
+    "title": "UQCRIT Social EMC ",
+    "day": "21",
+    "info": "$0.00 - $16.44"
+  },
+  {
     "sortindex": 1774069200,
     "image": "https://resources.hellorubric.com/uploaded_assets/8554ee00-0c94-4cd8-9ac6-48064b36d7f5.jpeg",
     "month": "March",
@@ -179,7 +81,7 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
     "title": "Moogerah Astro Trip",
     "day": "21",
-    "info": "$6.08 - $41.32"
+    "info": "$0.00 - $41.32"
   },
   {
     "sortindex": 1774083600,
@@ -292,6 +194,20 @@
     "title": "UQ Citi Event",
     "day": "25",
     "info": "Free"
+  },
+  {
+    "sortindex": 1774425600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d036f059-cd50-403b-8099-2779b8574607.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3867,
+    "destination": "/?eid=58889",
+    "societyname": "UQ International Students' Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+    "title": "Movie Night: The Hangover",
+    "day": "25",
+    "info": "$0.00 - $7.12"
   },
   {
     "sortindex": 1774427400,
@@ -697,7 +613,7 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Write for Change: Writers Workshop to your MP",
     "day": "23",
-    "info": "$0.00 - $5.00"
+    "info": "$0.00 - $10.00"
   },
   {
     "sortindex": 1777013100,
