@@ -6,6 +6,7 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
+    "Sport/Competition",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -301,7 +302,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 44,
+  "totalItemCount": 49,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2982,20 +2983,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1774137600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8047edeb-19da-490e-aef1-fd1489c82b70.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 2354,
-      "destination": "/?eid=58053",
-      "societyname": "UQ United Nations Student Association",
-      "societylogo": "https://resources.getqpay.com/images/63e1a2927627b_.png",
-      "title": "UQUNSA Model UN 1",
-      "day": "22",
-      "info": "$6.08 - $11.27"
-    },
-    {
       "sortindex": 1774249200,
       "image": "https://resources.hellorubric.com/uploaded_assets/28884ef5-0e19-4a3f-ba39-117bb67b03f8.jpeg",
       "month": "March",
@@ -3165,20 +3152,6 @@
     },
     {
       "sortindex": 1774598400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/e7e7e7be-f450-4f28-9315-c68cefec852d.jpg",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3867,
-      "destination": "/?eid=58650",
-      "societyname": "UQ International Students' Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-      "title": "Mahjong Night ",
-      "day": "27",
-      "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1774598400,
       "image": "https://resources.hellorubric.com/uploaded_assets/ea835420-7ec4-42fc-8762-b997bbc3d0b6.png",
       "month": "March",
       "societyAvgRating": 0,
@@ -3190,6 +3163,20 @@
       "title": "2016 Pub Crawl",
       "day": "27",
       "info": "$11.27 - $16.45"
+    },
+    {
+      "sortindex": 1774598400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/e7e7e7be-f450-4f28-9315-c68cefec852d.jpg",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3867,
+      "destination": "/?eid=58650",
+      "societyname": "UQ International Students' Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+      "title": "Mahjong Night ",
+      "day": "27",
+      "info": "$0.00 - $6.08"
     },
     {
       "sortindex": 1774639800,
@@ -3206,6 +3193,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1774648800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/59ba149e-e90f-493f-b060-8062b7997e9c.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 601,
+      "destination": "/?eid=58757",
+      "societyname": "UQ Surfers Club",
+      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
+      "title": "Learn to Surf @ Currumbin Alley 28/3",
+      "day": "28",
+      "info": "$32.00 - $68.27"
+    },
+    {
       "sortindex": 1774656000,
       "image": "https://resources.hellorubric.com/uploaded_assets/53ff451f-f632-4d6a-a33d-be950cbefdec.png",
       "month": "March",
@@ -3220,6 +3221,20 @@
       "info": "$16.45"
     },
     {
+      "sortindex": 1774742400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/0ae5aaf5-80e4-4845-ba3c-0bf05e041e7a.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 7597,
+      "destination": "/?eid=59050",
+      "societyname": "UQ Bakeology",
+      "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
+      "title": "Brunch @ Project Blue Cafe",
+      "day": "29",
+      "info": "Free"
+    },
+    {
       "sortindex": 1774855800,
       "image": "https://resources.hellorubric.com/uploaded_assets/e78fe13b-6f1b-444e-96e3-d182be557c81.png",
       "month": "March",
@@ -3232,6 +3247,20 @@
       "title": "QPSA 2026 SGM",
       "day": "30",
       "info": "Free"
+    },
+    {
+      "sortindex": 1774929600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7269f352-9581-4ea5-bfd7-4547347013b9.png",
+      "month": "March",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3932,
+      "destination": "/?eid=59055",
+      "societyname": "Queensland Pharmacy Students' Association",
+      "societylogo": "https://resources.getqpay.com/images/65c1cb06e6124_.png",
+      "title": "Research Experience Afternoon",
+      "day": "31",
+      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1774944000,
@@ -3328,6 +3357,20 @@
       "societyname": "UQ Film Appreciation Society",
       "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
       "title": "UQFAS Presents 'Universal Language\u2019",
+      "day": "2",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1775116800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a290c41e-cdc4-44db-98da-3ec26c69717e.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1539,
+      "destination": "/?eid=58780",
+      "societyname": "UQ Women in Science Association",
+      "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+      "title": "Women In SMP Night",
       "day": "2",
       "info": "Free"
     },
@@ -3498,6 +3541,34 @@
       "title": "Cricket Day",
       "day": "19",
       "info": "$11.27 - $21.63"
+    },
+    {
+      "sortindex": 1776668400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 7437,
+      "destination": "/?eid=59089",
+      "societyname": "UQ Internal Medicine Society",
+      "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
+      "title": "Clinical Pearls in Sleep & Respiratory Medicine",
+      "day": "20",
+      "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1776839400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6994,
+      "destination": "/?eid=59031",
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+      "title": "Women in Business Evening",
+      "day": "22",
+      "info": "Free"
     },
     {
       "sortindex": 1776924000,

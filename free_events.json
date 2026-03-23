@@ -70,6 +70,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1774742400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/0ae5aaf5-80e4-4845-ba3c-0bf05e041e7a.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7597,
+    "destination": "/?eid=59050",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
+    "title": "Brunch @ Project Blue Cafe",
+    "day": "29",
+    "info": "Free"
+  },
+  {
     "sortindex": 1774855800,
     "image": "https://resources.hellorubric.com/uploaded_assets/e78fe13b-6f1b-444e-96e3-d182be557c81.png",
     "month": "March",
@@ -126,6 +140,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1775116800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a290c41e-cdc4-44db-98da-3ec26c69717e.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1539,
+    "destination": "/?eid=58780",
+    "societyname": "UQ Women in Science Association",
+    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+    "title": "Women In SMP Night",
+    "day": "2",
+    "info": "Free"
+  },
+  {
     "sortindex": 1775455200,
     "image": "https://resources.hellorubric.com/uploaded_assets/d0c83e7b-e72e-4891-b385-2d39d622372a.png",
     "month": "April",
@@ -165,6 +193,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
     "title": "UQKMS GUKMS MT 2026",
     "day": "11",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776839400,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=59031",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "Women in Business Evening",
+    "day": "22",
     "info": "Free"
   }
 ]
