@@ -1,6 +1,20 @@
 [
   {
     "sortindex": 1774339200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/198f9ce6-ad5c-4d87-9282-76f50499c298.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 9955,
+    "destination": "/?eid=59192",
+    "societyname": "University of Queensland Pathology Interest Group",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5f9db764-069a-4497-9922-64a59ce172b3.png",
+    "title": "CAT1 Review Quiz Session",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1774339200,
     "image": "https://resources.hellorubric.com/uploaded_assets/4e2549ba-b5a6-40a6-976f-4a2b7f54aa5c.jpg",
     "month": "March",
     "societyAvgRating": 0,
@@ -122,6 +136,20 @@
     "societyname": "UQCCR Student Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
     "title": "Easter potluck and scavengar hunt",
+    "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775026800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a8a68088-f948-445d-b7b3-85820328a43f.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 3911,
+    "destination": "/?eid=59242",
+    "societyname": "University of Queensland Fintech Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
+    "title": "UQ Fintech IMC Prosperity Workshop",
     "day": "1",
     "info": "Free"
   },

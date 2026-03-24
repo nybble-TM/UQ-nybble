@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1774249200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/28884ef5-0e19-4a3f-ba39-117bb67b03f8.jpeg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2395,
-    "destination": "/?eid=57904",
-    "societyname": "Gatton International Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
-    "title": "\ud83c\udf19Eid-Al Fitr\ud83c\udf19",
-    "day": "23",
-    "info": "$0.00 - $8.00"
-  },
-  {
-    "sortindex": 1774252800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/adc9151e-5173-42ee-b2e4-5b492fabf266.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2305,
-    "destination": "/?eid=56192",
-    "societyname": "Towards International Medical Equity",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2305.png",
-    "title": "Until the Sky Falls Quiet: Film Screening and Q&A",
-    "day": "23",
-    "info": "$0.00 - $32.00"
-  },
-  {
     "sortindex": 1774332000,
     "image": "https://resources.hellorubric.com/uploaded_assets/4dd9e6bb-a08d-436f-9fb4-9406da3ea83d.jpg",
     "month": "March",
@@ -40,6 +12,20 @@
     "title": "UQKDC WEEK 5 CLASS DROP-IN TICKET",
     "day": "24",
     "info": "$2.00"
+  },
+  {
+    "sortindex": 1774339200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/198f9ce6-ad5c-4d87-9282-76f50499c298.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 9955,
+    "destination": "/?eid=59192",
+    "societyname": "University of Queensland Pathology Interest Group",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5f9db764-069a-4497-9922-64a59ce172b3.png",
+    "title": "CAT1 Review Quiz Session",
+    "day": "24",
+    "info": "Free"
   },
   {
     "sortindex": 1774339200,
@@ -169,20 +155,6 @@
   },
   {
     "sortindex": 1774598400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ea835420-7ec4-42fc-8762-b997bbc3d0b6.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 489,
-    "destination": "/?eid=58209",
-    "societyname": "UQ Journalism and Communication Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
-    "title": "2016 Pub Crawl",
-    "day": "27",
-    "info": "$11.27 - $16.45"
-  },
-  {
-    "sortindex": 1774598400,
     "image": "https://resources.hellorubric.com/uploaded_assets/e7e7e7be-f450-4f28-9315-c68cefec852d.jpg",
     "month": "March",
     "societyAvgRating": 0,
@@ -194,6 +166,20 @@
     "title": "Mahjong Night ",
     "day": "27",
     "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1774598400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ea835420-7ec4-42fc-8762-b997bbc3d0b6.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 489,
+    "destination": "/?eid=58209",
+    "societyname": "UQ Journalism and Communication Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
+    "title": "2016 Pub Crawl",
+    "day": "27",
+    "info": "$11.27 - $16.45"
   },
   {
     "sortindex": 1774639800,
@@ -252,6 +238,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1774753200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/696cc2e2-2480-452a-b7a7-45b6cdaf6887.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4235,
+    "destination": "/?eid=58137",
+    "societyname": "UQ Formula Racing Society",
+    "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
+    "title": "UQFRS 2026 Japanese Grand Prix Watch Party",
+    "day": "29",
+    "info": "$12.00"
+  },
+  {
     "sortindex": 1774855800,
     "image": "https://resources.hellorubric.com/uploaded_assets/e78fe13b-6f1b-444e-96e3-d182be557c81.png",
     "month": "March",
@@ -304,6 +304,20 @@
     "societyname": "UQCCR Student Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
     "title": "Easter potluck and scavengar hunt",
+    "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775026800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a8a68088-f948-445d-b7b3-85820328a43f.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 3911,
+    "destination": "/?eid=59242",
+    "societyname": "University of Queensland Fintech Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
+    "title": "UQ Fintech IMC Prosperity Workshop",
     "day": "1",
     "info": "Free"
   },
@@ -403,7 +417,7 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
     "title": "Lead on Purpose",
     "day": "2",
-    "info": "$21.63 - $47.54"
+    "info": "$32.00 - $47.54"
   },
   {
     "sortindex": 1775455200,
@@ -460,6 +474,20 @@
     "title": "April Book Club",
     "day": "9",
     "info": "$0.00 - $5.00"
+  },
+  {
+    "sortindex": 1775718000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ea4f9637-fb2c-48f0-8d2f-ec02b870bec4.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2428,
+    "destination": "/?eid=59153",
+    "societyname": "UQ South Pacific Islander Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
+    "title": "Karaoke Night ",
+    "day": "9",
+    "info": "$12.00"
   },
   {
     "sortindex": 1775858400,
