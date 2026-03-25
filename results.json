@@ -1,62 +1,6 @@
 [
   {
-    "sortindex": 1774332000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/4dd9e6bb-a08d-436f-9fb4-9406da3ea83d.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 4271,
-    "destination": "/?eid=58719",
-    "societyname": "UQ K-pop Dance Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-    "title": "UQKDC WEEK 5 CLASS DROP-IN TICKET",
-    "day": "24",
-    "info": "$2.00"
-  },
-  {
-    "sortindex": 1774339200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/198f9ce6-ad5c-4d87-9282-76f50499c298.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 9955,
-    "destination": "/?eid=59192",
-    "societyname": "University of Queensland Pathology Interest Group",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5f9db764-069a-4497-9922-64a59ce172b3.png",
-    "title": "CAT1 Review Quiz Session",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1774339200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/4e2549ba-b5a6-40a6-976f-4a2b7f54aa5c.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=55825",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Daisies'",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1774341000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d7927d6f-c937-4b41-bff9-8e4d1170b1e8.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 3220,
-    "destination": "/?eid=57243",
-    "societyname": "UQ Ladies in Technology",
-    "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
-    "title": "Resume Building & Headshots",
-    "day": "24",
-    "info": "$6.08 - $11.27"
-  },
-  {
-    "sortindex": 1774409400,
+    "sortindex": 1774425600,
     "image": "https://resources.hellorubric.com/uploaded_assets/069bf562-eeb7-4f10-b59c-688a20879eaa.png",
     "month": "March",
     "societyAvgRating": 0,
@@ -99,7 +43,7 @@
   },
   {
     "sortindex": 1774504800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/88579c70-b548-4095-8827-92983be07577.jpg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/3cda2e02-688b-436f-a037-7c0e7fb0eeb6.jpg",
     "month": "March",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -154,18 +98,18 @@
     "info": "Free"
   },
   {
-    "sortindex": 1774598400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e7e7e7be-f450-4f28-9315-c68cefec852d.jpg",
+    "sortindex": 1774596600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6f134472-9045-4163-a06f-05513d6d074e.png",
     "month": "March",
     "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3867,
-    "destination": "/?eid=58650",
-    "societyname": "UQ International Students' Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-    "title": "Mahjong Night ",
+    "subtitle": "Class/Workshop",
+    "societyid": 4430,
+    "destination": "/?eid=59292",
+    "societyname": "Handcraft & Art Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
+    "title": "Easter Egg Painting Workshop",
     "day": "27",
-    "info": "$0.00 - $6.08"
+    "info": "$0.00 - $11.27"
   },
   {
     "sortindex": 1774598400,
@@ -180,6 +124,20 @@
     "title": "2016 Pub Crawl",
     "day": "27",
     "info": "$11.27 - $16.45"
+  },
+  {
+    "sortindex": 1774598400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e7e7e7be-f450-4f28-9315-c68cefec852d.jpg",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3867,
+    "destination": "/?eid=58650",
+    "societyname": "UQ International Students' Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+    "title": "Mahjong Night ",
+    "day": "27",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1774639800,
@@ -364,20 +322,6 @@
     "info": "$10.00 - $14.00"
   },
   {
-    "sortindex": 1775113200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e55abca6-1a7b-4338-b52a-d246c227b7a5.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1835,
-    "destination": "/?eid=57355",
-    "societyname": "Public Health Association University of Queensland",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
-    "title": "Public Health Legends Get Together",
-    "day": "2",
-    "info": "$0.00 - $16.45"
-  },
-  {
     "sortindex": 1775116800,
     "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
     "month": "April",
@@ -417,7 +361,7 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
     "title": "Lead on Purpose",
     "day": "2",
-    "info": "$32.00 - $47.54"
+    "info": "$21.63 - $47.54"
   },
   {
     "sortindex": 1775455200,
@@ -474,6 +418,20 @@
     "title": "April Book Club",
     "day": "9",
     "info": "$0.00 - $5.00"
+  },
+  {
+    "sortindex": 1775718000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d6171ac7-1c01-4d2f-80b7-ba5e24b00e9b.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=59259",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "Live Lines: Life Drawing Workshop",
+    "day": "9",
+    "info": "$21.63 - $37.18"
   },
   {
     "sortindex": 1775718000,
@@ -582,7 +540,7 @@
     "societyid": 3225,
     "destination": "/?eid=58689",
     "societyname": "UQ Gatton Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/dca13ae0-64bb-4f42-b082-6ee3d345e782.png",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/6e0bb2fc-21d0-4a83-9378-1de6d4e62c82.png",
     "title": "Cricket Day",
     "day": "19",
     "info": "$11.27 - $21.63"
