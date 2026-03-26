@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1774425600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/069bf562-eeb7-4f10-b59c-688a20879eaa.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=57581",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "UQ Citi Event",
-    "day": "25",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1774513800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/04eef4ea-53cc-4ad0-b49a-9dc6eeca8091.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2274,
-    "destination": "/?eid=57837",
-    "societyname": "BRUCE Architecture Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
-    "title": "WHO IS BRUCE?",
-    "day": "26",
-    "info": "Free"
-  },
-  {
     "sortindex": 1774575000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
     "month": "March",
@@ -38,6 +10,20 @@
     "societyname": "R2P Student Coalition UQ",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_670.png",
     "title": "Common Grounds: A R2P Book Club (March)",
+    "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1774587600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=59386",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Pickleball 27/03",
     "day": "27",
     "info": "Free"
   },
@@ -122,6 +108,20 @@
     "societyname": "University of Queensland Fintech Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
     "title": "UQ Fintech IMC Prosperity Workshop",
+    "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775032200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/04eef4ea-53cc-4ad0-b49a-9dc6eeca8091.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2274,
+    "destination": "/?eid=57837",
+    "societyname": "BRUCE Architecture Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
+    "title": "WHO IS BRUCE?",
     "day": "1",
     "info": "Free"
   },
