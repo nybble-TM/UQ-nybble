@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1774504800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3cda2e02-688b-436f-a037-7c0e7fb0eeb6.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 4271,
-    "destination": "/?eid=58317",
-    "societyname": "UQ K-pop Dance Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-    "title": "Toploader Picnic ",
-    "day": "26",
-    "info": "$0.00 - $8.16"
-  },
-  {
-    "sortindex": 1774512000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b7d7d00e-0fc2-4c6e-bf89-38a1b8dd5670.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 5398,
-    "destination": "/?eid=55491",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Ocean with David Attenborough Screening",
-    "day": "26",
-    "info": "$0.00 - $5.00"
-  },
-  {
     "sortindex": 1774575000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
     "month": "March",
@@ -71,20 +43,6 @@
   },
   {
     "sortindex": 1774598400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ea835420-7ec4-42fc-8762-b997bbc3d0b6.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 489,
-    "destination": "/?eid=58209",
-    "societyname": "UQ Journalism and Communication Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
-    "title": "2016 Pub Crawl",
-    "day": "27",
-    "info": "$11.27 - $16.45"
-  },
-  {
-    "sortindex": 1774598400,
     "image": "https://resources.hellorubric.com/uploaded_assets/e7e7e7be-f450-4f28-9315-c68cefec852d.jpg",
     "month": "March",
     "societyAvgRating": 0,
@@ -96,6 +54,20 @@
     "title": "Mahjong Night ",
     "day": "27",
     "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1774598400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ea835420-7ec4-42fc-8762-b997bbc3d0b6.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 489,
+    "destination": "/?eid=58209",
+    "societyname": "UQ Journalism and Communication Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
+    "title": "2016 Pub Crawl",
+    "day": "27",
+    "info": "$11.27 - $16.45"
   },
   {
     "sortindex": 1774639800,
@@ -210,20 +182,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1775007000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3cba3807-ce26-4bff-ad07-88f4f52a6048.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 8835,
-    "destination": "/?eid=54613",
-    "societyname": "UQCCR Student Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-    "title": "Easter potluck and scavengar hunt",
-    "day": "1",
-    "info": "Free"
-  },
-  {
     "sortindex": 1775026800,
     "image": "https://resources.hellorubric.com/uploaded_assets/a8a68088-f948-445d-b7b3-85820328a43f.jpg",
     "month": "April",
@@ -295,20 +253,6 @@
   },
   {
     "sortindex": 1775116800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=58194",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Universal Language\u2019",
-    "day": "2",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1775116800,
     "image": "https://resources.hellorubric.com/uploaded_assets/a290c41e-cdc4-44db-98da-3ec26c69717e.jpg",
     "month": "April",
     "societyAvgRating": 0,
@@ -318,6 +262,20 @@
     "societyname": "UQ Women in Science Association",
     "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
     "title": "Women In SMP Night",
+    "day": "2",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775116800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=58194",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Universal Language\u2019",
     "day": "2",
     "info": "Free"
   },
@@ -364,6 +322,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1775685600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b2e04485-0b9c-4cd8-9797-ebed0c56594b.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 186,
+    "destination": "/?eid=59554",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+    "title": "UQMAS Sem 1 Firm Hop",
+    "day": "9",
+    "info": "$21.63"
+  },
+  {
+    "sortindex": 1775694600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/9434a995-7467-416b-899e-9157ec5a93ab.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 8835,
+    "destination": "/?eid=54613",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "Easter potluck and scavengar hunt",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1775716200,
     "image": "https://resources.hellorubric.com/uploaded_assets/34e7281b-6f59-492a-a5c7-76efee29a974.png",
     "month": "April",
@@ -376,6 +362,20 @@
     "title": "Intro to Chest X-Rays",
     "day": "9",
     "info": "$0.00 - $6.00"
+  },
+  {
+    "sortindex": 1775718000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 10456,
+    "destination": "/?eid=58291",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "April Book Club",
+    "day": "9",
+    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1775718000,
@@ -406,18 +406,18 @@
     "info": "$21.63 - $37.18"
   },
   {
-    "sortindex": 1775718000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
+    "sortindex": 1775808000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/04eaeaaa-c5fd-4772-9a00-720abf36d8b5.png",
     "month": "April",
     "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 10456,
-    "destination": "/?eid=58291",
-    "societyname": "UQ Medical Humanities Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-    "title": "April Book Club",
-    "day": "9",
-    "info": "$0.00 - $5.00"
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 7597,
+    "destination": "/?eid=59535",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
+    "title": "Dress to Impress: UQ Bakeology Costume Party",
+    "day": "10",
+    "info": "$21.63 - $42.36"
   },
   {
     "sortindex": 1775858400,
@@ -504,6 +504,20 @@
     "info": "$15.00 - $20.00"
   },
   {
+    "sortindex": 1776477600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/faa514f0-2b30-4651-a3d3-8139c20b40a8.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 1835,
+    "destination": "/?eid=50431",
+    "societyname": "Public Health Association University of Queensland",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
+    "title": "QAG sketching trail ",
+    "day": "18",
+    "info": "Free"
+  },
+  {
     "sortindex": 1776567600,
     "image": "https://resources.hellorubric.com/uploaded_assets/bda26358-9fca-4507-ad7a-77811ab7f243.png",
     "month": "April",
@@ -516,6 +530,20 @@
     "title": "Cricket Day",
     "day": "19",
     "info": "$11.27 - $21.63"
+  },
+  {
+    "sortindex": 1776667500,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b0942b4e-5303-4803-b9ed-37518b324653.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 57,
+    "destination": "/?eid=59537",
+    "societyname": "University of Queensland Law Society Incorporated",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "Diversity in Law Evening",
+    "day": "20",
+    "info": "$20.95 - $41.35"
   },
   {
     "sortindex": 1776668400,

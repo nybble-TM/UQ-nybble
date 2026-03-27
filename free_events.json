@@ -84,20 +84,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1775007000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3cba3807-ce26-4bff-ad07-88f4f52a6048.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 8835,
-    "destination": "/?eid=54613",
-    "societyname": "UQCCR Student Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-    "title": "Easter potluck and scavengar hunt",
-    "day": "1",
-    "info": "Free"
-  },
-  {
     "sortindex": 1775026800,
     "image": "https://resources.hellorubric.com/uploaded_assets/a8a68088-f948-445d-b7b3-85820328a43f.jpg",
     "month": "April",
@@ -127,20 +113,6 @@
   },
   {
     "sortindex": 1775116800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=58194",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Universal Language\u2019",
-    "day": "2",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1775116800,
     "image": "https://resources.hellorubric.com/uploaded_assets/a290c41e-cdc4-44db-98da-3ec26c69717e.jpg",
     "month": "April",
     "societyAvgRating": 0,
@@ -150,6 +122,20 @@
     "societyname": "UQ Women in Science Association",
     "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
     "title": "Women In SMP Night",
+    "day": "2",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775116800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=58194",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Universal Language\u2019",
     "day": "2",
     "info": "Free"
   },
@@ -182,6 +168,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1775694600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/9434a995-7467-416b-899e-9157ec5a93ab.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 8835,
+    "destination": "/?eid=54613",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "Easter potluck and scavengar hunt",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1775876400,
     "image": "https://resources.hellorubric.com/uploaded_assets/620891c9-d9a2-4171-9065-7e0edb7e27ab.jpg",
     "month": "April",
@@ -193,6 +193,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
     "title": "UQKMS GUKMS MT 2026",
     "day": "11",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776477600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/faa514f0-2b30-4651-a3d3-8139c20b40a8.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 1835,
+    "destination": "/?eid=50431",
+    "societyname": "Public Health Association University of Queensland",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
+    "title": "QAG sketching trail ",
+    "day": "18",
     "info": "Free"
   },
   {
