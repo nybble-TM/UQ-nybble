@@ -6,7 +6,6 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
-    "Sport/Competition",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -302,7 +301,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 49,
+  "totalItemCount": 46,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2984,76 +2983,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1774575000,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 670,
-      "destination": "/?eid=58156",
-      "societyname": "R2P Student Coalition UQ",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_670.png",
-      "title": "Common Grounds: A R2P Book Club (March)",
-      "day": "27",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1774587600,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 4982,
-      "destination": "/?eid=59386",
-      "societyname": "UQ Backyard Sports Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-      "title": "Pickleball 27/03",
-      "day": "27",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1774596600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6f134472-9045-4163-a06f-05513d6d074e.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 4430,
-      "destination": "/?eid=59292",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-      "title": "Easter Egg Painting Workshop",
-      "day": "27",
-      "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1774598400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/e7e7e7be-f450-4f28-9315-c68cefec852d.jpg",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3867,
-      "destination": "/?eid=58650",
-      "societyname": "UQ International Students' Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-      "title": "Mahjong Night ",
-      "day": "27",
-      "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1774598400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ea835420-7ec4-42fc-8762-b997bbc3d0b6.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 489,
-      "destination": "/?eid=58209",
-      "societyname": "UQ Journalism and Communication Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
-      "title": "2016 Pub Crawl",
-      "day": "27",
-      "info": "$11.27 - $16.45"
-    },
-    {
       "sortindex": 1774639800,
       "image": "https://resources.hellorubric.com/uploaded_assets/7e1c5aee-06ad-4cfa-b746-7c91edb5c824.png",
       "month": "March",
@@ -3176,6 +3105,20 @@
       "societyname": "University of Queensland Fintech Society",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
       "title": "UQ Fintech IMC Prosperity Workshop",
+      "day": "1",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1775030400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2c4a894f-e457-4357-8de4-764ea4998657.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 5763,
+      "destination": "/?eid=59360",
+      "societyname": "Bachelor of Advanced Business (Honours) SPC",
+      "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+      "title": "BAB x Monitor Deloitte Consulting Case Workshop",
       "day": "1",
       "info": "Free"
     },
@@ -3349,20 +3292,6 @@
     },
     {
       "sortindex": 1775718000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 10456,
-      "destination": "/?eid=58291",
-      "societyname": "UQ Medical Humanities Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-      "title": "April Book Club",
-      "day": "9",
-      "info": "$0.00 - $5.00"
-    },
-    {
-      "sortindex": 1775718000,
       "image": "https://resources.hellorubric.com/uploaded_assets/ea4f9637-fb2c-48f0-8d2f-ec02b870bec4.png",
       "month": "April",
       "societyAvgRating": 0,
@@ -3374,6 +3303,20 @@
       "title": "Karaoke Night ",
       "day": "9",
       "info": "$12.00"
+    },
+    {
+      "sortindex": 1775718000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 10456,
+      "destination": "/?eid=58291",
+      "societyname": "UQ Medical Humanities Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+      "title": "April Book Club",
+      "day": "9",
+      "info": "$0.00 - $5.00"
     },
     {
       "sortindex": 1775718000,
@@ -3429,6 +3372,20 @@
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
       "title": "UQKMS GUKMS MT 2026",
       "day": "11",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1775955600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2456f16f-4209-4e49-9945-b44771af8ee1.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 1345,
+      "destination": "/?eid=59538",
+      "societyname": "Underground Theatre Company",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
+      "title": "UTC Tech Bootcamp - An Intro to Tech",
+      "day": "12",
       "info": "Free"
     },
     {
