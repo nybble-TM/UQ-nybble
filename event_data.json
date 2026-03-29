@@ -6,6 +6,7 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
+    "Sport/Competition",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -301,7 +302,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 46,
+  "totalItemCount": 47,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2983,48 +2984,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1774639800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7e1c5aee-06ad-4cfa-b746-7c91edb5c824.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 4688,
-      "destination": "/?eid=58633",
-      "societyname": "UQ Ecological Society",
-      "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-      "title": "Lamington Day Hike",
-      "day": "28",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1774648800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/59ba149e-e90f-493f-b060-8062b7997e9c.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 601,
-      "destination": "/?eid=58757",
-      "societyname": "UQ Surfers Club",
-      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
-      "title": "Learn to Surf @ Currumbin Alley 28/3",
-      "day": "28",
-      "info": "$32.00 - $68.27"
-    },
-    {
-      "sortindex": 1774656000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/53ff451f-f632-4d6a-a33d-be950cbefdec.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 2257,
-      "destination": "/?eid=56546",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-      "title": "Farm Animal Rescue Visit",
-      "day": "28",
-      "info": "$16.45"
-    },
-    {
       "sortindex": 1774742400,
       "image": "https://resources.hellorubric.com/uploaded_assets/0ae5aaf5-80e4-4845-ba3c-0bf05e041e7a.png",
       "month": "March",
@@ -3093,6 +3052,48 @@
       "title": "UQFAS Presents 'Taste of Cherry' ",
       "day": "31",
       "info": "Free"
+    },
+    {
+      "sortindex": 1775022300,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ac24ba1c-b6c2-4f98-9617-aabbb34f8162.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 3867,
+      "destination": "/?eid=58836",
+      "societyname": "UQ International Students' Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+      "title": "Social Volleyball",
+      "day": "1",
+      "info": "$8.16 - $11.27"
+    },
+    {
+      "sortindex": 1775023200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/166f7dd2-6052-4055-a0b9-f1aee21163c4.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 358,
+      "destination": "/?eid=59712",
+      "societyname": "UQ African Students Association",
+      "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+      "title": "Games Night",
+      "day": "1",
+      "info": "$4.01 - $6.08"
+    },
+    {
+      "sortindex": 1775023200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a3defcdd-53d0-4954-8404-42374b6722cf.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 377,
+      "destination": "/?eid=59467",
+      "societyname": "UQ Tourism, Hospitality & Events Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
+      "title": "LinkedIn 101 ",
+      "day": "1",
+      "info": "$0.00 - $6.08"
     },
     {
       "sortindex": 1775026800,
@@ -3221,6 +3222,20 @@
       "info": "$21.63 - $47.54"
     },
     {
+      "sortindex": 1775120400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3afda355-df15-4c27-96e5-a2d40f02ddd8.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 7597,
+      "destination": "/?eid=59726",
+      "societyname": "UQ Bakeology",
+      "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
+      "title": "Games Night (Charades, Jeopardy, & Many More!)",
+      "day": "2",
+      "info": "Free"
+    },
+    {
       "sortindex": 1775455200,
       "image": "https://resources.hellorubric.com/uploaded_assets/d0c83e7b-e72e-4891-b385-2d39d622372a.png",
       "month": "April",
@@ -3292,20 +3307,6 @@
     },
     {
       "sortindex": 1775718000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ea4f9637-fb2c-48f0-8d2f-ec02b870bec4.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2428,
-      "destination": "/?eid=59153",
-      "societyname": "UQ South Pacific Islander Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
-      "title": "Karaoke Night ",
-      "day": "9",
-      "info": "$12.00"
-    },
-    {
-      "sortindex": 1775718000,
       "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
       "month": "April",
       "societyAvgRating": 0,
@@ -3317,6 +3318,20 @@
       "title": "April Book Club",
       "day": "9",
       "info": "$0.00 - $5.00"
+    },
+    {
+      "sortindex": 1775718000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ea4f9637-fb2c-48f0-8d2f-ec02b870bec4.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2428,
+      "destination": "/?eid=59153",
+      "societyname": "UQ South Pacific Islander Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
+      "title": "Karaoke Night ",
+      "day": "9",
+      "info": "$12.00"
     },
     {
       "sortindex": 1775718000,
@@ -3582,7 +3597,7 @@
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
       "title": "UQLS Law Ball 2026: At Last I See The Light",
       "day": "9",
-      "info": "$125.00 - $145.00"
+      "info": "$0.00 - $145.00"
     },
     {
       "sortindex": 1778567400,

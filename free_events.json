@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1774639800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7e1c5aee-06ad-4cfa-b746-7c91edb5c824.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Trip/Camp",
-    "societyid": 4688,
-    "destination": "/?eid=58633",
-    "societyname": "UQ Ecological Society",
-    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-    "title": "Lamington Day Hike",
-    "day": "28",
-    "info": "Free"
-  },
-  {
     "sortindex": 1774742400,
     "image": "https://resources.hellorubric.com/uploaded_assets/0ae5aaf5-80e4-4845-ba3c-0bf05e041e7a.png",
     "month": "March",
@@ -122,6 +108,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Universal Language\u2019",
+    "day": "2",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775120400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3afda355-df15-4c27-96e5-a2d40f02ddd8.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7597,
+    "destination": "/?eid=59726",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
+    "title": "Games Night (Charades, Jeopardy, & Many More!)",
     "day": "2",
     "info": "Free"
   },
