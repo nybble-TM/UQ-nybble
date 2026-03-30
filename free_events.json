@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1774742400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/0ae5aaf5-80e4-4845-ba3c-0bf05e041e7a.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 7597,
-    "destination": "/?eid=59050",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
-    "title": "Brunch @ Project Blue Cafe",
-    "day": "29",
-    "info": "Free"
-  },
-  {
     "sortindex": 1774855800,
     "image": "https://resources.hellorubric.com/uploaded_assets/e78fe13b-6f1b-444e-96e3-d182be557c81.png",
     "month": "March",
@@ -84,16 +70,16 @@
     "info": "Free"
   },
   {
-    "sortindex": 1775116800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/a290c41e-cdc4-44db-98da-3ec26c69717e.jpg",
+    "sortindex": 1775088000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b91caff4-c140-4f69-b451-5f6e9b4455c2.png",
     "month": "April",
     "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 1539,
-    "destination": "/?eid=58780",
-    "societyname": "UQ Women in Science Association",
-    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
-    "title": "Women In SMP Night",
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 713,
+    "destination": "/?eid=59794",
+    "societyname": "UQ Geoscience Society",
+    "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+    "title": "The Great Eggscape ",
     "day": "2",
     "info": "Free"
   },
@@ -108,6 +94,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Universal Language\u2019",
+    "day": "2",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775116800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a290c41e-cdc4-44db-98da-3ec26c69717e.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1539,
+    "destination": "/?eid=58780",
+    "societyname": "UQ Women in Science Association",
+    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+    "title": "Women In SMP Night",
     "day": "2",
     "info": "Free"
   },
@@ -193,6 +193,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
     "title": "UTC Tech Bootcamp - An Intro to Tech",
     "day": "12",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776148200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=59796",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "FMAA Fundamentals ",
+    "day": "14",
     "info": "Free"
   },
   {

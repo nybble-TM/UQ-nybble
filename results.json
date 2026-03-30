@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1774742400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/0ae5aaf5-80e4-4845-ba3c-0bf05e041e7a.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 7597,
-    "destination": "/?eid=59050",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
-    "title": "Brunch @ Project Blue Cafe",
-    "day": "29",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1774756800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/696cc2e2-2480-452a-b7a7-45b6cdaf6887.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4235,
-    "destination": "/?eid=58137",
-    "societyname": "UQ Formula Racing Society",
-    "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
-    "title": "UQFRS 2026 Japanese Grand Prix Watch Party",
-    "day": "29",
-    "info": "$12.00"
-  },
-  {
     "sortindex": 1774855800,
     "image": "https://resources.hellorubric.com/uploaded_assets/e78fe13b-6f1b-444e-96e3-d182be557c81.png",
     "month": "March",
@@ -112,6 +84,20 @@
     "info": "$0.00 - $6.08"
   },
   {
+    "sortindex": 1775023200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5b033ecb-d833-438a-ab47-d4ce32be74fe.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2257,
+    "destination": "/?eid=59751",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Forest to Plate: UQVS x UQSIC \ud83c\udf3f",
+    "day": "1",
+    "info": "$5.00"
+  },
+  {
     "sortindex": 1775026800,
     "image": "https://resources.hellorubric.com/uploaded_assets/a8a68088-f948-445d-b7b3-85820328a43f.jpg",
     "month": "April",
@@ -168,6 +154,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1775088000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b91caff4-c140-4f69-b451-5f6e9b4455c2.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 713,
+    "destination": "/?eid=59794",
+    "societyname": "UQ Geoscience Society",
+    "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+    "title": "The Great Eggscape ",
+    "day": "2",
+    "info": "Free"
+  },
+  {
     "sortindex": 1775111400,
     "image": "https://resources.hellorubric.com/uploaded_assets/73d3f679-a84d-4a51-ad55-69b34a3a6102.png",
     "month": "April",
@@ -197,20 +197,6 @@
   },
   {
     "sortindex": 1775116800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/a290c41e-cdc4-44db-98da-3ec26c69717e.jpg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 1539,
-    "destination": "/?eid=58780",
-    "societyname": "UQ Women in Science Association",
-    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
-    "title": "Women In SMP Night",
-    "day": "2",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1775116800,
     "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
     "month": "April",
     "societyAvgRating": 0,
@@ -220,6 +206,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Universal Language\u2019",
+    "day": "2",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775116800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a290c41e-cdc4-44db-98da-3ec26c69717e.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1539,
+    "destination": "/?eid=58780",
+    "societyname": "UQ Women in Science Association",
+    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+    "title": "Women In SMP Night",
     "day": "2",
     "info": "Free"
   },
@@ -323,17 +323,17 @@
   },
   {
     "sortindex": 1775718000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/d6171ac7-1c01-4d2f-80b7-ba5e24b00e9b.png",
     "month": "April",
     "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 10456,
-    "destination": "/?eid=58291",
-    "societyname": "UQ Medical Humanities Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-    "title": "April Book Club",
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=59259",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "Live Lines: Life Drawing Workshop",
     "day": "9",
-    "info": "$0.00 - $5.00"
+    "info": "$21.63 - $37.18"
   },
   {
     "sortindex": 1775718000,
@@ -351,17 +351,17 @@
   },
   {
     "sortindex": 1775718000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d6171ac7-1c01-4d2f-80b7-ba5e24b00e9b.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
     "month": "April",
     "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 649,
-    "destination": "/?eid=59259",
-    "societyname": "Society of Fine Arts",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-    "title": "Live Lines: Life Drawing Workshop",
+    "subtitle": "Other",
+    "societyid": 10456,
+    "destination": "/?eid=58291",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "April Book Club",
     "day": "9",
-    "info": "$21.63 - $37.18"
+    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1775808000,
@@ -446,6 +446,20 @@
     "title": "HMNS Networking Night Semester 1",
     "day": "14",
     "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1776148200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=59796",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "FMAA Fundamentals ",
+    "day": "14",
+    "info": "Free"
   },
   {
     "sortindex": 1776324600,
@@ -574,6 +588,34 @@
     "info": "$0.00 - $10.00"
   },
   {
+    "sortindex": 1777073400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a630d696-3cb4-42a5-bb84-49f963178db4.jpeg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 11229,
+    "destination": "/?eid=58991",
+    "societyname": "UQ Animal Welfare and Ethics SIG",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/322ea522-55f3-45cd-9d5c-7f84af461119.png",
+    "title": "Farm Animal Rescue Sanctuary Visit",
+    "day": "25",
+    "info": "$15.00 - $25.00"
+  },
+  {
+    "sortindex": 1777683600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a4771d02-60bf-4f0e-97db-8dab306a7170.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 2235,
+    "destination": "/?eid=59793",
+    "societyname": "UQ Photography Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+    "title": "UQPS x UQWA: Bird Photography Tutorial and Walk",
+    "day": "2",
+    "info": "$6.08"
+  },
+  {
     "sortindex": 1777773600,
     "image": "https://resources.hellorubric.com/uploaded_assets/6e8661ad-056b-4292-879c-1a8272a1c2c4.jpg",
     "month": "May",
@@ -628,6 +670,20 @@
     "title": "Pathways to Postgrad 2026",
     "day": "12",
     "info": "$0.00 - $10.75"
+  },
+  {
+    "sortindex": 1778830200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a4fa3b05-0411-44a5-ac2a-b08b1f8eb7ad.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=59761",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "title": "FMAA Corporate Cocktails",
+    "day": "15",
+    "info": "$45.00"
   },
   {
     "sortindex": 1784880000,
