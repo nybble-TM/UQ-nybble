@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1774855800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e78fe13b-6f1b-444e-96e3-d182be557c81.png",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 3932,
-    "destination": "/?eid=57374",
-    "societyname": "Queensland Pharmacy Students' Association",
-    "societylogo": "https://resources.getqpay.com/images/65c1cb06e6124_.png",
-    "title": "QPSA 2026 SGM",
-    "day": "30",
-    "info": "Free"
-  },
-  {
     "sortindex": 1774929600,
     "image": "https://resources.hellorubric.com/uploaded_assets/7269f352-9581-4ea5-bfd7-4547347013b9.png",
     "month": "March",
@@ -26,6 +12,20 @@
     "title": "Research Experience Afternoon",
     "day": "31",
     "info": "$0.00 - $11.27"
+  },
+  {
+    "sortindex": 1774936800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b9808c7-ad20-4871-b672-44226c44a3d2.png",
+    "month": "March",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4271,
+    "destination": "/?eid=59825",
+    "societyname": "UQ K-pop Dance Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "UQKDC WEEK 6 CLASS DROP-IN TICKET",
+    "day": "31",
+    "info": "$2.00"
   },
   {
     "sortindex": 1774944000,
@@ -168,6 +168,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1775106000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/9a396e6a-9130-4fee-b3cf-b9b99043a2a8.jpeg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3867,
+    "destination": "/?eid=59840",
+    "societyname": "UQ International Students' Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+    "title": "Easter Picnic",
+    "day": "2",
+    "info": "$8.16 - $13.34"
+  },
+  {
     "sortindex": 1775111400,
     "image": "https://resources.hellorubric.com/uploaded_assets/73d3f679-a84d-4a51-ad55-69b34a3a6102.png",
     "month": "April",
@@ -197,20 +211,6 @@
   },
   {
     "sortindex": 1775116800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=58194",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Universal Language\u2019",
-    "day": "2",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1775116800,
     "image": "https://resources.hellorubric.com/uploaded_assets/a290c41e-cdc4-44db-98da-3ec26c69717e.jpg",
     "month": "April",
     "societyAvgRating": 0,
@@ -220,6 +220,20 @@
     "societyname": "UQ Women in Science Association",
     "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
     "title": "Women In SMP Night",
+    "day": "2",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775116800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3b380260-0494-4860-b21a-43a35c05ff63.jpeg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=58194",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Universal Language\u2019",
     "day": "2",
     "info": "Free"
   },
@@ -246,7 +260,7 @@
     "societyid": 7597,
     "destination": "/?eid=59726",
     "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
     "title": "Games Night (Charades, Jeopardy, & Many More!)",
     "day": "2",
     "info": "Free"
@@ -278,6 +292,20 @@
     "title": "UQFAS Presents MID-SEM MARATHON",
     "day": "7",
     "info": "Free"
+  },
+  {
+    "sortindex": 1775613600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/9d8fc8f8-a968-482e-b03a-b18213abd687.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3858,
+    "destination": "/?eid=59801",
+    "societyname": "UQ English and Literature Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6adf46e-ec6e-4f83-a196-886bedde40de.png",
+    "title": "Pancake Manor and Archives Fine Books Visit",
+    "day": "8",
+    "info": "$6.08"
   },
   {
     "sortindex": 1775685600,
@@ -372,7 +400,7 @@
     "societyid": 7597,
     "destination": "/?eid=59535",
     "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.getqpay.com/images/65403834c2587_.png",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
     "title": "Dress to Impress: UQ Bakeology Costume Party",
     "day": "10",
     "info": "$21.63 - $42.36"
@@ -435,6 +463,20 @@
   },
   {
     "sortindex": 1776148200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=59796",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+    "title": "FMAA Fundamentals ",
+    "day": "14",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776148200,
     "image": "https://resources.hellorubric.com/uploaded_assets/c2f97969-68b9-42f0-a34a-4965ecf1523d.jpg",
     "month": "April",
     "societyAvgRating": 0,
@@ -446,20 +488,6 @@
     "title": "HMNS Networking Night Semester 1",
     "day": "14",
     "info": "$0.00 - $6.08"
-  },
-  {
-    "sortindex": 1776148200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=59796",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
-    "title": "FMAA Fundamentals ",
-    "day": "14",
-    "info": "Free"
   },
   {
     "sortindex": 1776324600,
@@ -554,7 +582,7 @@
     "societyid": 6994,
     "destination": "/?eid=59031",
     "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "Women in Business Evening",
     "day": "22",
     "info": "Free"
@@ -672,6 +700,20 @@
     "info": "$0.00 - $10.75"
   },
   {
+    "sortindex": 1778743800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d4de18d7-8594-4150-856c-b87ef4ace66b.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2332,
+    "destination": "/?eid=59804",
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "title": "UNIT x UQWN Mergers & Acquisitions Evening 2026",
+    "day": "14",
+    "info": "$42.36"
+  },
+  {
     "sortindex": 1778830200,
     "image": "https://resources.hellorubric.com/uploaded_assets/a4fa3b05-0411-44a5-ac2a-b08b1f8eb7ad.png",
     "month": "May",
@@ -680,7 +722,7 @@
     "societyid": 6994,
     "destination": "/?eid=59761",
     "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.getqpay.com/images/65c8abeef255b_.png",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "FMAA Corporate Cocktails",
     "day": "15",
     "info": "$45.00"
