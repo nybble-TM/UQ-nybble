@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1774944000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/52f02e62-aa40-42c7-83fe-ed1a0f8d3ba0.jpg",
-    "month": "March",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=58168",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Taste of Cherry' ",
-    "day": "31",
-    "info": "Free"
-  },
-  {
     "sortindex": 1775026800,
     "image": "https://resources.hellorubric.com/uploaded_assets/a8a68088-f948-445d-b7b3-85820328a43f.jpg",
     "month": "April",
@@ -112,20 +98,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1775455200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d0c83e7b-e72e-4891-b385-2d39d622372a.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 2274,
-    "destination": "/?eid=55255",
-    "societyname": "BRUCE Architecture Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
-    "title": "Archicad Workshop",
-    "day": "6",
-    "info": "Free"
-  },
-  {
     "sortindex": 1775527200,
     "image": "https://resources.hellorubric.com/uploaded_assets/05e79ec0-37f7-4e48-999e-f491bae5dae6.jpg",
     "month": "April",
@@ -183,7 +155,7 @@
   },
   {
     "sortindex": 1776148200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b761d00-0a5f-4d19-b402-542ca759fdc0.jpg",
     "month": "April",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -193,6 +165,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "FMAA Fundamentals ",
     "day": "14",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776238200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/56e41ed1-2357-482f-93dc-c21b3a12e6c5.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2332,
+    "destination": "/?eid=59970",
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "title": "UNIT CV and Cover Letter Workshop",
+    "day": "15",
     "info": "Free"
   },
   {

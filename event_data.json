@@ -303,7 +303,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 54,
+  "totalItemCount": 52,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2985,48 +2985,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1774929600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7269f352-9581-4ea5-bfd7-4547347013b9.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 3932,
-      "destination": "/?eid=59055",
-      "societyname": "Queensland Pharmacy Students' Association",
-      "societylogo": "https://resources.getqpay.com/images/65c1cb06e6124_.png",
-      "title": "Research Experience Afternoon",
-      "day": "31",
-      "info": "$0.00 - $11.27"
-    },
-    {
-      "sortindex": 1774936800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7b9808c7-ad20-4871-b672-44226c44a3d2.png",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4271,
-      "destination": "/?eid=59825",
-      "societyname": "UQ K-pop Dance Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-      "title": "UQKDC WEEK 6 CLASS DROP-IN TICKET",
-      "day": "31",
-      "info": "$2.00"
-    },
-    {
-      "sortindex": 1774944000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/52f02e62-aa40-42c7-83fe-ed1a0f8d3ba0.jpg",
-      "month": "March",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=58168",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Taste of Cherry' ",
-      "day": "31",
-      "info": "Free"
-    },
-    {
       "sortindex": 1775022300,
       "image": "https://resources.hellorubric.com/uploaded_assets/ac24ba1c-b6c2-4f98-9617-aabbb34f8162.jpg",
       "month": "April",
@@ -3039,6 +2997,20 @@
       "title": "Social Volleyball",
       "day": "1",
       "info": "$8.16 - $11.27"
+    },
+    {
+      "sortindex": 1775023200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/5b033ecb-d833-438a-ab47-d4ce32be74fe.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2257,
+      "destination": "/?eid=59751",
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+      "title": "Forest to Plate: UQVS x UQSIC \ud83c\udf3f",
+      "day": "1",
+      "info": "$5.00 - $6.00"
     },
     {
       "sortindex": 1775023200,
@@ -3069,20 +3041,6 @@
       "info": "$0.00 - $6.08"
     },
     {
-      "sortindex": 1775023200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/5b033ecb-d833-438a-ab47-d4ce32be74fe.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2257,
-      "destination": "/?eid=59751",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-      "title": "Forest to Plate: UQVS x UQSIC \ud83c\udf3f",
-      "day": "1",
-      "info": "$5.00"
-    },
-    {
       "sortindex": 1775026800,
       "image": "https://resources.hellorubric.com/uploaded_assets/a8a68088-f948-445d-b7b3-85820328a43f.jpg",
       "month": "April",
@@ -3093,20 +3051,6 @@
       "societyname": "University of Queensland Fintech Society",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
       "title": "UQ Fintech IMC Prosperity Workshop",
-      "day": "1",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1775030400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/2c4a894f-e457-4357-8de4-764ea4998657.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 5763,
-      "destination": "/?eid=59360",
-      "societyname": "Bachelor of Advanced Business (Honours) SPC",
-      "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-      "title": "BAB x Monitor Deloitte Consulting Case Workshop",
       "day": "1",
       "info": "Free"
     },
@@ -3123,6 +3067,20 @@
       "title": "UQPSIR's Women in Government Panel",
       "day": "1",
       "info": "$18.51 - $25.77"
+    },
+    {
+      "sortindex": 1775030400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2c4a894f-e457-4357-8de4-764ea4998657.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 5763,
+      "destination": "/?eid=59360",
+      "societyname": "Bachelor of Advanced Business (Honours) SPC",
+      "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+      "title": "BAB x Monitor Deloitte Consulting Case Workshop",
+      "day": "1",
+      "info": "Free"
     },
     {
       "sortindex": 1775032200,
@@ -3251,20 +3209,6 @@
       "info": "Free"
     },
     {
-      "sortindex": 1775455200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d0c83e7b-e72e-4891-b385-2d39d622372a.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 2274,
-      "destination": "/?eid=55255",
-      "societyname": "BRUCE Architecture Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
-      "title": "Archicad Workshop",
-      "day": "6",
-      "info": "Free"
-    },
-    {
       "sortindex": 1775527200,
       "image": "https://resources.hellorubric.com/uploaded_assets/05e79ec0-37f7-4e48-999e-f491bae5dae6.jpg",
       "month": "April",
@@ -3304,7 +3248,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
       "title": "UQMAS Sem 1 Firm Hop",
       "day": "9",
-      "info": "$21.63"
+      "info": "$11.27 - $21.63"
     },
     {
       "sortindex": 1775694600,
@@ -3336,6 +3280,20 @@
     },
     {
       "sortindex": 1775718000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 10456,
+      "destination": "/?eid=58291",
+      "societyname": "UQ Medical Humanities Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+      "title": "April Book Club",
+      "day": "9",
+      "info": "$0.00 - $5.00"
+    },
+    {
+      "sortindex": 1775718000,
       "image": "https://resources.hellorubric.com/uploaded_assets/d6171ac7-1c01-4d2f-80b7-ba5e24b00e9b.png",
       "month": "April",
       "societyAvgRating": 0,
@@ -3361,20 +3319,6 @@
       "title": "Karaoke Night ",
       "day": "9",
       "info": "$12.00"
-    },
-    {
-      "sortindex": 1775718000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c514e515-d2c8-4044-8df0-0692c66260e8.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 10456,
-      "destination": "/?eid=58291",
-      "societyname": "UQ Medical Humanities Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-      "title": "April Book Club",
-      "day": "9",
-      "info": "$0.00 - $5.00"
     },
     {
       "sortindex": 1775808000,
@@ -3448,7 +3392,21 @@
     },
     {
       "sortindex": 1776148200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/c2f97969-68b9-42f0-a34a-4965ecf1523d.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 339,
+      "destination": "/?eid=55918",
+      "societyname": "UQ HMNS Student Society",
+      "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
+      "title": "HMNS Networking Night Semester 1",
+      "day": "14",
+      "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1776148200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7b761d00-0a5f-4d19-b402-542ca759fdc0.jpg",
       "month": "April",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3461,18 +3419,18 @@
       "info": "Free"
     },
     {
-      "sortindex": 1776148200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c2f97969-68b9-42f0-a34a-4965ecf1523d.jpg",
+      "sortindex": 1776238200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/56e41ed1-2357-482f-93dc-c21b3a12e6c5.png",
       "month": "April",
       "societyAvgRating": 0,
       "subtitle": "Industry/Career",
-      "societyid": 339,
-      "destination": "/?eid=55918",
-      "societyname": "UQ HMNS Student Society",
-      "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
-      "title": "HMNS Networking Night Semester 1",
-      "day": "14",
-      "info": "$0.00 - $6.08"
+      "societyid": 2332,
+      "destination": "/?eid=59970",
+      "societyname": "University Network for Investing and Trading (UQ)",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+      "title": "UNIT CV and Cover Letter Workshop",
+      "day": "15",
+      "info": "Free"
     },
     {
       "sortindex": 1776324600,
@@ -3487,6 +3445,20 @@
       "title": "Photography Competition Closing Ceremony",
       "day": "16",
       "info": "$16.45 - $32.00"
+    },
+    {
+      "sortindex": 1776402000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/47160c01-c43e-4433-8b9e-fad3d867f9cc.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 7257,
+      "destination": "/?eid=59978",
+      "societyname": "Society of Lifesaving",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+      "title": "Fingal Rovers Patrol Trip",
+      "day": "17",
+      "info": "$26.81"
     },
     {
       "sortindex": 1776411000,
