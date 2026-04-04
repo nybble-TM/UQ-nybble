@@ -302,7 +302,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 42,
+  "totalItemCount": 50,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3012,6 +3012,20 @@
       "info": "$6.08"
     },
     {
+      "sortindex": 1775615400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1028,
+      "destination": "/?eid=60303",
+      "societyname": "UQ Muslimah Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e7802692-c3b5-45ef-a87a-94216bd3869c.png",
+      "title": "UQMS Picnic Day",
+      "day": "8",
+      "info": "Free"
+    },
+    {
       "sortindex": 1775629800,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
       "month": "April",
@@ -3195,6 +3209,20 @@
     },
     {
       "sortindex": 1776148200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/c2f97969-68b9-42f0-a34a-4965ecf1523d.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 339,
+      "destination": "/?eid=55918",
+      "societyname": "UQ HMNS Student Society",
+      "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
+      "title": "HMNS Networking Night Semester 1",
+      "day": "14",
+      "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1776148200,
       "image": "https://resources.hellorubric.com/uploaded_assets/7b761d00-0a5f-4d19-b402-542ca759fdc0.jpg",
       "month": "April",
       "societyAvgRating": 0,
@@ -3208,18 +3236,18 @@
       "info": "Free"
     },
     {
-      "sortindex": 1776148200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c2f97969-68b9-42f0-a34a-4965ecf1523d.jpg",
+      "sortindex": 1776150000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/bb546c17-9dce-46fb-8687-0f02b0a5c61c.png",
       "month": "April",
       "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 339,
-      "destination": "/?eid=55918",
-      "societyname": "UQ HMNS Student Society",
-      "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
-      "title": "HMNS Networking Night Semester 1",
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60297",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'The Tale of the Fox' & 'The Hand'",
       "day": "14",
-      "info": "$0.00 - $6.08"
+      "info": "Free"
     },
     {
       "sortindex": 1776238200,
@@ -3348,8 +3376,36 @@
       "info": "$0.00 - $6.08"
     },
     {
+      "sortindex": 1776668400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8a2cc7d8-6897-4e06-9808-d19965abc367.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1539,
+      "destination": "/?eid=60284",
+      "societyname": "UQ Women in Science Association",
+      "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+      "title": "Industry Networking Night",
+      "day": "20",
+      "info": "$11.27 - $16.45"
+    },
+    {
+      "sortindex": 1776754800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60298",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Brazil'",
+      "day": "21",
+      "info": "Free"
+    },
+    {
       "sortindex": 1776839400,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/f62bf107-278b-48b3-85f6-f5c3dca44d64.png",
       "month": "April",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3419,6 +3475,20 @@
     },
     {
       "sortindex": 1777359600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b93540c2-d462-4abc-83c3-1815e6470df0.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60305",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Hundreds of Beavers'",
+      "day": "28",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1777359600,
       "image": "https://resources.hellorubric.com/uploaded_assets/cdfb57d8-20d1-488b-9cb2-93f8fa64e75c.png",
       "month": "April",
       "societyAvgRating": 0,
@@ -3474,6 +3544,20 @@
       "info": "$48.50 - $63.80"
     },
     {
+      "sortindex": 1777964400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8932521b-6ca0-4fde-a3de-0e8100911424.jpeg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60306",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Hiroshima Mon Amour'",
+      "day": "5",
+      "info": "Free"
+    },
+    {
       "sortindex": 1778036400,
       "image": "https://resources.hellorubric.com/uploaded_assets/0c7898f8-9a2c-4796-b7b7-12df4efb6d94.png",
       "month": "May",
@@ -3516,6 +3600,20 @@
       "info": "$0.00 - $10.75"
     },
     {
+      "sortindex": 1778569200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60307",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Raise the Red Lantern'",
+      "day": "12",
+      "info": "Free"
+    },
+    {
       "sortindex": 1778743800,
       "image": "https://resources.hellorubric.com/uploaded_assets/d4de18d7-8594-4150-856c-b87ef4ace66b.jpg",
       "month": "May",
@@ -3542,6 +3640,20 @@
       "title": "FMAA Corporate Cocktails",
       "day": "15",
       "info": "$45.00"
+    },
+    {
+      "sortindex": 1779174000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60310",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Drive My Car'",
+      "day": "19",
+      "info": "Free"
     },
     {
       "sortindex": 1784880000,
