@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1775530800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/05e79ec0-37f7-4e48-999e-f491bae5dae6.jpg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=58193",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents MID-SEM MARATHON",
-    "day": "7",
-    "info": "Free"
-  },
-  {
     "sortindex": 1775619000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
     "month": "April",
@@ -140,6 +126,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1776396600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/cb6cf73c-d366-4163-a50a-5da06ebfa6f0.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 6994,
+    "destination": "/?eid=60612",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+    "title": "UBS Campus Presentation - IB Challenge",
+    "day": "17",
+    "info": "Free"
+  },
+  {
     "sortindex": 1776481200,
     "image": "https://resources.hellorubric.com/uploaded_assets/faa514f0-2b30-4651-a3d3-8139c20b40a8.jpg",
     "month": "April",
@@ -151,6 +151,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
     "title": "Queensland Art Gallery Sketching Trail ",
     "day": "18",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776758400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8835688d-72b6-4e3d-b049-928979456389.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2332,
+    "destination": "/?eid=60544",
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "title": "Industry Alumni Panel",
+    "day": "21",
     "info": "Free"
   },
   {
@@ -179,6 +193,34 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "Women in Business Evening",
     "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776844800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/664e1af2-e592-4b41-a51f-3393a40611ab.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2308,
+    "destination": "/?eid=60607",
+    "societyname": "Occupational Therapy Students Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
+    "title": "Employability Panel",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777017600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/02d67d60-7979-43c3-9b63-89c04466a8d9.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 10976,
+    "destination": "/?eid=60641",
+    "societyname": "UQ Punjabi Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
+    "title": "Baisakhi by the Lakes",
+    "day": "24",
     "info": "Free"
   },
   {
@@ -221,6 +263,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Hiroshima Mon Amour'",
     "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778052600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/efb8bdf9-261b-4c87-825d-d0e3d21a0a16.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2257,
+    "destination": "/?eid=60532",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "MILKED \u2013 Free documentary screening",
+    "day": "6",
     "info": "Free"
   },
   {
