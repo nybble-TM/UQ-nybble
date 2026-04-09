@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1775619000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1028,
-    "destination": "/?eid=60303",
-    "societyname": "UQ Muslimah Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/e7802692-c3b5-45ef-a87a-94216bd3869c.png",
-    "title": "UQMS Picnic Day",
-    "day": "8",
-    "info": "Free"
-  },
-  {
     "sortindex": 1775698200,
     "image": "https://resources.hellorubric.com/uploaded_assets/9434a995-7467-416b-899e-9157ec5a93ab.png",
     "month": "April",
@@ -39,6 +25,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
     "title": "April Book Club",
     "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1775779200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/eefdc710-79de-4e41-bc20-d994eacc6717.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 648,
+    "destination": "/?eid=60699",
+    "societyname": "UQ Sri Lankan Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
+    "title": "Sri Lankan and Tamil New Years",
+    "day": "10",
     "info": "Free"
   },
   {
@@ -95,6 +95,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'The Tale of the Fox' & 'The Hand'",
     "day": "14",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776240000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 3911,
+    "destination": "/?eid=60675",
+    "societyname": "University of Queensland Fintech Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
+    "title": "UQ Fintech - Citadel Securities Trading Workshop ",
+    "day": "15",
     "info": "Free"
   },
   {
@@ -155,20 +169,6 @@
   },
   {
     "sortindex": 1776758400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8835688d-72b6-4e3d-b049-928979456389.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2332,
-    "destination": "/?eid=60544",
-    "societyname": "University Network for Investing and Trading (UQ)",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "title": "Industry Alumni Panel",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776758400,
     "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
     "month": "April",
     "societyAvgRating": 0,
@@ -178,6 +178,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Brazil'",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776758400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8835688d-72b6-4e3d-b049-928979456389.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2332,
+    "destination": "/?eid=60544",
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "title": "Industry Alumni Panel",
     "day": "21",
     "info": "Free"
   },
@@ -207,6 +221,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
     "title": "Employability Panel",
     "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776932100,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e04091c7-c38a-45bb-acb2-eb7acdbcf4e9.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 1862,
+    "destination": "/?eid=60653",
+    "societyname": "UQ Economics Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+    "title": "UQES CV & Interview Workshop",
+    "day": "23",
     "info": "Free"
   },
   {
