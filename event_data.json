@@ -303,7 +303,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 70,
+  "totalItemCount": 65,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2985,104 +2985,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1775689200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b2e04485-0b9c-4cd8-9797-ebed0c56594b.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 186,
-      "destination": "/?eid=59554",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-      "title": "UQMAS Sem 1 Firm Hop",
-      "day": "9",
-      "info": "$11.27 - $21.63"
-    },
-    {
-      "sortindex": 1775698200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/9434a995-7467-416b-899e-9157ec5a93ab.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 8835,
-      "destination": "/?eid=54613",
-      "societyname": "UQCCR Student Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-      "title": "Easter potluck and scavengar hunt",
-      "day": "9",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1775719800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/34e7281b-6f59-492a-a5c7-76efee29a974.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4520,
-      "destination": "/?eid=57577",
-      "societyname": "UQ Radiology Interest Group",
-      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
-      "title": "Intro to Chest X-Rays",
-      "day": "9",
-      "info": "$0.00 - $6.00"
-    },
-    {
-      "sortindex": 1775721600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d6171ac7-1c01-4d2f-80b7-ba5e24b00e9b.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 649,
-      "destination": "/?eid=59259",
-      "societyname": "Society of Fine Arts",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-      "title": "Live Lines: Life Drawing Workshop",
-      "day": "9",
-      "info": "$21.63 - $37.18"
-    },
-    {
-      "sortindex": 1775721600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ea4f9637-fb2c-48f0-8d2f-ec02b870bec4.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2428,
-      "destination": "/?eid=59153",
-      "societyname": "UQ South Pacific Islander Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
-      "title": "Karaoke Night ",
-      "day": "9",
-      "info": "$12.00"
-    },
-    {
-      "sortindex": 1775721600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b1a3f9ad-61e7-4856-bcc9-e958e7053f35.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 10456,
-      "destination": "/?eid=58291",
-      "societyname": "UQ Medical Humanities Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-      "title": "April Book Club",
-      "day": "9",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1775779200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/eefdc710-79de-4e41-bc20-d994eacc6717.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 648,
-      "destination": "/?eid=60699",
-      "societyname": "UQ Sri Lankan Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
-      "title": "Sri Lankan and Tamil New Years",
-      "day": "10",
-      "info": "Free"
-    },
-    {
       "sortindex": 1775811600,
       "image": "https://resources.hellorubric.com/uploaded_assets/04eaeaaa-c5fd-4772-9a00-720abf36d8b5.png",
       "month": "April",
@@ -3109,6 +3011,20 @@
       "title": "UQ Opera Society Headshots 2026",
       "day": "11",
       "info": "$150.00 - $160.00"
+    },
+    {
+      "sortindex": 1775865600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/eefdc710-79de-4e41-bc20-d994eacc6717.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 648,
+      "destination": "/?eid=60699",
+      "societyname": "UQ Sri Lankan Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
+      "title": "Sri Lankan and Tamil New Years",
+      "day": "11",
+      "info": "Free"
     },
     {
       "sortindex": 1775880000,
@@ -3221,6 +3137,20 @@
       "title": "Employability Experiences Evening",
       "day": "15",
       "info": "$0.00 - $7.12"
+    },
+    {
+      "sortindex": 1776238200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 7218,
+      "destination": "/?eid=60768",
+      "societyname": "UQ Naatak",
+      "societylogo": "https://resources.getqpay.com/images/64bfdd3478d1f_.png",
+      "title": "UQ Naatak Bollywood Night",
+      "day": "15",
+      "info": "$0.00 - $4.01"
     },
     {
       "sortindex": 1776240000,
@@ -3360,7 +3290,7 @@
       "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
       "title": "UQRIG Social Networking Night",
       "day": "17",
-      "info": "$15.00 - $20.00"
+      "info": "$10.00 - $20.00"
     },
     {
       "sortindex": 1776468600,
@@ -3391,8 +3321,8 @@
       "info": "$41.35"
     },
     {
-      "sortindex": 1776481200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/faa514f0-2b30-4651-a3d3-8139c20b40a8.jpg",
+      "sortindex": 1776483000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7a020c76-01b8-4eab-8213-98a63d6640a7.jpg",
       "month": "April",
       "societyAvgRating": 0,
       "subtitle": "Trip/Camp",
@@ -3532,20 +3462,6 @@
     },
     {
       "sortindex": 1776844800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/664e1af2-e592-4b41-a51f-3393a40611ab.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 2308,
-      "destination": "/?eid=60607",
-      "societyname": "Occupational Therapy Students Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
-      "title": "Employability Panel",
-      "day": "22",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1776844800,
       "image": "https://resources.hellorubric.com/uploaded_assets/0591fe95-2c26-4f96-92a3-37c5664ca6bf.jpeg",
       "month": "April",
       "societyAvgRating": 0,
@@ -3557,6 +3473,20 @@
       "title": "Employability Skills Night with UQGEMS and UQOOPS",
       "day": "22",
       "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1776844800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/664e1af2-e592-4b41-a51f-3393a40611ab.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 2308,
+      "destination": "/?eid=60607",
+      "societyname": "Occupational Therapy Students Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
+      "title": "Employability Panel",
+      "day": "22",
+      "info": "Free"
     },
     {
       "sortindex": 1776927600,
@@ -3658,20 +3588,6 @@
     },
     {
       "sortindex": 1777363200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b93540c2-d462-4abc-83c3-1815e6470df0.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=60305",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Hundreds of Beavers'",
-      "day": "28",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1777363200,
       "image": "https://resources.hellorubric.com/uploaded_assets/cdfb57d8-20d1-488b-9cb2-93f8fa64e75c.png",
       "month": "April",
       "societyAvgRating": 0,
@@ -3683,6 +3599,20 @@
       "title": "Consulting Panel",
       "day": "28",
       "info": "$0.00 - $10.75"
+    },
+    {
+      "sortindex": 1777363200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b93540c2-d462-4abc-83c3-1815e6470df0.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60305",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Hundreds of Beavers'",
+      "day": "28",
+      "info": "Free"
     },
     {
       "sortindex": 1777449600,
@@ -3784,6 +3714,20 @@
     },
     {
       "sortindex": 1778054400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b1c3a4e5-3e8e-486d-a070-ea12b2846db2.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 2409,
+      "destination": "/?eid=60332",
+      "societyname": "180 Degrees Consulting - The University of Queensland Branch",
+      "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
+      "title": "180DC - Charity Basketball Tournament",
+      "day": "6",
+      "info": "$6.08"
+    },
+    {
+      "sortindex": 1778054400,
       "image": "https://resources.hellorubric.com/uploaded_assets/cd2b7a36-4832-4913-a6af-23496f8a2de9.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3809,20 +3753,6 @@
       "title": "Ladies in Tech Gala! \ud83d\udc96",
       "day": "6",
       "info": "$26.81 - $32.00"
-    },
-    {
-      "sortindex": 1778054400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b1c3a4e5-3e8e-486d-a070-ea12b2846db2.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 2409,
-      "destination": "/?eid=60332",
-      "societyname": "180 Degrees Consulting - The University of Queensland Branch",
-      "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
-      "title": "180DC - Charity Basketball Tournament",
-      "day": "6",
-      "info": "$6.08"
     },
     {
       "sortindex": 1778313600,
@@ -3924,7 +3854,7 @@
     },
     {
       "sortindex": 1780131600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a43f15c4-5951-43ff-b71b-edfac8bd05c4.jpg",
+      "image": "https://resources.hellorubric.com/uploaded_assets/a0850d32-ffa4-4fa8-8062-2e1948eb936b.png",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Ball/Dinner/Gala",
