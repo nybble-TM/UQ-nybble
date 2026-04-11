@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1775811600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/04eaeaaa-c5fd-4772-9a00-720abf36d8b5.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 7597,
-    "destination": "/?eid=59535",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "title": "Dress to Impress: UQ Bakeology Costume Party",
-    "day": "10",
-    "info": "$21.63 - $42.36"
-  },
-  {
     "sortindex": 1775862000,
     "image": "https://resources.hellorubric.com/uploaded_assets/a8d331bb-a211-4449-a182-1466d5acafff.jpg",
     "month": "April",
@@ -37,7 +23,7 @@
     "destination": "/?eid=60699",
     "societyname": "UQ Sri Lankan Association",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
-    "title": "Sri Lankan and Tamil New Years",
+    "title": "Sinhala and Tamil New Years",
     "day": "11",
     "info": "Free"
   },
@@ -252,6 +238,20 @@
     "info": "$10.00"
   },
   {
+    "sortindex": 1776373200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/db9cb612-262b-4321-9289-bca16a1e6121.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 601,
+    "destination": "/?eid=60828",
+    "societyname": "UQ Surfers Club",
+    "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
+    "title": "Byron Bayhem ",
+    "day": "17",
+    "info": "$170.88 - $213.38"
+  },
+  {
     "sortindex": 1776396600,
     "image": "https://resources.hellorubric.com/uploaded_assets/cb6cf73c-d366-4163-a50a-5da06ebfa6f0.jpg",
     "month": "April",
@@ -378,6 +378,20 @@
     "info": "$11.27 - $21.63"
   },
   {
+    "sortindex": 1776657600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4cbb0634-f284-44ae-914d-d0383d805dd8.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 5763,
+    "destination": "/?eid=60832",
+    "societyname": "Bachelor of Advanced Business (Honours) SPC",
+    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+    "title": "The Chartered Advantage",
+    "day": "20",
+    "info": "Free"
+  },
+  {
     "sortindex": 1776671100,
     "image": "https://resources.hellorubric.com/uploaded_assets/b0942b4e-5303-4803-b9ed-37518b324653.png",
     "month": "April",
@@ -393,20 +407,6 @@
   },
   {
     "sortindex": 1776672000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 7437,
-    "destination": "/?eid=59089",
-    "societyname": "UQ Internal Medicine Society",
-    "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
-    "title": "Clinical Pearls in Sleep & Respiratory Medicine",
-    "day": "20",
-    "info": "$0.00 - $6.08"
-  },
-  {
-    "sortindex": 1776672000,
     "image": "https://resources.hellorubric.com/uploaded_assets/212e9d80-d474-410e-abd5-7d6ee2058b41.png",
     "month": "April",
     "societyAvgRating": 0,
@@ -418,6 +418,20 @@
     "title": "UQBTS x UQBMES: MedTech Career Panel",
     "day": "20",
     "info": "$0.00 - $11.27"
+  },
+  {
+    "sortindex": 1776672000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 7437,
+    "destination": "/?eid=59089",
+    "societyname": "UQ Internal Medicine Society",
+    "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
+    "title": "Clinical Pearls in Sleep & Respiratory Medicine",
+    "day": "20",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1776672000,
