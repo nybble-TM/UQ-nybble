@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1775959200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2456f16f-4209-4e49-9945-b44771af8ee1.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 1345,
-    "destination": "/?eid=59538",
-    "societyname": "Underground Theatre Company",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
-    "title": "UTC Tech Bootcamp - An Intro to Tech",
-    "day": "12",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776124800,
     "image": "https://resources.hellorubric.com/uploaded_assets/e882589a-6fef-4049-9616-e13425b339b4.png",
     "month": "April",
@@ -141,20 +127,6 @@
   },
   {
     "sortindex": 1776326400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d928da8c-c7d7-4a65-ab5f-b813b3d1b68f.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60345",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Birds, Orphans and Fools\u2019",
-    "day": "16",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776326400,
     "image": "https://resources.hellorubric.com/uploaded_assets/76d2c60a-357d-450b-ac19-8561469218a5.png",
     "month": "April",
     "societyAvgRating": 0,
@@ -166,6 +138,20 @@
     "title": "PropConnex Case Competition Workshop",
     "day": "16",
     "info": "$0.00 - $10.00"
+  },
+  {
+    "sortindex": 1776326400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d928da8c-c7d7-4a65-ab5f-b813b3d1b68f.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=60345",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Birds, Orphans and Fools\u2019",
+    "day": "16",
+    "info": "Free"
   },
   {
     "sortindex": 1776328200,
@@ -236,6 +222,20 @@
     "title": "Fingal Rovers Patrol Trip",
     "day": "17",
     "info": "$26.81"
+  },
+  {
+    "sortindex": 1776407400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c92d9298-a403-4715-982d-6fbb2087009d.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 713,
+    "destination": "/?eid=60950",
+    "societyname": "UQ Geoscience Society",
+    "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+    "title": "Boulder Than Ever",
+    "day": "17",
+    "info": "$2.00 - $25.00"
   },
   {
     "sortindex": 1776411000,
@@ -365,6 +365,20 @@
   },
   {
     "sortindex": 1776672000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 7437,
+    "destination": "/?eid=59089",
+    "societyname": "UQ Internal Medicine Society",
+    "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
+    "title": "Haemoptysis: Code red or a bloody nuisance?",
+    "day": "20",
+    "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1776672000,
     "image": "https://resources.hellorubric.com/uploaded_assets/212e9d80-d474-410e-abd5-7d6ee2058b41.png",
     "month": "April",
     "societyAvgRating": 0,
@@ -376,20 +390,6 @@
     "title": "UQBTS x UQBMES: MedTech Career Panel",
     "day": "20",
     "info": "$0.00 - $11.27"
-  },
-  {
-    "sortindex": 1776672000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 7437,
-    "destination": "/?eid=59089",
-    "societyname": "UQ Internal Medicine Society",
-    "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
-    "title": "Clinical Pearls in Sleep & Respiratory Medicine",
-    "day": "20",
-    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1776672000,
@@ -518,6 +518,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1777003200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1b7d34c3-ba4a-4d03-9828-18d7dab582ef.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=59260",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "GUAM Museum Meet Up",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1777015800,
     "image": "https://resources.hellorubric.com/uploaded_assets/91969518-4acd-4161-b684-371d2a99734e.png",
     "month": "April",
@@ -574,18 +588,18 @@
     "info": "$15.00 - $25.00"
   },
   {
-    "sortindex": 1777363200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b93540c2-d462-4abc-83c3-1815e6470df0.png",
+    "sortindex": 1777161600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/720ee484-46f6-4915-b524-235a4e1c804b.png",
     "month": "April",
     "societyAvgRating": 0,
     "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60305",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Hundreds of Beavers'",
-    "day": "28",
-    "info": "Free"
+    "societyid": 2257,
+    "destination": "/?eid=60975",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "A Second Chance: Visit Farm Animal Rescue \ud83d\udc9a",
+    "day": "26",
+    "info": "$0.00 - $15.00"
   },
   {
     "sortindex": 1777363200,
@@ -600,6 +614,20 @@
     "title": "Consulting Panel",
     "day": "28",
     "info": "$0.00 - $10.75"
+  },
+  {
+    "sortindex": 1777363200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b93540c2-d462-4abc-83c3-1815e6470df0.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=60305",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Hundreds of Beavers'",
+    "day": "28",
+    "info": "Free"
   },
   {
     "sortindex": 1777449600,
@@ -785,6 +813,20 @@
   },
   {
     "sortindex": 1778572800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e638c90c-c188-47aa-9d92-15365382f7f0.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 5809,
+    "destination": "/?eid=60764",
+    "societyname": "UQ Reality Labs",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
+    "title": "Careers in XR & Games",
+    "day": "12",
+    "info": "$0.00 - $16.45"
+  },
+  {
+    "sortindex": 1778572800,
     "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
     "month": "May",
     "societyAvgRating": 0,
@@ -838,20 +880,6 @@
     "title": "UQFAS Presents 'Drive My Car'",
     "day": "19",
     "info": "Free"
-  },
-  {
-    "sortindex": 1780120800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 534,
-    "destination": "/?eid=60648",
-    "societyname": "Queensland University Exchange Students Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-    "title": "F*cked Up 5km",
-    "day": "30",
-    "info": "$10.75"
   },
   {
     "sortindex": 1780131600,

@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1775959200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2456f16f-4209-4e49-9945-b44771af8ee1.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 1345,
-    "destination": "/?eid=59538",
-    "societyname": "Underground Theatre Company",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
-    "title": "UTC Tech Bootcamp - An Intro to Tech",
-    "day": "12",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776151800,
     "image": "https://resources.hellorubric.com/uploaded_assets/7b761d00-0a5f-4d19-b402-542ca759fdc0.jpg",
     "month": "April",
@@ -193,6 +179,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "UQES CV & Interview Workshop",
     "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777003200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1b7d34c3-ba4a-4d03-9828-18d7dab582ef.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=59260",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "GUAM Museum Meet Up",
+    "day": "24",
     "info": "Free"
   },
   {
