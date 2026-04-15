@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1776151800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7b761d00-0a5f-4d19-b402-542ca759fdc0.jpg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=59796",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-    "title": "FMAA Fundamentals ",
-    "day": "14",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776153600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bb546c17-9dce-46fb-8687-0f02b0a5c61c.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60297",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'The Tale of the Fox' & 'The Hand'",
-    "day": "14",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776240000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
     "month": "April",
@@ -141,20 +113,6 @@
   },
   {
     "sortindex": 1776758400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60298",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Brazil'",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776758400,
     "image": "https://resources.hellorubric.com/uploaded_assets/8835688d-72b6-4e3d-b049-928979456389.png",
     "month": "April",
     "societyAvgRating": 0,
@@ -164,6 +122,20 @@
     "societyname": "University Network for Investing and Trading (UQ)",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
     "title": "Industry Alumni Panel",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776758400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=60298",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Brazil'",
     "day": "21",
     "info": "Free"
   },
@@ -295,7 +267,7 @@
   },
   {
     "sortindex": 1777537800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/35cee49f-9740-4d53-ab70-470378c7077e.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/51b8cfd5-243b-4000-9d63-93c8c9c6d264.png",
     "month": "April",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",
