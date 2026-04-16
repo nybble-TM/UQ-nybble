@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1776240000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 3911,
-    "destination": "/?eid=60675",
-    "societyname": "University of Queensland Fintech Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
-    "title": "UQ Fintech - Citadel Securities Trading Workshop ",
-    "day": "15",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776241800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/56e41ed1-2357-482f-93dc-c21b3a12e6c5.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2332,
-    "destination": "/?eid=59970",
-    "societyname": "University Network for Investing and Trading (UQ)",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "title": "UNIT CV and Cover Letter Workshop",
-    "day": "15",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776308400,
     "image": "https://resources.hellorubric.com/uploaded_assets/4294a212-a5b2-4c7c-9784-385bef7f456c.jpg",
     "month": "April",
@@ -113,20 +85,6 @@
   },
   {
     "sortindex": 1776758400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8835688d-72b6-4e3d-b049-928979456389.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2332,
-    "destination": "/?eid=60544",
-    "societyname": "University Network for Investing and Trading (UQ)",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "title": "Industry Alumni Panel",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776758400,
     "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
     "month": "April",
     "societyAvgRating": 0,
@@ -136,6 +94,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Brazil'",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776758400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8835688d-72b6-4e3d-b049-928979456389.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2332,
+    "destination": "/?eid=60544",
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "title": "Industry Alumni Panel",
     "day": "21",
     "info": "Free"
   },
@@ -164,6 +136,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "Women in Business Evening",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776844800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fe311bf8-3c06-4d32-9892-7ca44f1df008.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=61242",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+    "title": "Workshop with TFM Digital",
     "day": "22",
     "info": "Free"
   },
@@ -249,6 +235,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Hundreds of Beavers'",
     "day": "28",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777449600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f4833000-d026-4dcf-a080-01c6b2d7f015.jpeg",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3855,
+    "destination": "/?eid=61238",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Breaking into the Law Industry",
+    "day": "29",
     "info": "Free"
   },
   {
