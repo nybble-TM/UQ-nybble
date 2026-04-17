@@ -7,6 +7,7 @@
     "Other",
     "Party/BBQ/Social",
     "Quiz/Trivia",
+    "Show/Performance",
     "Sport/Competition",
     "Trip/Camp"
   ],
@@ -303,7 +304,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 72,
+  "totalItemCount": 71,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2341,7 +2342,7 @@
     },
     {
       "country": "GB",
-      "logo_url": "https://resources.getqpay.com/images/university_logos/111.jpg",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/365a2b2d-320a-4c45-a35d-be58b040ef56.png",
       "name": "University of Demo UK",
       "id": 113,
       "state": "South East",
@@ -2985,76 +2986,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1776308400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/4294a212-a5b2-4c7c-9784-385bef7f456c.jpg",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 6249,
-      "destination": "/?eid=61050",
-      "societyname": "UQ Indonesian Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "Pojok Indonesia's Kick Off - Wayang Workshop",
-      "day": "16",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1776326400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d928da8c-c7d7-4a65-ab5f-b813b3d1b68f.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=60345",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Birds, Orphans and Fools\u2019",
-      "day": "16",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1776326400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/76d2c60a-357d-450b-ac19-8561469218a5.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 8915,
-      "destination": "/?eid=60337",
-      "societyname": "Real Estate Investment Student Association (REISA)",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/95340434-182b-4a11-a152-aaeaa2a7dd7a.png",
-      "title": "PropConnex Case Competition Workshop",
-      "day": "16",
-      "info": "$0.00 - $10.00"
-    },
-    {
-      "sortindex": 1776328200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7ad8935e-9964-4ede-b4a9-9bcef9b9c7a0.jpg",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 2274,
-      "destination": "/?eid=55253",
-      "societyname": "BRUCE Architecture Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
-      "title": "Photography Competition Closing Ceremony",
-      "day": "16",
-      "info": "$5.00 - $6.50"
-    },
-    {
-      "sortindex": 1776330000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/bfebc7f5-b830-41a9-86c8-9f6f3f5fe41f.jpg",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2401,
-      "destination": "/?eid=60548",
-      "societyname": "UQ Slavic Society",
-      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-      "title": "SLAVIC KARAOKE",
-      "day": "16",
-      "info": "$10.00"
-    },
-    {
       "sortindex": 1776373200,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
       "month": "April",
@@ -3162,7 +3093,7 @@
       "destination": "/?eid=60451",
       "societyname": "Queensland University Exchange Students Society",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-      "title": "Pub Crawl 2.0 - First Letter of Your Name by QUEST",
+      "title": "CANCELLED Pub Crawl 2.0 First Letter of Your Name",
       "day": "18",
       "info": "$41.35"
     },
@@ -3217,7 +3148,7 @@
       "societyid": 3225,
       "destination": "/?eid=58689",
       "societyname": "UQ Gatton Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/6e0bb2fc-21d0-4a83-9378-1de6d4e62c82.png",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/52fae795-af67-4495-ae3d-6c34d48ab8d4.png",
       "title": "Cricket Day",
       "day": "19",
       "info": "$11.27 - $21.63"
@@ -3234,7 +3165,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
       "title": "QAAFI Tour",
       "day": "20",
-      "info": "$4.00 - $20.00"
+      "info": "$0.00 - $20.00"
     },
     {
       "sortindex": 1776657600,
@@ -3266,20 +3197,6 @@
     },
     {
       "sortindex": 1776672000,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 7437,
-      "destination": "/?eid=59089",
-      "societyname": "UQ Internal Medicine Society",
-      "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
-      "title": "Haemoptysis: Code red or a bloody nuisance?",
-      "day": "20",
-      "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1776672000,
       "image": "https://resources.hellorubric.com/uploaded_assets/212e9d80-d474-410e-abd5-7d6ee2058b41.png",
       "month": "April",
       "societyAvgRating": 0,
@@ -3293,18 +3210,18 @@
       "info": "$0.00 - $11.27"
     },
     {
-      "sortindex": 1776758400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
+      "sortindex": 1776672000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
       "month": "April",
       "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=60298",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Brazil'",
-      "day": "21",
-      "info": "Free"
+      "subtitle": "Class/Workshop",
+      "societyid": 7437,
+      "destination": "/?eid=59089",
+      "societyname": "UQ Internal Medicine Society",
+      "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
+      "title": "Haemoptysis: Code red or a bloody nuisance?",
+      "day": "20",
+      "info": "$0.00 - $6.08"
     },
     {
       "sortindex": 1776758400,
@@ -3317,6 +3234,20 @@
       "societyname": "University Network for Investing and Trading (UQ)",
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
       "title": "Industry Alumni Panel",
+      "day": "21",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1776758400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60298",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Brazil'",
       "day": "21",
       "info": "Free"
     },
@@ -3476,6 +3407,20 @@
     },
     {
       "sortindex": 1777015800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/38a4fcf9-84eb-41e7-b3a0-0c1a32abf504.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2397,
+      "destination": "/?eid=61412",
+      "societyname": "UQ Social Work Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f461da90-1575-4e4a-a738-1d64ee729024.png",
+      "title": "Paint Night 2026",
+      "day": "24",
+      "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1777015800,
       "image": "https://resources.hellorubric.com/uploaded_assets/91969518-4acd-4161-b684-371d2a99734e.png",
       "month": "April",
       "societyAvgRating": 0,
@@ -3588,20 +3533,6 @@
     },
     {
       "sortindex": 1777449600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f4833000-d026-4dcf-a080-01c6b2d7f015.jpeg",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3855,
-      "destination": "/?eid=61238",
-      "societyname": "UQ Women in Business Economics and Law Society",
-      "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
-      "title": "UQWiBELS Breaking into the Law Industry",
-      "day": "29",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1777449600,
       "image": "https://resources.hellorubric.com/uploaded_assets/663d01ed-0dda-4048-a495-91381b4fa206.png",
       "month": "April",
       "societyAvgRating": 0,
@@ -3613,6 +3544,20 @@
       "title": "UQPSIR's Women in Government Panel",
       "day": "29",
       "info": "$18.51 - $25.77"
+    },
+    {
+      "sortindex": 1777449600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/f4833000-d026-4dcf-a080-01c6b2d7f015.jpeg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3855,
+      "destination": "/?eid=61238",
+      "societyname": "UQ Women in Business Economics and Law Society",
+      "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+      "title": "UQWiBELS Breaking into the Law Industry",
+      "day": "29",
+      "info": "Free"
     },
     {
       "sortindex": 1777536000,
@@ -3641,6 +3586,20 @@
       "title": "Women in Finance and Economics Evening",
       "day": "30",
       "info": "Free"
+    },
+    {
+      "sortindex": 1777590000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6c2e878e-f2ec-42b1-b912-2c725b330f56.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 534,
+      "destination": "/?eid=60456",
+      "societyname": "Queensland University Exchange Students Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+      "title": "QUEST goes to Noosa",
+      "day": "1",
+      "info": "$245.37"
     },
     {
       "sortindex": 1777687200,
@@ -3672,7 +3631,7 @@
     },
     {
       "sortindex": 1777852800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/68cfddcb-d13c-4453-adb6-b2ed2712ba1b.png",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Class/Workshop",
@@ -3781,6 +3740,20 @@
       "title": "180DC - Charity Basketball Tournament",
       "day": "6",
       "info": "$6.08"
+    },
+    {
+      "sortindex": 1778202000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8a98482c-4484-4905-b287-231caa9761b0.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 6994,
+      "destination": "/?eid=61120",
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+      "title": "FMAA Women's Coffee Catch-up",
+      "day": "8",
+      "info": "Free"
     },
     {
       "sortindex": 1778313600,
@@ -3921,6 +3894,20 @@
       "title": "Palette to Palate ",
       "day": "15",
       "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1778832000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/5da1eb7e-6ae3-4364-ba16-d9b0d93eeced.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Show/Performance",
+      "societyid": 2389,
+      "destination": "/?eid=61067",
+      "societyname": "UQ Student Philosophy Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2389.png",
+      "title": "SOPHOS: A Night of Feminist Philosophy & Art",
+      "day": "15",
+      "info": "$21.63 - $26.81"
     },
     {
       "sortindex": 1778833800,
