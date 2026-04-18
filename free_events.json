@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1776396600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/cb6cf73c-d366-4163-a50a-5da06ebfa6f0.jpg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6994,
-    "destination": "/?eid=60612",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-    "title": "UBS Campus Presentation - IB Challenge",
-    "day": "17",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776483000,
     "image": "https://resources.hellorubric.com/uploaded_assets/7a020c76-01b8-4eab-8213-98a63d6640a7.jpg",
     "month": "April",
@@ -113,20 +99,6 @@
   },
   {
     "sortindex": 1776844800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fe311bf8-3c06-4d32-9892-7ca44f1df008.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=61242",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-    "title": "Workshop with TFM Digital",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776844800,
     "image": "https://resources.hellorubric.com/uploaded_assets/664e1af2-e592-4b41-a51f-3393a40611ab.png",
     "month": "April",
     "societyAvgRating": 0,
@@ -136,6 +108,20 @@
     "societyname": "Occupational Therapy Students Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
     "title": "Employability Panel",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776844800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fe311bf8-3c06-4d32-9892-7ca44f1df008.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=61242",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+    "title": "Workshop with TFM Digital",
     "day": "22",
     "info": "Free"
   },
@@ -192,6 +178,20 @@
     "societyname": "UQ Punjabi Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
     "title": "Baisakhi by the Lakes",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777019400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c23eeb38-8d5f-4ff2-885a-ae57bba3247b.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 7597,
+    "destination": "/?eid=61531",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "UQB x UQMARS: Trivia Night",
     "day": "24",
     "info": "Free"
   },
