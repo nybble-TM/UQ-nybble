@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1776483000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7a020c76-01b8-4eab-8213-98a63d6640a7.jpg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Trip/Camp",
-    "societyid": 1835,
-    "destination": "/?eid=50431",
-    "societyname": "Public Health Association University of Queensland",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
-    "title": "Queensland Art Gallery Sketching Trail ",
-    "day": "18",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776564000,
     "image": "https://resources.hellorubric.com/uploaded_assets/a6ef2fe9-9e3a-4232-95b7-b01171d09911.png",
     "month": "April",
@@ -99,20 +85,6 @@
   },
   {
     "sortindex": 1776844800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/664e1af2-e592-4b41-a51f-3393a40611ab.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2308,
-    "destination": "/?eid=60607",
-    "societyname": "Occupational Therapy Students Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
-    "title": "Employability Panel",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776844800,
     "image": "https://resources.hellorubric.com/uploaded_assets/fe311bf8-3c06-4d32-9892-7ca44f1df008.png",
     "month": "April",
     "societyAvgRating": 0,
@@ -122,6 +94,20 @@
     "societyname": "UQ Marketing & Advertising Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
     "title": "Workshop with TFM Digital",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776844800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/664e1af2-e592-4b41-a51f-3393a40611ab.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2308,
+    "destination": "/?eid=60607",
+    "societyname": "Occupational Therapy Students Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
+    "title": "Employability Panel",
     "day": "22",
     "info": "Free"
   },
