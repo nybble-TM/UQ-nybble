@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1776564000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/a6ef2fe9-9e3a-4232-95b7-b01171d09911.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2257,
-    "destination": "/?eid=61019",
-    "societyname": "UQ Vegan Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-    "title": "Potluck - Clothing Swap",
-    "day": "19",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776657600,
     "image": "https://resources.hellorubric.com/uploaded_assets/4cbb0634-f284-44ae-914d-d0383d805dd8.png",
     "month": "April",
@@ -29,20 +15,6 @@
   },
   {
     "sortindex": 1776758400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8835688d-72b6-4e3d-b049-928979456389.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2332,
-    "destination": "/?eid=60544",
-    "societyname": "University Network for Investing and Trading (UQ)",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "title": "Industry Alumni Panel",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776758400,
     "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
     "month": "April",
     "societyAvgRating": 0,
@@ -52,6 +24,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Brazil'",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776758400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8835688d-72b6-4e3d-b049-928979456389.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2332,
+    "destination": "/?eid=60544",
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "title": "Industry Alumni Panel",
     "day": "21",
     "info": "Free"
   },
