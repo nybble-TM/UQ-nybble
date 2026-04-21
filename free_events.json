@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1776657600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/4cbb0634-f284-44ae-914d-d0383d805dd8.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 5763,
-    "destination": "/?eid=60832",
-    "societyname": "Bachelor of Advanced Business (Honours) SPC",
-    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-    "title": "The Chartered Advantage",
-    "day": "20",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776758400,
     "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
     "month": "April",
@@ -71,20 +57,6 @@
   },
   {
     "sortindex": 1776844800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fe311bf8-3c06-4d32-9892-7ca44f1df008.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=61242",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-    "title": "Workshop with TFM Digital",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776844800,
     "image": "https://resources.hellorubric.com/uploaded_assets/664e1af2-e592-4b41-a51f-3393a40611ab.png",
     "month": "April",
     "societyAvgRating": 0,
@@ -94,6 +66,20 @@
     "societyname": "Occupational Therapy Students Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
     "title": "Employability Panel",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1776844800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fe311bf8-3c06-4d32-9892-7ca44f1df008.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=61242",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+    "title": "Workshop with TFM Digital",
     "day": "22",
     "info": "Free"
   },
@@ -140,6 +126,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1777014000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=61749",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Pickleball 24/04",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1777017600,
     "image": "https://resources.hellorubric.com/uploaded_assets/02d67d60-7979-43c3-9b63-89c04466a8d9.png",
     "month": "April",
@@ -165,6 +165,34 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
     "title": "UQB x UQMARS: Trivia Night",
     "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777267800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/45823f30-9103-43bc-b0db-462a5ab3c710.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 2511,
+    "destination": "/?eid=61751",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Sisters' Suhbah",
+    "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777352400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6ef337a4-1e66-4480-899d-f4b2452addaf.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 4430,
+    "destination": "/?eid=61678",
+    "societyname": "Handcraft & Art Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
+    "title": "Bookmark Crafting",
+    "day": "28",
     "info": "Free"
   },
   {
@@ -211,7 +239,7 @@
   },
   {
     "sortindex": 1777537800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/51b8cfd5-243b-4000-9d63-93c8c9c6d264.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/19b0b41f-e233-444c-99c8-1c44ea3382dd.png",
     "month": "April",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",
