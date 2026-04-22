@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1776758400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/6ef56b2b-ba31-4a1a-98d9-0e1d5c432a89.jpg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60298",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Brazil'",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776758400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8835688d-72b6-4e3d-b049-928979456389.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2332,
-    "destination": "/?eid=60544",
-    "societyname": "University Network for Investing and Trading (UQ)",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "title": "Industry Alumni Panel",
-    "day": "21",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776841200,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
     "month": "April",
@@ -70,20 +42,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1776844800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fe311bf8-3c06-4d32-9892-7ca44f1df008.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=61242",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-    "title": "Workshop with TFM Digital",
-    "day": "22",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776927600,
     "image": "https://resources.hellorubric.com/uploaded_assets/2545018a-3e17-4031-b578-471d7f2d2d5a.png",
     "month": "April",
@@ -105,7 +63,7 @@
     "subtitle": "Class/Workshop",
     "societyid": 1862,
     "destination": "/?eid=60653",
-    "societyname": "UQ Economics Society",
+    "societyname": "The UQ Economics Society Inc.",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "UQES CV & Interview Workshop",
     "day": "23",
@@ -245,7 +203,7 @@
     "subtitle": "Industry/Career",
     "societyid": 1862,
     "destination": "/?eid=61069",
-    "societyname": "UQ Economics Society",
+    "societyname": "The UQ Economics Society Inc.",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "Women in Finance and Economics Evening",
     "day": "30",
