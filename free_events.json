@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1776841200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 14889,
-    "destination": "/?eid=60932",
-    "societyname": "Social Science Society UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/465b8e8d-405b-49d5-a4f8-43b18a602ce0.png",
-    "title": "UQSSS - Annual General Meeting 2026",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776843000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f62bf107-278b-48b3-85f6-f5c3dca44d64.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=59031",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-    "title": "Women in Business Evening",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776844800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/664e1af2-e592-4b41-a51f-3393a40611ab.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2308,
-    "destination": "/?eid=60607",
-    "societyname": "Occupational Therapy Students Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
-    "title": "Employability Panel",
-    "day": "22",
-    "info": "Free"
-  },
-  {
     "sortindex": 1776927600,
     "image": "https://resources.hellorubric.com/uploaded_assets/2545018a-3e17-4031-b578-471d7f2d2d5a.png",
     "month": "April",
@@ -207,6 +165,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "Women in Finance and Economics Evening",
     "day": "30",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777622400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c8dd832d-e94d-4700-bc54-df6f1551da00.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 2257,
+    "destination": "/?eid=61927",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "UQVS Community Dinner",
+    "day": "1",
     "info": "Free"
   },
   {
