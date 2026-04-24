@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1776927600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2545018a-3e17-4031-b578-471d7f2d2d5a.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 1547,
-    "destination": "/?eid=60291",
-    "societyname": "UQ Science Students Society",
-    "societylogo": "https://resources.getqpay.com/images/656bd0e67611d_.png",
-    "title": "Pathways to Research Night",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1776932100,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e04091c7-c38a-45bb-acb2-eb7acdbcf4e9.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 1862,
-    "destination": "/?eid=60653",
-    "societyname": "The UQ Economics Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
-    "title": "UQES CV & Interview Workshop",
-    "day": "23",
-    "info": "Free"
-  },
-  {
     "sortindex": 1777003200,
     "image": "https://resources.hellorubric.com/uploaded_assets/1b7d34c3-ba4a-4d03-9828-18d7dab582ef.jpg",
     "month": "April",
@@ -221,6 +193,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
     "title": "May book Club",
     "day": "6",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778139000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c7f836d8-dc2c-42af-9e37-aad291ec1277.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2395,
+    "destination": "/?eid=61533",
+    "societyname": "Gatton International Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
+    "title": "Diversity Night",
+    "day": "7",
     "info": "Free"
   },
   {
