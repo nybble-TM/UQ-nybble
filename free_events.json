@@ -1,61 +1,5 @@
 [
   {
-    "sortindex": 1777003200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1b7d34c3-ba4a-4d03-9828-18d7dab582ef.jpg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 649,
-    "destination": "/?eid=59260",
-    "societyname": "Society of Fine Arts",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-    "title": "GUAM Museum Meet Up",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1777014000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 4982,
-    "destination": "/?eid=61749",
-    "societyname": "UQ Backyard Sports Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-    "title": "Pickleball 24/04",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1777017600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/02d67d60-7979-43c3-9b63-89c04466a8d9.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 10976,
-    "destination": "/?eid=60641",
-    "societyname": "UQ Punjabi Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
-    "title": "Baisakhi by the Lakes",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1777019400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/c23eeb38-8d5f-4ff2-885a-ae57bba3247b.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 7597,
-    "destination": "/?eid=61531",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "title": "UQB x UQMARS: Trivia Night",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1777267800,
     "image": "https://resources.hellorubric.com/uploaded_assets/45823f30-9103-43bc-b0db-462a5ab3c710.png",
     "month": "April",
@@ -249,6 +193,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Drive My Car'",
     "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 2524631400,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
+    "month": "January",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 5729,
+    "destination": "/?eid=62397",
+    "societyname": "UQ Food Science Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+    "title": "UQ Ventures x FaBA Tours EOI Form",
+    "day": "1",
     "info": "Free"
   }
 ]
