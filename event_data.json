@@ -304,7 +304,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 58,
+  "totalItemCount": 60,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2986,20 +2986,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1777077000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a630d696-3cb4-42a5-bb84-49f963178db4.jpeg",
-      "month": "April",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 11229,
-      "destination": "/?eid=58991",
-      "societyname": "UQ Animal Welfare and Ethics SIG",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/322ea522-55f3-45cd-9d5c-7f84af461119.png",
-      "title": "Farm Animal Rescue Sanctuary Visit",
-      "day": "25",
-      "info": "$15.00 - $25.00"
-    },
-    {
       "sortindex": 1777161600,
       "image": "https://resources.hellorubric.com/uploaded_assets/720ee484-46f6-4915-b524-235a4e1c804b.png",
       "month": "April",
@@ -3196,6 +3182,20 @@
       "info": "$245.37"
     },
     {
+      "sortindex": 1777615200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/dc1b29b2-1366-4fc2-8f97-4244b419eb32.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 7597,
+      "destination": "/?eid=62457",
+      "societyname": "UQ Bakeology",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+      "title": "Cooking Mama Bake Class",
+      "day": "1",
+      "info": "$6.08 - $9.19"
+    },
+    {
       "sortindex": 1777622400,
       "image": "https://resources.hellorubric.com/uploaded_assets/c8dd832d-e94d-4700-bc54-df6f1551da00.png",
       "month": "May",
@@ -3379,20 +3379,6 @@
     },
     {
       "sortindex": 1778054400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/cd2b7a36-4832-4913-a6af-23496f8a2de9.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4848,
-      "destination": "/?eid=60663",
-      "societyname": "Justice and the Law Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-      "title": "Beyond Eagle Street Drinks",
-      "day": "6",
-      "info": "$21.63 - $32.00"
-    },
-    {
-      "sortindex": 1778054400,
       "image": "https://resources.hellorubric.com/uploaded_assets/ee8cc6bb-606c-467e-9d01-33bc5416cf00.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3404,6 +3390,20 @@
       "title": "Ladies in Tech Gala! \ud83d\udc96",
       "day": "6",
       "info": "$26.81 - $32.00"
+    },
+    {
+      "sortindex": 1778054400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/cd2b7a36-4832-4913-a6af-23496f8a2de9.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4848,
+      "destination": "/?eid=60663",
+      "societyname": "Justice and the Law Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
+      "title": "Beyond Eagle Street Drinks",
+      "day": "6",
+      "info": "$21.63 - $32.00"
     },
     {
       "sortindex": 1778054400,
@@ -3575,6 +3575,20 @@
     },
     {
       "sortindex": 1778572800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 5809,
+      "destination": "/?eid=60764",
+      "societyname": "UQ Reality Labs",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
+      "title": "Careers in XR & Games",
+      "day": "12",
+      "info": "$0.00 - $16.45"
+    },
+    {
+      "sortindex": 1778572800,
       "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
       "month": "May",
       "societyAvgRating": 0,
@@ -3602,18 +3616,18 @@
       "info": "$6.08 - $11.27"
     },
     {
-      "sortindex": 1778574600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/42b18f54-bb61-41ea-b02f-3388160943b8.jpg",
+      "sortindex": 1778576400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/453886d5-2819-48e3-966a-0636a0f81226.png",
       "month": "May",
       "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 5809,
-      "destination": "/?eid=60764",
-      "societyname": "UQ Reality Labs",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
-      "title": "Careers in XR & Games",
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1862,
+      "destination": "/?eid=61579",
+      "societyname": "The UQ Economics Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+      "title": "Federal Budget Viewing Party",
       "day": "12",
-      "info": "$0.00 - $16.45"
+      "info": "Free"
     },
     {
       "sortindex": 1778711400,
@@ -3714,6 +3728,20 @@
       "info": "$45.00"
     },
     {
+      "sortindex": 1778970600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3b5df0ec-eb3a-4dc9-955a-9613214ed5b9.jpeg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 3072,
+      "destination": "/?eid=61888",
+      "societyname": "UQ O&G Medicine",
+      "societylogo": "https://resources.getqpay.com/images/63dad8dfe279f_.png",
+      "title": "Women's Health Skills Day - GPSN x O&G x PVOGS ",
+      "day": "17",
+      "info": "$11.27 - $16.45"
+    },
+    {
       "sortindex": 1779177600,
       "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
       "month": "May",
@@ -3756,6 +3784,20 @@
       "info": "$112.76 - $128.06"
     },
     {
+      "sortindex": 1784098800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3444,
+      "destination": "/?eid=62441",
+      "societyname": "UQ Derm",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76d5a9d7-a09e-42d4-b6ea-210543c61f19.png",
+      "title": "How do I become a dermatologist?",
+      "day": "15",
+      "info": "$10.00 - $15.00"
+    },
+    {
       "sortindex": 1784883600,
       "image": "https://resources.hellorubric.com/uploaded_assets/e7ebd4c3-b5df-44cc-ac5d-372c88af841e.png",
       "month": "July",
@@ -3782,20 +3824,6 @@
       "title": "2026 Clayton Utz UQ Unjust Enrichment Moot",
       "day": "26",
       "info": "$500.00"
-    },
-    {
-      "sortindex": 2524631400,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
-      "month": "January",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 5729,
-      "destination": "/?eid=62397",
-      "societyname": "UQ Food Science Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-      "title": "UQ Ventures x FaBA Tours EOI Form",
-      "day": "1",
-      "info": "Free"
     }
   ],
   "selectedState": "Queensland"
