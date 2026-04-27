@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1777161600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/720ee484-46f6-4915-b524-235a4e1c804b.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2257,
-    "destination": "/?eid=60975",
-    "societyname": "UQ Vegan Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-    "title": "A Second Chance: Visit Farm Animal Rescue \ud83d\udc9a",
-    "day": "26",
-    "info": "$0.00 - $16.00"
-  },
-  {
     "sortindex": 1777267800,
     "image": "https://resources.hellorubric.com/uploaded_assets/45823f30-9103-43bc-b0db-462a5ab3c710.png",
     "month": "April",
@@ -71,20 +57,6 @@
   },
   {
     "sortindex": 1777363200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/cdfb57d8-20d1-488b-9cb2-93f8fa64e75c.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 165,
-    "destination": "/?eid=60107",
-    "societyname": "UQBA - UQ Business Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
-    "title": "Consulting Panel",
-    "day": "28",
-    "info": "$0.00 - $10.75"
-  },
-  {
-    "sortindex": 1777363200,
     "image": "https://resources.hellorubric.com/uploaded_assets/b93540c2-d462-4abc-83c3-1815e6470df0.png",
     "month": "April",
     "societyAvgRating": 0,
@@ -96,6 +68,20 @@
     "title": "UQFAS Presents 'Hundreds of Beavers'",
     "day": "28",
     "info": "Free"
+  },
+  {
+    "sortindex": 1777363200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/cdfb57d8-20d1-488b-9cb2-93f8fa64e75c.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 165,
+    "destination": "/?eid=60107",
+    "societyname": "UQBA - UQ Business Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+    "title": "Consulting Panel",
+    "day": "28",
+    "info": "$0.00 - $10.75"
   },
   {
     "sortindex": 1777442400,
@@ -152,6 +138,20 @@
     "title": "UQWiBELS Breaking into the Law Industry",
     "day": "29",
     "info": "Free"
+  },
+  {
+    "sortindex": 1777531500,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4a6278be-b52e-4d01-b114-ac019de1f59f.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 3932,
+    "destination": "/?eid=62443",
+    "societyname": "Queensland Pharmacy Students' Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+    "title": "Asthma Counselling Night",
+    "day": "30",
+    "info": "$0.00 - $11.27"
   },
   {
     "sortindex": 1777536000,
@@ -294,6 +294,20 @@
     "info": "$6.00 - $10.00"
   },
   {
+    "sortindex": 1777710600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/30af0fd2-d9ed-484c-ad7e-c8d053797047.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 1410,
+    "destination": "/?eid=62500",
+    "societyname": "UQMS Ashintosh Foundation",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
+    "title": "May Ball Raffle Tickets 2026",
+    "day": "2",
+    "info": "$6.08 - $21.63"
+  },
+  {
     "sortindex": 1777766400,
     "image": "https://resources.hellorubric.com/uploaded_assets/a79384c1-618c-4440-9aa4-3b610d8c89e0.png",
     "month": "May",
@@ -379,6 +393,20 @@
   },
   {
     "sortindex": 1778052600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/380955c3-8ba6-4378-8184-a1886bf20fd9.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 4688,
+    "destination": "/?eid=62003",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
+    "title": "Seriously Entertaining & Vexing Trivia",
+    "day": "6",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778052600,
     "image": "https://resources.hellorubric.com/uploaded_assets/efb8bdf9-261b-4c87-825d-d0e3d21a0a16.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -393,17 +421,17 @@
   },
   {
     "sortindex": 1778054400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ee8cc6bb-606c-467e-9d01-33bc5416cf00.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/18fadce0-993f-4d8b-9770-6919ddbb0b97.png",
     "month": "May",
     "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 3220,
-    "destination": "/?eid=60709",
-    "societyname": "UQ Ladies in Technology",
-    "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
-    "title": "Ladies in Tech Gala! \ud83d\udc96",
+    "subtitle": "Other",
+    "societyid": 10456,
+    "destination": "/?eid=61070",
+    "societyname": "UQ Medical Humanities Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+    "title": "May book Club",
     "day": "6",
-    "info": "$26.81 - $32.00"
+    "info": "Free"
   },
   {
     "sortindex": 1778054400,
@@ -421,17 +449,17 @@
   },
   {
     "sortindex": 1778054400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/18fadce0-993f-4d8b-9770-6919ddbb0b97.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/ee8cc6bb-606c-467e-9d01-33bc5416cf00.png",
     "month": "May",
     "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 10456,
-    "destination": "/?eid=61070",
-    "societyname": "UQ Medical Humanities Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-    "title": "May book Club",
+    "subtitle": "Industry/Career",
+    "societyid": 3220,
+    "destination": "/?eid=60709",
+    "societyname": "UQ Ladies in Technology",
+    "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
+    "title": "Ladies in Tech Gala! \ud83d\udc96",
     "day": "6",
-    "info": "Free"
+    "info": "$26.81 - $32.00"
   },
   {
     "sortindex": 1778054400,
@@ -505,20 +533,6 @@
   },
   {
     "sortindex": 1778313600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d6b7954a-72e4-49e1-b94f-ff4e05ce884c.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 57,
-    "destination": "/?eid=58996",
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "UQLS Law Ball 2026: At Last I See The Light",
-    "day": "9",
-    "info": "$0.00 - $150.00"
-  },
-  {
-    "sortindex": 1778313600,
     "image": "https://resources.hellorubric.com/uploaded_assets/10bac158-b520-4a9c-9910-4ece73323bb9.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -530,6 +544,20 @@
     "title": "UQSRC Sem 1 Get Together",
     "day": "9",
     "info": "$15.00"
+  },
+  {
+    "sortindex": 1778313600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d6b7954a-72e4-49e1-b94f-ff4e05ce884c.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 57,
+    "destination": "/?eid=58996",
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "UQLS Law Ball 2026: At Last I See The Light",
+    "day": "9",
+    "info": "$0.00 - $150.00"
   },
   {
     "sortindex": 1778392800,
@@ -558,6 +586,20 @@
     "title": "Industry Networking Night",
     "day": "11",
     "info": "$6.08 - $16.45"
+  },
+  {
+    "sortindex": 1778490000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/9f73062b-19e5-4231-9bfb-97e6a6e4e352.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 2332,
+    "destination": "/?eid=62539",
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "title": "UNIT Trivia Night Semester 1",
+    "day": "11",
+    "info": "Free"
   },
   {
     "sortindex": 1778569200,
@@ -589,6 +631,20 @@
   },
   {
     "sortindex": 1778572800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f73cbe0d-54d9-4684-afe3-c0a0ca15c6cc.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2409,
+    "destination": "/?eid=61893",
+    "societyname": "180 Degrees Consulting - The University of Queensland Branch",
+    "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
+    "title": "Alumni Networking Night - 180DC UQ x QUT ",
+    "day": "12",
+    "info": "$6.08 - $11.27"
+  },
+  {
+    "sortindex": 1778572800,
     "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -614,20 +670,6 @@
     "title": "UQFAS Presents 'Raise the Red Lantern'",
     "day": "12",
     "info": "Free"
-  },
-  {
-    "sortindex": 1778572800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f73cbe0d-54d9-4684-afe3-c0a0ca15c6cc.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2409,
-    "destination": "/?eid=61893",
-    "societyname": "180 Degrees Consulting - The University of Queensland Branch",
-    "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
-    "title": "Alumni Networking Night - 180DC UQ x QUT ",
-    "day": "12",
-    "info": "$6.08 - $11.27"
   },
   {
     "sortindex": 1778576400,
@@ -712,6 +754,20 @@
     "title": "Palette to Palate ",
     "day": "15",
     "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1778815800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4f46f54a-a8e9-43c4-a5fa-e057283ea559.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=62557",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+    "title": "UQ Jarden Event",
+    "day": "15",
+    "info": "Free"
   },
   {
     "sortindex": 1778832000,
