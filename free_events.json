@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1777352400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/6ef337a4-1e66-4480-899d-f4b2452addaf.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 4430,
-    "destination": "/?eid=61678",
-    "societyname": "Handcraft & Art Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-    "title": "Bookmark Crafting",
-    "day": "28",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1777363200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b93540c2-d462-4abc-83c3-1815e6470df0.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60305",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Hundreds of Beavers'",
-    "day": "28",
-    "info": "Free"
-  },
-  {
     "sortindex": 1777449600,
     "image": "https://resources.hellorubric.com/uploaded_assets/f4833000-d026-4dcf-a080-01c6b2d7f015.jpeg",
     "month": "April",
@@ -38,6 +10,20 @@
     "societyname": "UQ Women in Business Economics and Law Society",
     "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
     "title": "UQWiBELS Breaking into the Law Industry",
+    "day": "29",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777449600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/dd1494ae-8678-4737-bf0a-494aad318be5.png",
+    "month": "April",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 173,
+    "destination": "/?eid=62710",
+    "societyname": "UQ German Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
+    "title": "Trivia Night",
     "day": "29",
     "info": "Free"
   },
@@ -67,6 +53,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "Women in Finance and Economics Evening",
     "day": "30",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1777608000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3e92ea5f-2689-4ec7-8678-b8a9ba329310.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1982,
+    "destination": "/?eid=62717",
+    "societyname": "UQ Vietnamese International Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/09152086-088a-42ff-8eb2-414e490d477b.png",
+    "title": "MIGRATION UPDATES SEMINAR \u2013 YOUR PR PATHWAY",
+    "day": "1",
     "info": "Free"
   },
   {
@@ -235,6 +235,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Drive My Car'",
     "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1783494000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6a51c8eb-fe1e-4b18-a5e5-ac9fa6c1d7fb.png",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 8835,
+    "destination": "/?eid=62682",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "Meet the clinician researchers panel night",
+    "day": "8",
     "info": "Free"
   }
 ]
