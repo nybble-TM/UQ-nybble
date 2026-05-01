@@ -1,61 +1,5 @@
 [
   {
-    "sortindex": 1777449600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f4833000-d026-4dcf-a080-01c6b2d7f015.jpeg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3855,
-    "destination": "/?eid=61238",
-    "societyname": "UQ Women in Business Economics and Law Society",
-    "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
-    "title": "UQWiBELS Breaking into the Law Industry",
-    "day": "29",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1777449600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/dd1494ae-8678-4737-bf0a-494aad318be5.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 173,
-    "destination": "/?eid=62710",
-    "societyname": "UQ German Club",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
-    "title": "Trivia Night",
-    "day": "29",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1777536000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8f373ddf-1aac-4ea5-9da3-d3b5fd283f6a.jpg",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60346",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Atlantics\u2019",
-    "day": "30",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1777537800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/19b0b41f-e233-444c-99c8-1c44ea3382dd.png",
-    "month": "April",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 1862,
-    "destination": "/?eid=61069",
-    "societyname": "The UQ Economics Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
-    "title": "Women in Finance and Economics Evening",
-    "day": "30",
-    "info": "Free"
-  },
-  {
     "sortindex": 1777608000,
     "image": "https://resources.hellorubric.com/uploaded_assets/3e92ea5f-2689-4ec7-8678-b8a9ba329310.jpg",
     "month": "May",
@@ -168,6 +112,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1778284800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 6249,
+    "destination": "/?eid=62912",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "Angklung Workshops",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1778490000,
     "image": "https://resources.hellorubric.com/uploaded_assets/9f73062b-19e5-4231-9bfb-97e6a6e4e352.jpg",
     "month": "May",
@@ -207,6 +165,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
     "title": "Federal Budget Viewing Party",
     "day": "12",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778743800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ccc9f29a-b469-429e-8471-2406d97f0d7d.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 593,
+    "destination": "/?eid=62819",
+    "societyname": "UQ Chemistry Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
+    "title": "UQCC 2026 SGM and Sherbet Making",
+    "day": "14",
     "info": "Free"
   },
   {
