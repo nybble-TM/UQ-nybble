@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1777608000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3e92ea5f-2689-4ec7-8678-b8a9ba329310.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 1982,
-    "destination": "/?eid=62717",
-    "societyname": "UQ Vietnamese International Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/09152086-088a-42ff-8eb2-414e490d477b.png",
-    "title": "MIGRATION UPDATES SEMINAR \u2013 YOUR PR PATHWAY",
-    "day": "1",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1777622400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/c8dd832d-e94d-4700-bc54-df6f1551da00.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 2257,
-    "destination": "/?eid=61927",
-    "societyname": "UQ Vegan Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-    "title": "UQVS Community Dinner",
-    "day": "1",
-    "info": "Free"
-  },
-  {
     "sortindex": 1777968000,
     "image": "https://resources.hellorubric.com/uploaded_assets/8932521b-6ca0-4fde-a3de-0e8100911424.jpeg",
     "month": "May",
@@ -43,20 +15,6 @@
   },
   {
     "sortindex": 1778052600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/380955c3-8ba6-4378-8184-a1886bf20fd9.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 4688,
-    "destination": "/?eid=62003",
-    "societyname": "UQ Ecological Society",
-    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-    "title": "Seriously Entertaining & Vexing Trivia",
-    "day": "6",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1778052600,
     "image": "https://resources.hellorubric.com/uploaded_assets/efb8bdf9-261b-4c87-825d-d0e3d21a0a16.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -66,6 +24,20 @@
     "societyname": "UQ Vegan Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "title": "MILKED \u2013 Free documentary screening",
+    "day": "6",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778052600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/380955c3-8ba6-4378-8184-a1886bf20fd9.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 4688,
+    "destination": "/?eid=62003",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
+    "title": "Seriously Entertaining & Vexing Trivia",
     "day": "6",
     "info": "Free"
   },
@@ -122,6 +94,20 @@
     "societyname": "UQ Indonesian Student Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
     "title": "Angklung Workshops",
+    "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778299200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/575b9ff2-4943-4b1f-a5fa-beb58add44d0.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=60772",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "QAGOMA Museum Meet Up",
     "day": "9",
     "info": "Free"
   },
