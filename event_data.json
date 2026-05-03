@@ -304,7 +304,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 61,
+  "totalItemCount": 57,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2986,76 +2986,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1777676400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/315077a0-7e03-4cca-b6db-f175449ce479.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 377,
-      "destination": "/?eid=61696",
-      "societyname": "UQ Tourism, Hospitality & Events Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
-      "title": "RSA training course",
-      "day": "2",
-      "info": "$89.00 - $94.19"
-    },
-    {
-      "sortindex": 1777687200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a4771d02-60bf-4f0e-97db-8dab306a7170.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 2235,
-      "destination": "/?eid=59793",
-      "societyname": "UQ Photography Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
-      "title": "UQPS x UQWA: Bird Photography Tutorial and Walk",
-      "day": "2",
-      "info": "$2.97 - $6.08"
-    },
-    {
-      "sortindex": 1777690800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/dc6ecfee-bf03-4bd5-8d2b-df51ee80b9d6.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 7141,
-      "destination": "/?eid=62416",
-      "societyname": "UQ Mahjong Society",
-      "societylogo": "https://resources.getqpay.com/images/64ede2f898f95_.png",
-      "title": "UQMJ Semester 1 Tournament",
-      "day": "2",
-      "info": "$11.27 - $16.45"
-    },
-    {
-      "sortindex": 1777699800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/0b66150b-ae16-443b-a879-fecdce759569.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Show/Performance",
-      "societyid": 2225,
-      "destination": "/?eid=60358",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "La La Land & Live Jazz Presented by UQMusSoc x FAS",
-      "day": "2",
-      "info": "$6.00 - $10.00"
-    },
-    {
-      "sortindex": 1777710600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/30af0fd2-d9ed-484c-ad7e-c8d053797047.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 1410,
-      "destination": "/?eid=62500",
-      "societyname": "UQMS Ashintosh Foundation",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1410.png",
-      "title": "May Ball Raffle Tickets 2026",
-      "day": "2",
-      "info": "$6.08 - $21.63"
-    },
-    {
       "sortindex": 1777766400,
       "image": "https://resources.hellorubric.com/uploaded_assets/a79384c1-618c-4440-9aa4-3b610d8c89e0.png",
       "month": "May",
@@ -3155,20 +3085,6 @@
     },
     {
       "sortindex": 1778052600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/efb8bdf9-261b-4c87-825d-d0e3d21a0a16.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2257,
-      "destination": "/?eid=60532",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-      "title": "MILKED \u2013 Free documentary screening",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1778052600,
       "image": "https://resources.hellorubric.com/uploaded_assets/380955c3-8ba6-4378-8184-a1886bf20fd9.jpeg",
       "month": "May",
       "societyAvgRating": 0,
@@ -3182,32 +3098,18 @@
       "info": "Free"
     },
     {
-      "sortindex": 1778054400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/18fadce0-993f-4d8b-9770-6919ddbb0b97.png",
+      "sortindex": 1778052600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/efb8bdf9-261b-4c87-825d-d0e3d21a0a16.png",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Other",
-      "societyid": 10456,
-      "destination": "/?eid=61070",
-      "societyname": "UQ Medical Humanities Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-      "title": "May book Club",
+      "societyid": 2257,
+      "destination": "/?eid=60532",
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+      "title": "MILKED \u2013 Free documentary screening",
       "day": "6",
       "info": "Free"
-    },
-    {
-      "sortindex": 1778054400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/cd2b7a36-4832-4913-a6af-23496f8a2de9.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4848,
-      "destination": "/?eid=60663",
-      "societyname": "Justice and the Law Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-      "title": "Beyond Eagle Street Drinks",
-      "day": "6",
-      "info": "$21.63 - $32.00"
     },
     {
       "sortindex": 1778054400,
@@ -3225,6 +3127,34 @@
     },
     {
       "sortindex": 1778054400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b1c3a4e5-3e8e-486d-a070-ea12b2846db2.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 2409,
+      "destination": "/?eid=60332",
+      "societyname": "180 Degrees Consulting - The University of Queensland Branch",
+      "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
+      "title": "180DC - Charity Basketball Tournament",
+      "day": "6",
+      "info": "$6.08"
+    },
+    {
+      "sortindex": 1778054400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/18fadce0-993f-4d8b-9770-6919ddbb0b97.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 10456,
+      "destination": "/?eid=61070",
+      "societyname": "UQ Medical Humanities Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+      "title": "May book Club",
+      "day": "6",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1778054400,
       "image": "https://resources.hellorubric.com/uploaded_assets/ee8cc6bb-606c-467e-9d01-33bc5416cf00.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3239,17 +3169,17 @@
     },
     {
       "sortindex": 1778054400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b1c3a4e5-3e8e-486d-a070-ea12b2846db2.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/cd2b7a36-4832-4913-a6af-23496f8a2de9.png",
       "month": "May",
       "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 2409,
-      "destination": "/?eid=60332",
-      "societyname": "180 Degrees Consulting - The University of Queensland Branch",
-      "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
-      "title": "180DC - Charity Basketball Tournament",
+      "subtitle": "Other",
+      "societyid": 4848,
+      "destination": "/?eid=60663",
+      "societyname": "Justice and the Law Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
+      "title": "Beyond Eagle Street Drinks",
       "day": "6",
-      "info": "$6.08"
+      "info": "$21.63 - $32.00"
     },
     {
       "sortindex": 1778126400,
@@ -3264,6 +3194,20 @@
       "title": "UQCCR Student Club Lawn Bowls",
       "day": "7",
       "info": "$5.00"
+    },
+    {
+      "sortindex": 1778133600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/fc05ec37-106e-4644-b2db-bc9e0221183d.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 358,
+      "destination": "/?eid=62874",
+      "societyname": "UQ African Students Association",
+      "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+      "title": "ASA Cooking Day",
+      "day": "7",
+      "info": "$5.05 - $11.27"
     },
     {
       "sortindex": 1778139000,
@@ -3491,6 +3435,20 @@
     },
     {
       "sortindex": 1778572800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60307",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Raise the Red Lantern'",
+      "day": "12",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1778572800,
       "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3516,20 +3474,6 @@
       "title": "Alumni Networking Night - 180DC UQ x QUT ",
       "day": "12",
       "info": "$6.08 - $11.27"
-    },
-    {
-      "sortindex": 1778572800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=60307",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Raise the Red Lantern'",
-      "day": "12",
-      "info": "Free"
     },
     {
       "sortindex": 1778576400,
@@ -3575,20 +3519,6 @@
     },
     {
       "sortindex": 1778743800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c2cbf63c-2294-4778-90e7-be4e8a524f93.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1601,
-      "destination": "/?eid=62014",
-      "societyname": "UQ Skirts in Engineering",
-      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-      "title": "Skirts x EUS Connect Paint and Sip 2026",
-      "day": "14",
-      "info": "$0.00 - $32.00"
-    },
-    {
-      "sortindex": 1778743800,
       "image": "https://resources.hellorubric.com/uploaded_assets/ccc9f29a-b469-429e-8471-2406d97f0d7d.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3600,6 +3530,20 @@
       "title": "UQCC 2026 SGM and Sherbet Making",
       "day": "14",
       "info": "Free"
+    },
+    {
+      "sortindex": 1778743800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/c2cbf63c-2294-4778-90e7-be4e8a524f93.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1601,
+      "destination": "/?eid=62014",
+      "societyname": "UQ Skirts in Engineering",
+      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "title": "Skirts x EUS Connect Paint and Sip 2026",
+      "day": "14",
+      "info": "$0.00 - $32.00"
     },
     {
       "sortindex": 1778745600,
@@ -3669,7 +3613,7 @@
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
       "title": "Palette to Palate ",
       "day": "15",
-      "info": "$0.00 - $6.08"
+      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1778815800,
