@@ -304,7 +304,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 57,
+  "totalItemCount": 59,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2986,34 +2986,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1777766400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a79384c1-618c-4440-9aa4-3b610d8c89e0.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 2354,
-      "destination": "/?eid=62366",
-      "societyname": "UQ United Nations Student Association",
-      "societylogo": "https://resources.getqpay.com/images/63e1a2927627b_.png",
-      "title": "UQUNSA Model UN #2",
-      "day": "3",
-      "info": "$6.08 - $11.27"
-    },
-    {
-      "sortindex": 1777777200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6e8661ad-056b-4292-879c-1a8272a1c2c4.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1857,
-      "destination": "/?eid=55932",
-      "societyname": "Psychology Students' Association Inc",
-      "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
-      "title": "Scrub Crawl 2026",
-      "day": "3",
-      "info": "$48.50 - $68.90"
-    },
-    {
       "sortindex": 1777845600,
       "image": "https://resources.hellorubric.com/uploaded_assets/7c355b7b-5427-4b1a-b2f6-335eb1c0a377.png",
       "month": "May",
@@ -3085,20 +3057,6 @@
     },
     {
       "sortindex": 1778052600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/380955c3-8ba6-4378-8184-a1886bf20fd9.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 4688,
-      "destination": "/?eid=62003",
-      "societyname": "UQ Ecological Society",
-      "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-      "title": "Seriously Entertaining & Vexing Trivia",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1778052600,
       "image": "https://resources.hellorubric.com/uploaded_assets/efb8bdf9-261b-4c87-825d-d0e3d21a0a16.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3112,18 +3070,32 @@
       "info": "Free"
     },
     {
-      "sortindex": 1778054400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/58eaf4a2-9581-47f7-b893-1820d45fd3d1.jpg",
+      "sortindex": 1778052600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/380955c3-8ba6-4378-8184-a1886bf20fd9.jpeg",
       "month": "May",
       "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 648,
-      "destination": "/?eid=62634",
-      "societyname": "UQ Sri Lankan Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
-      "title": "Vesak 2026",
+      "subtitle": "Quiz/Trivia",
+      "societyid": 4688,
+      "destination": "/?eid=62003",
+      "societyname": "UQ Ecological Society",
+      "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
+      "title": "Seriously Entertaining & Vexing Trivia",
       "day": "6",
-      "info": "$0.00 - $5.65"
+      "info": "Free"
+    },
+    {
+      "sortindex": 1778054400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/18fadce0-993f-4d8b-9770-6919ddbb0b97.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 10456,
+      "destination": "/?eid=61070",
+      "societyname": "UQ Medical Humanities Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+      "title": "May book Club",
+      "day": "6",
+      "info": "Free"
     },
     {
       "sortindex": 1778054400,
@@ -3141,17 +3113,17 @@
     },
     {
       "sortindex": 1778054400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/18fadce0-993f-4d8b-9770-6919ddbb0b97.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/58eaf4a2-9581-47f7-b893-1820d45fd3d1.jpg",
       "month": "May",
       "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 10456,
-      "destination": "/?eid=61070",
-      "societyname": "UQ Medical Humanities Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-      "title": "May book Club",
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 648,
+      "destination": "/?eid=62634",
+      "societyname": "UQ Sri Lankan Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
+      "title": "Vesak 2026",
       "day": "6",
-      "info": "Free"
+      "info": "$0.00 - $5.65"
     },
     {
       "sortindex": 1778054400,
@@ -3294,6 +3266,20 @@
       "info": "$6.08 - $11.27"
     },
     {
+      "sortindex": 1778277600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7b1307b3-fa3e-431a-90a7-19f7cf7bd25d.jpeg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 6249,
+      "destination": "/?eid=63032",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "UQISA Fun Run 2026",
+      "day": "9",
+      "info": "Free"
+    },
+    {
       "sortindex": 1778284800,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
       "month": "May",
@@ -3303,7 +3289,7 @@
       "destination": "/?eid=62912",
       "societyname": "UQ Indonesian Student Association",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "Angklung Workshops",
+      "title": "Angklung Workshop",
       "day": "9",
       "info": "Free"
     },
@@ -3435,20 +3421,6 @@
     },
     {
       "sortindex": 1778572800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=60307",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Raise the Red Lantern'",
-      "day": "12",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1778572800,
       "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3460,6 +3432,20 @@
       "title": "Careers in XR & Games",
       "day": "12",
       "info": "$0.00 - $16.45"
+    },
+    {
+      "sortindex": 1778572800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60307",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Raise the Red Lantern'",
+      "day": "12",
+      "info": "Free"
     },
     {
       "sortindex": 1778572800,
@@ -3686,6 +3672,34 @@
       "info": "$11.27 - $16.45"
     },
     {
+      "sortindex": 1778994000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/5cab54bc-a7c4-4c73-b5fc-6a6db8c9cf92.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5398,
+      "destination": "/?eid=63026",
+      "societyname": "UQ Sustainable Innovators Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+      "title": "Urban Growers Gathering",
+      "day": "17",
+      "info": "$0.00 - $10.23"
+    },
+    {
+      "sortindex": 1779012000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3be804f2-0abe-4769-841f-601637bf4d67.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Show/Performance",
+      "societyid": 10976,
+      "destination": "/?eid=63041",
+      "societyname": "UQ Punjabi Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
+      "title": "RCB vs PBKS: IPL Screening",
+      "day": "17",
+      "info": "Free"
+    },
+    {
       "sortindex": 1779177600,
       "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
       "month": "May",
@@ -3698,6 +3712,20 @@
       "title": "UQFAS Presents 'Drive My Car'",
       "day": "19",
       "info": "Free"
+    },
+    {
+      "sortindex": 1779510600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/796d0f72-6eba-4e2c-9aec-aadad5b5c641.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 1387,
+      "destination": "/?eid=62985",
+      "societyname": "UQ Hong Kong Students Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
+      "title": "Detective Night",
+      "day": "23",
+      "info": "$27.85 - $33.03"
     },
     {
       "sortindex": 1780041600,

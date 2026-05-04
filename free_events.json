@@ -15,20 +15,6 @@
   },
   {
     "sortindex": 1778052600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/380955c3-8ba6-4378-8184-a1886bf20fd9.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 4688,
-    "destination": "/?eid=62003",
-    "societyname": "UQ Ecological Society",
-    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-    "title": "Seriously Entertaining & Vexing Trivia",
-    "day": "6",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1778052600,
     "image": "https://resources.hellorubric.com/uploaded_assets/efb8bdf9-261b-4c87-825d-d0e3d21a0a16.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -38,6 +24,20 @@
     "societyname": "UQ Vegan Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "title": "MILKED \u2013 Free documentary screening",
+    "day": "6",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778052600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/380955c3-8ba6-4378-8184-a1886bf20fd9.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 4688,
+    "destination": "/?eid=62003",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
+    "title": "Seriously Entertaining & Vexing Trivia",
     "day": "6",
     "info": "Free"
   },
@@ -84,6 +84,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1778277600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b1307b3-fa3e-431a-90a7-19f7cf7bd25d.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 6249,
+    "destination": "/?eid=63032",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISA Fun Run 2026",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1778284800,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
     "month": "May",
@@ -93,7 +107,7 @@
     "destination": "/?eid=62912",
     "societyname": "UQ Indonesian Student Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "Angklung Workshops",
+    "title": "Angklung Workshop",
     "day": "9",
     "info": "Free"
   },
@@ -179,6 +193,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "UQ Jarden Event",
     "day": "15",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779012000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3be804f2-0abe-4769-841f-601637bf4d67.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Show/Performance",
+    "societyid": 10976,
+    "destination": "/?eid=63041",
+    "societyname": "UQ Punjabi Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
+    "title": "RCB vs PBKS: IPL Screening",
+    "day": "17",
     "info": "Free"
   },
   {
