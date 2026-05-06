@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1777968000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8932521b-6ca0-4fde-a3de-0e8100911424.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60306",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Hiroshima Mon Amour'",
-    "day": "5",
-    "info": "Free"
-  },
-  {
     "sortindex": 1778052600,
     "image": "https://resources.hellorubric.com/uploaded_assets/efb8bdf9-261b-4c87-825d-d0e3d21a0a16.png",
     "month": "May",
@@ -113,7 +99,7 @@
   },
   {
     "sortindex": 1778284800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/4312ce3b-5233-4b6b-a4cd-76f082dc58ab.png",
     "month": "May",
     "societyAvgRating": 0,
     "subtitle": "Class/Workshop",
@@ -196,6 +182,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1778745600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/87a58fb8-5917-41ea-b45c-2b5427760588.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 2401,
+    "destination": "/?eid=63457",
+    "societyname": "UQ Slavic Society",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Slavic Society End of Sem Dinner",
+    "day": "14",
+    "info": "Free"
+  },
+  {
     "sortindex": 1778815800,
     "image": "https://resources.hellorubric.com/uploaded_assets/4f46f54a-a8e9-43c4-a5fa-e057283ea559.png",
     "month": "May",
@@ -224,6 +224,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1779174000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ff7fd9a7-f6e3-4857-ae5b-9456672ec273.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 5729,
+    "destination": "/?eid=63042",
+    "societyname": "UQ Food Science Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+    "title": "Special General Meeting x Trivia Evening ",
+    "day": "19",
+    "info": "Free"
+  },
+  {
     "sortindex": 1779177600,
     "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
     "month": "May",
@@ -235,6 +249,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Drive My Car'",
     "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1780189200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8f0e1996-f563-47c2-b18f-3dc793f840ca.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7257,
+    "destination": "/?eid=62520",
+    "societyname": "Society of Lifesaving",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+    "title": "Semester 1 Southbank Bash",
+    "day": "31",
     "info": "Free"
   },
   {

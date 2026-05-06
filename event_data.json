@@ -304,7 +304,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 63,
+  "totalItemCount": 70,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2986,48 +2986,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1777950000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/81c9c1bb-3dab-4dd7-9cfa-1cd99993abe6.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 5729,
-      "destination": "/?eid=61585",
-      "societyname": "UQ Food Science Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-      "title": "QDPI Tour",
-      "day": "5",
-      "info": "$0.00 - $20.00"
-    },
-    {
-      "sortindex": 1777953600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d19b6f75-fc54-49c4-b698-0e14d2a1f7c9.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2511,
-      "destination": "/?eid=61752",
-      "societyname": "Muslim Students Association UQ",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-      "title": "Painting by the Lakes",
-      "day": "5",
-      "info": "$5.66 - $10.78"
-    },
-    {
-      "sortindex": 1777968000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8932521b-6ca0-4fde-a3de-0e8100911424.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=60306",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Hiroshima Mon Amour'",
-      "day": "5",
-      "info": "Free"
-    },
-    {
       "sortindex": 1778034600,
       "image": "https://resources.hellorubric.com/uploaded_assets/43995baa-8a96-404a-bcd4-128b1107fd57.png",
       "month": "May",
@@ -3038,6 +2996,20 @@
       "societyname": "Queensland Pharmacy Students' Association",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
       "title": "International Student Welcome Party",
+      "day": "6",
+      "info": "$0.00 - $11.27"
+    },
+    {
+      "sortindex": 1778047200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5398,
+      "destination": "/?eid=63401",
+      "societyname": "UQ Sustainable Innovators Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+      "title": "Seeds & Talks at UQ Food Forest",
       "day": "6",
       "info": "$0.00 - $11.27"
     },
@@ -3071,20 +3043,6 @@
     },
     {
       "sortindex": 1778054400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/18fadce0-993f-4d8b-9770-6919ddbb0b97.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 10456,
-      "destination": "/?eid=61070",
-      "societyname": "UQ Medical Humanities Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-      "title": "May book Club",
-      "day": "6",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1778054400,
       "image": "https://resources.hellorubric.com/uploaded_assets/cd2b7a36-4832-4913-a6af-23496f8a2de9.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3095,21 +3053,7 @@
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
       "title": "Beyond Eagle Street Drinks",
       "day": "6",
-      "info": "$21.63 - $32.00"
-    },
-    {
-      "sortindex": 1778054400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ee8cc6bb-606c-467e-9d01-33bc5416cf00.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 3220,
-      "destination": "/?eid=60709",
-      "societyname": "UQ Ladies in Technology",
-      "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
-      "title": "Ladies in Tech Gala! \ud83d\udc96",
-      "day": "6",
-      "info": "$26.81 - $32.00"
+      "info": "$0.00 - $32.00"
     },
     {
       "sortindex": 1778054400,
@@ -3127,6 +3071,20 @@
     },
     {
       "sortindex": 1778054400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ee8cc6bb-606c-467e-9d01-33bc5416cf00.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3220,
+      "destination": "/?eid=60709",
+      "societyname": "UQ Ladies in Technology",
+      "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
+      "title": "Ladies in Tech Gala! \ud83d\udc96",
+      "day": "6",
+      "info": "$26.81 - $32.00"
+    },
+    {
+      "sortindex": 1778054400,
       "image": "https://resources.hellorubric.com/uploaded_assets/58eaf4a2-9581-47f7-b893-1820d45fd3d1.jpg",
       "month": "May",
       "societyAvgRating": 0,
@@ -3138,6 +3096,20 @@
       "title": "Vesak 2026",
       "day": "6",
       "info": "$0.00 - $5.65"
+    },
+    {
+      "sortindex": 1778054400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/18fadce0-993f-4d8b-9770-6919ddbb0b97.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 10456,
+      "destination": "/?eid=61070",
+      "societyname": "UQ Medical Humanities Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+      "title": "May book Club",
+      "day": "6",
+      "info": "Free"
     },
     {
       "sortindex": 1778112000,
@@ -3295,7 +3267,7 @@
     },
     {
       "sortindex": 1778284800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/4312ce3b-5233-4b6b-a4cd-76f082dc58ab.png",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Class/Workshop",
@@ -3490,18 +3462,32 @@
       "info": "Free"
     },
     {
-      "sortindex": 1778659200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "sortindex": 1778580000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/f09cf924-2c06-4d09-8942-8eb030b7cad7.png",
       "month": "May",
       "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 1816,
-      "destination": "/?eid=62637",
-      "societyname": "UQ Speech Pathology and Audiology Student's Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
-      "title": "SPASA Speech x Audiology Trivia Night",
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 57,
+      "destination": "/?eid=63448",
+      "societyname": "University of Queensland Law Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "First Year Dinner",
+      "day": "12",
+      "info": "$31.15"
+    },
+    {
+      "sortindex": 1778652000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5398,
+      "destination": "/?eid=63402",
+      "societyname": "UQ Sustainable Innovators Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+      "title": "Seeds & Talks at UQ Food Forest",
       "day": "13",
-      "info": "$6.08"
+      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1778659200,
@@ -3516,6 +3502,20 @@
       "title": "UQABS Careers in Medicine Night 2026",
       "day": "13",
       "info": "$0.00 - $11.27"
+    },
+    {
+      "sortindex": 1778659200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 1816,
+      "destination": "/?eid=62637",
+      "societyname": "UQ Speech Pathology and Audiology Student's Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
+      "title": "SPASA Speech x Audiology Trivia Night",
+      "day": "13",
+      "info": "$6.08"
     },
     {
       "sortindex": 1778711400,
@@ -3533,20 +3533,6 @@
     },
     {
       "sortindex": 1778743800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c2cbf63c-2294-4778-90e7-be4e8a524f93.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1601,
-      "destination": "/?eid=62014",
-      "societyname": "UQ Skirts in Engineering",
-      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-      "title": "Skirts x EUS Connect Paint and Sip 2026",
-      "day": "14",
-      "info": "$0.00 - $32.00"
-    },
-    {
-      "sortindex": 1778743800,
       "image": "https://resources.hellorubric.com/uploaded_assets/ccc9f29a-b469-429e-8471-2406d97f0d7d.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3560,18 +3546,32 @@
       "info": "Free"
     },
     {
-      "sortindex": 1778745600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/9f8773e3-74f1-45ca-a97b-be3256d4e892.png",
+      "sortindex": 1778743800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/c2cbf63c-2294-4778-90e7-be4e8a524f93.png",
       "month": "May",
       "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 186,
-      "destination": "/?eid=62588",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-      "title": "MASsive Connections ",
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1601,
+      "destination": "/?eid=62014",
+      "societyname": "UQ Skirts in Engineering",
+      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "title": "Skirts x EUS Connect Paint and Sip 2026",
       "day": "14",
-      "info": "$26.81 - $37.18"
+      "info": "$0.00 - $32.00"
+    },
+    {
+      "sortindex": 1778745600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/87a58fb8-5917-41ea-b45c-2b5427760588.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 2401,
+      "destination": "/?eid=63457",
+      "societyname": "UQ Slavic Society",
+      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "title": "Slavic Society End of Sem Dinner",
+      "day": "14",
+      "info": "Free"
     },
     {
       "sortindex": 1778745600,
@@ -3586,6 +3586,20 @@
       "title": "UQLS x Corrs Chambers Westgarth Speed Engagement ",
       "day": "14",
       "info": "$26.05 - $71.96"
+    },
+    {
+      "sortindex": 1778745600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9f8773e3-74f1-45ca-a97b-be3256d4e892.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 186,
+      "destination": "/?eid=62588",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+      "title": "MASsive Connections ",
+      "day": "14",
+      "info": "$26.81 - $37.18"
     },
     {
       "sortindex": 1778747400,
@@ -3742,6 +3756,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1779174000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ff7fd9a7-f6e3-4857-ae5b-9456672ec273.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 5729,
+      "destination": "/?eid=63042",
+      "societyname": "UQ Food Science Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+      "title": "Special General Meeting x Trivia Evening ",
+      "day": "19",
+      "info": "Free"
+    },
+    {
       "sortindex": 1779177600,
       "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
       "month": "May",
@@ -3756,6 +3784,34 @@
       "info": "Free"
     },
     {
+      "sortindex": 1779256800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5398,
+      "destination": "/?eid=63403",
+      "societyname": "UQ Sustainable Innovators Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+      "title": "Seeds & Talks at UQ Food Forest",
+      "day": "20",
+      "info": "$0.00 - $11.27"
+    },
+    {
+      "sortindex": 1779422400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d8fb02d7-6d94-467f-9c1a-2c772d65826f.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3220,
+      "destination": "/?eid=63429",
+      "societyname": "UQ Ladies in Technology",
+      "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
+      "title": "Slime Making Social",
+      "day": "22",
+      "info": "$6.08 - $8.16"
+    },
+    {
       "sortindex": 1779510600,
       "image": "https://resources.hellorubric.com/uploaded_assets/9525b8f3-6087-4848-b689-abc4bc8bc2c0.png",
       "month": "May",
@@ -3768,6 +3824,20 @@
       "title": "Detective Night",
       "day": "23",
       "info": "$27.85 - $33.03"
+    },
+    {
+      "sortindex": 1779861600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5398,
+      "destination": "/?eid=63404",
+      "societyname": "UQ Sustainable Innovators Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+      "title": "Seeds & Talks at UQ Food Forest",
+      "day": "27",
+      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1780041600,
@@ -3810,6 +3880,34 @@
       "title": "Economics Ball 2026: A Night in Disguise",
       "day": "30",
       "info": "$112.76 - $128.06"
+    },
+    {
+      "sortindex": 1780189200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8f0e1996-f563-47c2-b18f-3dc793f840ca.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 7257,
+      "destination": "/?eid=62520",
+      "societyname": "Society of Lifesaving",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+      "title": "Semester 1 Southbank Bash",
+      "day": "31",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1780466400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5398,
+      "destination": "/?eid=63405",
+      "societyname": "UQ Sustainable Innovators Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+      "title": "Seeds & Talks at UQ Food Forest",
+      "day": "3",
+      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1783494000,
