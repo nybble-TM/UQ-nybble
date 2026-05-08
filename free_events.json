@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1778112000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d0d7896e-902c-4160-ab57-d3a96d89fb0a.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 3219,
-    "destination": "/?eid=63100",
-    "societyname": "UQ Anthropology Society",
-    "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
-    "title": "The Nature of the Gift",
-    "day": "7",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1778139000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/c7f836d8-dc2c-42af-9e37-aad291ec1277.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2395,
-    "destination": "/?eid=61533",
-    "societyname": "Gatton International Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
-    "title": "Diversity Night",
-    "day": "7",
-    "info": "Free"
-  },
-  {
     "sortindex": 1778202000,
     "image": "https://resources.hellorubric.com/uploaded_assets/8a98482c-4484-4905-b287-231caa9761b0.png",
     "month": "May",
@@ -168,6 +140,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1778918400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d2e46dc8-9081-4e75-8ca6-6a84c5d8956e.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 7218,
+    "destination": "/?eid=63562",
+    "societyname": "UQ Naatak",
+    "societylogo": "https://resources.getqpay.com/images/64bfdd3478d1f_.png",
+    "title": "UQ Naatak Acting Workshop + Auditions",
+    "day": "16",
+    "info": "Free"
+  },
+  {
     "sortindex": 1779012000,
     "image": "https://resources.hellorubric.com/uploaded_assets/3be804f2-0abe-4769-841f-601637bf4d67.png",
     "month": "May",
@@ -192,6 +178,20 @@
     "societyname": "UQ Food Science Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
     "title": "Special General Meeting x Trivia Evening ",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779177600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ce47f0b3-2000-4668-975d-115f6a1a4e20.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=63547",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+    "title": "Workshop with TFM Digital",
     "day": "19",
     "info": "Free"
   },
