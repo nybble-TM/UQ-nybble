@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1778202000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8a98482c-4484-4905-b287-231caa9761b0.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6994,
-    "destination": "/?eid=61120",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-    "title": "FMAA Women's Coffee Catch-up",
-    "day": "8",
-    "info": "Free"
-  },
-  {
     "sortindex": 1778277600,
     "image": "https://resources.hellorubric.com/uploaded_assets/7b1307b3-fa3e-431a-90a7-19f7cf7bd25d.jpeg",
     "month": "May",
@@ -207,6 +193,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Drive My Car'",
     "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779393600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/79246035-d4c9-44c6-bf5c-dd1ff9e623e5.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 377,
+    "destination": "/?eid=63489",
+    "societyname": "UQ Tourism, Hospitality & Events Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
+    "title": "Industry Q&A Networking Night ",
+    "day": "22",
     "info": "Free"
   },
   {

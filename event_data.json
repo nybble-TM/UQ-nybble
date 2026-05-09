@@ -8,7 +8,6 @@
     "Party/BBQ/Social",
     "Quiz/Trivia",
     "Show/Performance",
-    "Sport/Competition",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -310,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 64,
+  "totalItemCount": 61,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3000,76 +2999,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1778191200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/5a5632d1-f301-426b-b408-8e0336be55ef.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 601,
-      "destination": "/?eid=62646",
-      "societyname": "UQ Union Surfers Inc.",
-      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
-      "title": "UQ Straddie Surf Trip",
-      "day": "8",
-      "info": "$0.00 - $266.24"
-    },
-    {
-      "sortindex": 1778202000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8a98482c-4484-4905-b287-231caa9761b0.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 6994,
-      "destination": "/?eid=61120",
-      "societyname": "Financial Management Association of Australia",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-      "title": "FMAA Women's Coffee Catch-up",
-      "day": "8",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1778220000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/59fa7d3e-db07-4e45-85bb-e4a236373b14.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 3867,
-      "destination": "/?eid=62580",
-      "societyname": "UQ International Students' Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-      "title": "The Amazing Race",
-      "day": "8",
-      "info": "$5.05 - $9.19"
-    },
-    {
-      "sortindex": 1778225400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3a85fa66-cdc0-4526-8dac-90ea1abb48d4.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4430,
-      "destination": "/?eid=48249",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-      "title": "Quick-dry Foam Clay Workshop",
-      "day": "8",
-      "info": "$0.00 - $11.27"
-    },
-    {
-      "sortindex": 1778225400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/80ba7a13-49d8-46fb-bcd1-9734f2dd4d02.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 593,
-      "destination": "/?eid=61977",
-      "societyname": "UQ Chemistry Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
-      "title": "Perfume Night",
-      "day": "8",
-      "info": "$6.08 - $11.27"
-    },
-    {
       "sortindex": 1778277600,
       "image": "https://resources.hellorubric.com/uploaded_assets/7b1307b3-fa3e-431a-90a7-19f7cf7bd25d.jpeg",
       "month": "May",
@@ -3225,17 +3154,17 @@
     },
     {
       "sortindex": 1778572800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Other",
-      "societyid": 5809,
-      "destination": "/?eid=60764",
-      "societyname": "UQ Reality Labs",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
-      "title": "Careers in XR & Games",
+      "societyid": 2225,
+      "destination": "/?eid=60307",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Raise the Red Lantern'",
       "day": "12",
-      "info": "$0.00 - $16.45"
+      "info": "Free"
     },
     {
       "sortindex": 1778572800,
@@ -3253,17 +3182,17 @@
     },
     {
       "sortindex": 1778572800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
+      "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=60307",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Raise the Red Lantern'",
+      "societyid": 5809,
+      "destination": "/?eid=60764",
+      "societyname": "UQ Reality Labs",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
+      "title": "Careers in XR & Games",
       "day": "12",
-      "info": "Free"
+      "info": "$0.00 - $16.45"
     },
     {
       "sortindex": 1778576400,
@@ -3323,20 +3252,6 @@
     },
     {
       "sortindex": 1778659200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 1816,
-      "destination": "/?eid=62637",
-      "societyname": "UQ Speech Pathology and Audiology Student's Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
-      "title": "SPASA Speech x Audiology Trivia Night",
-      "day": "13",
-      "info": "$6.08"
-    },
-    {
-      "sortindex": 1778659200,
       "image": "https://resources.hellorubric.com/uploaded_assets/3214f86e-0af9-4102-934c-7769b85e1640.jpeg",
       "month": "May",
       "societyAvgRating": 0,
@@ -3348,6 +3263,20 @@
       "title": "UQABS Careers in Medicine Night 2026",
       "day": "13",
       "info": "$0.00 - $11.27"
+    },
+    {
+      "sortindex": 1778659200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 1816,
+      "destination": "/?eid=62637",
+      "societyname": "UQ Speech Pathology and Audiology Student's Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
+      "title": "SPASA Speech x Audiology Trivia Night",
+      "day": "13",
+      "info": "$2.97"
     },
     {
       "sortindex": 1778711400,
@@ -3379,20 +3308,6 @@
     },
     {
       "sortindex": 1778743800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ccc9f29a-b469-429e-8471-2406d97f0d7d.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 593,
-      "destination": "/?eid=62819",
-      "societyname": "UQ Chemistry Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
-      "title": "UQCC 2026 SGM and Sherbet Making",
-      "day": "14",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1778743800,
       "image": "https://resources.hellorubric.com/uploaded_assets/c2cbf63c-2294-4778-90e7-be4e8a524f93.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3406,18 +3321,18 @@
       "info": "$0.00 - $32.00"
     },
     {
-      "sortindex": 1778745600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a3ce3dee-d486-4c2f-b622-da88b2b14e67.png",
+      "sortindex": 1778743800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ccc9f29a-b469-429e-8471-2406d97f0d7d.png",
       "month": "May",
       "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 57,
-      "destination": "/?eid=62601",
-      "societyname": "University of Queensland Law Society Inc.",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-      "title": "UQLS x Corrs Chambers Westgarth Speed Engagement ",
+      "subtitle": "Other",
+      "societyid": 593,
+      "destination": "/?eid=62819",
+      "societyname": "UQ Chemistry Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
+      "title": "UQCC 2026 SGM and Sherbet Making",
       "day": "14",
-      "info": "$26.05 - $71.96"
+      "info": "Free"
     },
     {
       "sortindex": 1778745600,
@@ -3446,6 +3361,20 @@
       "title": "MASsive Connections ",
       "day": "14",
       "info": "$26.81 - $37.18"
+    },
+    {
+      "sortindex": 1778745600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a3ce3dee-d486-4c2f-b622-da88b2b14e67.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 57,
+      "destination": "/?eid=62601",
+      "societyname": "University of Queensland Law Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS x Corrs Chambers Westgarth Speed Engagement ",
+      "day": "14",
+      "info": "$26.05 - $71.96"
     },
     {
       "sortindex": 1778747400,
@@ -3700,6 +3629,20 @@
       "info": "$0.00 - $5.72"
     },
     {
+      "sortindex": 1779393600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/79246035-d4c9-44c6-bf5c-dd1ff9e623e5.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 377,
+      "destination": "/?eid=63489",
+      "societyname": "UQ Tourism, Hospitality & Events Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
+      "title": "Industry Q&A Networking Night ",
+      "day": "22",
+      "info": "Free"
+    },
+    {
       "sortindex": 1779422400,
       "image": "https://resources.hellorubric.com/uploaded_assets/d8fb02d7-6d94-467f-9c1a-2c772d65826f.png",
       "month": "May",
@@ -3715,7 +3658,7 @@
     },
     {
       "sortindex": 1779490800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/663d01ed-0dda-4048-a495-91381b4fa206.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/1f9cc426-df62-4b26-a450-d9a86a0f4187.png",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Industry/Career",
@@ -3880,6 +3823,20 @@
       "title": "Suits n' Sarees 2026",
       "day": "24",
       "info": "$87.26 - $128.06"
+    },
+    {
+      "sortindex": 1786150800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_6.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1816,
+      "destination": "/?eid=63653",
+      "societyname": "UQ Speech Pathology and Audiology Student's Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
+      "title": "SPASA Careers & Networking Day",
+      "day": "8",
+      "info": "$11.27 - $52.72"
     },
     {
       "sortindex": 1790377200,
