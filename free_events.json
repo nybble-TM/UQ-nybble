@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1778277600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7b1307b3-fa3e-431a-90a7-19f7cf7bd25d.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 6249,
-    "destination": "/?eid=63032",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA Fun Run 2026",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1778284800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/4312ce3b-5233-4b6b-a4cd-76f082dc58ab.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 6249,
-    "destination": "/?eid=62912",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "Angklung Workshop",
-    "day": "9",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1778299200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/575b9ff2-4943-4b1f-a5fa-beb58add44d0.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 649,
-    "destination": "/?eid=60772",
-    "societyname": "Society of Fine Arts",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-    "title": "QAGOMA Museum Meet Up",
-    "day": "9",
-    "info": "Free"
-  },
-  {
     "sortindex": 1778490000,
     "image": "https://resources.hellorubric.com/uploaded_assets/9f73062b-19e5-4231-9bfb-97e6a6e4e352.jpg",
     "month": "May",
@@ -169,20 +127,6 @@
   },
   {
     "sortindex": 1779177600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ce47f0b3-2000-4668-975d-115f6a1a4e20.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=63547",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-    "title": "Workshop with TFM Digital",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779177600,
     "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
     "month": "May",
     "societyAvgRating": 0,
@@ -196,8 +140,22 @@
     "info": "Free"
   },
   {
+    "sortindex": 1779177600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ce47f0b3-2000-4668-975d-115f6a1a4e20.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=63547",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+    "title": "Workshop with TFM Digital",
+    "day": "19",
+    "info": "Free"
+  },
+  {
     "sortindex": 1779393600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/79246035-d4c9-44c6-bf5c-dd1ff9e623e5.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/03c7cbda-7ecc-4d00-98b7-bd7acd230484.png",
     "month": "May",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",

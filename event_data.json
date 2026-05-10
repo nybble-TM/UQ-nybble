@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 61,
+  "totalItemCount": 56,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2999,76 +2999,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1778277600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7b1307b3-fa3e-431a-90a7-19f7cf7bd25d.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 6249,
-      "destination": "/?eid=63032",
-      "societyname": "UQ Indonesian Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "UQISA Fun Run 2026",
-      "day": "9",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1778284800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/4312ce3b-5233-4b6b-a4cd-76f082dc58ab.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 6249,
-      "destination": "/?eid=62912",
-      "societyname": "UQ Indonesian Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "Angklung Workshop",
-      "day": "9",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1778299200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/575b9ff2-4943-4b1f-a5fa-beb58add44d0.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 649,
-      "destination": "/?eid=60772",
-      "societyname": "Society of Fine Arts",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-      "title": "QAGOMA Museum Meet Up",
-      "day": "9",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1778313600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/10bac158-b520-4a9c-9910-4ece73323bb9.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2224,
-      "destination": "/?eid=61445",
-      "societyname": "UQ Social Runners Club",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2224.png",
-      "title": "UQSRC Sem 1 Get Together",
-      "day": "9",
-      "info": "$15.00"
-    },
-    {
-      "sortindex": 1778313600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d6b7954a-72e4-49e1-b94f-ff4e05ce884c.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 57,
-      "destination": "/?eid=58996",
-      "societyname": "University of Queensland Law Society Inc.",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-      "title": "UQLS Law Ball 2026: At Last I See The Light",
-      "day": "9",
-      "info": "$0.00 - $150.00"
-    },
-    {
       "sortindex": 1778392800,
       "image": "https://resources.hellorubric.com/uploaded_assets/d3638a19-5d4c-4997-8f1f-ef1cc5bc0fbc.jpeg",
       "month": "May",
@@ -3154,6 +3084,20 @@
     },
     {
       "sortindex": 1778572800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 5809,
+      "destination": "/?eid=60764",
+      "societyname": "UQ Reality Labs",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
+      "title": "Careers in XR & Games",
+      "day": "12",
+      "info": "$0.00 - $16.45"
+    },
+    {
+      "sortindex": 1778572800,
       "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
       "month": "May",
       "societyAvgRating": 0,
@@ -3179,20 +3123,6 @@
       "title": "Alumni Networking Night - 180DC UQ x QUT ",
       "day": "12",
       "info": "$6.08 - $11.27"
-    },
-    {
-      "sortindex": 1778572800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 5809,
-      "destination": "/?eid=60764",
-      "societyname": "UQ Reality Labs",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
-      "title": "Careers in XR & Games",
-      "day": "12",
-      "info": "$0.00 - $16.45"
     },
     {
       "sortindex": 1778576400,
@@ -3252,20 +3182,6 @@
     },
     {
       "sortindex": 1778659200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3214f86e-0af9-4102-934c-7769b85e1640.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 1542,
-      "destination": "/?eid=63121",
-      "societyname": "UQ Association of Biomedical Students",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1542.png",
-      "title": "UQABS Careers in Medicine Night 2026",
-      "day": "13",
-      "info": "$0.00 - $11.27"
-    },
-    {
-      "sortindex": 1778659200,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3277,6 +3193,20 @@
       "title": "SPASA Speech x Audiology Trivia Night",
       "day": "13",
       "info": "$2.97"
+    },
+    {
+      "sortindex": 1778661000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3214f86e-0af9-4102-934c-7769b85e1640.jpeg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1542,
+      "destination": "/?eid=63121",
+      "societyname": "UQ Association of Biomedical Students",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1542.png",
+      "title": "UQABS Careers in Medicine Night 2026",
+      "day": "13",
+      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1778711400,
@@ -3336,6 +3266,20 @@
     },
     {
       "sortindex": 1778745600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a3ce3dee-d486-4c2f-b622-da88b2b14e67.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 57,
+      "destination": "/?eid=62601",
+      "societyname": "University of Queensland Law Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS x Corrs Chambers Westgarth Speed Engagement ",
+      "day": "14",
+      "info": "$26.05 - $71.96"
+    },
+    {
+      "sortindex": 1778745600,
       "image": "https://resources.hellorubric.com/uploaded_assets/87a58fb8-5917-41ea-b45c-2b5427760588.jpg",
       "month": "May",
       "societyAvgRating": 0,
@@ -3361,20 +3305,6 @@
       "title": "MASsive Connections ",
       "day": "14",
       "info": "$26.81 - $37.18"
-    },
-    {
-      "sortindex": 1778745600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a3ce3dee-d486-4c2f-b622-da88b2b14e67.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 57,
-      "destination": "/?eid=62601",
-      "societyname": "University of Queensland Law Society Inc.",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-      "title": "UQLS x Corrs Chambers Westgarth Speed Engagement ",
-      "day": "14",
-      "info": "$26.05 - $71.96"
     },
     {
       "sortindex": 1778747400,
@@ -3560,20 +3490,6 @@
     },
     {
       "sortindex": 1779177600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ce47f0b3-2000-4668-975d-115f6a1a4e20.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 186,
-      "destination": "/?eid=63547",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-      "title": "Workshop with TFM Digital",
-      "day": "19",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779177600,
       "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
       "month": "May",
       "societyAvgRating": 0,
@@ -3583,6 +3499,20 @@
       "societyname": "UQ Film Appreciation Society",
       "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
       "title": "UQFAS Presents 'Drive My Car'",
+      "day": "19",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1779177600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ce47f0b3-2000-4668-975d-115f6a1a4e20.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 186,
+      "destination": "/?eid=63547",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+      "title": "Workshop with TFM Digital",
       "day": "19",
       "info": "Free"
     },
@@ -3630,7 +3560,7 @@
     },
     {
       "sortindex": 1779393600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/79246035-d4c9-44c6-bf5c-dd1ff9e623e5.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/03c7cbda-7ecc-4d00-98b7-bd7acd230484.png",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Industry/Career",
