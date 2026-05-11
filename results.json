@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1778392800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d3638a19-5d4c-4997-8f1f-ef1cc5bc0fbc.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2268,
-    "destination": "/?eid=58703",
-    "societyname": "UQ Wine and Cheese Club",
-    "societylogo": "https://resources.getqpay.com/images/63ec094beecf6_.png",
-    "title": "UQWACC @ Maritime Museum 2026",
-    "day": "10",
-    "info": "$37.18 - $42.36"
-  },
-  {
     "sortindex": 1778486400,
     "image": "https://resources.hellorubric.com/uploaded_assets/84ab12b1-6670-4cdd-b3cd-7d65fea19b38.png",
     "month": "May",
@@ -85,20 +71,6 @@
   },
   {
     "sortindex": 1778572800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 5809,
-    "destination": "/?eid=60764",
-    "societyname": "UQ Reality Labs",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
-    "title": "Careers in XR & Games",
-    "day": "12",
-    "info": "$0.00 - $16.45"
-  },
-  {
-    "sortindex": 1778572800,
     "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
     "month": "May",
     "societyAvgRating": 0,
@@ -110,6 +82,20 @@
     "title": "UQFAS Presents 'Raise the Red Lantern'",
     "day": "12",
     "info": "Free"
+  },
+  {
+    "sortindex": 1778572800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/92988d2b-ddb0-4f72-b660-99c2e74ec02a.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 5809,
+    "destination": "/?eid=60764",
+    "societyname": "UQ Reality Labs",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
+    "title": "Careers in XR & Games",
+    "day": "12",
+    "info": "$0.00 - $16.45"
   },
   {
     "sortindex": 1778572800,
@@ -238,18 +224,32 @@
     "info": "$0.00 - $9.19"
   },
   {
-    "sortindex": 1778743800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/c2cbf63c-2294-4778-90e7-be4e8a524f93.png",
+    "sortindex": 1778738400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5b36257a-cc0c-4fa0-b065-b3455ddedabb.jpg",
     "month": "May",
     "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1601,
-    "destination": "/?eid=62014",
-    "societyname": "UQ Skirts in Engineering",
-    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-    "title": "Skirts x EUS Connect Paint and Sip 2026",
+    "subtitle": "Class/Workshop",
+    "societyid": 7597,
+    "destination": "/?eid=63713",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "UQB x UQKDC: No Bake & KPop Dance Class",
     "day": "14",
-    "info": "$0.00 - $32.00"
+    "info": "$4.01 - $6.08"
+  },
+  {
+    "sortindex": 1778738400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/93f93169-68b5-4216-b9ab-04a08cc4d58d.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 8824,
+    "destination": "/?eid=63731",
+    "societyname": "UQ Society of Australia Awards Scholars",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
+    "title": "2026 UQSAAS Peer-To-Peer Knowledge Sharing ",
+    "day": "14",
+    "info": "Free"
   },
   {
     "sortindex": 1778743800,
@@ -266,18 +266,18 @@
     "info": "Free"
   },
   {
-    "sortindex": 1778745600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/a3ce3dee-d486-4c2f-b622-da88b2b14e67.png",
+    "sortindex": 1778743800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c2cbf63c-2294-4778-90e7-be4e8a524f93.png",
     "month": "May",
     "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 57,
-    "destination": "/?eid=62601",
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "UQLS x Corrs Chambers Westgarth Speed Engagement ",
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1601,
+    "destination": "/?eid=62014",
+    "societyname": "UQ Skirts in Engineering",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Skirts x EUS Connect Paint and Sip 2026",
     "day": "14",
-    "info": "$26.05 - $71.96"
+    "info": "$0.00 - $32.00"
   },
   {
     "sortindex": 1778745600,
@@ -292,6 +292,20 @@
     "title": "Slavic Society End of Sem Dinner",
     "day": "14",
     "info": "Free"
+  },
+  {
+    "sortindex": 1778745600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a3ce3dee-d486-4c2f-b622-da88b2b14e67.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 57,
+    "destination": "/?eid=62601",
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "UQLS x Corrs Chambers Westgarth Speed Engagement ",
+    "day": "14",
+    "info": "$26.05 - $71.96"
   },
   {
     "sortindex": 1778745600,
@@ -320,6 +334,20 @@
     "title": "UNIT x UQWN Mergers & Acquisitions Evening 2026",
     "day": "14",
     "info": "$42.36"
+  },
+  {
+    "sortindex": 1778799600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_9.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 547,
+    "destination": "/?eid=63728",
+    "societyname": "UQ Geography and Environmental Management Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
+    "title": "POSTGRADUATE COFFEE CATCH UP - UQ GEMS ",
+    "day": "15",
+    "info": "Free"
   },
   {
     "sortindex": 1778799600,
@@ -491,20 +519,6 @@
   },
   {
     "sortindex": 1779177600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60310",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Drive My Car'",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779177600,
     "image": "https://resources.hellorubric.com/uploaded_assets/ce47f0b3-2000-4668-975d-115f6a1a4e20.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -514,6 +528,20 @@
     "societyname": "UQ Marketing & Advertising Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
     "title": "Workshop with TFM Digital",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779177600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=60310",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Drive My Car'",
     "day": "19",
     "info": "Free"
   },
@@ -558,6 +586,20 @@
     "title": "Intro to Head Trauma and CVAs",
     "day": "21",
     "info": "$0.00 - $5.72"
+  },
+  {
+    "sortindex": 1779350400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/72e67ac8-1cd2-421c-bad6-46fa7a54aa46.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 6808,
+    "destination": "/?eid=63688",
+    "societyname": "UQ Neurological Society",
+    "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
+    "title": "UQNS Research Information Event ",
+    "day": "21",
+    "info": "$6.08 - $11.27"
   },
   {
     "sortindex": 1779393600,
@@ -644,6 +686,34 @@
     "info": "$86.81 - $95.17"
   },
   {
+    "sortindex": 1780056000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3a61997b-1a02-42bc-b46f-0c0ec0f7f090.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 181,
+    "destination": "/?eid=63736",
+    "societyname": "UQ International Law Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/11649d40-9196-4f3f-b703-0fe38711f6d0.png",
+    "title": "ILS x PSIR x CCJS End of Sem Party",
+    "day": "29",
+    "info": "$6.08 - $11.27"
+  },
+  {
+    "sortindex": 1780120800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f524bbbd-9760-4884-bc5b-1ea36bb9ca7f.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 534,
+    "destination": "/?eid=63733",
+    "societyname": "Queensland University Exchange Students Society Inc.",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+    "title": "F*CK'D UP 5K ",
+    "day": "30",
+    "info": "$11.27"
+  },
+  {
     "sortindex": 1780129800,
     "image": "https://resources.hellorubric.com/uploaded_assets/5a62ee11-fd50-44d2-93c8-1004c2fbe02a.png",
     "month": "May",
@@ -698,6 +768,20 @@
     "title": "Seeds & Talks at UQ Food Forest",
     "day": "3",
     "info": "$0.00 - $11.27"
+  },
+  {
+    "sortindex": 1781942400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c453e4a7-48a9-4414-988f-5da25ea9ce67.jpg",
+    "month": "June",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1926,
+    "destination": "/?eid=63742",
+    "societyname": "QLD Physiotherapy Students Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6b9fca3-5065-442e-90bb-4817555da1f7.png",
+    "title": "\u2744\ufe0f\u26f7\ufe0f END OF SEMESTER PARTY: APRES SKI \u26f7\ufe0f\u2744\ufe0f",
+    "day": "20",
+    "info": "$13.34 - $17.48"
   },
   {
     "sortindex": 1782510600,

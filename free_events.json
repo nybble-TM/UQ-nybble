@@ -42,6 +42,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1778738400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/93f93169-68b5-4216-b9ab-04a08cc4d58d.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 8824,
+    "destination": "/?eid=63731",
+    "societyname": "UQ Society of Australia Awards Scholars",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
+    "title": "2026 UQSAAS Peer-To-Peer Knowledge Sharing ",
+    "day": "14",
+    "info": "Free"
+  },
+  {
     "sortindex": 1778743800,
     "image": "https://resources.hellorubric.com/uploaded_assets/ccc9f29a-b469-429e-8471-2406d97f0d7d.png",
     "month": "May",
@@ -67,6 +81,20 @@
     "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
     "title": "Slavic Society End of Sem Dinner",
     "day": "14",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778799600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_9.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 547,
+    "destination": "/?eid=63728",
+    "societyname": "UQ Geography and Environmental Management Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
+    "title": "POSTGRADUATE COFFEE CATCH UP - UQ GEMS ",
+    "day": "15",
     "info": "Free"
   },
   {
@@ -127,20 +155,6 @@
   },
   {
     "sortindex": 1779177600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60310",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Drive My Car'",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779177600,
     "image": "https://resources.hellorubric.com/uploaded_assets/ce47f0b3-2000-4668-975d-115f6a1a4e20.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -150,6 +164,20 @@
     "societyname": "UQ Marketing & Advertising Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
     "title": "Workshop with TFM Digital",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779177600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=60310",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Drive My Car'",
     "day": "19",
     "info": "Free"
   },
