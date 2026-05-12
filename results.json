@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1778486400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/84ab12b1-6670-4cdd-b3cd-7d65fea19b38.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 1539,
-    "destination": "/?eid=60284",
-    "societyname": "UQ Women in Science Association",
-    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
-    "title": "Industry Networking Night",
-    "day": "11",
-    "info": "$6.08 - $16.45"
-  },
-  {
-    "sortindex": 1778490000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/9f73062b-19e5-4231-9bfb-97e6a6e4e352.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 2332,
-    "destination": "/?eid=62539",
-    "societyname": "University Network for Investing and Trading (UQ)",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "title": "UNIT Trivia Night Semester 1",
-    "day": "11",
-    "info": "Free"
-  },
-  {
     "sortindex": 1778540400,
     "image": "https://resources.hellorubric.com/uploaded_assets/a974a918-d8be-4981-a022-a40b4ce7c7b1.jpg",
     "month": "May",
@@ -71,6 +43,20 @@
   },
   {
     "sortindex": 1778572800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f73cbe0d-54d9-4684-afe3-c0a0ca15c6cc.jpeg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2409,
+    "destination": "/?eid=61893",
+    "societyname": "180 Degrees Consulting - The University of Queensland Branch",
+    "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
+    "title": "Alumni Networking Night - 180DC UQ x QUT ",
+    "day": "12",
+    "info": "$6.08 - $11.27"
+  },
+  {
+    "sortindex": 1778572800,
     "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
     "month": "May",
     "societyAvgRating": 0,
@@ -96,20 +82,6 @@
     "title": "Careers in XR & Games",
     "day": "12",
     "info": "$0.00 - $16.45"
-  },
-  {
-    "sortindex": 1778572800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f73cbe0d-54d9-4684-afe3-c0a0ca15c6cc.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2409,
-    "destination": "/?eid=61893",
-    "societyname": "180 Degrees Consulting - The University of Queensland Branch",
-    "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
-    "title": "Alumni Networking Night - 180DC UQ x QUT ",
-    "day": "12",
-    "info": "$6.08 - $11.27"
   },
   {
     "sortindex": 1778576400,
@@ -141,20 +113,6 @@
   },
   {
     "sortindex": 1778652000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 5398,
-    "destination": "/?eid=63402",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Seeds & Talks at UQ Food Forest",
-    "day": "13",
-    "info": "$0.00 - $11.27"
-  },
-  {
-    "sortindex": 1778652000,
     "image": "https://resources.hellorubric.com/uploaded_assets/d2e98f39-8fac-460b-880a-3de4bb181d87.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -166,6 +124,20 @@
     "title": "High Tea & Crafts (UQB x UQTH&E)",
     "day": "13",
     "info": "$8.16 - $11.27"
+  },
+  {
+    "sortindex": 1778652000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 5398,
+    "destination": "/?eid=63402",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Seeds & Talks at UQ Food Forest",
+    "day": "13",
+    "info": "$0.00 - $11.27"
   },
   {
     "sortindex": 1778659200,
@@ -225,20 +197,6 @@
   },
   {
     "sortindex": 1778738400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5b36257a-cc0c-4fa0-b065-b3455ddedabb.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 7597,
-    "destination": "/?eid=63713",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "title": "UQB x UQKDC: No Bake & KPop Dance Class",
-    "day": "14",
-    "info": "$4.01 - $6.08"
-  },
-  {
-    "sortindex": 1778738400,
     "image": "https://resources.hellorubric.com/uploaded_assets/93f93169-68b5-4216-b9ab-04a08cc4d58d.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -250,6 +208,20 @@
     "title": "2026 UQSAAS Peer-To-Peer Knowledge Sharing ",
     "day": "14",
     "info": "Free"
+  },
+  {
+    "sortindex": 1778738400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5b36257a-cc0c-4fa0-b065-b3455ddedabb.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 7597,
+    "destination": "/?eid=63713",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "UQB x UQKDC: No Bake & KPop Dance Class",
+    "day": "14",
+    "info": "$4.01 - $6.08"
   },
   {
     "sortindex": 1778743800,
@@ -281,20 +253,6 @@
   },
   {
     "sortindex": 1778745600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/87a58fb8-5917-41ea-b45c-2b5427760588.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 2401,
-    "destination": "/?eid=63457",
-    "societyname": "UQ Slavic Society",
-    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-    "title": "Slavic Society End of Sem Dinner",
-    "day": "14",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1778745600,
     "image": "https://resources.hellorubric.com/uploaded_assets/a3ce3dee-d486-4c2f-b622-da88b2b14e67.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -306,6 +264,20 @@
     "title": "UQLS x Corrs Chambers Westgarth Speed Engagement ",
     "day": "14",
     "info": "$26.05 - $71.96"
+  },
+  {
+    "sortindex": 1778745600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/87a58fb8-5917-41ea-b45c-2b5427760588.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 2401,
+    "destination": "/?eid=63457",
+    "societyname": "UQ Slavic Society",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Slavic Society End of Sem Dinner",
+    "day": "14",
+    "info": "Free"
   },
   {
     "sortindex": 1778745600,
@@ -337,7 +309,7 @@
   },
   {
     "sortindex": 1778799600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_9.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/5f7f5b90-34c5-4956-bbaf-d9ecf179ffca.png",
     "month": "May",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -347,7 +319,7 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
     "title": "POSTGRADUATE COFFEE CATCH UP - UQ GEMS ",
     "day": "15",
-    "info": "Free"
+    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1778799600,
@@ -504,6 +476,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1779170400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ca32bb0f-a712-4f1b-ac7b-6fe5b6aa4111.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 14889,
+    "destination": "/?eid=63755",
+    "societyname": "Social Science Society UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/465b8e8d-405b-49d5-a4f8-43b18a602ce0.png",
+    "title": "\"Mapping Our Worlds\" Zine-Making Night ",
+    "day": "19",
+    "info": "$2.97"
+  },
+  {
     "sortindex": 1779174000,
     "image": "https://resources.hellorubric.com/uploaded_assets/ff7fd9a7-f6e3-4857-ae5b-9456672ec273.jpg",
     "month": "May",
@@ -519,20 +505,6 @@
   },
   {
     "sortindex": 1779177600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ce47f0b3-2000-4668-975d-115f6a1a4e20.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=63547",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-    "title": "Workshop with TFM Digital",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779177600,
     "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
     "month": "May",
     "societyAvgRating": 0,
@@ -542,6 +514,20 @@
     "societyname": "UQ Film Appreciation Society",
     "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
     "title": "UQFAS Presents 'Drive My Car'",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779177600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/024a7c67-b65b-4e2d-82af-9712aa5c6473.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=63547",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+    "title": "Workshop with TFM Digital",
     "day": "19",
     "info": "Free"
   },
@@ -658,6 +644,20 @@
     "info": "$26.00 - $33.03"
   },
   {
+    "sortindex": 1779696000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 57,
+    "destination": "/?eid=63752",
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "Allens x UQLS Drag Queen Trivia",
+    "day": "25",
+    "info": "$20.00"
+  },
+  {
     "sortindex": 1779861600,
     "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
     "month": "May",
@@ -709,7 +709,7 @@
     "destination": "/?eid=63733",
     "societyname": "Queensland University Exchange Students Society Inc.",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-    "title": "F*CK'D UP 5K ",
+    "title": "F*CK'D UP 5K",
     "day": "30",
     "info": "$11.27"
   },
