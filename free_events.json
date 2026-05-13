@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1778572800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/195ca0fb-f63f-49a4-b5d2-8ce31bfafe05.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60307",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Raise the Red Lantern'",
-    "day": "12",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1778576400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5e315e8f-97bc-4924-9d3d-03f4e0be5b28.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1862,
-    "destination": "/?eid=61579",
-    "societyname": "The UQ Economics Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
-    "title": "Federal Budget Viewing Party",
-    "day": "12",
-    "info": "Free"
-  },
-  {
     "sortindex": 1778738400,
     "image": "https://resources.hellorubric.com/uploaded_assets/93f93169-68b5-4216-b9ab-04a08cc4d58d.png",
     "month": "May",
@@ -80,6 +52,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "UQ Jarden Event",
+    "day": "15",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1778821200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_11.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 8824,
+    "destination": "/?eid=63874",
+    "societyname": "UQ Society of Australia Awards Scholars",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
+    "title": "UQSAAS ZUMBA WELNESS SESSION",
     "day": "15",
     "info": "Free"
   },
@@ -154,7 +140,35 @@
     "info": "Free"
   },
   {
-    "sortindex": 1779393600,
+    "sortindex": 1779346800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 8824,
+    "destination": "/?eid=63875",
+    "societyname": "UQ Society of Australia Awards Scholars",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
+    "title": "UQSAAS PILATE WELLNESS SESSION",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779352200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a91b336d-0145-41b3-8633-5f1f906bfaa2.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=63537",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "Zine Workshop Collaboration",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779436800,
     "image": "https://resources.hellorubric.com/uploaded_assets/03c7cbda-7ecc-4d00-98b7-bd7acd230484.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -165,6 +179,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
     "title": "Industry Q&A Networking Night ",
     "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779494400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/aac156f3-dfc0-4729-a13e-229d7885b7b7.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 6249,
+    "destination": "/?eid=63819",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISA Talk #1",
+    "day": "23",
     "info": "Free"
   },
   {
