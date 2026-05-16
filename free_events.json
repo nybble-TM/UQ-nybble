@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1778815800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/4f46f54a-a8e9-43c4-a5fa-e057283ea559.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=62557",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-    "title": "UQ Jarden Event",
-    "day": "15",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1778821200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_11.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 8824,
-    "destination": "/?eid=63874",
-    "societyname": "UQ Society of Australia Awards Scholars",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
-    "title": "UQSAAS ZUMBA WELNESS SESSION",
-    "day": "15",
-    "info": "Free"
-  },
-  {
     "sortindex": 1778918400,
     "image": "https://resources.hellorubric.com/uploaded_assets/d2e46dc8-9081-4e75-8ca6-6a84c5d8956e.png",
     "month": "May",
@@ -56,6 +28,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1779085800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/68603895-a10e-4d1e-9d64-de4a86a5046e.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2232,
+    "destination": "/?eid=64021",
+    "societyname": "Australia-China Youth Association at UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/75b570ee-75da-4464-890c-26a803bc3e1f.png",
+    "title": "Career Planning & Resume Workshop",
+    "day": "18",
+    "info": "Free"
+  },
+  {
     "sortindex": 1779174000,
     "image": "https://resources.hellorubric.com/uploaded_assets/ff7fd9a7-f6e3-4857-ae5b-9456672ec273.jpg",
     "month": "May",
@@ -71,20 +57,6 @@
   },
   {
     "sortindex": 1779177600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60310",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Drive My Car'",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779177600,
     "image": "https://resources.hellorubric.com/uploaded_assets/024a7c67-b65b-4e2d-82af-9712aa5c6473.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -94,6 +66,20 @@
     "societyname": "UQ Marketing & Advertising Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
     "title": "Workshop with TFM Digital",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779177600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=60310",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Drive My Car'",
     "day": "19",
     "info": "Free"
   },
