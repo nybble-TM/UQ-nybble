@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 47,
+  "totalItemCount": 48,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2999,34 +2999,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1778902200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/1f19511e-0572-4abe-b887-68b596aadaaf.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2235,
-      "destination": "/?eid=62702",
-      "societyname": "UQ Photography Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
-      "title": "Lake Maroon Astrophotography Trip",
-      "day": "16",
-      "info": "$17.00 - $37.18"
-    },
-    {
-      "sortindex": 1778918400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d2e46dc8-9081-4e75-8ca6-6a84c5d8956e.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 7218,
-      "destination": "/?eid=63562",
-      "societyname": "UQ Naatak",
-      "societylogo": "https://resources.getqpay.com/images/64bfdd3478d1f_.png",
-      "title": "UQ Naatak Acting Workshop + Auditions",
-      "day": "16",
-      "info": "Free"
-    },
-    {
       "sortindex": 1778970600,
       "image": "https://resources.hellorubric.com/uploaded_assets/3b5df0ec-eb3a-4dc9-955a-9613214ed5b9.jpeg",
       "month": "May",
@@ -3126,20 +3098,6 @@
     },
     {
       "sortindex": 1779177600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/024a7c67-b65b-4e2d-82af-9712aa5c6473.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 186,
-      "destination": "/?eid=63547",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-      "title": "Workshop with TFM Digital",
-      "day": "19",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779177600,
       "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
       "month": "May",
       "societyAvgRating": 0,
@@ -3149,6 +3107,20 @@
       "societyname": "UQ Film Appreciation Society",
       "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
       "title": "UQFAS Presents 'Drive My Car'",
+      "day": "19",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1779177600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/024a7c67-b65b-4e2d-82af-9712aa5c6473.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 186,
+      "destination": "/?eid=63547",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+      "title": "Workshop with TFM Digital",
       "day": "19",
       "info": "Free"
     },
@@ -3321,6 +3293,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1779438600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/21927d4c-5155-461a-9560-33b3a980e884.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1404,
+      "destination": "/?eid=64051",
+      "societyname": "UQ Singapore Students' Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
+      "title": "UQSSS x UQTSA: Movie Night ",
+      "day": "22",
+      "info": "$6.08 - $11.27"
+    },
+    {
       "sortindex": 1779490800,
       "image": "https://resources.hellorubric.com/uploaded_assets/1f9cc426-df62-4b26-a450-d9a86a0f4187.png",
       "month": "May",
@@ -3419,6 +3405,20 @@
       "info": "$0.00 - $11.27"
     },
     {
+      "sortindex": 1779922800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2f18b69d-bc76-4961-b572-37bb973afb5e.jpeg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3855,
+      "destination": "/?eid=64053",
+      "societyname": "UQ Women in Business Economics and Law Society",
+      "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+      "title": "UQWiBELS Study Sisters - Semester 1, 2026",
+      "day": "28",
+      "info": "Free"
+    },
+    {
       "sortindex": 1779955200,
       "image": "https://resources.hellorubric.com/uploaded_assets/e6d797dd-aadb-4122-a9ae-e27e68aedf04.png",
       "month": "May",
@@ -3431,6 +3431,20 @@
       "title": "UQNS Research Networking Event ",
       "day": "28",
       "info": "$11.27 - $21.63"
+    },
+    {
+      "sortindex": 1779957000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9174739a-19fa-4007-99ea-fc01515ea9ce.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 3147,
+      "destination": "/?eid=64065",
+      "societyname": "The UQ Women's Network",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
+      "title": "UQWN x McKinsey Scholarship Event",
+      "day": "28",
+      "info": "Free"
     },
     {
       "sortindex": 1780041600,
