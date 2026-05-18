@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1779012000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3be804f2-0abe-4769-841f-601637bf4d67.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Show/Performance",
-    "societyid": 10976,
-    "destination": "/?eid=63041",
-    "societyname": "UQ Punjabi Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
-    "title": "RCB vs PBKS: IPL Screening",
-    "day": "17",
-    "info": "Free"
-  },
-  {
     "sortindex": 1779085800,
     "image": "https://resources.hellorubric.com/uploaded_assets/68603895-a10e-4d1e-9d64-de4a86a5046e.png",
     "month": "May",
@@ -43,20 +29,6 @@
   },
   {
     "sortindex": 1779177600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60310",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Drive My Car'",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779177600,
     "image": "https://resources.hellorubric.com/uploaded_assets/024a7c67-b65b-4e2d-82af-9712aa5c6473.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -66,6 +38,20 @@
     "societyname": "UQ Marketing & Advertising Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
     "title": "Workshop with TFM Digital",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779177600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2225,
+    "destination": "/?eid=60310",
+    "societyname": "UQ Film Appreciation Society",
+    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+    "title": "UQFAS Presents 'Drive My Car'",
     "day": "19",
     "info": "Free"
   },
@@ -80,6 +66,20 @@
     "societyname": "UQ Society of Australia Awards Scholars",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
     "title": "UQSAAS PILATE WELLNESS SESSION",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779349500,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7ce634c9-05f7-40f3-bcde-9a2d0e083d61.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 547,
+    "destination": "/?eid=64068",
+    "societyname": "UQ Geography and Environmental Management Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
+    "title": "Tier 1 Feature Night ",
     "day": "21",
     "info": "Free"
   },
@@ -136,6 +136,20 @@
     "societyname": "UQ Women in Business Economics and Law Society",
     "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
     "title": "UQWiBELS Study Sisters - Semester 1, 2026",
+    "day": "28",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779926400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/afb93ec0-b789-4ec3-9c3e-edb5d3af52cb.jpg",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 358,
+    "destination": "/?eid=64080",
+    "societyname": "UQ African Students Association",
+    "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+    "title": "ASA Study session",
     "day": "28",
     "info": "Free"
   },

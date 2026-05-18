@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 48,
+  "totalItemCount": 47,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2999,48 +2999,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1778970600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3b5df0ec-eb3a-4dc9-955a-9613214ed5b9.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 3072,
-      "destination": "/?eid=61888",
-      "societyname": "UQ O&G Medicine",
-      "societylogo": "https://resources.getqpay.com/images/63dad8dfe279f_.png",
-      "title": "Women's Health Skills Day - GPSN x O&G x PVOGS ",
-      "day": "17",
-      "info": "$11.27 - $16.45"
-    },
-    {
-      "sortindex": 1778994000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/5cab54bc-a7c4-4c73-b5fc-6a6db8c9cf92.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 5398,
-      "destination": "/?eid=63026",
-      "societyname": "UQ Sustainable Innovators Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-      "title": "Urban Growers Gathering",
-      "day": "17",
-      "info": "$0.00 - $10.23"
-    },
-    {
-      "sortindex": 1779012000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3be804f2-0abe-4769-841f-601637bf4d67.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Show/Performance",
-      "societyid": 10976,
-      "destination": "/?eid=63041",
-      "societyname": "UQ Punjabi Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
-      "title": "RCB vs PBKS: IPL Screening",
-      "day": "17",
-      "info": "Free"
-    },
-    {
       "sortindex": 1779085800,
       "image": "https://resources.hellorubric.com/uploaded_assets/68603895-a10e-4d1e-9d64-de4a86a5046e.png",
       "month": "May",
@@ -3098,20 +3056,6 @@
     },
     {
       "sortindex": 1779177600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=60310",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Drive My Car'",
-      "day": "19",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779177600,
       "image": "https://resources.hellorubric.com/uploaded_assets/024a7c67-b65b-4e2d-82af-9712aa5c6473.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3121,6 +3065,20 @@
       "societyname": "UQ Marketing & Advertising Society",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
       "title": "Workshop with TFM Digital",
+      "day": "19",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1779177600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=60310",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents 'Drive My Car'",
       "day": "19",
       "info": "Free"
     },
@@ -3207,6 +3165,20 @@
       "title": "Intro to Head Trauma and CVAs",
       "day": "21",
       "info": "$0.00 - $5.72"
+    },
+    {
+      "sortindex": 1779349500,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7ce634c9-05f7-40f3-bcde-9a2d0e083d61.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 547,
+      "destination": "/?eid=64068",
+      "societyname": "UQ Geography and Environmental Management Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
+      "title": "Tier 1 Feature Night ",
+      "day": "21",
+      "info": "Free"
     },
     {
       "sortindex": 1779350400,
@@ -3322,20 +3294,6 @@
     },
     {
       "sortindex": 1779494400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/aac156f3-dfc0-4729-a13e-229d7885b7b7.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 6249,
-      "destination": "/?eid=63819",
-      "societyname": "UQ Indonesian Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "UQISA Talk #1",
-      "day": "23",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779494400,
       "image": "https://resources.hellorubric.com/uploaded_assets/72fe6c39-6026-4051-bc03-e7304be8d518.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3347,6 +3305,20 @@
       "title": "Sisters Self Defence",
       "day": "23",
       "info": "$11.27 - $14.38"
+    },
+    {
+      "sortindex": 1779494400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/aac156f3-dfc0-4729-a13e-229d7885b7b7.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 6249,
+      "destination": "/?eid=63819",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "UQISA Talk #1",
+      "day": "23",
+      "info": "Free"
     },
     {
       "sortindex": 1779510600,
@@ -3372,9 +3344,9 @@
       "destination": "/?eid=63752",
       "societyname": "University of Queensland Law Society Inc.",
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-      "title": "Allens x UQLS Drag Queen Trivia",
+      "title": "Allens x UQLS Drag Queen Trivia ",
       "day": "25",
-      "info": "$20.00"
+      "info": "$20.95"
     },
     {
       "sortindex": 1779778800,
@@ -3415,6 +3387,20 @@
       "societyname": "UQ Women in Business Economics and Law Society",
       "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
       "title": "UQWiBELS Study Sisters - Semester 1, 2026",
+      "day": "28",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1779926400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/afb93ec0-b789-4ec3-9c3e-edb5d3af52cb.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 358,
+      "destination": "/?eid=64080",
+      "societyname": "UQ African Students Association",
+      "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+      "title": "ASA Study session",
       "day": "28",
       "info": "Free"
     },
@@ -3489,20 +3475,6 @@
       "info": "$11.27"
     },
     {
-      "sortindex": 1780129800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/5a62ee11-fd50-44d2-93c8-1004c2fbe02a.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 3932,
-      "destination": "/?eid=63113",
-      "societyname": "Queensland Pharmacy Students' Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-      "title": "QPSA x QUTSPA Charity Gala",
-      "day": "30",
-      "info": "$51.17"
-    },
-    {
       "sortindex": 1780131600,
       "image": "https://resources.hellorubric.com/uploaded_assets/a0850d32-ffa4-4fa8-8062-2e1948eb936b.png",
       "month": "May",
@@ -3515,6 +3487,20 @@
       "title": "Economics Ball 2026: A Night in Disguise",
       "day": "30",
       "info": "$112.76 - $128.06"
+    },
+    {
+      "sortindex": 1780133400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/5a62ee11-fd50-44d2-93c8-1004c2fbe02a.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 3932,
+      "destination": "/?eid=63113",
+      "societyname": "Queensland Pharmacy Students' Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+      "title": "QPSA x QUTSPA Charity Gala",
+      "day": "30",
+      "info": "$51.17"
     },
     {
       "sortindex": 1780189200,
