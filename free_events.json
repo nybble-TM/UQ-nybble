@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1779085800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/68603895-a10e-4d1e-9d64-de4a86a5046e.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2232,
-    "destination": "/?eid=64021",
-    "societyname": "Australia-China Youth Association at UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/75b570ee-75da-4464-890c-26a803bc3e1f.png",
-    "title": "Career Planning & Resume Workshop",
-    "day": "18",
-    "info": "Free"
-  },
-  {
     "sortindex": 1779174000,
     "image": "https://resources.hellorubric.com/uploaded_assets/ff7fd9a7-f6e3-4857-ae5b-9456672ec273.jpg",
     "month": "May",
@@ -112,8 +98,22 @@
     "info": "Free"
   },
   {
-    "sortindex": 1779494400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/aac156f3-dfc0-4729-a13e-229d7885b7b7.jpg",
+    "sortindex": 1779485400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2b98cc3f-c33f-4932-9c90-fa7bd096fbd1.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 8116,
+    "destination": "/?eid=64151",
+    "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
+    "title": "Sandy Camp Wetlands Reserve Bird Walk",
+    "day": "23",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779505200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/397075c9-31e0-41cd-b1b8-ade840cbd062.jpg",
     "month": "May",
     "societyAvgRating": 0,
     "subtitle": "Class/Workshop",
