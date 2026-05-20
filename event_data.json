@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 47,
+  "totalItemCount": 48,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -875,7 +875,7 @@
     },
     {
       "country": "CA",
-      "logo_url": "https://resources.getqpay.com/images/university_logos/185.jpg",
+      "logo_url": "https://resources.hellorubric.com/images/university_logos/512.png",
       "name": "University of British Columbia Okanagan",
       "id": 512,
       "state": "British Columbia",
@@ -2999,62 +2999,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1779170400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ca32bb0f-a712-4f1b-ac7b-6fe5b6aa4111.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 14889,
-      "destination": "/?eid=63755",
-      "societyname": "Social Science Society UQ",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/465b8e8d-405b-49d5-a4f8-43b18a602ce0.png",
-      "title": "\"Mapping Our Worlds\" Zine-Making Night ",
-      "day": "19",
-      "info": "$2.97"
-    },
-    {
-      "sortindex": 1779174000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ff7fd9a7-f6e3-4857-ae5b-9456672ec273.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 5729,
-      "destination": "/?eid=63042",
-      "societyname": "UQ Food Science Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-      "title": "Special General Meeting x Trivia Evening ",
-      "day": "19",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779177600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/024a7c67-b65b-4e2d-82af-9712aa5c6473.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 186,
-      "destination": "/?eid=63547",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-      "title": "Workshop with TFM Digital",
-      "day": "19",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779177600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=60310",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "UQFAS Presents 'Drive My Car'",
-      "day": "19",
-      "info": "Free"
-    },
-    {
       "sortindex": 1779256800,
       "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
       "month": "May",
@@ -3154,7 +3098,7 @@
     },
     {
       "sortindex": 1779350400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8c5600ad-e186-4a0f-a1a7-6e17874d0bdb.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/c44b5780-99d9-4c30-85b4-e28f7be55800.png",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Industry/Career",
@@ -3195,6 +3139,20 @@
       "info": "$6.08 - $8.16"
     },
     {
+      "sortindex": 1779422400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 4982,
+      "destination": "/?eid=64244",
+      "societyname": "UQ Backyard Sports Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+      "title": "Pickleball 22/05",
+      "day": "22",
+      "info": "Free"
+    },
+    {
       "sortindex": 1779428700,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
       "month": "May",
@@ -3221,6 +3179,20 @@
       "title": "Sem 1 Redroom Run",
       "day": "22",
       "info": "$5.00"
+    },
+    {
+      "sortindex": 1779435000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/30e1c1bb-ffb8-46db-9cb5-5cf9e6f06a69.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4430,
+      "destination": "/?eid=48058",
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
+      "title": "Special General Meeting",
+      "day": "22",
+      "info": "$0.00 - $16.45"
     },
     {
       "sortindex": 1779436800,
@@ -3321,6 +3293,20 @@
       "info": "$26.00 - $33.03"
     },
     {
+      "sortindex": 1779691500,
+      "image": "https://resources.hellorubric.com/uploaded_assets/edc73df2-cdf2-498e-81e5-b5a51b8c732d.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 3932,
+      "destination": "/?eid=64219",
+      "societyname": "Queensland Pharmacy Students' Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+      "title": "Diabetes Management with Chemist Warehouse",
+      "day": "25",
+      "info": "$0.00 - $11.27"
+    },
+    {
       "sortindex": 1779696000,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
       "month": "May",
@@ -3391,6 +3377,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1779953400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/632231ce-0b51-4f02-9f1f-8d902e8e7018.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 534,
+      "destination": "/?eid=64201",
+      "societyname": "Queensland University Exchange Students Society Inc.",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+      "title": "QUEST End of Sem Boat Party ",
+      "day": "28",
+      "info": "$52.73"
+    },
+    {
       "sortindex": 1779955200,
       "image": "https://resources.hellorubric.com/uploaded_assets/e6d797dd-aadb-4122-a9ae-e27e68aedf04.png",
       "month": "May",
@@ -3420,20 +3420,6 @@
     },
     {
       "sortindex": 1780041600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/9e5c9ecc-51ad-4697-ba3f-de5ccfd0deb0.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4271,
-      "destination": "/?eid=64197",
-      "societyname": "UQ K-Pop Dance Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-      "title": "\ud83d\udc9c UQKDC Dinner & Karaoke \ud83c\udfa4",
-      "day": "29",
-      "info": "$4.01 - $6.08"
-    },
-    {
-      "sortindex": 1780041600,
       "image": "https://resources.hellorubric.com/uploaded_assets/2247f720-ae78-4c3e-9a54-529942d8bf35.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3445,6 +3431,20 @@
       "title": "Diamonds and Dust ",
       "day": "29",
       "info": "$86.81 - $95.17"
+    },
+    {
+      "sortindex": 1780041600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9e5c9ecc-51ad-4697-ba3f-de5ccfd0deb0.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4271,
+      "destination": "/?eid=64197",
+      "societyname": "UQ K-Pop Dance Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+      "title": "\ud83d\udc9c UQKDC Dinner & Karaoke \ud83c\udfa4",
+      "day": "29",
+      "info": "$4.01 - $6.08"
     },
     {
       "sortindex": 1780056000,
@@ -3459,6 +3459,20 @@
       "title": "ILS x PSIR x CCJS End of Sem Party",
       "day": "29",
       "info": "$6.08 - $11.27"
+    },
+    {
+      "sortindex": 1780097400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7aaf282d-757b-477b-a1a1-d85286c89a67.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2235,
+      "destination": "/?eid=60515",
+      "societyname": "UQ Photography Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+      "title": "Lone Pine Koala Sanctuary",
+      "day": "30",
+      "info": "$42.36 - $47.54"
     },
     {
       "sortindex": 1780120800,

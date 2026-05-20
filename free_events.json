@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1779174000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ff7fd9a7-f6e3-4857-ae5b-9456672ec273.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 5729,
-    "destination": "/?eid=63042",
-    "societyname": "UQ Food Science Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-    "title": "Special General Meeting x Trivia Evening ",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779177600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/024a7c67-b65b-4e2d-82af-9712aa5c6473.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=63547",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-    "title": "Workshop with TFM Digital",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779177600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bf02d93f-902a-406f-a8db-05e35cbf0c71.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2225,
-    "destination": "/?eid=60310",
-    "societyname": "UQ Film Appreciation Society",
-    "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-    "title": "UQFAS Presents 'Drive My Car'",
-    "day": "19",
-    "info": "Free"
-  },
-  {
     "sortindex": 1779346800,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
     "month": "May",
@@ -81,6 +39,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
     "title": "Zine Workshop Collaboration",
     "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779422400,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=64244",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Pickleball 22/05",
+    "day": "22",
     "info": "Free"
   },
   {
