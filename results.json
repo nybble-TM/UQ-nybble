@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1779256800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 5398,
-    "destination": "/?eid=63403",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Seeds & Talks at UQ Food Forest",
-    "day": "20",
-    "info": "$0.00 - $11.27"
-  },
-  {
-    "sortindex": 1779265800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5959a592-5453-4602-aade-0c3c64f32e96.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 3906,
-    "destination": "/?eid=62368",
-    "societyname": "The University of Queensland's Biomedical Engineering Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/823c799e-cac0-4f15-a1c3-acc3b30dc9b3.png",
-    "title": "Mechanical/Electrical and Biomedical Majors Night",
-    "day": "20",
-    "info": "$4.01 - $9.19"
-  },
-  {
     "sortindex": 1779343200,
     "image": "https://resources.hellorubric.com/uploaded_assets/b5700e36-e916-4ecc-9f47-6b4665476e89.png",
     "month": "May",
@@ -127,20 +99,6 @@
   },
   {
     "sortindex": 1779422400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d8fb02d7-6d94-467f-9c1a-2c772d65826f.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3220,
-    "destination": "/?eid=63429",
-    "societyname": "UQ Ladies in Technology",
-    "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
-    "title": "Slime Making Social",
-    "day": "22",
-    "info": "$6.08 - $8.16"
-  },
-  {
-    "sortindex": 1779422400,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -154,8 +112,22 @@
     "info": "Free"
   },
   {
+    "sortindex": 1779422400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d8fb02d7-6d94-467f-9c1a-2c772d65826f.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3220,
+    "destination": "/?eid=63429",
+    "societyname": "UQ Ladies in Technology",
+    "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
+    "title": "Slime Making Social",
+    "day": "22",
+    "info": "$6.08 - $8.16"
+  },
+  {
     "sortindex": 1779428700,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/09343c37-4d46-40d0-b1b0-896ae255444e.jpeg",
     "month": "May",
     "societyAvgRating": 0,
     "subtitle": "Sport/Competition",
@@ -323,7 +295,7 @@
   },
   {
     "sortindex": 1779778800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d17dda07-1710-4eb5-9525-bcae635f599d.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/580f9d9e-3bff-4a5a-bf55-fc610aa708dc.png",
     "month": "May",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",
@@ -333,7 +305,7 @@
     "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
     "title": "Epilepsy Academic Symposium",
     "day": "26",
-    "info": "$6.08 - $11.27"
+    "info": "$0.00 - $11.27"
   },
   {
     "sortindex": 1779861600,
@@ -431,7 +403,7 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/52fae795-af67-4495-ae3d-6c34d48ab8d4.png",
     "title": "Diamonds and Dust ",
     "day": "29",
-    "info": "$86.81 - $95.17"
+    "info": "$97.26"
   },
   {
     "sortindex": 1780041600,
@@ -474,6 +446,20 @@
     "title": "Lone Pine Koala Sanctuary",
     "day": "30",
     "info": "$42.36 - $47.54"
+  },
+  {
+    "sortindex": 1780117200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/361b80b3-a12b-4ab4-b099-ec4bb95f9358.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1710,
+    "destination": "/?eid=64290",
+    "societyname": "University of Queensland French Society",
+    "societylogo": "https://resources.getqpay.com/images/6598a600c9af4_.png",
+    "title": "UQFS End of Sem Picnic",
+    "day": "30",
+    "info": "$5.00"
   },
   {
     "sortindex": 1780120800,
@@ -656,6 +642,20 @@
     "title": "SPASA Careers & Networking Day",
     "day": "8",
     "info": "$11.27 - $52.72"
+  },
+  {
+    "sortindex": 1787302800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7305328e-ecba-4a00-92a6-a47ab8d40c33.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 1857,
+    "destination": "/?eid=64263",
+    "societyname": "Psychology Students' Association Inc",
+    "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+    "title": "PSYCHOLOGY BALL 2026: The Oscars: A Night of Icons",
+    "day": "21",
+    "info": "$102.56 - $112.76"
   },
   {
     "sortindex": 1790377200,
