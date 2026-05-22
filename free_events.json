@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1779346800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 8824,
-    "destination": "/?eid=63875",
-    "societyname": "UQ Society of Australia Awards Scholars",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
-    "title": "UQSAAS PILATE WELLNESS SESSION",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779349500,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7ce634c9-05f7-40f3-bcde-9a2d0e083d61.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 547,
-    "destination": "/?eid=64068",
-    "societyname": "UQ Geography and Environmental Management Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
-    "title": "Tier 1 Feature Night ",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779352200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/a91b336d-0145-41b3-8633-5f1f906bfaa2.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 649,
-    "destination": "/?eid=63537",
-    "societyname": "Society of Fine Arts",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-    "title": "Zine Workshop Collaboration",
-    "day": "21",
-    "info": "Free"
-  },
-  {
     "sortindex": 1779422400,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
     "month": "May",
@@ -137,6 +95,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
     "title": "UQWN x McKinsey Scholarship Event",
     "day": "28",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1780032600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=60774",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "Exquisite Corpse: The Surrealist Drawing Game",
+    "day": "29",
     "info": "Free"
   },
   {

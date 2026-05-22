@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 48,
+  "totalItemCount": 44,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2999,104 +2999,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1779343200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b5700e36-e916-4ecc-9f47-6b4665476e89.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 7597,
-      "destination": "/?eid=63986",
-      "societyname": "UQ Bakeology",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-      "title": "Parmesan Biscuits - David's Last Bake Class",
-      "day": "21",
-      "info": "$6.08"
-    },
-    {
-      "sortindex": 1779345000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/011b0beb-3cfd-4758-ba27-8b2757a6906e.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 713,
-      "destination": "/?eid=63871",
-      "societyname": "UQ Geoscience Society",
-      "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
-      "title": "Boulder Than Ever 2.0",
-      "day": "21",
-      "info": "$2.00 - $25.00"
-    },
-    {
-      "sortindex": 1779346800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 8824,
-      "destination": "/?eid=63875",
-      "societyname": "UQ Society of Australia Awards Scholars",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
-      "title": "UQSAAS PILATE WELLNESS SESSION",
-      "day": "21",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779348600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7f59ab79-ccd2-42e1-a98c-02f3bcb213b5.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4520,
-      "destination": "/?eid=63575",
-      "societyname": "UQ Radiology Interest Group",
-      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
-      "title": "Intro to Head Trauma and CVAs",
-      "day": "21",
-      "info": "$0.00 - $5.72"
-    },
-    {
-      "sortindex": 1779349500,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7ce634c9-05f7-40f3-bcde-9a2d0e083d61.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 547,
-      "destination": "/?eid=64068",
-      "societyname": "UQ Geography and Environmental Management Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
-      "title": "Tier 1 Feature Night ",
-      "day": "21",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779350400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c44b5780-99d9-4c30-85b4-e28f7be55800.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 6808,
-      "destination": "/?eid=63688",
-      "societyname": "UQ Neurological Society",
-      "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
-      "title": "UQNS Research Information Event ",
-      "day": "21",
-      "info": "$6.08 - $11.27"
-    },
-    {
-      "sortindex": 1779352200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a91b336d-0145-41b3-8633-5f1f906bfaa2.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 649,
-      "destination": "/?eid=63537",
-      "societyname": "Society of Fine Arts",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-      "title": "Zine Workshop Collaboration",
-      "day": "21",
-      "info": "Free"
-    },
-    {
       "sortindex": 1779422400,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
       "month": "May",
@@ -3391,6 +3293,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1780032600,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 649,
+      "destination": "/?eid=60774",
+      "societyname": "Society of Fine Arts",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+      "title": "Exquisite Corpse: The Surrealist Drawing Game",
+      "day": "29",
+      "info": "Free"
+    },
+    {
       "sortindex": 1780041600,
       "image": "https://resources.hellorubric.com/uploaded_assets/2247f720-ae78-4c3e-9a54-529942d8bf35.png",
       "month": "May",
@@ -3445,6 +3361,20 @@
       "title": "Lone Pine Koala Sanctuary",
       "day": "30",
       "info": "$42.36 - $47.54"
+    },
+    {
+      "sortindex": 1780099200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b2137465-fb14-4d7b-a2e4-082045b3753a.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 1539,
+      "destination": "/?eid=64433",
+      "societyname": "UQ Women in Science Association",
+      "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+      "title": "Form and Flow Yoga with WiSA!",
+      "day": "30",
+      "info": "$13.86"
     },
     {
       "sortindex": 1780117200,
@@ -3531,6 +3461,20 @@
       "info": "$5.00"
     },
     {
+      "sortindex": 1780448400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 489,
+      "destination": "/?eid=64392",
+      "societyname": "UQ Journalism and Communication Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
+      "title": "The SWOTVAC Reset ",
+      "day": "3",
+      "info": "$6.08 - $8.16"
+    },
+    {
       "sortindex": 1780466400,
       "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
       "month": "June",
@@ -3570,7 +3514,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
       "title": "Mixer: UQCCR x SSoFI x QIMR x Mater x UQ Biotech",
       "day": "25",
-      "info": "$5.00 - $15.01"
+      "info": "$10.00 - $15.01"
     },
     {
       "sortindex": 1782510600,
