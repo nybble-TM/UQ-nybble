@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1779485400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2b98cc3f-c33f-4932-9c90-fa7bd096fbd1.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Trip/Camp",
-    "societyid": 8116,
-    "destination": "/?eid=64151",
-    "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
-    "title": "Sandy Camp Wetlands Reserve Bird Walk",
-    "day": "23",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779505200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/397075c9-31e0-41cd-b1b8-ade840cbd062.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 6249,
-    "destination": "/?eid=63819",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISA Talk #1",
-    "day": "23",
-    "info": "Free"
-  },
-  {
     "sortindex": 1779922800,
     "image": "https://resources.hellorubric.com/uploaded_assets/2f18b69d-bc76-4961-b572-37bb973afb5e.jpeg",
     "month": "May",
@@ -66,6 +38,20 @@
     "societyname": "The UQ Women's Network",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
     "title": "UQWN x McKinsey Scholarship Event",
+    "day": "28",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1779958800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7370695b-edb5-4deb-9a24-2d8d76fd0024.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 6511,
+    "destination": "/?eid=64510",
+    "societyname": "UQ Psych MD",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
+    "title": "PsychBite: Child and Adolescent Psychiatry",
     "day": "28",
     "info": "Free"
   },

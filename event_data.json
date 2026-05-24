@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 37,
+  "totalItemCount": 34,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -324,6 +324,7 @@
     "Performance",
     "Political",
     "Religious",
+    "Social Club",
     "Social Justice",
     "Sporting"
   ],
@@ -1450,11 +1451,11 @@
     },
     {
       "country": "CA",
-      "logo_url": "https://resources.hellorubric.com/uploaded_assets/cedcb039-24cb-48b0-a377-faafdb7473c7.png",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/2849953b-4be9-4b03-aef1-802ba14d2951.png",
       "name": "Western University CA",
       "id": 542,
       "state": "Ontario",
-      "shortname": "Western"
+      "shortname": "Western USC"
     },
     {
       "country": "CA",
@@ -2998,76 +2999,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1779485400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/2b98cc3f-c33f-4932-9c90-fa7bd096fbd1.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 8116,
-      "destination": "/?eid=64151",
-      "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
-      "title": "Sandy Camp Wetlands Reserve Bird Walk",
-      "day": "23",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779490800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/1f9cc426-df62-4b26-a450-d9a86a0f4187.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 4465,
-      "destination": "/?eid=57191",
-      "societyname": "UQ Political Science and International Relations Society Incorporated",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
-      "title": "UQPSIR's Women in Government Panel",
-      "day": "23",
-      "info": "$18.51 - $25.77"
-    },
-    {
-      "sortindex": 1779494400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/72fe6c39-6026-4051-bc03-e7304be8d518.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 1028,
-      "destination": "/?eid=63966",
-      "societyname": "UQ Muslimah Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e7802692-c3b5-45ef-a87a-94216bd3869c.png",
-      "title": "Sisters Self Defence",
-      "day": "23",
-      "info": "$11.27 - $14.38"
-    },
-    {
-      "sortindex": 1779505200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/397075c9-31e0-41cd-b1b8-ade840cbd062.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 6249,
-      "destination": "/?eid=63819",
-      "societyname": "UQ Indonesian Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "UQISA Talk #1",
-      "day": "23",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1779510600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a419485c-741e-4ffa-8ee2-5075e75453e0.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 1387,
-      "destination": "/?eid=63110",
-      "societyname": "UQ Hong Kong Students Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
-      "title": "\u5929\u624d\u751f\u7269\u85e5\u5b78\u535a\u58eb\u767c\u4f48\u6703 | Detective Night ",
-      "day": "23",
-      "info": "$26.00 - $33.03"
-    },
-    {
       "sortindex": 1779691500,
       "image": "https://resources.hellorubric.com/uploaded_assets/edc73df2-cdf2-498e-81e5-b5a51b8c732d.png",
       "month": "May",
@@ -3194,6 +3125,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1779958800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7370695b-edb5-4deb-9a24-2d8d76fd0024.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 6511,
+      "destination": "/?eid=64510",
+      "societyname": "UQ Psych MD",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
+      "title": "PsychBite: Child and Adolescent Psychiatry",
+      "day": "28",
+      "info": "Free"
+    },
+    {
       "sortindex": 1780032600,
       "image": "https://resources.hellorubric.com/uploaded_assets/816997df-2cfa-4fc5-a4f7-7d0e9f471641.jpg",
       "month": "May",
@@ -3206,6 +3151,20 @@
       "title": "Exquisite Corpse: The Surrealist Drawing Game",
       "day": "29",
       "info": "Free"
+    },
+    {
+      "sortindex": 1780041600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9e5c9ecc-51ad-4697-ba3f-de5ccfd0deb0.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4271,
+      "destination": "/?eid=64197",
+      "societyname": "UQ K-Pop Dance Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+      "title": "\ud83d\udc9c UQKDC Dinner & Karaoke \ud83c\udfa4",
+      "day": "29",
+      "info": "$4.01 - $6.08"
     },
     {
       "sortindex": 1780041600,
@@ -3222,18 +3181,18 @@
       "info": "$97.26"
     },
     {
-      "sortindex": 1780041600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/9e5c9ecc-51ad-4697-ba3f-de5ccfd0deb0.png",
+      "sortindex": 1780045200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d34255bb-8136-496b-95ce-ba4e8f4c45bc.jpeg",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Other",
-      "societyid": 4271,
-      "destination": "/?eid=64197",
-      "societyname": "UQ K-Pop Dance Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-      "title": "\ud83d\udc9c UQKDC Dinner & Karaoke \ud83c\udfa4",
+      "societyid": 601,
+      "destination": "/?eid=64243",
+      "societyname": "UQ Union Surfers Inc.",
+      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
+      "title": "UQ Surfers End of Sem House Party",
       "day": "29",
-      "info": "$4.01 - $6.08"
+      "info": "$9.19 - $21.63"
     },
     {
       "sortindex": 1780056000,
@@ -3261,7 +3220,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
       "title": "Lone Pine Koala Sanctuary",
       "day": "30",
-      "info": "$42.36 - $47.54"
+      "info": "$42.36 - $55.84"
     },
     {
       "sortindex": 1780099200,
@@ -3331,7 +3290,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
       "title": "QPSA x QUTSPA Charity Gala",
       "day": "30",
-      "info": "$51.17"
+      "info": "$51.17 - $52.73"
     },
     {
       "sortindex": 1780189200,
