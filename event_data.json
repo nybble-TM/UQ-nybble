@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 34,
+  "totalItemCount": 35,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3038,11 +3038,25 @@
       "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
       "title": "Epilepsy Academic Symposium",
       "day": "26",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1779856200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d82d580d-b4fd-49de-9dcf-72d5c5db0394.jpeg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 5398,
+      "destination": "/?eid=55930",
+      "societyname": "UQ Sustainable Innovators Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+      "title": "Park Yoga",
+      "day": "27",
       "info": "$0.00 - $11.27"
     },
     {
-      "sortindex": 1779861600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
+      "sortindex": 1779859800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/aa9ccadd-8f51-4d61-807e-4e2e5d42b9ca.png",
       "month": "May",
       "societyAvgRating": 0,
       "subtitle": "Party/BBQ/Social",
@@ -3335,8 +3349,8 @@
       "info": "$6.08 - $8.16"
     },
     {
-      "sortindex": 1780466400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7630d7e5-eaad-43ef-87e8-4106738503ad.png",
+      "sortindex": 1780464600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/31e40cd9-ce7f-42dc-9b6b-6355d083cf26.png",
       "month": "June",
       "societyAvgRating": 0,
       "subtitle": "Party/BBQ/Social",
