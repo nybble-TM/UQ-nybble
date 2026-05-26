@@ -6,8 +6,8 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
-    "Quiz/Trivia",
     "Show/Performance",
+    "Sport/Competition",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 35,
+  "totalItemCount": 37,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2999,34 +2999,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1779691500,
-      "image": "https://resources.hellorubric.com/uploaded_assets/edc73df2-cdf2-498e-81e5-b5a51b8c732d.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 3932,
-      "destination": "/?eid=64219",
-      "societyname": "Queensland Pharmacy Students' Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-      "title": "Diabetes Management with Chemist Warehouse",
-      "day": "25",
-      "info": "$0.00 - $11.27"
-    },
-    {
-      "sortindex": 1779696000,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 57,
-      "destination": "/?eid=63752",
-      "societyname": "University of Queensland Law Society Inc.",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-      "title": "Allens x UQLS Drag Queen Trivia ",
-      "day": "25",
-      "info": "$20.95"
-    },
-    {
       "sortindex": 1779778800,
       "image": "https://resources.hellorubric.com/uploaded_assets/3e5f2c35-65f5-4303-ba9d-6dfe1df27e1b.png",
       "month": "May",
@@ -3163,6 +3135,20 @@
       "societyname": "Society of Fine Arts",
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
       "title": "Exquisite Corpse: The Surrealist Drawing Game",
+      "day": "29",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1780038000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 4982,
+      "destination": "/?eid=64663",
+      "societyname": "UQ Backyard Sports Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+      "title": "Soccer 29/05",
       "day": "29",
       "info": "Free"
     },
@@ -3307,6 +3293,20 @@
       "info": "$51.17 - $52.73"
     },
     {
+      "sortindex": 1780183800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 2434,
+      "destination": "/?eid=64590",
+      "societyname": "UQ Wildlife Association",
+      "societylogo": "https://resources.getqpay.com/images/63fc64b90557d_.png",
+      "title": "Geckoes Wildlife Reptile Course",
+      "day": "31",
+      "info": "$43.00 - $50.00"
+    },
+    {
       "sortindex": 1780189200,
       "image": "https://resources.hellorubric.com/uploaded_assets/6afcf72a-4f4b-4b36-99f6-ff66060dc286.jpg",
       "month": "May",
@@ -3336,7 +3336,7 @@
     },
     {
       "sortindex": 1780448400,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/a6f8dfb8-7fd9-401f-9eec-c084339dfd6e.jpeg",
       "month": "June",
       "societyAvgRating": 0,
       "subtitle": "Party/BBQ/Social",
@@ -3375,6 +3375,20 @@
       "title": "\u2744\ufe0f\u26f7\ufe0f END OF SEMESTER PARTY: APRES SKI \u26f7\ufe0f\u2744\ufe0f",
       "day": "20",
       "info": "$13.34 - $17.49"
+    },
+    {
+      "sortindex": 1782257400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3906,
+      "destination": "/?eid=64596",
+      "societyname": "The University of Queensland's Biomedical Engineering Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/823c799e-cac0-4f15-a1c3-acc3b30dc9b3.png",
+      "title": "UQ BMES AIBN Lab Tour",
+      "day": "24",
+      "info": "$0.00 - $5.01"
     },
     {
       "sortindex": 1782370800,
@@ -3431,6 +3445,20 @@
       "title": "How do I become a dermatologist?",
       "day": "15",
       "info": "$10.00 - $15.00"
+    },
+    {
+      "sortindex": 1784327400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/dd529f8f-1697-47cd-be33-c54fcf8cc08b.jpg",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3141,
+      "destination": "/?eid=64584",
+      "societyname": "General Practitioner Student Network UQ",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f3d60290-e7b8-402e-9b00-c8dbbbad8a75.png",
+      "title": "Queensland GPSN Statewide Conference",
+      "day": "18",
+      "info": "$6.08"
     },
     {
       "sortindex": 1784883600,
