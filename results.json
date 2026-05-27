@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1779778800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3e5f2c35-65f5-4303-ba9d-6dfe1df27e1b.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6808,
-    "destination": "/?eid=63872",
-    "societyname": "UQ Neurological Society",
-    "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
-    "title": "Epilepsy Academic Symposium",
-    "day": "26",
-    "info": "Free"
-  },
-  {
     "sortindex": 1779856200,
     "image": "https://resources.hellorubric.com/uploaded_assets/d82d580d-b4fd-49de-9dcf-72d5c5db0394.jpeg",
     "month": "May",
@@ -155,6 +141,20 @@
   },
   {
     "sortindex": 1780041600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7b0deea6-b2b1-4aa4-b03e-8e517d7471b9.png",
+    "month": "May",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 713,
+    "destination": "/?eid=64734",
+    "societyname": "UQ Geoscience Society",
+    "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+    "title": "EOS Drinks",
+    "day": "29",
+    "info": "$0.00 - $10.00"
+  },
+  {
+    "sortindex": 1780041600,
     "image": "https://resources.hellorubric.com/uploaded_assets/9e5c9ecc-51ad-4697-ba3f-de5ccfd0deb0.png",
     "month": "May",
     "societyAvgRating": 0,
@@ -165,7 +165,7 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
     "title": "\ud83d\udc9c UQKDC Dinner & Karaoke \ud83c\udfa4",
     "day": "29",
-    "info": "$4.01 - $6.08"
+    "info": "$0.00 - $3.00"
   },
   {
     "sortindex": 1780041600,
@@ -418,6 +418,20 @@
     "title": "2026 Semester 1 OWTO",
     "day": "27",
     "info": "Free"
+  },
+  {
+    "sortindex": 1783119600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b89dc486-cf62-4575-9989-58116d755031.png",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 3444,
+    "destination": "/?eid=64704",
+    "societyname": "UQ Derm",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76d5a9d7-a09e-42d4-b6ea-210543c61f19.png",
+    "title": "UQ DERM SUTURING WORKSHOP",
+    "day": "4",
+    "info": "$11.27 - $16.45"
   },
   {
     "sortindex": 1783494000,
