@@ -2347,7 +2347,7 @@
     },
     {
       "country": "GB",
-      "logo_url": "https://resources.hellorubric.com/uploaded_assets/0d351678-3c98-4881-80fc-1414415ec1fb.jpg",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/d4e35040-3a0c-4b60-b863-5a2c6ecd87c2.jpg",
       "name": "University of Demo UK",
       "id": 113,
       "state": "South East",
@@ -2999,34 +2999,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1779856200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d82d580d-b4fd-49de-9dcf-72d5c5db0394.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 5398,
-      "destination": "/?eid=55930",
-      "societyname": "UQ Sustainable Innovators Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-      "title": "Park Yoga",
-      "day": "27",
-      "info": "$0.00 - $11.27"
-    },
-    {
-      "sortindex": 1779859800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/aa9ccadd-8f51-4d61-807e-4e2e5d42b9ca.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 5398,
-      "destination": "/?eid=63404",
-      "societyname": "UQ Sustainable Innovators Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-      "title": "Seeds & Talks at UQ Food Forest",
-      "day": "27",
-      "info": "$0.00 - $11.27"
-    },
-    {
       "sortindex": 1779922800,
       "image": "https://resources.hellorubric.com/uploaded_assets/2f18b69d-bc76-4961-b572-37bb973afb5e.jpeg",
       "month": "May",
@@ -3140,6 +3112,20 @@
     },
     {
       "sortindex": 1780041600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2247f720-ae78-4c3e-9a54-529942d8bf35.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3225,
+      "destination": "/?eid=46445",
+      "societyname": "UQ Gatton Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/52fae795-af67-4495-ae3d-6c34d48ab8d4.png",
+      "title": "Diamonds and Dust ",
+      "day": "29",
+      "info": "$97.26"
+    },
+    {
+      "sortindex": 1780041600,
       "image": "https://resources.hellorubric.com/uploaded_assets/7b0deea6-b2b1-4aa4-b03e-8e517d7471b9.png",
       "month": "May",
       "societyAvgRating": 0,
@@ -3165,20 +3151,6 @@
       "title": "\ud83d\udc9c UQKDC Dinner & Karaoke \ud83c\udfa4",
       "day": "29",
       "info": "$0.00 - $3.00"
-    },
-    {
-      "sortindex": 1780041600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/2247f720-ae78-4c3e-9a54-529942d8bf35.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3225,
-      "destination": "/?eid=46445",
-      "societyname": "UQ Gatton Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/52fae795-af67-4495-ae3d-6c34d48ab8d4.png",
-      "title": "Diamonds and Dust ",
-      "day": "29",
-      "info": "$97.26"
     },
     {
       "sortindex": 1780045200,
@@ -3335,6 +3307,20 @@
       "info": "$5.00"
     },
     {
+      "sortindex": 1780272000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b713bc99-979d-4185-ae0d-c34b180c4127.jpg",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 1404,
+      "destination": "/?eid=64821",
+      "societyname": "UQ Singapore Students' Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
+      "title": "UQSSS SWOTVAC Study Session!",
+      "day": "1",
+      "info": "Free"
+    },
+    {
       "sortindex": 1780448400,
       "image": "https://resources.hellorubric.com/uploaded_assets/a6f8dfb8-7fd9-401f-9eec-c084339dfd6e.jpeg",
       "month": "June",
@@ -3361,6 +3347,20 @@
       "title": "Seeds & Talks at UQ Food Forest",
       "day": "3",
       "info": "$0.00 - $11.27"
+    },
+    {
+      "sortindex": 1780556400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a25bad1f-7305-4e57-9583-455498c6c1f9.jpg",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4217,
+      "destination": "/?eid=64795",
+      "societyname": "Student Society of Frazer Institute",
+      "societylogo": "https://resources.getqpay.com/images/63c0f2c7003cb_.png",
+      "title": "SsoFI_TRI Games Night",
+      "day": "4",
+      "info": "$2.97"
     },
     {
       "sortindex": 1781942400,
