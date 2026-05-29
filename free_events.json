@@ -1,61 +1,5 @@
 [
   {
-    "sortindex": 1779922800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2f18b69d-bc76-4961-b572-37bb973afb5e.jpeg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3855,
-    "destination": "/?eid=64053",
-    "societyname": "UQ Women in Business Economics and Law Society",
-    "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
-    "title": "UQWiBELS Study Sisters - Semester 1, 2026",
-    "day": "28",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779926400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/afb93ec0-b789-4ec3-9c3e-edb5d3af52cb.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 358,
-    "destination": "/?eid=64080",
-    "societyname": "UQ African Students Association",
-    "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
-    "title": "ASA Study session",
-    "day": "28",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779957000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/9174739a-19fa-4007-99ea-fc01515ea9ce.jpg",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 3147,
-    "destination": "/?eid=64065",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
-    "title": "UQWN x McKinsey Scholarship Event",
-    "day": "28",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1779958800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7370695b-edb5-4deb-9a24-2d8d76fd0024.png",
-    "month": "May",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6511,
-    "destination": "/?eid=64510",
-    "societyname": "UQ Psych MD",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
-    "title": "PsychBite: Child and Adolescent Psychiatry",
-    "day": "28",
-    "info": "Free"
-  },
-  {
     "sortindex": 1780032600,
     "image": "https://resources.hellorubric.com/uploaded_assets/816997df-2cfa-4fc5-a4f7-7d0e9f471641.jpg",
     "month": "May",
@@ -109,6 +53,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
     "title": "UQSSS SWOTVAC Study Session!",
     "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1780372800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "June",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 5729,
+    "destination": "/?eid=64854",
+    "societyname": "UQ Food Science Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+    "title": "Study Session (Semester 1, 2026)",
+    "day": "2",
     "info": "Free"
   },
   {
