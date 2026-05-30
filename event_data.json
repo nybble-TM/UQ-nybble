@@ -7,7 +7,6 @@
     "Other",
     "Party/BBQ/Social",
     "Show/Performance",
-    "Sport/Competition",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -309,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 33,
+  "totalItemCount": 26,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2999,104 +2998,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1780032600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/816997df-2cfa-4fc5-a4f7-7d0e9f471641.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 649,
-      "destination": "/?eid=60774",
-      "societyname": "Society of Fine Arts",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-      "title": "Exquisite Corpse: The Surrealist Drawing Game",
-      "day": "29",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1780038000,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 4982,
-      "destination": "/?eid=64663",
-      "societyname": "UQ Backyard Sports Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-      "title": "Soccer 29/05",
-      "day": "29",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1780041600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/9e5c9ecc-51ad-4697-ba3f-de5ccfd0deb0.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4271,
-      "destination": "/?eid=64197",
-      "societyname": "UQ K-Pop Dance Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-      "title": "\ud83d\udc9c UQKDC Dinner & Karaoke \ud83c\udfa4",
-      "day": "29",
-      "info": "$0.00 - $3.00"
-    },
-    {
-      "sortindex": 1780041600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7b0deea6-b2b1-4aa4-b03e-8e517d7471b9.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 713,
-      "destination": "/?eid=64734",
-      "societyname": "UQ Geoscience Society",
-      "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
-      "title": "EOS Drinks",
-      "day": "29",
-      "info": "$0.00 - $10.00"
-    },
-    {
-      "sortindex": 1780041600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/2247f720-ae78-4c3e-9a54-529942d8bf35.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3225,
-      "destination": "/?eid=46445",
-      "societyname": "UQ Gatton Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/52fae795-af67-4495-ae3d-6c34d48ab8d4.png",
-      "title": "Diamonds and Dust ",
-      "day": "29",
-      "info": "$97.26"
-    },
-    {
-      "sortindex": 1780045200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d34255bb-8136-496b-95ce-ba4e8f4c45bc.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 601,
-      "destination": "/?eid=64243",
-      "societyname": "UQ Union Surfers Inc.",
-      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
-      "title": "UQ Surfers End of Sem House Party",
-      "day": "29",
-      "info": "$9.19 - $21.63"
-    },
-    {
-      "sortindex": 1780056000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3a61997b-1a02-42bc-b46f-0c0ec0f7f090.jpeg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 181,
-      "destination": "/?eid=63736",
-      "societyname": "UQ International Law Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/11649d40-9196-4f3f-b703-0fe38711f6d0.png",
-      "title": "ILS x PSIR x CCJS End of Sem Party",
-      "day": "29",
-      "info": "$6.08 - $11.27"
-    },
-    {
       "sortindex": 1780097400,
       "image": "https://resources.hellorubric.com/uploaded_assets/7aaf282d-757b-477b-a1a1-d85286c89a67.jpg",
       "month": "May",
@@ -3178,7 +3079,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
       "title": "QPSA x QUTSPA Charity Gala",
       "day": "30",
-      "info": "$51.17 - $52.73"
+      "info": "$32.00 - $52.73"
     },
     {
       "sortindex": 1780183800,
