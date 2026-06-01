@@ -6,7 +6,6 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
-    "Show/Performance",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -308,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 20,
+  "totalItemCount": 19,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2998,48 +2997,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1780183800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 2434,
-      "destination": "/?eid=64590",
-      "societyname": "UQ Wildlife Association",
-      "societylogo": "https://resources.getqpay.com/images/63fc64b90557d_.png",
-      "title": "Geckoes Wildlife Reptile Course",
-      "day": "31",
-      "info": "$43.00 - $50.00"
-    },
-    {
-      "sortindex": 1780189200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6afcf72a-4f4b-4b36-99f6-ff66060dc286.jpg",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 7257,
-      "destination": "/?eid=62520",
-      "societyname": "Society of Lifesaving",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
-      "title": "Semester 1 Southbank Bash",
-      "day": "31",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1780201800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
-      "month": "May",
-      "societyAvgRating": 0,
-      "subtitle": "Show/Performance",
-      "societyid": 10443,
-      "destination": "/?eid=64025",
-      "societyname": "UQ Community Orchestra",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/accb2a5d-9bcd-46d4-b573-5fef4a2420ac.png",
-      "title": "UQCO & UQMuS Winter Showcase ",
-      "day": "31",
-      "info": "$5.00"
-    },
-    {
       "sortindex": 1780272000,
       "image": "https://resources.hellorubric.com/uploaded_assets/b713bc99-979d-4185-ae0d-c34b180c4127.jpg",
       "month": "June",
@@ -3108,6 +3065,34 @@
       "title": "SsoFI_TRI Games Night",
       "day": "4",
       "info": "$2.97"
+    },
+    {
+      "sortindex": 1780560000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/0cccccf3-0114-42ae-b9c8-926eb6fedd97.jpg",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 3147,
+      "destination": "/?eid=64065",
+      "societyname": "The UQ Women's Network",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
+      "title": "UQWN x McKinsey Scholarship Event",
+      "day": "4",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1781848800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a3a5c310-4967-40bd-a0b4-9cae747bc013.jpg",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 1835,
+      "destination": "/?eid=65131",
+      "societyname": "Public Health Association University of Queensland",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
+      "title": "UQPHA Special General Meeting 2026",
+      "day": "19",
+      "info": "Free"
     },
     {
       "sortindex": 1781942400,
