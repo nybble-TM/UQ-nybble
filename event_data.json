@@ -6,6 +6,7 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
+    "Quiz/Trivia",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -307,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 19,
+  "totalItemCount": 22,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2997,20 +2998,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1780272000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b713bc99-979d-4185-ae0d-c34b180c4127.jpg",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 1404,
-      "destination": "/?eid=64821",
-      "societyname": "UQ Singapore Students' Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
-      "title": "UQSSS SWOTVAC Study Session!",
-      "day": "1",
-      "info": "Free"
-    },
-    {
       "sortindex": 1780372800,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
       "month": "June",
@@ -3021,6 +3008,20 @@
       "societyname": "UQ Food Science Club",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
       "title": "Study Session (Semester 1, 2026)",
+      "day": "2",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1780387200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a95d7d8b-c58d-48a6-9ee1-7ddb1267dc61.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 9955,
+      "destination": "/?eid=65295",
+      "societyname": "University of Queensland Pathology Interest Group",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5f9db764-069a-4497-9922-64a59ce172b3.png",
+      "title": "UQPath CAT 2 Review Session",
       "day": "2",
       "info": "Free"
     },
@@ -3081,6 +3082,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1780963200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3e413629-89b8-44aa-9d41-54b4479f248a.jpg",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 358,
+      "destination": "/?eid=65274",
+      "societyname": "UQ African Students Association",
+      "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+      "title": "ASA Study session",
+      "day": "9",
+      "info": "Free"
+    },
+    {
       "sortindex": 1781848800,
       "image": "https://resources.hellorubric.com/uploaded_assets/a3a5c310-4967-40bd-a0b4-9cae747bc013.jpg",
       "month": "June",
@@ -3107,6 +3122,20 @@
       "title": "\u2744\ufe0f\u26f7\ufe0f END OF SEMESTER PARTY: APRES SKI \u26f7\ufe0f\u2744\ufe0f",
       "day": "20",
       "info": "$13.34 - $17.49"
+    },
+    {
+      "sortindex": 1782021600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d10016aa-db4a-45d9-8e26-20bf4d060095.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 186,
+      "destination": "/?eid=65254",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+      "title": "UQMAS 10 Year Anniversary",
+      "day": "21",
+      "info": "$6.08 - $16.45"
     },
     {
       "sortindex": 1782257400,
@@ -3261,6 +3290,20 @@
       "title": "2026 Clayton Utz UQ Unjust Enrichment Moot",
       "day": "26",
       "info": "$510.60"
+    },
+    {
+      "sortindex": 1791014400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/998649be-2985-48fd-85c9-48ecfa5002e1.png",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 165,
+      "destination": "/?eid=64565",
+      "societyname": "UQBA - UQ Business Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+      "title": "The Annual Business Ball 2026: F1ORA\ud83c\udfce\ufe0f\ud83c\udf37",
+      "day": "3",
+      "info": "$87.26 - $194.37"
     }
   ],
   "selectedState": "Queensland"
