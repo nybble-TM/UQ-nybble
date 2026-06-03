@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1780372800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
-    "month": "June",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 5729,
-    "destination": "/?eid=64854",
-    "societyname": "UQ Food Science Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-    "title": "Study Session (Semester 1, 2026)",
-    "day": "2",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1780387200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/a95d7d8b-c58d-48a6-9ee1-7ddb1267dc61.png",
-    "month": "June",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 9955,
-    "destination": "/?eid=65295",
-    "societyname": "University of Queensland Pathology Interest Group",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5f9db764-069a-4497-9922-64a59ce172b3.png",
-    "title": "UQPath CAT 2 Review Session",
-    "day": "2",
-    "info": "Free"
-  },
-  {
     "sortindex": 1780560000,
     "image": "https://resources.hellorubric.com/uploaded_assets/0cccccf3-0114-42ae-b9c8-926eb6fedd97.jpg",
     "month": "June",
@@ -39,6 +11,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
     "title": "UQWN x McKinsey Scholarship Event",
     "day": "4",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1780635600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+    "month": "June",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=65328",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Volleyball 05/06",
+    "day": "5",
     "info": "Free"
   },
   {
