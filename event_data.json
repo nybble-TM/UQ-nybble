@@ -308,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 20,
+  "totalItemCount": 18,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2997,34 +2997,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1780556400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a25bad1f-7305-4e57-9583-455498c6c1f9.jpg",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4217,
-      "destination": "/?eid=64795",
-      "societyname": "Student Society of Frazer Institute",
-      "societylogo": "https://resources.getqpay.com/images/63c0f2c7003cb_.png",
-      "title": "SsoFI_TRI Games Night",
-      "day": "4",
-      "info": "$2.97"
-    },
-    {
-      "sortindex": 1780560000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/0cccccf3-0114-42ae-b9c8-926eb6fedd97.jpg",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 3147,
-      "destination": "/?eid=64065",
-      "societyname": "The UQ Women's Network",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
-      "title": "UQWN x McKinsey Scholarship Event",
-      "day": "4",
-      "info": "Free"
-    },
     {
       "sortindex": 1780635600,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
