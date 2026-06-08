@@ -15,17 +15,17 @@
   },
   {
     "sortindex": 1781131800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fa1173c5-db38-441f-aef0-587920a3de0e.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/f96451b1-42f8-4b59-9de2-6617abc547aa.png",
     "month": "June",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",
     "societyid": 377,
-    "destination": "/?eid=65837",
+    "destination": "/?eid=65940",
     "societyname": "UQ Tourism, Hospitality & Events Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
     "title": "Tourism Industry to Gateway Program",
     "day": "11",
-    "info": "$0.00 - $6.08"
+    "info": "Free"
   },
   {
     "sortindex": 1781848800,
@@ -57,7 +57,7 @@
   },
   {
     "sortindex": 1782018000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/70a3c0d8-5ad9-4ec9-897e-1ffefa10ba63.png",
     "month": "June",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -82,6 +82,20 @@
     "title": "UQMAS 10 Year Anniversary",
     "day": "21",
     "info": "$6.08 - $16.45"
+  },
+  {
+    "sortindex": 1782180000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/296059b7-1fbd-4505-b62c-f1a70e3b946c.jpg",
+    "month": "June",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 15049,
+    "destination": "/?eid=65939",
+    "societyname": "UQ Pakistani Students Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/443536dc-7f53-4d6e-920d-386825526135.png",
+    "title": "Gup Shup Picnic",
+    "day": "23",
+    "info": "Free"
   },
   {
     "sortindex": 1782257400,
