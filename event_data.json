@@ -307,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 19,
+  "totalItemCount": 20,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -1450,7 +1450,7 @@
     {
       "country": "CA",
       "logo_url": "https://resources.hellorubric.com/uploaded_assets/2849953b-4be9-4b03-aef1-802ba14d2951.png",
-      "name": "Western University CA",
+      "name": "Western University",
       "id": 542,
       "state": "Ontario",
       "shortname": "Western USC"
@@ -3233,6 +3233,20 @@
       "title": "PSYCHOLOGY BALL 2026: The Oscars: A Night of Icons",
       "day": "21",
       "info": "$102.56 - $112.76"
+    },
+    {
+      "sortindex": 1789808400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ba58f599-3d37-4e04-9a29-3b621c3b8ddc.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 358,
+      "destination": "/?eid=66438",
+      "societyname": "UQ African Students Association",
+      "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+      "title": "Afro Ball: Africa to The World",
+      "day": "19",
+      "info": "$63.09 - $78.64"
     },
     {
       "sortindex": 1790377200,
