@@ -307,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 20,
+  "totalItemCount": 21,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2345,7 +2345,7 @@
     },
     {
       "country": "GB",
-      "logo_url": "https://resources.hellorubric.com/uploaded_assets/44fd1014-68ef-498e-8226-524ade114261.png",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/4893a320-3a6b-4c6c-bb51-0854f1eb44c1.png",
       "name": "University of Demo UK",
       "id": 113,
       "state": "South East",
@@ -3051,6 +3051,20 @@
       "title": "End of Sem Party: 10 Years of UQMAS",
       "day": "21",
       "info": "$6.08 - $16.45"
+    },
+    {
+      "sortindex": 1782104400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 4787,
+      "destination": "/?eid=66766",
+      "societyname": "UQ Cyber Squad",
+      "societylogo": "https://resources.getqpay.com/images/65a3651e473ec_.png",
+      "title": "UQ Cyber Squad EOS Meetup",
+      "day": "22",
+      "info": "$10.00"
     },
     {
       "sortindex": 1782108000,
