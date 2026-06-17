@@ -307,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 21,
+  "totalItemCount": 24,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3053,6 +3053,34 @@
       "info": "$6.08 - $16.45"
     },
     {
+      "sortindex": 1782021600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/5a293a19-2bcb-4c63-aa33-4d4621c0e6d5.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 4235,
+      "destination": "/?eid=65004",
+      "societyname": "UQ Formula Racing Society",
+      "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
+      "title": "UQ Formula Racing Society Grand Prix 2026",
+      "day": "21",
+      "info": "$9.19 - $89.00"
+    },
+    {
+      "sortindex": 1782093600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/fa9b1968-d1b0-478b-a494-24875a4a29ba.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1028,
+      "destination": "/?eid=66671",
+      "societyname": "UQ Muslimah Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e7802692-c3b5-45ef-a87a-94216bd3869c.png",
+      "title": "Eid Lakeside Social (Sisters Only)",
+      "day": "22",
+      "info": "Free"
+    },
+    {
       "sortindex": 1782104400,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
       "month": "June",
@@ -3067,8 +3095,8 @@
       "info": "$10.00"
     },
     {
-      "sortindex": 1782108000,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "sortindex": 1782106200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/f8bd5316-ffec-45ac-aca9-6d611f762622.jpeg",
       "month": "June",
       "societyAvgRating": 0,
       "subtitle": "Party/BBQ/Social",
@@ -3076,7 +3104,7 @@
       "destination": "/?eid=66525",
       "societyname": "UQ Indonesian Student Association",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "UQISA Farewell Winter 2026",
+      "title": "UQISA's Farewell Party - Winter 2026",
       "day": "22",
       "info": "Free"
     },
@@ -3135,6 +3163,20 @@
       "title": "2026 Semester 1 OWTO",
       "day": "27",
       "info": "$26.81"
+    },
+    {
+      "sortindex": 1782716400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/1655b2dd-2fad-4668-ab48-4fb8eb6080cc.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 8824,
+      "destination": "/?eid=67027",
+      "societyname": "UQ Society of Australia Awards Scholars",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
+      "title": "2026 UQSAAS EOS Special General Meeting",
+      "day": "29",
+      "info": "Free"
     },
     {
       "sortindex": 1782977400,
