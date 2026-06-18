@@ -39,7 +39,7 @@
     "societylogo": "https://resources.getqpay.com/images/656bd0e67611d_.png",
     "title": "Lab Coat Pub Crawl",
     "day": "21",
-    "info": "$30.96 - $51.69"
+    "info": "$30.96 - $56.87"
   },
   {
     "sortindex": 1782021600,
@@ -126,6 +126,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1782255600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8373f2e1-bd2a-467c-8db8-f2bcd379d47f.jpeg",
+    "month": "June",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 11194,
+    "destination": "/?eid=67233",
+    "societyname": "UQ Wildlife Special Interest Group",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/8358bac8-1cb9-4499-9d8f-e986e1a28e00.png",
+    "title": "Currumbin Hospital Tour",
+    "day": "24",
+    "info": "$21.63"
+  },
+  {
     "sortindex": 1782257400,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
     "month": "June",
@@ -138,6 +152,20 @@
     "title": "UQ BMES AIBN Lab Tour",
     "day": "24",
     "info": "$0.00 - $5.01"
+  },
+  {
+    "sortindex": 1782367200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_9.png",
+    "month": "June",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 3141,
+    "destination": "/?eid=67238",
+    "societyname": "General Practitioner Student Network UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f3d60290-e7b8-402e-9b00-c8dbbbad8a75.png",
+    "title": "GPSN X Challenges Abroad: Peru Health Promotion",
+    "day": "25",
+    "info": "$6.08"
   },
   {
     "sortindex": 1782370800,
@@ -179,6 +207,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
     "title": "2026 UQSAAS EOS Special General Meeting",
     "day": "29",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1782896400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1844442c-e608-488a-9474-14d8079d63a1.png",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 6511,
+    "destination": "/?eid=67202",
+    "societyname": "UQ Psych MD",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
+    "title": "Cognitive Progression In Schizophrenia",
+    "day": "1",
     "info": "Free"
   },
   {
