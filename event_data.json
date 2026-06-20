@@ -2998,20 +2998,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1781848800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 1835,
-      "destination": "/?eid=65131",
-      "societyname": "Public Health Association University of Queensland",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
-      "title": "UQPHA Special General Meeting 2026",
-      "day": "19",
-      "info": "Free"
-    },
-    {
       "sortindex": 1781942400,
       "image": "https://resources.hellorubric.com/uploaded_assets/c453e4a7-48a9-4414-988f-5da25ea9ce67.jpg",
       "month": "June",
@@ -3041,20 +3027,6 @@
     },
     {
       "sortindex": 1782021600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d10016aa-db4a-45d9-8e26-20bf4d060095.png",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 186,
-      "destination": "/?eid=65254",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-      "title": "End of Sem Party: 10 Years of UQMAS",
-      "day": "21",
-      "info": "$6.08 - $16.45"
-    },
-    {
-      "sortindex": 1782021600,
       "image": "https://resources.hellorubric.com/uploaded_assets/5a293a19-2bcb-4c63-aa33-4d4621c0e6d5.png",
       "month": "June",
       "societyAvgRating": 0,
@@ -3066,6 +3038,20 @@
       "title": "UQ Formula Racing Society Grand Prix 2026",
       "day": "21",
       "info": "$9.19 - $89.00"
+    },
+    {
+      "sortindex": 1782021600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d10016aa-db4a-45d9-8e26-20bf4d060095.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 186,
+      "destination": "/?eid=65254",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+      "title": "End of Sem Party: 10 Years of UQMAS",
+      "day": "21",
+      "info": "$6.08 - $16.45"
     },
     {
       "sortindex": 1782093600,
@@ -3304,6 +3290,20 @@
       "title": "Suits n' Sarees 2026",
       "day": "24",
       "info": "$87.26 - $128.06"
+    },
+    {
+      "sortindex": 1784948400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/4c86c77e-960a-46d8-9450-128f8ec9b0d8.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 2305,
+      "destination": "/?eid=67355",
+      "societyname": "Towards International Medical Equity",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2305.png",
+      "title": "Abortion Care Education Workshop",
+      "day": "25",
+      "info": "Free"
     },
     {
       "sortindex": 1786150800,

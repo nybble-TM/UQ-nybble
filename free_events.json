@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1781848800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
-    "month": "June",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 1835,
-    "destination": "/?eid=65131",
-    "societyname": "Public Health Association University of Queensland",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
-    "title": "UQPHA Special General Meeting 2026",
-    "day": "19",
-    "info": "Free"
-  },
-  {
     "sortindex": 1782093600,
     "image": "https://resources.hellorubric.com/uploaded_assets/fa9b1968-d1b0-478b-a494-24875a4a29ba.png",
     "month": "June",
@@ -95,6 +81,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
     "title": "Meet the clinician researchers panel night",
     "day": "8",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1784948400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4c86c77e-960a-46d8-9450-128f8ec9b0d8.png",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 2305,
+    "destination": "/?eid=67355",
+    "societyname": "Towards International Medical Equity",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2305.png",
+    "title": "Abortion Care Education Workshop",
+    "day": "25",
     "info": "Free"
   }
 ]
