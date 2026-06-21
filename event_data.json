@@ -308,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 27,
+  "totalItemCount": 26,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2998,20 +2998,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1781942400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c453e4a7-48a9-4414-988f-5da25ea9ce67.jpg",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1926,
-      "destination": "/?eid=63742",
-      "societyname": "QLD Physiotherapy Students Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6b9fca3-5065-442e-90bb-4817555da1f7.png",
-      "title": "\u2744\ufe0f\u26f7\ufe0f END OF SEMESTER PARTY: APRES SKI \u26f7\ufe0f\u2744\ufe0f",
-      "day": "20",
-      "info": "$13.34 - $17.49"
-    },
-    {
       "sortindex": 1782018000,
       "image": "https://resources.hellorubric.com/uploaded_assets/70a3c0d8-5ad9-4ec9-897e-1ffefa10ba63.png",
       "month": "June",
@@ -3027,20 +3013,6 @@
     },
     {
       "sortindex": 1782021600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/5a293a19-2bcb-4c63-aa33-4d4621c0e6d5.png",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 4235,
-      "destination": "/?eid=65004",
-      "societyname": "UQ Formula Racing Society",
-      "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
-      "title": "UQ Formula Racing Society Grand Prix 2026",
-      "day": "21",
-      "info": "$9.19 - $89.00"
-    },
-    {
-      "sortindex": 1782021600,
       "image": "https://resources.hellorubric.com/uploaded_assets/d10016aa-db4a-45d9-8e26-20bf4d060095.png",
       "month": "June",
       "societyAvgRating": 0,
@@ -3052,6 +3024,20 @@
       "title": "End of Sem Party: 10 Years of UQMAS",
       "day": "21",
       "info": "$6.08 - $16.45"
+    },
+    {
+      "sortindex": 1782021600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/5a293a19-2bcb-4c63-aa33-4d4621c0e6d5.png",
+      "month": "June",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 4235,
+      "destination": "/?eid=65004",
+      "societyname": "UQ Formula Racing Society",
+      "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
+      "title": "UQ Formula Racing Society Grand Prix 2026",
+      "day": "21",
+      "info": "$9.19 - $89.00"
     },
     {
       "sortindex": 1782093600,
