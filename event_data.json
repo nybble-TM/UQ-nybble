@@ -308,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 26,
+  "totalItemCount": 23,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2998,48 +2998,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1782018000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/70a3c0d8-5ad9-4ec9-897e-1ffefa10ba63.png",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1547,
-      "destination": "/?eid=65902",
-      "societyname": "UQ Science Students Society",
-      "societylogo": "https://resources.getqpay.com/images/656bd0e67611d_.png",
-      "title": "Lab Coat Pub Crawl",
-      "day": "21",
-      "info": "$30.96 - $56.87"
-    },
-    {
-      "sortindex": 1782021600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d10016aa-db4a-45d9-8e26-20bf4d060095.png",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 186,
-      "destination": "/?eid=65254",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-      "title": "End of Sem Party: 10 Years of UQMAS",
-      "day": "21",
-      "info": "$6.08 - $16.45"
-    },
-    {
-      "sortindex": 1782021600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/5a293a19-2bcb-4c63-aa33-4d4621c0e6d5.png",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 4235,
-      "destination": "/?eid=65004",
-      "societyname": "UQ Formula Racing Society",
-      "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
-      "title": "UQ Formula Racing Society Grand Prix 2026",
-      "day": "21",
-      "info": "$9.19 - $89.00"
-    },
-    {
       "sortindex": 1782093600,
       "image": "https://resources.hellorubric.com/uploaded_assets/fa9b1968-d1b0-478b-a494-24875a4a29ba.png",
       "month": "June",
@@ -3261,7 +3219,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/f3d60290-e7b8-402e-9b00-c8dbbbad8a75.png",
       "title": "Queensland GPSN Statewide Conference",
       "day": "18",
-      "info": "$6.08"
+      "info": "$6.08 - $11.27"
     },
     {
       "sortindex": 1784883600,
