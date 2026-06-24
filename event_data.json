@@ -308,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 20,
+  "totalItemCount": 19,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2998,20 +2998,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1782180000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/296059b7-1fbd-4505-b62c-f1a70e3b946c.jpg",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 15049,
-      "destination": "/?eid=65939",
-      "societyname": "UQ Pakistani Students Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/443536dc-7f53-4d6e-920d-386825526135.png",
-      "title": "Gup Shup Picnic",
-      "day": "23",
-      "info": "Free"
-    },
-    {
       "sortindex": 1782255600,
       "image": "https://resources.hellorubric.com/uploaded_assets/8373f2e1-bd2a-467c-8db8-f2bcd379d47f.jpeg",
       "month": "June",
@@ -3065,7 +3051,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
       "title": "Mixer: UQCCR x SSoFI x QIMR x Mater x UQ Biotech",
       "day": "25",
-      "info": "$5.00 - $10.10"
+      "info": "$10.00 - $15.00"
     },
     {
       "sortindex": 1782510600,
