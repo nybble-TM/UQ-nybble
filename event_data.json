@@ -6,7 +6,7 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
-    "Trip/Camp"
+    "Quiz/Trivia"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -307,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 15,
+  "totalItemCount": 20,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3053,6 +3053,20 @@
       "info": "$0.00 - $5.72"
     },
     {
+      "sortindex": 1783036800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/0df877a5-1211-4949-8d5a-2d9c174654dd.jpg",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 6249,
+      "destination": "/?eid=67808",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "Tirtatalk: No Shortcut to Impact",
+      "day": "3",
+      "info": "$7.12"
+    },
+    {
       "sortindex": 1783119600,
       "image": "https://resources.hellorubric.com/uploaded_assets/b89dc486-cf62-4575-9989-58116d755031.png",
       "month": "July",
@@ -3109,6 +3123,20 @@
       "info": "$6.08 - $11.27"
     },
     {
+      "sortindex": 1784791800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/aaab98bf-1e5b-4fde-83f3-d1bf8baea5a9.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4520,
+      "destination": "/?eid=67942",
+      "societyname": "UQ Radiology Interest Group",
+      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+      "title": "Forensic Imaging",
+      "day": "23",
+      "info": "$0.00 - $8.00"
+    },
+    {
       "sortindex": 1784883600,
       "image": "https://resources.hellorubric.com/uploaded_assets/e7ebd4c3-b5df-44cc-ac5d-372c88af841e.png",
       "month": "July",
@@ -3135,6 +3163,20 @@
       "title": "Abortion Care Education Workshop",
       "day": "25",
       "info": "Free"
+    },
+    {
+      "sortindex": 1785310200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/05dc7495-b6b0-44da-beeb-d290db310e7a.jpeg",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 2040,
+      "destination": "/?eid=67644",
+      "societyname": "UQ Critical Care Interest Group",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/036cf4b7-6123-4916-8fba-ce17a75a3372.png",
+      "title": "Trivia Night",
+      "day": "29",
+      "info": "$11.26 - $18.51"
     },
     {
       "sortindex": 1786150800,
@@ -3193,6 +3235,20 @@
       "info": "$510.60"
     },
     {
+      "sortindex": 1790413200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/1434c9bd-ef56-466d-88a2-78646f04c6cb.jpg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 262,
+      "destination": "/?eid=67932",
+      "societyname": "UQ Criminology & Criminal Justice Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+      "title": "UQCCJS x CSS I Cluedo and Cocktails Ball",
+      "day": "26",
+      "info": "$114.92 - $146.01"
+    },
+    {
       "sortindex": 1791014400,
       "image": "https://resources.hellorubric.com/uploaded_assets/998649be-2985-48fd-85c9-48ecfa5002e1.png",
       "month": "October",
@@ -3205,6 +3261,20 @@
       "title": "The Annual Business Ball 2026: F1ORA\ud83c\udfce\ufe0f\ud83c\udf37",
       "day": "3",
       "info": "$87.26 - $194.37"
+    },
+    {
+      "sortindex": 1791018000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ee6203b6-c3bf-4584-99a0-aadbff685508.jpg",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 339,
+      "destination": "/?eid=67899",
+      "societyname": "UQ HMNS Student Society",
+      "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
+      "title": "2026 HMNS Ball: Jazz & Gin - Paris after Midnight",
+      "day": "3",
+      "info": "$99.37 - $109.73"
     }
   ],
   "selectedState": "Queensland"
