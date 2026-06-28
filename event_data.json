@@ -307,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 20,
+  "totalItemCount": 19,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2996,20 +2996,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1782510600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f6e23f04-eee6-447a-959a-837a64681212.jpeg",
-      "month": "June",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 7257,
-      "destination": "/?eid=63535",
-      "societyname": "Society of Lifesaving",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
-      "title": "2026 Semester 1 OWTO",
-      "day": "27",
-      "info": "$26.81"
-    },
     {
       "sortindex": 1782714600,
       "image": "https://resources.hellorubric.com/uploaded_assets/1655b2dd-2fad-4668-ab48-4fb8eb6080cc.png",
