@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1782714600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1655b2dd-2fad-4668-ab48-4fb8eb6080cc.png",
-    "month": "June",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 8824,
-    "destination": "/?eid=67027",
-    "societyname": "UQ Society of Australia Awards Scholars",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b328b267-ef8e-430b-8137-c1743f71eff6.png",
-    "title": "2026 UQSAAS EOS Special General Meeting",
-    "day": "29",
-    "info": "Free"
-  },
-  {
     "sortindex": 1782896400,
     "image": "https://resources.hellorubric.com/uploaded_assets/1844442c-e608-488a-9474-14d8079d63a1.png",
     "month": "July",
@@ -180,6 +166,20 @@
     "title": "SPASA Careers & Networking Day",
     "day": "8",
     "info": "$11.27 - $52.72"
+  },
+  {
+    "sortindex": 1787212800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4972b0b3-2483-435b-80ba-5da67c97526a.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 3147,
+    "destination": "/?eid=68096",
+    "societyname": "The UQ Women's Network",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
+    "title": "UQWN x UQES Consulting on Campus",
+    "day": "20",
+    "info": "$5.05"
   },
   {
     "sortindex": 1787302800,
