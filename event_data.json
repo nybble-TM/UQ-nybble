@@ -6,7 +6,8 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
-    "Quiz/Trivia"
+    "Quiz/Trivia",
+    "Trip/Camp"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -307,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 19,
+  "totalItemCount": 22,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2996,20 +2997,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1782896400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/1844442c-e608-488a-9474-14d8079d63a1.png",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 6511,
-      "destination": "/?eid=67202",
-      "societyname": "UQ Psych MD",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
-      "title": "Cognitive Progression In Schizophrenia",
-      "day": "1",
-      "info": "Free"
-    },
-    {
       "sortindex": 1782977400,
       "image": "https://resources.hellorubric.com/uploaded_assets/4b27b332-59fc-4b29-a87d-9799879dc17c.png",
       "month": "July",
@@ -3066,6 +3053,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1783904400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6249,
+      "destination": "/?eid=68269",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "Graduation Snack Box",
+      "day": "13",
+      "info": "$16.00"
+    },
+    {
       "sortindex": 1784098800,
       "image": "https://resources.hellorubric.com/uploaded_assets/cb6a41a7-13de-454f-9aca-4dc0653f44f6.png",
       "month": "July",
@@ -3094,6 +3095,20 @@
       "info": "$6.08 - $11.27"
     },
     {
+      "sortindex": 1784401200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/5cef99e2-e0b6-4915-b609-872ea4373691.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 2511,
+      "destination": "/?eid=68264",
+      "societyname": "Muslim Students Association UQ",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+      "title": " BROTHERS' HIKE - MT NGUNGUN ",
+      "day": "19",
+      "info": "$5.00"
+    },
+    {
       "sortindex": 1784791800,
       "image": "https://resources.hellorubric.com/uploaded_assets/aaab98bf-1e5b-4fde-83f3-d1bf8baea5a9.png",
       "month": "July",
@@ -3106,6 +3121,34 @@
       "title": "Forensic Imaging",
       "day": "23",
       "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1784797200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6511,
+      "destination": "/?eid=68255",
+      "societyname": "UQ Psych MD",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
+      "title": "Liminal Space: Adolescence and Psychosis",
+      "day": "23",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1784872800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8fa06019-24ca-4fb0-9710-7ad46f0c9b2b.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 6249,
+      "destination": "/?eid=68246",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "SMILE program #2 by UQISA",
+      "day": "24",
+      "info": "Free"
     },
     {
       "sortindex": 1784883600,
