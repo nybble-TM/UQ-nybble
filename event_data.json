@@ -308,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 22,
+  "totalItemCount": 21,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -2996,20 +2996,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1783036800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/0df877a5-1211-4949-8d5a-2d9c174654dd.jpg",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 6249,
-      "destination": "/?eid=67808",
-      "societyname": "UQ Indonesian Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "Tirtatalk: No Shortcut to Impact",
-      "day": "3",
-      "info": "$7.12"
-    },
     {
       "sortindex": 1783119600,
       "image": "https://resources.hellorubric.com/uploaded_assets/b89dc486-cf62-4575-9989-58116d755031.png",
