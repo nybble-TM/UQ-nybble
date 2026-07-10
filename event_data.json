@@ -308,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 20,
+  "totalItemCount": 22,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3075,6 +3075,20 @@
       "info": "$0.00 - $6.08"
     },
     {
+      "sortindex": 1784709000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 57,
+      "destination": "/?eid=68989",
+      "societyname": "University of Queensland Law Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS Clerkship Evening",
+      "day": "22",
+      "info": "$0.00 - $408.58"
+    },
+    {
       "sortindex": 1784791800,
       "image": "https://resources.hellorubric.com/uploaded_assets/aaab98bf-1e5b-4fde-83f3-d1bf8baea5a9.png",
       "month": "July",
@@ -3100,7 +3114,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
       "title": "Liminal Space: Adolescence and Psychosis",
       "day": "23",
-      "info": "Free"
+      "info": "$0.00 - $6.00"
     },
     {
       "sortindex": 1784872800,
@@ -3160,7 +3174,7 @@
     },
     {
       "sortindex": 1785540600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/31523232-d6e7-4f6e-9f53-e0dfbac8e598.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/6fc09902-8efe-4043-9f92-6300acdb71a2.png",
       "month": "August",
       "societyAvgRating": 0,
       "subtitle": "Class/Workshop",
@@ -3283,6 +3297,20 @@
       "title": "2026 HMNS Ball: Jazz & Gin - Paris after Midnight",
       "day": "3",
       "info": "$99.37 - $109.73"
+    },
+    {
+      "sortindex": 1792231200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 164,
+      "destination": "/?eid=68636",
+      "societyname": "UQ Nursing and Midwifery Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
+      "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
+      "day": "17",
+      "info": "$104.55 - $146.01"
     }
   ],
   "selectedState": "Queensland"
