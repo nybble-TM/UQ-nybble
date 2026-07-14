@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1783904400,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6249,
-    "destination": "/?eid=68269",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "Graduation Snack Box",
-    "day": "13",
-    "info": "$16.00"
-  },
-  {
     "sortindex": 1784098800,
     "image": "https://resources.hellorubric.com/uploaded_assets/cb6a41a7-13de-454f-9aca-4dc0653f44f6.png",
     "month": "July",
@@ -138,6 +124,20 @@
     "title": "Suits n' Sarees 2026",
     "day": "24",
     "info": "$43.90 - $138.26"
+  },
+  {
+    "sortindex": 1784937600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/0fa80474-2f60-406b-85a2-e8374f229488.jpg",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2431,
+    "destination": "/?eid=69219",
+    "societyname": "UQ Taiko Japanese Drumming Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/009d5d59-ee27-4d2e-a709-03f5d41fdc3a.png",
+    "title": "TRY TAIKO Sem 2 2026",
+    "day": "25",
+    "info": "$2.97"
   },
   {
     "sortindex": 1784948400,
