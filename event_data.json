@@ -7,6 +7,7 @@
     "Other",
     "Party/BBQ/Social",
     "Quiz/Trivia",
+    "Show/Performance",
     "Trip/Camp"
   ],
   "showRatingsReviews": false,
@@ -308,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 25,
+  "totalItemCount": 27,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3159,6 +3160,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1785052800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Show/Performance",
+      "societyid": 2517,
+      "destination": "/?eid=69409",
+      "societyname": "UQ Cheer and Dance Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2517.png",
+      "title": "2026 UQCD Movie Night ",
+      "day": "26",
+      "info": "$11.27"
+    },
+    {
       "sortindex": 1785310200,
       "image": "https://resources.hellorubric.com/uploaded_assets/05dc7495-b6b0-44da-beeb-d290db310e7a.jpeg",
       "month": "July",
@@ -3271,6 +3286,20 @@
       "info": "$102.56 - $133.16"
     },
     {
+      "sortindex": 1789203600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/bfd1e7c8-9858-4366-a7d8-3cd12994450a.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 186,
+      "destination": "/?eid=69325",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+      "title": "Roaring 20's Ball",
+      "day": "12",
+      "info": "$99.37 - $109.73"
+    },
+    {
       "sortindex": 1789808400,
       "image": "https://resources.hellorubric.com/uploaded_assets/ba58f599-3d37-4e04-9a29-3b621c3b8ddc.png",
       "month": "September",
@@ -3320,7 +3349,7 @@
       "subtitle": "Ball/Dinner/Gala",
       "societyid": 165,
       "destination": "/?eid=64565",
-      "societyname": "UQBA - UQ Business Association",
+      "societyname": "UQ Business Association",
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
       "title": "The Annual Business Ball 2026: F1ORA\ud83c\udfce\ufe0f\ud83c\udf37",
       "day": "3",
