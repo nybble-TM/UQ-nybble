@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 27,
+  "totalItemCount": 26,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3006,20 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1784098800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/cb6a41a7-13de-454f-9aca-4dc0653f44f6.png",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 3444,
-      "destination": "/?eid=62441",
-      "societyname": "UQ Derm",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76d5a9d7-a09e-42d4-b6ea-210543c61f19.png",
-      "title": "How do I become a dermatologist?",
-      "day": "15",
-      "info": "$11.27 - $16.45"
-    },
-    {
       "sortindex": 1784327400,
       "image": "https://resources.hellorubric.com/uploaded_assets/dd529f8f-1697-47cd-be33-c54fcf8cc08b.jpg",
       "month": "July",
@@ -3161,7 +3147,7 @@
     },
     {
       "sortindex": 1785052800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/dab1dae2-b627-48e6-bc9a-17a709577b1b.png",
       "month": "July",
       "societyAvgRating": 0,
       "subtitle": "Show/Performance",
@@ -3287,7 +3273,7 @@
     },
     {
       "sortindex": 1789203600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/bfd1e7c8-9858-4366-a7d8-3cd12994450a.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/201d4ecd-56e9-4316-bbaa-b00b83c6fb0e.jpg",
       "month": "September",
       "societyAvgRating": 0,
       "subtitle": "Party/BBQ/Social",
