@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 26,
+  "totalItemCount": 28,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3077,7 +3077,7 @@
     },
     {
       "sortindex": 1784797200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/3770cd3b-7d89-4651-bc68-afda839bf93f.jpg",
       "month": "July",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3214,6 +3214,34 @@
       "title": "SPASA Careers & Networking Day",
       "day": "8",
       "info": "$11.27 - $52.72"
+    },
+    {
+      "sortindex": 1786609800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 2274,
+      "destination": "/?eid=69657",
+      "societyname": "BRUCE Architecture Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
+      "title": "BRUCE x OOPS Trivia",
+      "day": "13",
+      "info": "$6.00 - $13.00"
+    },
+    {
+      "sortindex": 1786685400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/21e41d1b-7c6b-4c33-9aaf-f5b013490c51.jpg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3858,
+      "destination": "/?eid=69712",
+      "societyname": "UQ English and Literature Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6adf46e-ec6e-4f83-a196-886bedde40de.png",
+      "title": "THE ODYSSEY Special Screening",
+      "day": "14",
+      "info": "$11.27 - $15.41"
     },
     {
       "sortindex": 1786780800,
