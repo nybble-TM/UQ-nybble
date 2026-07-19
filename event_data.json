@@ -7,8 +7,7 @@
     "Other",
     "Party/BBQ/Social",
     "Quiz/Trivia",
-    "Show/Performance",
-    "Trip/Camp"
+    "Show/Performance"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -3006,20 +3005,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1784327400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/dd529f8f-1697-47cd-be33-c54fcf8cc08b.jpg",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 3141,
-      "destination": "/?eid=64584",
-      "societyname": "General Practitioner Student Network UQ",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f3d60290-e7b8-402e-9b00-c8dbbbad8a75.png",
-      "title": "Queensland GPSN Statewide Conference",
-      "day": "18",
-      "info": "$6.08 - $11.27"
-    },
-    {
       "sortindex": 1784401200,
       "image": "https://resources.hellorubric.com/uploaded_assets/5cef99e2-e0b6-4915-b609-872ea4373691.png",
       "month": "July",
@@ -3228,6 +3213,20 @@
       "title": "Networking Evening: Connections that Count",
       "day": "5",
       "info": "Free"
+    },
+    {
+      "sortindex": 1786053600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/31c407ad-7bce-4c23-b3c1-0ba1345a3bc2.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 534,
+      "destination": "/?eid=69859",
+      "societyname": "Queensland University Exchange Students Society Inc.",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+      "title": "QUEST goes to Byron Bay",
+      "day": "7",
+      "info": "$249.66"
     },
     {
       "sortindex": 1786150800,
