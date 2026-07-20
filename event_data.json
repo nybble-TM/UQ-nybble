@@ -308,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 30,
+  "totalItemCount": 33,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3005,20 +3005,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1784401200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/5cef99e2-e0b6-4915-b609-872ea4373691.png",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 2511,
-      "destination": "/?eid=68264",
-      "societyname": "Muslim Students Association UQ",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-      "title": " BROTHERS' HIKE - MT NGUNGUN ",
-      "day": "19",
-      "info": "$5.00"
-    },
-    {
       "sortindex": 1784588400,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
       "month": "July",
@@ -3075,6 +3061,20 @@
       "info": "$0.00 - $6.00"
     },
     {
+      "sortindex": 1784869200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/f38185d9-4584-43a6-b5e8-4256b37cf758.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 1345,
+      "destination": "/?eid=69857",
+      "societyname": "Underground Theatre Company",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
+      "title": "\"Dancing For Those Who Can't\" with Holly Lightbody",
+      "day": "24",
+      "info": "$0.00 - $20.00"
+    },
+    {
       "sortindex": 1784872800,
       "image": "https://resources.hellorubric.com/uploaded_assets/8fa06019-24ca-4fb0-9710-7ad46f0c9b2b.png",
       "month": "July",
@@ -3117,8 +3117,8 @@
       "info": "$2.97"
     },
     {
-      "sortindex": 1784948400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/9fecf7e2-5c7c-46fd-b890-14b4e3a23dfc.png",
+      "sortindex": 1784946600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/da73576c-653b-4818-a59a-dc74430a8c46.png",
       "month": "July",
       "societyAvgRating": 0,
       "subtitle": "Class/Workshop",
@@ -3143,6 +3143,20 @@
       "title": "2026 UQCD Movie Night ",
       "day": "26",
       "info": "$11.27"
+    },
+    {
+      "sortindex": 1785155400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/46fdd6d3-14f3-4183-9d48-7e2cb5f39a2f.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2397,
+      "destination": "/?eid=69753",
+      "societyname": "UQ Social Work Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f461da90-1575-4e4a-a738-1d64ee729024.png",
+      "title": "Free Hot Drink- Welcome Picnic Semester 2 2026",
+      "day": "27",
+      "info": "Free"
     },
     {
       "sortindex": 1785310200,
@@ -3171,6 +3185,20 @@
       "title": "Narrative Medicine Writing Workshop",
       "day": "1",
       "info": "$0.00 - $9.19"
+    },
+    {
+      "sortindex": 1785546000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/e00911f6-ae58-47c9-9e21-7a75063b1f5e.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 1345,
+      "destination": "/?eid=69932",
+      "societyname": "Underground Theatre Company",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
+      "title": "'Dog on a Tuckerbox' - Creative development",
+      "day": "1",
+      "info": "Free"
     },
     {
       "sortindex": 1785553200,
@@ -3227,6 +3255,20 @@
       "title": "QUEST goes to Byron Bay",
       "day": "7",
       "info": "$249.66"
+    },
+    {
+      "sortindex": 1786093200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/36d4f1cc-0141-49a8-b4f8-5adaae72b5ae.jpeg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1857,
+      "destination": "/?eid=69931",
+      "societyname": "Psychology Students' Association Inc",
+      "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+      "title": "Semester 2 Euphoria Launch Party",
+      "day": "7",
+      "info": "$12.79 - $15.85"
     },
     {
       "sortindex": 1786150800,

@@ -14,8 +14,8 @@
     "info": "Free"
   },
   {
-    "sortindex": 1784948400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/9fecf7e2-5c7c-46fd-b890-14b4e3a23dfc.png",
+    "sortindex": 1784946600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/da73576c-653b-4818-a59a-dc74430a8c46.png",
     "month": "July",
     "societyAvgRating": 0,
     "subtitle": "Class/Workshop",
@@ -25,6 +25,34 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2305.png",
     "title": "Abortion Care Education Workshop",
     "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785155400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/46fdd6d3-14f3-4183-9d48-7e2cb5f39a2f.png",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2397,
+    "destination": "/?eid=69753",
+    "societyname": "UQ Social Work Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f461da90-1575-4e4a-a738-1d64ee729024.png",
+    "title": "Free Hot Drink- Welcome Picnic Semester 2 2026",
+    "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785546000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e00911f6-ae58-47c9-9e21-7a75063b1f5e.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 1345,
+    "destination": "/?eid=69932",
+    "societyname": "Underground Theatre Company",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
+    "title": "'Dog on a Tuckerbox' - Creative development",
+    "day": "1",
     "info": "Free"
   },
   {
