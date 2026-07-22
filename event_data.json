@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 36,
+  "totalItemCount": 47,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3006,20 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1784588400,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 3906,
-      "destination": "/?eid=68375",
-      "societyname": "The University of Queensland's Biomedical Engineering Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/823c799e-cac0-4f15-a1c3-acc3b30dc9b3.png",
-      "title": "Philips Site Tour",
-      "day": "21",
-      "info": "$0.00 - $6.08"
-    },
-    {
       "sortindex": 1784709000,
       "image": "https://resources.hellorubric.com/uploaded_assets/796b47ee-32c0-43bc-bc40-e0460a0cdab7.png",
       "month": "July",
@@ -3174,6 +3160,34 @@
       "info": "$11.26 - $18.51"
     },
     {
+      "sortindex": 1785312000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 7257,
+      "destination": "/?eid=70186",
+      "societyname": "Society of Lifesaving",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+      "title": "Semester 2 Welcome Trivia",
+      "day": "29",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1785474000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2652,
+      "destination": "/?eid=70177",
+      "societyname": "UQ Greens Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
+      "title": "Politics On The Green",
+      "day": "31",
+      "info": "Free"
+    },
+    {
       "sortindex": 1785481200,
       "image": "https://resources.hellorubric.com/uploaded_assets/fb255bc6-f5d7-4619-a904-1da99d541dce.jpg",
       "month": "July",
@@ -3185,7 +3199,21 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
       "title": "2026 S2 Welcome Tea Party",
       "day": "31",
-      "info": "$10.00 - $20.00"
+      "info": "$3.00 - $20.00"
+    },
+    {
+      "sortindex": 1785481200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_6.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 173,
+      "destination": "/?eid=70115",
+      "societyname": "UQ German Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
+      "title": "2026 Sem 2 Welcome Event ",
+      "day": "31",
+      "info": "Free"
     },
     {
       "sortindex": 1785540600,
@@ -3216,6 +3244,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1785549600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a3a9c9b2-ed28-48ce-bdb0-2ff88385db3a.jpeg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1835,
+      "destination": "/?eid=69736",
+      "societyname": "Public Health Association University of Queensland",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
+      "title": "Pizza and Party Games",
+      "day": "1",
+      "info": "$0.00 - $6.08"
+    },
+    {
       "sortindex": 1785553200,
       "image": "https://resources.hellorubric.com/uploaded_assets/ba596fa1-a22d-498a-8d99-88f167b31557.png",
       "month": "August",
@@ -3230,6 +3272,20 @@
       "info": "$42.36"
     },
     {
+      "sortindex": 1785816000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2fe7f2d3-c215-48c3-a202-e2883b797766.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 5763,
+      "destination": "/?eid=70188",
+      "societyname": "Bachelor of Advanced Business (Honours) SPC",
+      "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+      "title": "Grant Thornton Service Lines Insider",
+      "day": "4",
+      "info": "Free"
+    },
+    {
       "sortindex": 1785832200,
       "image": "https://resources.hellorubric.com/uploaded_assets/71e1c8e1-c9ba-4239-bf2d-f58a9eb22e03.png",
       "month": "August",
@@ -3242,6 +3298,20 @@
       "title": "UQLIT X UQCS Mock Interviews",
       "day": "4",
       "info": "$5.00 - $10.00"
+    },
+    {
+      "sortindex": 1785915000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 2652,
+      "destination": "/?eid=70101",
+      "societyname": "UQ Greens Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
+      "title": "Woke Trivia",
+      "day": "5",
+      "info": "Free"
     },
     {
       "sortindex": 1785916800,
@@ -3300,6 +3370,20 @@
       "info": "$11.27 - $52.72"
     },
     {
+      "sortindex": 1786165200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/af36fdff-6a83-45b7-b9d6-0fe0dfaee5ab.jpg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 358,
+      "destination": "/?eid=70117",
+      "societyname": "UQ African Students Association",
+      "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+      "title": "ASA Welcome Event: Aunty's backyard braai",
+      "day": "8",
+      "info": "Free"
+    },
+    {
       "sortindex": 1786609800,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
       "month": "August",
@@ -3314,6 +3398,34 @@
       "info": "$6.00 - $13.00"
     },
     {
+      "sortindex": 1786609800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 165,
+      "destination": "/?eid=70078",
+      "societyname": "UQ Business Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+      "title": "2026 Corporate Connections",
+      "day": "13",
+      "info": "$36.25 - $46.45"
+    },
+    {
+      "sortindex": 1786683600,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2652,
+      "destination": "/?eid=70179",
+      "societyname": "UQ Greens Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
+      "title": "Left Wing Jams On The Great Court",
+      "day": "14",
+      "info": "Free"
+    },
+    {
       "sortindex": 1786685400,
       "image": "https://resources.hellorubric.com/uploaded_assets/21e41d1b-7c6b-4c33-9aaf-f5b013490c51.jpg",
       "month": "August",
@@ -3326,6 +3438,20 @@
       "title": "THE ODYSSEY Special Screening",
       "day": "14",
       "info": "$11.27 - $15.41"
+    },
+    {
+      "sortindex": 1786690800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 6511,
+      "destination": "/?eid=70086",
+      "societyname": "UQ Psych MD",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
+      "title": "Intro to Art Therapy for Med Students & Doctors",
+      "day": "14",
+      "info": "$6.08 - $11.27"
     },
     {
       "sortindex": 1786780800,
@@ -3368,6 +3494,34 @@
       "title": "UQWN x UQES Consulting on Campus",
       "day": "20",
       "info": "$5.05"
+    },
+    {
+      "sortindex": 1787263200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/599bdaf9-8a33-4c72-a9e4-6e36b6ab4705.jpg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 601,
+      "destination": "/?eid=70125",
+      "societyname": "UQ Union Surfers Inc.",
+      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
+      "title": "Flat Rock Surf Camp Sem 2",
+      "day": "21",
+      "info": "$104.55 - $146.01"
+    },
+    {
+      "sortindex": 1787299200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2652,
+      "destination": "/?eid=70180",
+      "societyname": "UQ Greens Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
+      "title": "Boardgames Night",
+      "day": "21",
+      "info": "Free"
     },
     {
       "sortindex": 1787302800,
