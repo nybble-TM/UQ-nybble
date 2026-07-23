@@ -43,7 +43,7 @@
   },
   {
     "sortindex": 1785312000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/4ddac7a5-3ee3-473d-8a90-62672b97c2d4.jpg",
     "month": "July",
     "societyAvgRating": 0,
     "subtitle": "Quiz/Trivia",
@@ -70,8 +70,22 @@
     "info": "Free"
   },
   {
+    "sortindex": 1785474000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/af36fdff-6a83-45b7-b9d6-0fe0dfaee5ab.jpg",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 358,
+    "destination": "/?eid=70117",
+    "societyname": "UQ African Students Association",
+    "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+    "title": "ASA Welcome Event: Aunty's backyard braai",
+    "day": "31",
+    "info": "Free"
+  },
+  {
     "sortindex": 1785481200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_6.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/7690d499-42f3-44fe-9eef-534ee1df7e60.png",
     "month": "July",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -95,6 +109,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
     "title": "'Dog on a Tuckerbox' - Creative development",
     "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785740400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e628ae0b-e083-4d3c-8e38-6018fbc025ee.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 2511,
+    "destination": "/?eid=70289",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "MSA x Muslimah Welcome Night & Trivia",
+    "day": "3",
     "info": "Free"
   },
   {
@@ -140,17 +168,17 @@
     "info": "Free"
   },
   {
-    "sortindex": 1786165200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/af36fdff-6a83-45b7-b9d6-0fe0dfaee5ab.jpg",
+    "sortindex": 1785999600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1dfdf766-3566-4068-b37f-8be1d37ec87a.png",
     "month": "August",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
-    "societyid": 358,
-    "destination": "/?eid=70117",
-    "societyname": "UQ African Students Association",
-    "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
-    "title": "ASA Welcome Event: Aunty's backyard braai",
-    "day": "8",
+    "societyid": 8835,
+    "destination": "/?eid=70208",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "UQCCR x SSoFI Games Night",
+    "day": "6",
     "info": "Free"
   },
   {
