@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 51,
+  "totalItemCount": 50,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3006,48 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1784791800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/aaab98bf-1e5b-4fde-83f3-d1bf8baea5a9.png",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4520,
-      "destination": "/?eid=67942",
-      "societyname": "UQ Radiology Interest Group",
-      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
-      "title": "Forensic Imaging",
-      "day": "23",
-      "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1784797200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3770cd3b-7d89-4651-bc68-afda839bf93f.jpg",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 6511,
-      "destination": "/?eid=68255",
-      "societyname": "UQ Psych MD",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
-      "title": "Liminal Space: Adolescence and Psychosis",
-      "day": "23",
-      "info": "$0.00 - $6.00"
-    },
-    {
-      "sortindex": 1784869200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f38185d9-4584-43a6-b5e8-4256b37cf758.png",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 1345,
-      "destination": "/?eid=69857",
-      "societyname": "Underground Theatre Company",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
-      "title": "\"Dancing For Those Who Can't\" with Holly Lightbody",
-      "day": "24",
-      "info": "$0.00 - $20.00"
-    },
-    {
       "sortindex": 1784872800,
       "image": "https://resources.hellorubric.com/uploaded_assets/8fa06019-24ca-4fb0-9710-7ad46f0c9b2b.png",
       "month": "July",
@@ -3130,6 +3088,20 @@
       "title": "Free Hot Drink- Welcome Picnic Semester 2 2026",
       "day": "27",
       "info": "Free"
+    },
+    {
+      "sortindex": 1785222000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/bba6d882-1ebe-4e7e-913e-d3773ffe69ac.jpeg",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5729,
+      "destination": "/?eid=70464",
+      "societyname": "UQ Food Science Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+      "title": "Meet and Greet",
+      "day": "28",
+      "info": "$0.00 - $6.08"
     },
     {
       "sortindex": 1785310200,
@@ -3270,6 +3242,20 @@
       "title": "White T Shirt Pub Crawl",
       "day": "1",
       "info": "$42.36"
+    },
+    {
+      "sortindex": 1785630600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/1469b10b-2c57-4a87-bc95-c577ec101307.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 649,
+      "destination": "/?eid=70247",
+      "societyname": "Society of Fine Arts",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+      "title": "BLUEPRINT: Cyanotypes with SoFA",
+      "day": "2",
+      "info": "$16.45 - $21.63"
     },
     {
       "sortindex": 1785740400,
@@ -3511,7 +3497,7 @@
     },
     {
       "sortindex": 1787122800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/ddb6cfb8-de35-445b-b20a-30afa1041ffc.png",
       "month": "August",
       "societyAvgRating": 0,
       "subtitle": "Party/BBQ/Social",
