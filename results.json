@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1784872800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8fa06019-24ca-4fb0-9710-7ad46f0c9b2b.png",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 6249,
-    "destination": "/?eid=68246",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "SMILE program #2 by UQISA",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1784883600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e7ebd4c3-b5df-44cc-ac5d-372c88af841e.png",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 648,
-    "destination": "/?eid=58338",
-    "societyname": "UQ Sri Lankan Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
-    "title": "Suits n' Sarees 2026",
-    "day": "24",
-    "info": "$43.90 - $138.26"
-  },
-  {
     "sortindex": 1784937600,
     "image": "https://resources.hellorubric.com/uploaded_assets/0fa80474-2f60-406b-85a2-e8374f229488.jpg",
     "month": "July",
@@ -98,6 +70,20 @@
     "info": "$0.00 - $6.08"
   },
   {
+    "sortindex": 1785286800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/bf5a9860-097e-4bfd-bcb3-98b4423b9f0e.jpeg",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 683,
+    "destination": "/?eid=70212",
+    "societyname": "UQ Classics and Ancient History Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f9ee35d4-fe7c-4a48-844f-1d6162ef5019.png",
+    "title": "2026 SEM 2 CAHS Welcome Picnic",
+    "day": "29",
+    "info": "$0.00 - $5.00"
+  },
+  {
     "sortindex": 1785310200,
     "image": "https://resources.hellorubric.com/uploaded_assets/05dc7495-b6b0-44da-beeb-d290db310e7a.jpeg",
     "month": "July",
@@ -126,17 +112,17 @@
     "info": "Free"
   },
   {
-    "sortindex": 1785474000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+    "sortindex": 1785398400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/bb2d74a7-80c3-4856-8423-b350e29bda55.png",
     "month": "July",
     "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2652,
-    "destination": "/?eid=70177",
-    "societyname": "UQ Greens Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
-    "title": "Politics On The Green",
-    "day": "31",
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 2257,
+    "destination": "/?eid=70480",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Welcome Dinner",
+    "day": "30",
     "info": "Free"
   },
   {
@@ -154,16 +140,16 @@
     "info": "Free"
   },
   {
-    "sortindex": 1785481200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7690d499-42f3-44fe-9eef-534ee1df7e60.png",
+    "sortindex": 1785474000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
     "month": "July",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
-    "societyid": 173,
-    "destination": "/?eid=70115",
-    "societyname": "UQ German Club",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
-    "title": "2026 Sem 2 Welcome Event ",
+    "societyid": 2652,
+    "destination": "/?eid=70177",
+    "societyname": "UQ Greens Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
+    "title": "Politics On The Green",
     "day": "31",
     "info": "Free"
   },
@@ -180,6 +166,20 @@
     "title": "2026 S2 Welcome Tea Party",
     "day": "31",
     "info": "$3.00 - $20.00"
+  },
+  {
+    "sortindex": 1785481200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7690d499-42f3-44fe-9eef-534ee1df7e60.png",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 173,
+    "destination": "/?eid=70115",
+    "societyname": "UQ German Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
+    "title": "2026 Sem 2 Welcome Event ",
+    "day": "31",
+    "info": "Free"
   },
   {
     "sortindex": 1785540600,
@@ -407,20 +407,6 @@
   },
   {
     "sortindex": 1786609800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 165,
-    "destination": "/?eid=70078",
-    "societyname": "UQ Business Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
-    "title": "2026 Corporate Connections",
-    "day": "13",
-    "info": "$36.25 - $46.45"
-  },
-  {
-    "sortindex": 1786609800,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
     "month": "August",
     "societyAvgRating": 0,
@@ -432,6 +418,20 @@
     "title": "BRUCE x OOPS Trivia",
     "day": "13",
     "info": "$6.00 - $13.00"
+  },
+  {
+    "sortindex": 1786609800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 165,
+    "destination": "/?eid=70078",
+    "societyname": "UQ Business Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+    "title": "2026 Corporate Connections",
+    "day": "13",
+    "info": "$36.25 - $46.45"
   },
   {
     "sortindex": 1786683600,
@@ -487,7 +487,7 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/80dec386-d36c-4f66-84cb-8800c628b942.png",
     "title": "UQ Music Ball 2026",
     "day": "15",
-    "info": "$99.37 - $104.55"
+    "info": "$109.73 - $114.92"
   },
   {
     "sortindex": 1787122800,
