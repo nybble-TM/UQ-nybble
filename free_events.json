@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1784946600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/da73576c-653b-4818-a59a-dc74430a8c46.png",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 2305,
-    "destination": "/?eid=67355",
-    "societyname": "Towards International Medical Equity",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2305.png",
-    "title": "Abortion Care Education Workshop",
-    "day": "25",
-    "info": "Free"
-  },
-  {
     "sortindex": 1785155400,
     "image": "https://resources.hellorubric.com/uploaded_assets/46fdd6d3-14f3-4183-9d48-7e2cb5f39a2f.png",
     "month": "July",
@@ -57,20 +43,6 @@
   },
   {
     "sortindex": 1785474000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/af36fdff-6a83-45b7-b9d6-0fe0dfaee5ab.jpg",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 358,
-    "destination": "/?eid=70117",
-    "societyname": "UQ African Students Association",
-    "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
-    "title": "ASA Welcome Event: Aunty's backyard braai",
-    "day": "31",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1785474000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
     "month": "July",
     "societyAvgRating": 0,
@@ -80,6 +52,20 @@
     "societyname": "UQ Greens Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
     "title": "Politics On The Green",
+    "day": "31",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785474000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/af36fdff-6a83-45b7-b9d6-0fe0dfaee5ab.jpg",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 358,
+    "destination": "/?eid=70117",
+    "societyname": "UQ African Students Association",
+    "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+    "title": "ASA Welcome Event: Aunty's backyard braai",
     "day": "31",
     "info": "Free"
   },
