@@ -126,6 +126,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1785826800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a2057361-e755-4c59-992e-9a583b86ef12.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 5809,
+    "destination": "/?eid=70687",
+    "societyname": "UQ Reality Labs",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
+    "title": "Intro to VR/XR",
+    "day": "4",
+    "info": "Free"
+  },
+  {
     "sortindex": 1785915000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
     "month": "August",
@@ -207,6 +221,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
     "title": "Boardgames Night",
     "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787364000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1c7bd588-e472-4d0c-be0f-d92d02773f8d.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 2511,
+    "destination": "/?eid=70741",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": " Inter-MSA Sisters Netball Tournament",
+    "day": "22",
     "info": "Free"
   }
 ]

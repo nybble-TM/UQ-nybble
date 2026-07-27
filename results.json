@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1785052800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/dab1dae2-b627-48e6-bc9a-17a709577b1b.png",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Show/Performance",
-    "societyid": 2517,
-    "destination": "/?eid=69409",
-    "societyname": "UQ Cheer and Dance Club",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2517.png",
-    "title": "2026 UQCD Movie Night ",
-    "day": "26",
-    "info": "$11.27"
-  },
-  {
     "sortindex": 1785155400,
     "image": "https://resources.hellorubric.com/uploaded_assets/46fdd6d3-14f3-4183-9d48-7e2cb5f39a2f.png",
     "month": "July",
@@ -28,6 +14,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1785200400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/bf5a9860-097e-4bfd-bcb3-98b4423b9f0e.jpeg",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 683,
+    "destination": "/?eid=70212",
+    "societyname": "UQ Classics and Ancient History Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f9ee35d4-fe7c-4a48-844f-1d6162ef5019.png",
+    "title": "2026 SEM 2 CAHS Welcome Picnic",
+    "day": "28",
+    "info": "$0.00 - $5.00"
+  },
+  {
+    "sortindex": 1785218400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/594052bf-06e7-4bad-a081-ac060a116e46.png",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 4271,
+    "destination": "/?eid=70684",
+    "societyname": "UQ K-Pop Dance Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "UQKDC WEEK 1 CLASS DROP-IN TICKET",
+    "day": "28",
+    "info": "$2.00"
+  },
+  {
     "sortindex": 1785222000,
     "image": "https://resources.hellorubric.com/uploaded_assets/bba6d882-1ebe-4e7e-913e-d3773ffe69ac.jpeg",
     "month": "July",
@@ -40,20 +54,6 @@
     "title": "Meet and Greet",
     "day": "28",
     "info": "$0.00 - $6.08"
-  },
-  {
-    "sortindex": 1785286800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bf5a9860-097e-4bfd-bcb3-98b4423b9f0e.jpeg",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 683,
-    "destination": "/?eid=70212",
-    "societyname": "UQ Classics and Ancient History Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f9ee35d4-fe7c-4a48-844f-1d6162ef5019.png",
-    "title": "2026 SEM 2 CAHS Welcome Picnic",
-    "day": "29",
-    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1785310200,
@@ -127,6 +127,20 @@
   },
   {
     "sortindex": 1785481200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7690d499-42f3-44fe-9eef-534ee1df7e60.png",
+    "month": "July",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 173,
+    "destination": "/?eid=70115",
+    "societyname": "UQ German Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
+    "title": "2026 Sem 2 Welcome Event ",
+    "day": "31",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785481200,
     "image": "https://resources.hellorubric.com/uploaded_assets/fb255bc6-f5d7-4619-a904-1da99d541dce.jpg",
     "month": "July",
     "societyAvgRating": 0,
@@ -140,18 +154,18 @@
     "info": "$3.00 - $20.00"
   },
   {
-    "sortindex": 1785481200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7690d499-42f3-44fe-9eef-534ee1df7e60.png",
+    "sortindex": 1785483000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d51671f8-ceb7-4ff1-9e9f-c4eb9d0dfc5e.png",
     "month": "July",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
-    "societyid": 173,
-    "destination": "/?eid=70115",
-    "societyname": "UQ German Club",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_173.png",
-    "title": "2026 Sem 2 Welcome Event ",
+    "societyid": 4271,
+    "destination": "/?eid=70683",
+    "societyname": "UQ K-Pop Dance Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "title": "UQKDC Semester 2 Welcome Day",
     "day": "31",
-    "info": "Free"
+    "info": "$3.00 - $5.00"
   },
   {
     "sortindex": 1785540600,
@@ -248,6 +262,20 @@
     "societyname": "Bachelor of Advanced Business (Honours) SPC",
     "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
     "title": "Grant Thornton Service Lines Insider",
+    "day": "4",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785826800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a2057361-e755-4c59-992e-9a583b86ef12.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 5809,
+    "destination": "/?eid=70687",
+    "societyname": "UQ Reality Labs",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
+    "title": "Intro to VR/XR",
     "day": "4",
     "info": "Free"
   },
@@ -379,20 +407,6 @@
   },
   {
     "sortindex": 1786609800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 165,
-    "destination": "/?eid=70078",
-    "societyname": "UQ Business Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
-    "title": "2026 Corporate Connections",
-    "day": "13",
-    "info": "$36.25 - $46.45"
-  },
-  {
-    "sortindex": 1786609800,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
     "month": "August",
     "societyAvgRating": 0,
@@ -404,6 +418,20 @@
     "title": "BRUCE x OOPS Trivia",
     "day": "13",
     "info": "$6.00 - $13.00"
+  },
+  {
+    "sortindex": 1786609800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 165,
+    "destination": "/?eid=70078",
+    "societyname": "UQ Business Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+    "title": "2026 Corporate Connections",
+    "day": "13",
+    "info": "$36.25 - $46.45"
   },
   {
     "sortindex": 1786683600,
@@ -530,6 +558,20 @@
     "title": "PSYCHOLOGY BALL 2026: The Oscars: A Night of Icons",
     "day": "21",
     "info": "$102.56 - $133.16"
+  },
+  {
+    "sortindex": 1787364000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1c7bd588-e472-4d0c-be0f-d92d02773f8d.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 2511,
+    "destination": "/?eid=70741",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": " Inter-MSA Sisters Netball Tournament",
+    "day": "22",
+    "info": "Free"
   },
   {
     "sortindex": 1787727600,
