@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1785155400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/46fdd6d3-14f3-4183-9d48-7e2cb5f39a2f.png",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2397,
-    "destination": "/?eid=69753",
-    "societyname": "UQ Social Work Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f461da90-1575-4e4a-a738-1d64ee729024.png",
-    "title": "Free Hot Drink- Welcome Picnic Semester 2 2026",
-    "day": "27",
-    "info": "Free"
-  },
-  {
     "sortindex": 1785312000,
     "image": "https://resources.hellorubric.com/uploaded_assets/4ddac7a5-3ee3-473d-8a90-62672b97c2d4.jpg",
     "month": "July",
@@ -235,6 +221,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
     "title": " Inter-MSA Sisters Netball Tournament",
     "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792137600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/097a72f4-9047-4126-88cf-b755c6d72bbf.jpg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 8835,
+    "destination": "/?eid=70904",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "UQCCR x SSoFI Herston Boardgames Night",
+    "day": "16",
     "info": "Free"
   }
 ]

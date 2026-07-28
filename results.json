@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1785155400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/46fdd6d3-14f3-4183-9d48-7e2cb5f39a2f.png",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2397,
-    "destination": "/?eid=69753",
-    "societyname": "UQ Social Work Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f461da90-1575-4e4a-a738-1d64ee729024.png",
-    "title": "Free Hot Drink- Welcome Picnic Semester 2 2026",
-    "day": "27",
-    "info": "Free"
-  },
-  {
     "sortindex": 1785200400,
     "image": "https://resources.hellorubric.com/uploaded_assets/bf5a9860-097e-4bfd-bcb3-98b4423b9f0e.jpeg",
     "month": "July",
@@ -392,6 +378,20 @@
     "info": "$11.27 - $52.72"
   },
   {
+    "sortindex": 1786165200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6c69054f-fd8b-4f1a-9a4a-1f0220e02395.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 2235,
+    "destination": "/?eid=70841",
+    "societyname": "UQ Photography Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+    "title": "Moogerah Astrophotography Trip",
+    "day": "8",
+    "info": "$16.45 - $30.96"
+  },
+  {
     "sortindex": 1786248000,
     "image": "https://resources.hellorubric.com/uploaded_assets/bde2c4a5-655c-4b14-9ba0-0957efd4ff94.jpg",
     "month": "August",
@@ -404,6 +404,34 @@
     "title": "SPOT Sem 2 Launch",
     "day": "9",
     "info": "$11.27 - $18.52"
+  },
+  {
+    "sortindex": 1786410000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 1643,
+    "destination": "/?eid=70891",
+    "societyname": "UQ Education Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1643.png",
+    "title": "Supporting Emerging Literacy Skills",
+    "day": "11",
+    "info": "$0.00 - $5.00"
+  },
+  {
+    "sortindex": 1786605300,
+    "image": "https://resources.hellorubric.com/uploaded_assets/826aad82-4889-4ce3-ba51-4f27d0e150f8.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4520,
+    "destination": "/?eid=70824",
+    "societyname": "UQ Radiology Interest Group",
+    "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+    "title": "Ultrasound Skills Workshop",
+    "day": "13",
+    "info": "$5.00 - $10.00"
   },
   {
     "sortindex": 1786609800,
@@ -698,6 +726,20 @@
     "title": "2026 HMNS Ball: Jazz & Gin - Paris after Midnight",
     "day": "3",
     "info": "$99.37 - $130.46"
+  },
+  {
+    "sortindex": 1792137600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/097a72f4-9047-4126-88cf-b755c6d72bbf.jpg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 8835,
+    "destination": "/?eid=70904",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "UQCCR x SSoFI Herston Boardgames Night",
+    "day": "16",
+    "info": "Free"
   },
   {
     "sortindex": 1792231200,
