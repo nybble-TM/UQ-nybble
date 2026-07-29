@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1785200400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bf5a9860-097e-4bfd-bcb3-98b4423b9f0e.jpeg",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 683,
-    "destination": "/?eid=70212",
-    "societyname": "UQ Classics and Ancient History Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f9ee35d4-fe7c-4a48-844f-1d6162ef5019.png",
-    "title": "2026 SEM 2 CAHS Welcome Picnic",
-    "day": "28",
-    "info": "$0.00 - $5.00"
-  },
-  {
-    "sortindex": 1785218400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/594052bf-06e7-4bad-a081-ac060a116e46.png",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 4271,
-    "destination": "/?eid=70684",
-    "societyname": "UQ K-Pop Dance Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-    "title": "UQKDC WEEK 1 CLASS DROP-IN TICKET",
-    "day": "28",
-    "info": "$2.00"
-  },
-  {
-    "sortindex": 1785222000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bba6d882-1ebe-4e7e-913e-d3773ffe69ac.jpeg",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 5729,
-    "destination": "/?eid=70464",
-    "societyname": "UQ Food Science Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-    "title": "Meet and Greet",
-    "day": "28",
-    "info": "$0.00 - $6.08"
-  },
-  {
     "sortindex": 1785310200,
     "image": "https://resources.hellorubric.com/uploaded_assets/05dc7495-b6b0-44da-beeb-d290db310e7a.jpeg",
     "month": "July",
@@ -210,6 +168,20 @@
     "info": "$42.36"
   },
   {
+    "sortindex": 1785553200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/562bff73-d4f5-4f53-946c-73aa87590167.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 799,
+    "destination": "/?eid=70981",
+    "societyname": "UQ Street Groove Dance Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
+    "title": "Week 1 Street Groove Dance Classes",
+    "day": "1",
+    "info": "$0.00 - $11.27"
+  },
+  {
     "sortindex": 1785630600,
     "image": "https://resources.hellorubric.com/uploaded_assets/1469b10b-2c57-4a87-bc95-c577ec101307.png",
     "month": "August",
@@ -280,6 +252,20 @@
     "info": "$5.00 - $10.00"
   },
   {
+    "sortindex": 1785911400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/91b9fd1b-fcdf-48af-83fc-1e0545304339.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3932,
+    "destination": "/?eid=70914",
+    "societyname": "Queensland Pharmacy Students' Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+    "title": "3rd Year Pharmacy Dinner",
+    "day": "5",
+    "info": "$0.00 - $11.27"
+  },
+  {
     "sortindex": 1785915000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
     "month": "August",
@@ -348,6 +334,20 @@
     "title": "QUEST goes to Byron Bay",
     "day": "7",
     "info": "$249.66"
+  },
+  {
+    "sortindex": 1786086000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f38fdb9e-fad9-4acf-bbb4-edb20af5f7a8.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 186,
+    "destination": "/?eid=70933",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+    "title": "UQMAS Cheers & Chat",
+    "day": "7",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1786093200,
@@ -616,6 +616,20 @@
     "info": "$6.08"
   },
   {
+    "sortindex": 1787733000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7fc2a45d-cfab-43a8-b7b2-f09a57922104.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1601,
+    "destination": "/?eid=70990",
+    "societyname": "UQ Skirts in Engineering",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Careers and Cocktails 2026",
+    "day": "26",
+    "info": "$0.00 - $42.36"
+  },
+  {
     "sortindex": 1787868000,
     "image": "https://resources.hellorubric.com/uploaded_assets/1cd6d3fb-cb45-43c3-8d39-48dbbdc2cf20.jpg",
     "month": "August",
@@ -631,7 +645,7 @@
   },
   {
     "sortindex": 1789203600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/201d4ecd-56e9-4316-bbaa-b00b83c6fb0e.jpg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/bf7c77da-87b5-4cdf-ade4-2d354fc5374e.png",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -645,7 +659,7 @@
   },
   {
     "sortindex": 1789808400,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/5104d6f4-7595-4e5c-a690-a3317b8e51cd.png",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
