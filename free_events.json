@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1785312000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/4ddac7a5-3ee3-473d-8a90-62672b97c2d4.jpg",
-    "month": "July",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 7257,
-    "destination": "/?eid=70186",
-    "societyname": "Society of Lifesaving",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
-    "title": "Semester 2 Welcome Trivia",
-    "day": "29",
-    "info": "Free"
-  },
-  {
     "sortindex": 1785398400,
     "image": "https://resources.hellorubric.com/uploaded_assets/bb2d74a7-80c3-4856-8423-b350e29bda55.png",
     "month": "July",
@@ -136,6 +122,20 @@
     "societyname": "UQ Greens Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
     "title": "Woke Trivia",
+    "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785916800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/0fa4f5ab-554c-49ca-8886-eba16a20312b.jpeg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 7218,
+    "destination": "/?eid=71119",
+    "societyname": "UQ Naatak",
+    "societylogo": "https://resources.getqpay.com/images/64bfdd3478d1f_.png",
+    "title": "Acting workshop+Auditions",
     "day": "5",
     "info": "Free"
   },
