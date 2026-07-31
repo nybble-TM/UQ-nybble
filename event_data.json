@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 56,
+  "totalItemCount": 60,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3006,20 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1785398400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/bb2d74a7-80c3-4856-8423-b350e29bda55.png",
-      "month": "July",
-      "societyAvgRating": 0,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 2257,
-      "destination": "/?eid=70480",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-      "title": "Welcome Dinner",
-      "day": "30",
-      "info": "Free"
-    },
-    {
       "sortindex": 1785474000,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
       "month": "July",
@@ -3133,20 +3119,6 @@
     },
     {
       "sortindex": 1785553200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/562bff73-d4f5-4f53-946c-73aa87590167.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 799,
-      "destination": "/?eid=70981",
-      "societyname": "UQ Street Groove Dance Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
-      "title": "Week 1 Street Groove Dance Classes",
-      "day": "1",
-      "info": "$0.00 - $11.27"
-    },
-    {
-      "sortindex": 1785553200,
       "image": "https://resources.hellorubric.com/uploaded_assets/ba596fa1-a22d-498a-8d99-88f167b31557.png",
       "month": "August",
       "societyAvgRating": 0,
@@ -3158,6 +3130,20 @@
       "title": "White T Shirt Pub Crawl",
       "day": "1",
       "info": "$42.36"
+    },
+    {
+      "sortindex": 1785553200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/562bff73-d4f5-4f53-946c-73aa87590167.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 799,
+      "destination": "/?eid=70981",
+      "societyname": "UQ Street Groove Dance Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
+      "title": "Week 1 Street Groove Dance Classes",
+      "day": "1",
+      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1785630600,
@@ -3203,7 +3189,21 @@
     },
     {
       "sortindex": 1785826800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a2057361-e755-4c59-992e-9a583b86ef12.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/c4891839-0455-42c6-b999-d30c37cacb3a.jpeg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 5729,
+      "destination": "/?eid=71117",
+      "societyname": "UQ Food Science Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+      "title": "Employability Experiences Evening II",
+      "day": "4",
+      "info": "$0.00 - $7.12"
+    },
+    {
+      "sortindex": 1785826800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7e726a91-a694-4a1c-b84a-6206a71abc9a.png",
       "month": "August",
       "societyAvgRating": 0,
       "subtitle": "Class/Workshop",
@@ -3356,6 +3356,20 @@
       "info": "$6.08 - $11.27"
     },
     {
+      "sortindex": 1786091400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/116a57c6-f6f7-4cef-964b-8a256d6aea67.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 713,
+      "destination": "/?eid=71284",
+      "societyname": "UQ Geoscience Society",
+      "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+      "title": "Geos Karaoke ",
+      "day": "7",
+      "info": "$10.00 - $15.00"
+    },
+    {
       "sortindex": 1786093200,
       "image": "https://resources.hellorubric.com/uploaded_assets/36d4f1cc-0141-49a8-b4f8-5adaae72b5ae.jpeg",
       "month": "August",
@@ -3382,6 +3396,20 @@
       "title": "SPASA Careers & Networking Day",
       "day": "8",
       "info": "$11.27 - $52.72"
+    },
+    {
+      "sortindex": 1786154400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9c2ad8cc-a76d-4fee-ac2e-5b5547ffaff4.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 713,
+      "destination": "/?eid=71283",
+      "societyname": "UQ Geoscience Society",
+      "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+      "title": "Sem 2 Drinks",
+      "day": "8",
+      "info": "$0.00 - $5.00"
     },
     {
       "sortindex": 1786165200,
@@ -3441,20 +3469,6 @@
     },
     {
       "sortindex": 1786609800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 2274,
-      "destination": "/?eid=69657",
-      "societyname": "BRUCE Architecture Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
-      "title": "BRUCE x OOPS Trivia",
-      "day": "13",
-      "info": "$6.00 - $13.00"
-    },
-    {
-      "sortindex": 1786609800,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
       "month": "August",
       "societyAvgRating": 0,
@@ -3466,6 +3480,20 @@
       "title": "2026 Corporate Connections",
       "day": "13",
       "info": "$36.25 - $46.45"
+    },
+    {
+      "sortindex": 1786609800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 2274,
+      "destination": "/?eid=69657",
+      "societyname": "BRUCE Architecture Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
+      "title": "BRUCE x OOPS Trivia",
+      "day": "13",
+      "info": "$6.00 - $13.00"
     },
     {
       "sortindex": 1786683600,
@@ -3496,20 +3524,6 @@
       "info": "$11.27 - $15.41"
     },
     {
-      "sortindex": 1786690800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 6511,
-      "destination": "/?eid=70086",
-      "societyname": "UQ Psych MD",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
-      "title": "Intro to Art Therapy for Med Students & Doctors",
-      "day": "14",
-      "info": "$6.08 - $11.27"
-    },
-    {
       "sortindex": 1786780800,
       "image": "https://resources.hellorubric.com/uploaded_assets/5b7f50ef-942d-44fb-8d4b-9ad289ecff42.png",
       "month": "August",
@@ -3522,6 +3536,20 @@
       "title": "UQ Music Ball 2026",
       "day": "15",
       "info": "$109.73 - $114.92"
+    },
+    {
+      "sortindex": 1786842000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 7257,
+      "destination": "/?eid=71276",
+      "societyname": "Society of Lifesaving",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+      "title": "Semester 2 Southbank Bash",
+      "day": "16",
+      "info": "Free"
     },
     {
       "sortindex": 1787122800,
@@ -3664,6 +3692,20 @@
       "info": "$245.37"
     },
     {
+      "sortindex": 1787900400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 6511,
+      "destination": "/?eid=70086",
+      "societyname": "UQ Psych MD",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
+      "title": "Intro to Art Therapy for Med Students & Doctors",
+      "day": "28",
+      "info": "$6.08 - $11.27"
+    },
+    {
       "sortindex": 1789203600,
       "image": "https://resources.hellorubric.com/uploaded_assets/bf7c77da-87b5-4cdf-ade4-2d354fc5374e.png",
       "month": "September",
@@ -3676,6 +3718,20 @@
       "title": "Roaring 20's Ball",
       "day": "12",
       "info": "$99.37 - $109.73"
+    },
+    {
+      "sortindex": 1789720200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d2760afb-3e23-4b67-8663-41b1f224ce4f.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 3932,
+      "destination": "/?eid=71246",
+      "societyname": "Queensland Pharmacy Students' Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+      "title": "Pharmacy Ball 2026 ~ Under a Starlit Night",
+      "day": "18",
+      "info": "$89.00 - $99.37"
     },
     {
       "sortindex": 1789808400,
