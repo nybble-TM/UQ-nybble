@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1785546000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e00911f6-ae58-47c9-9e21-7a75063b1f5e.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 1345,
-    "destination": "/?eid=69932",
-    "societyname": "Underground Theatre Company",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
-    "title": "'Dog on a Tuckerbox' - Creative development",
-    "day": "1",
-    "info": "Free"
-  },
-  {
     "sortindex": 1785740400,
     "image": "https://resources.hellorubric.com/uploaded_assets/e628ae0b-e083-4d3c-8e38-6018fbc025ee.png",
     "month": "August",
@@ -53,6 +39,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
     "title": "Intro to VR/XR",
     "day": "4",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785884400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b11af6a4-74a1-48b9-81c1-ac61520f4716.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3855,
+    "destination": "/?eid=71379",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Coffee Mixer - Semester 2, 2026",
+    "day": "5",
     "info": "Free"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "sortindex": 1786842000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/07916f16-7c09-42f4-8c95-c541faa332ba.jpeg",
     "month": "August",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -151,6 +151,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
     "title": "Semester 2 Southbank Bash",
     "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1786950000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a0d9dfb1-ee69-4661-96fc-d5a79d787d28.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1601,
+    "destination": "/?eid=71380",
+    "societyname": "UQ Skirts in Engineering",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "AEMO Mentoring Workshop w/ IEEE, Skirts, and EBESS",
+    "day": "17",
     "info": "Free"
   },
   {

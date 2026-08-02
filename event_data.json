@@ -309,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 58,
+  "totalItemCount": 60,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3006,62 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1785540600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6fc09902-8efe-4043-9f92-6300acdb71a2.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 10456,
-      "destination": "/?eid=68530",
-      "societyname": "UQ Medical Humanities Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
-      "title": "Narrative Medicine Writing Workshop",
-      "day": "1",
-      "info": "$0.00 - $9.19"
-    },
-    {
-      "sortindex": 1785546000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/e00911f6-ae58-47c9-9e21-7a75063b1f5e.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 1345,
-      "destination": "/?eid=69932",
-      "societyname": "Underground Theatre Company",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
-      "title": "'Dog on a Tuckerbox' - Creative development",
-      "day": "1",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1785553200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ba596fa1-a22d-498a-8d99-88f167b31557.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 534,
-      "destination": "/?eid=69767",
-      "societyname": "Queensland University Exchange Students Society Inc.",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-      "title": "White T Shirt Pub Crawl",
-      "day": "1",
-      "info": "$42.36"
-    },
-    {
-      "sortindex": 1785553200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/562bff73-d4f5-4f53-946c-73aa87590167.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 799,
-      "destination": "/?eid=70981",
-      "societyname": "UQ Street Groove Dance Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/262a115a-215a-4697-b344-b9f1f13bf9f6.png",
-      "title": "Week 1 Street Groove Dance Classes",
-      "day": "1",
-      "info": "$0.00 - $11.27"
-    },
-    {
       "sortindex": 1785630600,
       "image": "https://resources.hellorubric.com/uploaded_assets/1469b10b-2c57-4a87-bc95-c577ec101307.png",
       "month": "August",
@@ -3146,6 +3090,20 @@
       "info": "$5.00 - $10.00"
     },
     {
+      "sortindex": 1785884400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b11af6a4-74a1-48b9-81c1-ac61520f4716.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3855,
+      "destination": "/?eid=71379",
+      "societyname": "UQ Women in Business Economics and Law Society",
+      "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+      "title": "UQWiBELS Coffee Mixer - Semester 2, 2026",
+      "day": "5",
+      "info": "Free"
+    },
+    {
       "sortindex": 1785911400,
       "image": "https://resources.hellorubric.com/uploaded_assets/91b9fd1b-fcdf-48af-83fc-1e0545304339.jpg",
       "month": "August",
@@ -3214,6 +3172,20 @@
       "title": "Acting workshop+Auditions",
       "day": "5",
       "info": "Free"
+    },
+    {
+      "sortindex": 1785994200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2b306bc4-5485-40b4-b7b3-a6331f68afa0.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 7597,
+      "destination": "/?eid=71393",
+      "societyname": "UQ Bakeology",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+      "title": "Cinnamon Rolls Bake Class",
+      "day": "6",
+      "info": "$6.08"
     },
     {
       "sortindex": 1785999600,
@@ -3287,7 +3259,7 @@
     },
     {
       "sortindex": 1786089600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/9e7c82f9-8099-45ad-8346-257897f84829.jpg",
+      "image": "https://resources.hellorubric.com/uploaded_assets/14ce6c28-31e3-4ada-b172-d05f75b9e82d.jpeg",
       "month": "August",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3296,20 +3268,6 @@
       "societyname": "UQ Thai Students' Association",
       "societylogo": "https://resources.getqpay.com/images/64084d6c99c2e_.png",
       "title": "UQTSA Welcome Dinner 2/2026",
-      "day": "7",
-      "info": "$6.08 - $11.27"
-    },
-    {
-      "sortindex": 1786091400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/5240443d-2a02-4c3b-8193-ae65a2efb70b.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3867,
-      "destination": "/?eid=71005",
-      "societyname": "UQ International Students' Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-      "title": "Stranger Things: Welcome to the Upside Down",
       "day": "7",
       "info": "$6.08 - $11.27"
     },
@@ -3328,6 +3286,20 @@
       "info": "$10.00 - $15.00"
     },
     {
+      "sortindex": 1786091400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/5240443d-2a02-4c3b-8193-ae65a2efb70b.jpg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3867,
+      "destination": "/?eid=71005",
+      "societyname": "UQ International Students' Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+      "title": "Stranger Things: Welcome to the Upside Down",
+      "day": "7",
+      "info": "$6.08 - $11.27"
+    },
+    {
       "sortindex": 1786093200,
       "image": "https://resources.hellorubric.com/uploaded_assets/36d4f1cc-0141-49a8-b4f8-5adaae72b5ae.jpeg",
       "month": "August",
@@ -3340,6 +3312,20 @@
       "title": "Semester 2 Euphoria Launch Party",
       "day": "7",
       "info": "$12.79 - $18.91"
+    },
+    {
+      "sortindex": 1786136400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/101561d9-b53a-4f1d-958f-163414efa548.jpg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 601,
+      "destination": "/?eid=71387",
+      "societyname": "UQ Union Surfers Inc.",
+      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
+      "title": "Learn 2 Surf 'n Sip @ Alex Heads",
+      "day": "8",
+      "info": "$37.18 - $73.46"
     },
     {
       "sortindex": 1786150800,
@@ -3426,18 +3412,18 @@
       "info": "$5.00 - $10.00"
     },
     {
-      "sortindex": 1786609800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+      "sortindex": 1786606200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/1fcceb7d-c47c-4014-83e3-81f0d6b98caa.png",
       "month": "August",
       "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 165,
-      "destination": "/?eid=70078",
-      "societyname": "UQ Business Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
-      "title": "2026 Corporate Connections",
+      "subtitle": "Other",
+      "societyid": 2274,
+      "destination": "/?eid=71405",
+      "societyname": "BRUCE Architecture Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
+      "title": "BRUCE RAFFLE 2026",
       "day": "13",
-      "info": "$36.25 - $46.45"
+      "info": "$5.00 - $30.00"
     },
     {
       "sortindex": 1786609800,
@@ -3452,6 +3438,20 @@
       "title": "BRUCE x OOPS Trivia",
       "day": "13",
       "info": "$6.00 - $13.00"
+    },
+    {
+      "sortindex": 1786609800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 165,
+      "destination": "/?eid=70078",
+      "societyname": "UQ Business Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+      "title": "2026 Corporate Connections",
+      "day": "13",
+      "info": "$36.25 - $46.45"
     },
     {
       "sortindex": 1786683600,
@@ -3497,7 +3497,7 @@
     },
     {
       "sortindex": 1786842000,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/07916f16-7c09-42f4-8c95-c541faa332ba.jpeg",
       "month": "August",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3507,6 +3507,20 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
       "title": "Semester 2 Southbank Bash",
       "day": "16",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1786950000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a0d9dfb1-ee69-4661-96fc-d5a79d787d28.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1601,
+      "destination": "/?eid=71380",
+      "societyname": "UQ Skirts in Engineering",
+      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "title": "AEMO Mentoring Workshop w/ IEEE, Skirts, and EBESS",
+      "day": "17",
       "info": "Free"
     },
     {
@@ -3676,6 +3690,20 @@
       "title": "Intro to Art Therapy for Med Students & Doctors",
       "day": "28",
       "info": "$6.08 - $11.27"
+    },
+    {
+      "sortindex": 1789200000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/4122942c-9360-4239-b6b8-b955c0d916ce.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 649,
+      "destination": "/?eid=71366",
+      "societyname": "Society of Fine Arts",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+      "title": "A Very Big Giant Party",
+      "day": "12",
+      "info": "$21.63 - $26.81"
     },
     {
       "sortindex": 1789203600,
