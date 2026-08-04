@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1785740400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e628ae0b-e083-4d3c-8e38-6018fbc025ee.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 2511,
-    "destination": "/?eid=70289",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "MSA x Muslimah Welcome Night & Trivia",
-    "day": "3",
-    "info": "Free"
-  },
-  {
     "sortindex": 1785816000,
     "image": "https://resources.hellorubric.com/uploaded_assets/2fe7f2d3-c215-48c3-a202-e2883b797766.png",
     "month": "August",
@@ -38,6 +24,20 @@
     "societyname": "UQ Reality Labs",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
     "title": "Intro to VR/XR",
+    "day": "4",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785828600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3ff64fcd-4921-468a-a585-42ae60a45a4a.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 593,
+    "destination": "/?eid=71558",
+    "societyname": "UQ Chemistry Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
+    "title": "Board Game Night",
     "day": "4",
     "info": "Free"
   },
@@ -71,20 +71,6 @@
   },
   {
     "sortindex": 1785916800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1992572b-dfc9-45b1-ae72-eaa24bb77db7.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2308,
-    "destination": "/?eid=69057",
-    "societyname": "Occupational Therapy Students Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
-    "title": "Networking Evening: Connections that Count",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1785916800,
     "image": "https://resources.hellorubric.com/uploaded_assets/0fa4f5ab-554c-49ca-8886-eba16a20312b.jpeg",
     "month": "August",
     "societyAvgRating": 0,
@@ -94,6 +80,20 @@
     "societyname": "UQ Naatak",
     "societylogo": "https://resources.getqpay.com/images/64bfdd3478d1f_.png",
     "title": "Acting workshop+Auditions",
+    "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785916800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1992572b-dfc9-45b1-ae72-eaa24bb77db7.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 2308,
+    "destination": "/?eid=69057",
+    "societyname": "Occupational Therapy Students Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
+    "title": "Networking Evening: Connections that Count",
     "day": "5",
     "info": "Free"
   },
@@ -109,6 +109,34 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
     "title": "UQCCR x SSoFI Games Night",
     "day": "6",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1785999600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4683482a-0a1a-4736-a6e4-b9e6b6ef80ca.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2401,
+    "destination": "/?eid=71519",
+    "societyname": "UQ Slavic Society",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Meet The Slavs",
+    "day": "6",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1786086000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/07889d26-1c17-4683-bddd-cb63ea12dea5.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 1404,
+    "destination": "/?eid=71540",
+    "societyname": "UQ Singapore Students' Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
+    "title": "SHIOK RUN!",
+    "day": "7",
     "info": "Free"
   },
   {
@@ -154,6 +182,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1786235400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/00a43996-4c63-432e-9fff-1db7a22af445.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4688,
+    "destination": "/?eid=69660",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
+    "title": "Enoggera Reservoir Day Hike",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1786683600,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
     "month": "August",
@@ -179,6 +221,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
     "title": "Semester 2 Southbank Bash",
     "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1786949100,
+    "image": "https://resources.hellorubric.com/uploaded_assets/72d649fe-9ff7-4b3c-aba2-98c6f0b984c6.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 3932,
+    "destination": "/?eid=71462",
+    "societyname": "Queensland Pharmacy Students' Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+    "title": "SGM + Member Engagement Evening",
+    "day": "17",
     "info": "Free"
   },
   {
