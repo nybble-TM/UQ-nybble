@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1785816000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2fe7f2d3-c215-48c3-a202-e2883b797766.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 5763,
-    "destination": "/?eid=70188",
-    "societyname": "Bachelor of Advanced Business (Honours) SPC",
-    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-    "title": "Grant Thornton Service Lines Insider",
-    "day": "4",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1785826800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7e726a91-a694-4a1c-b84a-6206a71abc9a.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 5809,
-    "destination": "/?eid=70687",
-    "societyname": "UQ Reality Labs",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
-    "title": "Intro to VR/XR",
-    "day": "4",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1785828600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3ff64fcd-4921-468a-a585-42ae60a45a4a.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 593,
-    "destination": "/?eid=71558",
-    "societyname": "UQ Chemistry Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
-    "title": "Board Game Night",
-    "day": "4",
-    "info": "Free"
-  },
-  {
     "sortindex": 1785884400,
     "image": "https://resources.hellorubric.com/uploaded_assets/b11af6a4-74a1-48b9-81c1-ac61520f4716.png",
     "month": "August",
@@ -141,7 +99,7 @@
   },
   {
     "sortindex": 1786087800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fdf17301-f792-4dcb-b2a8-9bf4416bf689.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/9982a680-12ed-4ce7-a74c-8d641f9969c8.png",
     "month": "August",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -249,6 +207,20 @@
     "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
     "title": "AEMO Mentoring Workshop w/ IEEE, Skirts, and EBESS",
     "day": "17",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787040900,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ec5915cd-4472-4988-881d-cf8d1b37b023.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 1862,
+    "destination": "/?eid=71418",
+    "societyname": "The UQ Economics Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+    "title": "Networking 101",
+    "day": "18",
     "info": "Free"
   },
   {
