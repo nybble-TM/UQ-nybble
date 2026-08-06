@@ -1,61 +1,5 @@
 [
   {
-    "sortindex": 1785884400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b11af6a4-74a1-48b9-81c1-ac61520f4716.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3855,
-    "destination": "/?eid=71379",
-    "societyname": "UQ Women in Business Economics and Law Society",
-    "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
-    "title": "UQWiBELS Coffee Mixer - Semester 2, 2026",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1785915000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 2652,
-    "destination": "/?eid=70101",
-    "societyname": "UQ Greens Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
-    "title": "Woke Trivia",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1785916800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/0fa4f5ab-554c-49ca-8886-eba16a20312b.jpeg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 7218,
-    "destination": "/?eid=71119",
-    "societyname": "UQ Naatak",
-    "societylogo": "https://resources.getqpay.com/images/64bfdd3478d1f_.png",
-    "title": "Acting workshop+Auditions",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1785916800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1992572b-dfc9-45b1-ae72-eaa24bb77db7.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2308,
-    "destination": "/?eid=69057",
-    "societyname": "Occupational Therapy Students Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
-    "title": "Networking Evening: Connections that Count",
-    "day": "5",
-    "info": "Free"
-  },
-  {
     "sortindex": 1785999600,
     "image": "https://resources.hellorubric.com/uploaded_assets/1dfdf766-3566-4068-b37f-8be1d37ec87a.png",
     "month": "August",
@@ -154,6 +98,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1786422600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/154a78e8-4937-4ee0-8b47-8a32c89b2ff9.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1539,
+    "destination": "/?eid=71855",
+    "societyname": "UQ Women in Science Association",
+    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+    "title": "Sisterhood Social Picnic",
+    "day": "11",
+    "info": "Free"
+  },
+  {
     "sortindex": 1786683600,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
     "month": "August",
@@ -164,6 +122,20 @@
     "societyname": "UQ Greens Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
     "title": "Left Wing Jams On The Great Court",
+    "day": "14",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1786694400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/59db9c0d-003b-4928-89db-eed5d927ebea.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 262,
+    "destination": "/?eid=71886",
+    "societyname": "UQ Criminology & Criminal Justice Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+    "title": "UQCCJS Semester 2 Launch Party",
     "day": "14",
     "info": "Free"
   },
@@ -235,6 +207,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
     "title": "Games Night ",
     "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787295600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8d24c374-3b9a-49b6-bc9a-cbcd99735b1e.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 3858,
+    "destination": "/?eid=71653",
+    "societyname": "UQ English and Literature Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6adf46e-ec6e-4f83-a196-886bedde40de.png",
+    "title": "QUT vs UQ Literature Trivia Night",
+    "day": "21",
     "info": "Free"
   },
   {
