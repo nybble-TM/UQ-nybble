@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1785999600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1dfdf766-3566-4068-b37f-8be1d37ec87a.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 8835,
-    "destination": "/?eid=70208",
-    "societyname": "UQCCR Student Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-    "title": "UQCCR x SSoFI Games Night",
-    "day": "6",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1785999600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/4683482a-0a1a-4736-a6e4-b9e6b6ef80ca.jpg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2401,
-    "destination": "/?eid=71519",
-    "societyname": "UQ Slavic Society",
-    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-    "title": "Meet The Slavs",
-    "day": "6",
-    "info": "Free"
-  },
-  {
     "sortindex": 1786086000,
     "image": "https://resources.hellorubric.com/uploaded_assets/07889d26-1c17-4683-bddd-cb63ea12dea5.png",
     "month": "August",
@@ -109,6 +81,20 @@
     "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
     "title": "Sisterhood Social Picnic",
     "day": "11",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1786608000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7e7b91ff-f129-401e-86d4-b03e98fc9ee7.jpeg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 933,
+    "destination": "/?eid=71927",
+    "societyname": "UQ Organisation of Planning Students",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
+    "title": "OOPS Speed Networking Event",
+    "day": "13",
     "info": "Free"
   },
   {
@@ -263,6 +249,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
     "title": "UQCC Careers and Canap\u00e9s 2026",
     "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790380800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 3180,
+    "destination": "/?eid=71941",
+    "societyname": "UQ Korean Medical Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
+    "title": "MD2 Mock OSCE",
+    "day": "26",
     "info": "Free"
   },
   {
