@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1786086000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/07889d26-1c17-4683-bddd-cb63ea12dea5.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 1404,
-    "destination": "/?eid=71540",
-    "societyname": "UQ Singapore Students' Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
-    "title": "SHIOK RUN!",
-    "day": "7",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1786087800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/9982a680-12ed-4ce7-a74c-8d641f9969c8.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3147,
-    "destination": "/?eid=71130",
-    "societyname": "The UQ Women's Network",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
-    "title": "UQWN Platters and Punch ",
-    "day": "7",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1786089600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f10b7ac9-7d6c-4405-9121-46051b9c39c1.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2257,
-    "destination": "/?eid=71437",
-    "societyname": "UQ Vegan Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-    "title": "Twilight Vegan Markets",
-    "day": "7",
-    "info": "Free"
-  },
-  {
     "sortindex": 1786233600,
     "image": "https://resources.hellorubric.com/uploaded_assets/f0dc5f1a-f8a5-47d0-8d59-f2e6b95a2ffe.jpeg",
     "month": "August",
@@ -137,6 +95,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
     "title": "Semester 2 Southbank Bash",
     "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1786935600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 933,
+    "destination": "/?eid=72054",
+    "societyname": "UQ Organisation of Planning Students",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
+    "title": "UQ OOPS, Bruce and ADP BCC Presentation",
+    "day": "17",
     "info": "Free"
   },
   {
@@ -249,6 +221,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
     "title": "UQCC Careers and Canap\u00e9s 2026",
     "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1788422400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c3278b63-8422-4a6c-b0c8-188d35d5b152.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=71991",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+    "title": "STEM Alternative Pathways Evening",
+    "day": "3",
     "info": "Free"
   },
   {
