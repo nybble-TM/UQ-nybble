@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 71,
+  "totalItemCount": 70,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3007,48 +3007,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1786233600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f0dc5f1a-f8a5-47d0-8d59-f2e6b95a2ffe.jpeg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 6249,
-      "destination": "/?eid=71436",
-      "societyname": "UQ Indonesian Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "UQISA Welcoming Party",
-      "day": "9",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1786235400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/00a43996-4c63-432e-9fff-1db7a22af445.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4688,
-      "destination": "/?eid=69660",
-      "societyname": "UQ Ecological Society",
-      "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-      "title": "Enoggera Reservoir Day Hike",
-      "day": "9",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1786248000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/bde2c4a5-655c-4b14-9ba0-0957efd4ff94.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2308,
-      "destination": "/?eid=70038",
-      "societyname": "Occupational Therapy Students Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
-      "title": "SPOT Sem 2 Launch",
-      "day": "9",
-      "info": "$11.27 - $18.52"
-    },
-    {
       "sortindex": 1786368600,
       "image": "https://resources.hellorubric.com/uploaded_assets/a66c8ead-45fb-4acb-8f2f-f3fa46445d7f.jpg",
       "month": "August",
@@ -3134,20 +3092,6 @@
     },
     {
       "sortindex": 1786609800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 3906,
-      "destination": "/?eid=71442",
-      "societyname": "The University of Queensland's Biomedical Engineering Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/823c799e-cac0-4f15-a1c3-acc3b30dc9b3.png",
-      "title": "Biomedical Academia Panel",
-      "day": "13",
-      "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1786609800,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
       "month": "August",
       "societyAvgRating": 0,
@@ -3159,6 +3103,20 @@
       "title": "BRUCE x OOPS Trivia",
       "day": "13",
       "info": "$6.00 - $13.00"
+    },
+    {
+      "sortindex": 1786609800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3906,
+      "destination": "/?eid=71442",
+      "societyname": "The University of Queensland's Biomedical Engineering Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/823c799e-cac0-4f15-a1c3-acc3b30dc9b3.png",
+      "title": "Biomedical Academia Panel",
+      "day": "13",
+      "info": "$0.00 - $6.08"
     },
     {
       "sortindex": 1786609800,
@@ -3354,7 +3312,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
       "title": "FareShare Site Visit ",
       "day": "17",
-      "info": "$6.08"
+      "info": "$0.00 - $5.00"
     },
     {
       "sortindex": 1786946400,
@@ -3539,6 +3497,20 @@
       "info": "$104.55 - $156.37"
     },
     {
+      "sortindex": 1787272200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/160211f6-03eb-4554-b7fb-9a90ff7b82d1.jpeg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 1835,
+      "destination": "/?eid=72344",
+      "societyname": "Public Health Association University of Queensland",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
+      "title": "Coffee and crafts ",
+      "day": "21",
+      "info": "$0.00 - $7.12"
+    },
+    {
       "sortindex": 1787274000,
       "image": "https://resources.hellorubric.com/uploaded_assets/a6620651-bdf5-4fe9-89fc-dcfa1bd70dce.jpeg",
       "month": "August",
@@ -3554,6 +3526,20 @@
     },
     {
       "sortindex": 1787295600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8fa051db-a167-4d29-9ace-41f3cc95aecc.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4430,
+      "destination": "/?eid=71599",
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
+      "title": "HAC Pottery Workshop with Mud2Mug",
+      "day": "21",
+      "info": "$50.00 - $60.00"
+    },
+    {
+      "sortindex": 1787295600,
       "image": "https://resources.hellorubric.com/uploaded_assets/8d24c374-3b9a-49b6-bc9a-cbcd99735b1e.png",
       "month": "August",
       "societyAvgRating": 0,
@@ -3565,20 +3551,6 @@
       "title": "QUT vs UQ Literature Trivia Night",
       "day": "21",
       "info": "Free"
-    },
-    {
-      "sortindex": 1787295600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d784a7e6-bb5b-4072-9618-78fe0f49b9df.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4430,
-      "destination": "/?eid=71599",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-      "title": "HAC Pottery Workshop with Mud2Mug",
-      "day": "21",
-      "info": "$50.00 - $60.00"
     },
     {
       "sortindex": 1787299200,
@@ -3635,6 +3607,20 @@
       "title": " Inter-MSA Sisters Netball Tournament",
       "day": "22",
       "info": "Free"
+    },
+    {
+      "sortindex": 1787369400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9da1d022-163d-447b-bcde-22498ac4b100.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1387,
+      "destination": "/?eid=72140",
+      "societyname": "UQ Hong Kong Students Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
+      "title": "Back 2 Sku",
+      "day": "22",
+      "info": "$24.74 - $29.92"
     },
     {
       "sortindex": 1787454000,
