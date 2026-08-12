@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 72,
+  "totalItemCount": 75,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3007,20 +3007,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1786422600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/154a78e8-4937-4ee0-8b47-8a32c89b2ff9.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1539,
-      "destination": "/?eid=71855",
-      "societyname": "UQ Women in Science Association",
-      "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
-      "title": "Sisterhood Social Picnic",
-      "day": "11",
-      "info": "Free"
-    },
-    {
       "sortindex": 1786603500,
       "image": "https://resources.hellorubric.com/uploaded_assets/60e617c8-1012-40e3-89c1-a5476ba7d07b.jpg",
       "month": "August",
@@ -3078,20 +3064,6 @@
     },
     {
       "sortindex": 1786609800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 165,
-      "destination": "/?eid=70078",
-      "societyname": "UQ Business Association",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
-      "title": "2026 Corporate Connections",
-      "day": "13",
-      "info": "$36.25 - $46.45"
-    },
-    {
-      "sortindex": 1786609800,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
       "month": "August",
       "societyAvgRating": 0,
@@ -3103,6 +3075,20 @@
       "title": "Biomedical Academia Panel",
       "day": "13",
       "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1786609800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 165,
+      "destination": "/?eid=70078",
+      "societyname": "UQ Business Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+      "title": "2026 Corporate Connections",
+      "day": "13",
+      "info": "$36.25 - $46.45"
     },
     {
       "sortindex": 1786663800,
@@ -3215,6 +3201,20 @@
       "title": "Matcha Sip-and-Walk",
       "day": "15",
       "info": "$6.08"
+    },
+    {
+      "sortindex": 1786779000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/e2b9b5bd-e06c-411f-b4e1-0de3c20df4f1.jpg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 57,
+      "destination": "/?eid=72637",
+      "societyname": "University of Queensland Law Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "Nine to Wine - UQLS x UQBA x UQIES Sem 2 Launch",
+      "day": "15",
+      "info": "Free"
     },
     {
       "sortindex": 1786780800,
@@ -3400,20 +3400,6 @@
     },
     {
       "sortindex": 1787126400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6c794973-764f-48ca-adde-5196b1622eaf.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 2219,
-      "destination": "/?eid=71940",
-      "societyname": "UQ Climate & Energy",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2219.png",
-      "title": "Consulting Program: Sem 2, 2026",
-      "day": "19",
-      "info": "$2.97 - $7.12"
-    },
-    {
-      "sortindex": 1787126400,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
       "month": "August",
       "societyAvgRating": 0,
@@ -3425,6 +3411,20 @@
       "title": "2026 UQLS Annual Professional Drinks",
       "day": "19",
       "info": "$36.25 - $66.86"
+    },
+    {
+      "sortindex": 1787126400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6c794973-764f-48ca-adde-5196b1622eaf.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 2219,
+      "destination": "/?eid=71940",
+      "societyname": "UQ Climate & Energy",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2219.png",
+      "title": "Consulting Program: Sem 2, 2026",
+      "day": "19",
+      "info": "$2.97 - $7.12"
     },
     {
       "sortindex": 1787128200,
@@ -3480,7 +3480,7 @@
       "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
       "title": "Flat Rock Surf Camp Sem 2",
       "day": "21",
-      "info": "$104.55 - $156.37"
+      "info": "$104.55 - $182.29"
     },
     {
       "sortindex": 1787272200,
@@ -3511,6 +3511,20 @@
       "info": "$30.00 - $35.00"
     },
     {
+      "sortindex": 1787284800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 649,
+      "destination": "/?eid=72558",
+      "societyname": "Society of Fine Arts",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+      "title": "Museum Meet Up: Museum of Brisbane",
+      "day": "21",
+      "info": "Free"
+    },
+    {
       "sortindex": 1787295600,
       "image": "https://resources.hellorubric.com/uploaded_assets/8fa051db-a167-4d29-9ace-41f3cc95aecc.png",
       "month": "August",
@@ -3537,6 +3551,20 @@
       "title": "QUT vs UQ Literature Trivia Night",
       "day": "21",
       "info": "Free"
+    },
+    {
+      "sortindex": 1787299200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7e1e76ee-7d4b-451c-9b59-4af428ed5b0a.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 10976,
+      "destination": "/?eid=72413",
+      "societyname": "UQ Punjabi Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
+      "title": "Only Murders in the Viaah",
+      "day": "21",
+      "info": "$6.69 - $10.78"
     },
     {
       "sortindex": 1787299200,
@@ -3621,6 +3649,20 @@
       "title": "House Crawl 2026",
       "day": "23",
       "info": "$37.71 - $74.28"
+    },
+    {
+      "sortindex": 1787542200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/47300eee-b13d-4b10-9e60-2ee7e9e710e6.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 5763,
+      "destination": "/?eid=72600",
+      "societyname": "Bachelor of Advanced Business (Honours) SPC",
+      "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+      "title": "Suncorp Team Workshop Experience",
+      "day": "24",
+      "info": "Free"
     },
     {
       "sortindex": 1787556600,

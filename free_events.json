@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1786422600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/154a78e8-4937-4ee0-8b47-8a32c89b2ff9.jpg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1539,
-    "destination": "/?eid=71855",
-    "societyname": "UQ Women in Science Association",
-    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
-    "title": "Sisterhood Social Picnic",
-    "day": "11",
-    "info": "Free"
-  },
-  {
     "sortindex": 1786608000,
     "image": "https://resources.hellorubric.com/uploaded_assets/7e7b91ff-f129-401e-86d4-b03e98fc9ee7.jpeg",
     "month": "August",
@@ -66,6 +52,20 @@
     "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
     "title": "Sandy Camp Rd Wetlands Bird Walk",
+    "day": "15",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1786779000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e2b9b5bd-e06c-411f-b4e1-0de3c20df4f1.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 57,
+    "destination": "/?eid=72637",
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "Nine to Wine - UQLS x UQBA x UQIES Sem 2 Launch",
     "day": "15",
     "info": "Free"
   },
@@ -154,6 +154,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1787284800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=72558",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "Museum Meet Up: Museum of Brisbane",
+    "day": "21",
+    "info": "Free"
+  },
+  {
     "sortindex": 1787295600,
     "image": "https://resources.hellorubric.com/uploaded_assets/8d24c374-3b9a-49b6-bc9a-cbcd99735b1e.png",
     "month": "August",
@@ -193,6 +207,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
     "title": " Inter-MSA Sisters Netball Tournament",
     "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787542200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/47300eee-b13d-4b10-9e60-2ee7e9e710e6.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 5763,
+    "destination": "/?eid=72600",
+    "societyname": "Bachelor of Advanced Business (Honours) SPC",
+    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+    "title": "Suncorp Team Workshop Experience",
+    "day": "24",
     "info": "Free"
   },
   {
