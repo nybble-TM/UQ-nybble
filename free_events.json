@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1786608000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7e7b91ff-f129-401e-86d4-b03e98fc9ee7.jpeg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 933,
-    "destination": "/?eid=71927",
-    "societyname": "UQ Organisation of Planning Students",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
-    "title": "OOPS Speed Networking Event",
-    "day": "13",
-    "info": "Free"
-  },
-  {
     "sortindex": 1786683600,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
     "month": "August",
@@ -126,6 +112,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1787029200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/acfe5a48-6da7-4cc3-bb88-806b87932df9.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 5729,
+    "destination": "/?eid=72811",
+    "societyname": "UQ Food Science Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+    "title": "UQFSC x UQ Ventures: Team Forming Event",
+    "day": "18",
+    "info": "Free"
+  },
+  {
     "sortindex": 1787040900,
     "image": "https://resources.hellorubric.com/uploaded_assets/ec5915cd-4472-4988-881d-cf8d1b37b023.png",
     "month": "August",
@@ -165,6 +165,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
     "title": "Games Night ",
     "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787202000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/bc621bbb-318e-4c2d-bf42-ec45de282566.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 2395,
+    "destination": "/?eid=72748",
+    "societyname": "Gatton International Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
+    "title": "Everybody 1-2-Switch! E-Sport Tourney",
+    "day": "20",
     "info": "Free"
   },
   {
