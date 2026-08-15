@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1786683600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2652,
-    "destination": "/?eid=70179",
-    "societyname": "UQ Greens Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
-    "title": "Left Wing Jams On The Great Court",
-    "day": "14",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1786694400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/59db9c0d-003b-4928-89db-eed5d927ebea.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 262,
-    "destination": "/?eid=71886",
-    "societyname": "UQ Criminology & Criminal Justice Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
-    "title": "UQCCJS Semester 2 Launch Party",
-    "day": "14",
-    "info": "Free"
-  },
-  {
     "sortindex": 1786743000,
     "image": "https://resources.hellorubric.com/uploaded_assets/14fd80be-4603-47a2-980c-89b9f92e7132.png",
     "month": "August",
@@ -70,20 +42,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1786935600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 933,
-    "destination": "/?eid=72054",
-    "societyname": "UQ Organisation of Planning Students",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
-    "title": "UQ OOPS, Bruce and ADP BCC Presentation",
-    "day": "17",
-    "info": "Free"
-  },
-  {
     "sortindex": 1786949100,
     "image": "https://resources.hellorubric.com/uploaded_assets/72d649fe-9ff7-4b3c-aba2-98c6f0b984c6.jpg",
     "month": "August",
@@ -122,6 +80,20 @@
     "societyname": "UQ Food Science Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
     "title": "UQFSC x UQ Ventures: Team Forming Event",
+    "day": "18",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787040000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/982712f5-e955-4d05-848c-a9deab79f992.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 2308,
+    "destination": "/?eid=72631",
+    "societyname": "Occupational Therapy Students Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
+    "title": "OTSA x ImproCOG Workshop 2026",
     "day": "18",
     "info": "Free"
   },
@@ -277,6 +249,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "STEM Alternative Pathways Evening",
     "day": "3",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1789527600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 933,
+    "destination": "/?eid=72054",
+    "societyname": "UQ Organisation of Planning Students",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
+    "title": "UQ OOPS, Bruce and ADP BCC Presentation",
+    "day": "16",
     "info": "Free"
   },
   {

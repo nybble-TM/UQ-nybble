@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 78,
+  "totalItemCount": 73,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3007,90 +3007,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1786663800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8ceea7bc-ac47-4d9b-b3b7-208875066601.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3855,
-      "destination": "/?eid=71752",
-      "societyname": "UQ Women in Business Economics and Law Society",
-      "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
-      "title": "UQWiBELS Pilates & Drinks ",
-      "day": "14",
-      "info": "$5.00 - $10.00"
-    },
-    {
-      "sortindex": 1786683600,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2652,
-      "destination": "/?eid=70179",
-      "societyname": "UQ Greens Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
-      "title": "Left Wing Jams On The Great Court",
-      "day": "14",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1786685400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/21e41d1b-7c6b-4c33-9aaf-f5b013490c51.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3858,
-      "destination": "/?eid=69712",
-      "societyname": "UQ English and Literature Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6adf46e-ec6e-4f83-a196-886bedde40de.png",
-      "title": "THE ODYSSEY Special Screening",
-      "day": "14",
-      "info": "$11.27 - $15.41"
-    },
-    {
-      "sortindex": 1786692600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/2d0eccf5-2432-4bae-aa2e-b5b603f61fc3.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4430,
-      "destination": "/?eid=48248",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-      "title": "Natural Crystal Bracelet Making Workshop",
-      "day": "14",
-      "info": "$16.45 - $57.91"
-    },
-    {
-      "sortindex": 1786694400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/59db9c0d-003b-4928-89db-eed5d927ebea.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 262,
-      "destination": "/?eid=71886",
-      "societyname": "UQ Criminology & Criminal Justice Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
-      "title": "UQCCJS Semester 2 Launch Party",
-      "day": "14",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1786694400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/96c44a97-ba78-4e4f-ac85-8b12acfdc67a.jpeg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 358,
-      "destination": "/?eid=72071",
-      "societyname": "UQ African Students Association",
-      "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
-      "title": "ASA Karaoke night",
-      "day": "14",
-      "info": "$11.27 - $16.45"
-    },
-    {
       "sortindex": 1786743000,
       "image": "https://resources.hellorubric.com/uploaded_assets/14fd80be-4603-47a2-980c-89b9f92e7132.png",
       "month": "August",
@@ -3173,20 +3089,6 @@
       "title": "UQSSS Orientation: Balik Kampung",
       "day": "16",
       "info": "$8.16 - $13.34"
-    },
-    {
-      "sortindex": 1786935600,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 933,
-      "destination": "/?eid=72054",
-      "societyname": "UQ Organisation of Planning Students",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
-      "title": "UQ OOPS, Bruce and ADP BCC Presentation",
-      "day": "17",
-      "info": "Free"
     },
     {
       "sortindex": 1786946400,
@@ -3287,6 +3189,20 @@
       "info": "$7.50 - $12.50"
     },
     {
+      "sortindex": 1787040000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/982712f5-e955-4d05-848c-a9deab79f992.jpg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 2308,
+      "destination": "/?eid=72631",
+      "societyname": "Occupational Therapy Students Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
+      "title": "OTSA x ImproCOG Workshop 2026",
+      "day": "18",
+      "info": "Free"
+    },
+    {
       "sortindex": 1787040900,
       "image": "https://resources.hellorubric.com/uploaded_assets/ec5915cd-4472-4988-881d-cf8d1b37b023.png",
       "month": "August",
@@ -3344,20 +3260,6 @@
     },
     {
       "sortindex": 1787126400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6c794973-764f-48ca-adde-5196b1622eaf.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 2219,
-      "destination": "/?eid=71940",
-      "societyname": "UQ Climate & Energy",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2219.png",
-      "title": "Consulting Program: Sem 2, 2026",
-      "day": "19",
-      "info": "$2.97 - $7.12"
-    },
-    {
-      "sortindex": 1787126400,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
       "month": "August",
       "societyAvgRating": 0,
@@ -3369,6 +3271,20 @@
       "title": "2026 UQLS Annual Professional Drinks",
       "day": "19",
       "info": "$36.25 - $66.86"
+    },
+    {
+      "sortindex": 1787126400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6c794973-764f-48ca-adde-5196b1622eaf.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 2219,
+      "destination": "/?eid=71940",
+      "societyname": "UQ Climate & Energy",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2219.png",
+      "title": "Consulting Program: Sem 2, 2026",
+      "day": "19",
+      "info": "$2.97 - $7.12"
     },
     {
       "sortindex": 1787128200,
@@ -3498,20 +3414,6 @@
     },
     {
       "sortindex": 1787295600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b210d0d3-40d5-4454-8463-f27caec3bd6d.jpeg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 4271,
-      "destination": "/?eid=70945",
-      "societyname": "UQ K-Pop Dance Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-      "title": "UQKDC Game Caterers Event",
-      "day": "21",
-      "info": "$2.97 - $5.05"
-    },
-    {
-      "sortindex": 1787295600,
       "image": "https://resources.hellorubric.com/uploaded_assets/8fa051db-a167-4d29-9ace-41f3cc95aecc.png",
       "month": "August",
       "societyAvgRating": 0,
@@ -3523,6 +3425,34 @@
       "title": "HAC Pottery Workshop with Mud2Mug",
       "day": "21",
       "info": "$50.00 - $60.00"
+    },
+    {
+      "sortindex": 1787295600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b210d0d3-40d5-4454-8463-f27caec3bd6d.jpeg",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 4271,
+      "destination": "/?eid=70945",
+      "societyname": "UQ K-Pop Dance Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+      "title": "UQKDC Game Caterers Event",
+      "day": "21",
+      "info": "$0.00 - $2.97"
+    },
+    {
+      "sortindex": 1787299200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7e1e76ee-7d4b-451c-9b59-4af428ed5b0a.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 10976,
+      "destination": "/?eid=72413",
+      "societyname": "UQ Punjabi Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
+      "title": "Only Murders in the Viaah",
+      "day": "21",
+      "info": "$6.69 - $10.78"
     },
     {
       "sortindex": 1787299200,
@@ -3551,20 +3481,6 @@
       "title": "UQ ICMJ Meat & Greet 2026",
       "day": "21",
       "info": "$2.97 - $21.63"
-    },
-    {
-      "sortindex": 1787299200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7e1e76ee-7d4b-451c-9b59-4af428ed5b0a.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 10976,
-      "destination": "/?eid=72413",
-      "societyname": "UQ Punjabi Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
-      "title": "Only Murders in the Viaah",
-      "day": "21",
-      "info": "$6.69 - $10.78"
     },
     {
       "sortindex": 1787302800,
@@ -3764,7 +3680,7 @@
     },
     {
       "sortindex": 1787900400,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/6e34e24d-5c80-4477-b16f-4aa79edefe48.jpg",
       "month": "August",
       "societyAvgRating": 0,
       "subtitle": "Class/Workshop",
@@ -3772,13 +3688,13 @@
       "destination": "/?eid=70086",
       "societyname": "UQ Psych MD",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
-      "title": "Intro to Art Therapy for Med Students & Doctors",
+      "title": "Artmaking Studio - Psychoanalysis to Surrealism",
       "day": "28",
       "info": "$6.08 - $11.27"
     },
     {
       "sortindex": 1787902200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/24daebbe-225b-4e83-9bf8-1db34c0403ce.png",
       "month": "August",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3887,6 +3803,20 @@
       "title": "Roaring 20's Ball",
       "day": "12",
       "info": "$99.37 - $120.10"
+    },
+    {
+      "sortindex": 1789527600,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 933,
+      "destination": "/?eid=72054",
+      "societyname": "UQ Organisation of Planning Students",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
+      "title": "UQ OOPS, Bruce and ADP BCC Presentation",
+      "day": "16",
+      "info": "Free"
     },
     {
       "sortindex": 1789720200,
