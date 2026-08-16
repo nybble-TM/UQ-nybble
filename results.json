@@ -1,61 +1,5 @@
 [
   {
-    "sortindex": 1786743000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/14fd80be-4603-47a2-980c-89b9f92e7132.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Trip/Camp",
-    "societyid": 8116,
-    "destination": "/?eid=71939",
-    "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
-    "title": "Sandy Camp Rd Wetlands Bird Walk",
-    "day": "15",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1786744800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/173ba9d4-a1e5-4a5e-8940-365a0da32abf.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 7597,
-    "destination": "/?eid=71887",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "title": "Matcha Sip-and-Walk",
-    "day": "15",
-    "info": "$6.08"
-  },
-  {
-    "sortindex": 1786779000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e2b9b5bd-e06c-411f-b4e1-0de3c20df4f1.jpg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 57,
-    "destination": "/?eid=72637",
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "Nine to Wine - UQLS x UQBA x UQIES Sem 2 Launch",
-    "day": "15",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1786780800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5b7f50ef-942d-44fb-8d4b-9ad289ecff42.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 2538,
-    "destination": "/?eid=69037",
-    "societyname": "UQ Opera Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/80dec386-d36c-4f66-84cb-8800c628b942.png",
-    "title": "UQ Music Ball 2026",
-    "day": "15",
-    "info": "$78.64 - $114.92"
-  },
-  {
     "sortindex": 1786842000,
     "image": "https://resources.hellorubric.com/uploaded_assets/07916f16-7c09-42f4-8c95-c541faa332ba.jpeg",
     "month": "August",
@@ -253,20 +197,6 @@
   },
   {
     "sortindex": 1787126400,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 57,
-    "destination": "/?eid=71869",
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "2026 UQLS Annual Professional Drinks",
-    "day": "19",
-    "info": "$36.25 - $66.86"
-  },
-  {
-    "sortindex": 1787126400,
     "image": "https://resources.hellorubric.com/uploaded_assets/6c794973-764f-48ca-adde-5196b1622eaf.png",
     "month": "August",
     "societyAvgRating": 0,
@@ -278,6 +208,20 @@
     "title": "Consulting Program: Sem 2, 2026",
     "day": "19",
     "info": "$2.97 - $7.12"
+  },
+  {
+    "sortindex": 1787126400,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 57,
+    "destination": "/?eid=71869",
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "2026 UQLS Annual Professional Drinks",
+    "day": "19",
+    "info": "$36.25 - $66.86"
   },
   {
     "sortindex": 1787128200,
@@ -323,7 +267,7 @@
   },
   {
     "sortindex": 1787214600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/84a59d43-9ad4-4c93-ac6d-d2a9fb6fa873.png",
     "month": "August",
     "societyAvgRating": 0,
     "subtitle": "Quiz/Trivia",
@@ -435,20 +379,6 @@
   },
   {
     "sortindex": 1787299200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7e1e76ee-7d4b-451c-9b59-4af428ed5b0a.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 10976,
-    "destination": "/?eid=72413",
-    "societyname": "UQ Punjabi Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
-    "title": "Only Murders in the Viaah",
-    "day": "21",
-    "info": "$6.69 - $10.78"
-  },
-  {
-    "sortindex": 1787299200,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
     "month": "August",
     "societyAvgRating": 0,
@@ -460,6 +390,20 @@
     "title": "Boardgames Night",
     "day": "21",
     "info": "Free"
+  },
+  {
+    "sortindex": 1787299200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7e1e76ee-7d4b-451c-9b59-4af428ed5b0a.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 10976,
+    "destination": "/?eid=72413",
+    "societyname": "UQ Punjabi Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
+    "title": "Only Murders in the Viaah",
+    "day": "21",
+    "info": "$6.69 - $10.78"
   },
   {
     "sortindex": 1787299200,
@@ -616,6 +560,20 @@
     "info": "$0.00 - $20.95"
   },
   {
+    "sortindex": 1787731200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fcc19361-c0e3-4b93-934f-eda8124d51b4.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Show/Performance",
+    "societyid": 2428,
+    "destination": "/?eid=72944",
+    "societyname": "UQ South Pacific Islander Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
+    "title": "Yumi: The Whole World Film Screening ",
+    "day": "26",
+    "info": "Free"
+  },
+  {
     "sortindex": 1787733000,
     "image": "https://resources.hellorubric.com/uploaded_assets/d318f4ce-171f-4363-9675-87c2162441e4.png",
     "month": "August",
@@ -768,6 +726,20 @@
     "title": "UNIT UQ Connections & Cocktails ",
     "day": "4",
     "info": "$42.36"
+  },
+  {
+    "sortindex": 1788580800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3180,
+    "destination": "/?eid=72916",
+    "societyname": "UQ Korean Medical Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
+    "title": "UQKMS BBQ",
+    "day": "5",
+    "info": "Free"
   },
   {
     "sortindex": 1789200000,

@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1786743000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/14fd80be-4603-47a2-980c-89b9f92e7132.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Trip/Camp",
-    "societyid": 8116,
-    "destination": "/?eid=71939",
-    "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
-    "title": "Sandy Camp Rd Wetlands Bird Walk",
-    "day": "15",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1786779000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e2b9b5bd-e06c-411f-b4e1-0de3c20df4f1.jpg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 57,
-    "destination": "/?eid=72637",
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "Nine to Wine - UQLS x UQBA x UQIES Sem 2 Launch",
-    "day": "15",
-    "info": "Free"
-  },
-  {
     "sortindex": 1786842000,
     "image": "https://resources.hellorubric.com/uploaded_assets/07916f16-7c09-42f4-8c95-c541faa332ba.jpeg",
     "month": "August",
@@ -224,6 +196,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1787731200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fcc19361-c0e3-4b93-934f-eda8124d51b4.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Show/Performance",
+    "societyid": 2428,
+    "destination": "/?eid=72944",
+    "societyname": "UQ South Pacific Islander Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
+    "title": "Yumi: The Whole World Film Screening ",
+    "day": "26",
+    "info": "Free"
+  },
+  {
     "sortindex": 1787817600,
     "image": "https://resources.hellorubric.com/uploaded_assets/179d5404-7b75-4bfe-a620-0e62609fcd70.png",
     "month": "August",
@@ -249,6 +235,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "STEM Alternative Pathways Evening",
     "day": "3",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1788580800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3180,
+    "destination": "/?eid=72916",
+    "societyname": "UQ Korean Medical Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
+    "title": "UQKMS BBQ",
+    "day": "5",
     "info": "Free"
   },
   {
