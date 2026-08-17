@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 71,
+  "totalItemCount": 69,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3007,34 +3007,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1786842000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/07916f16-7c09-42f4-8c95-c541faa332ba.jpeg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 7257,
-      "destination": "/?eid=71276",
-      "societyname": "Society of Lifesaving",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
-      "title": "Semester 2 Southbank Bash",
-      "day": "16",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1786851000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/636222ed-b6da-497c-8531-249d16e1fb1c.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1404,
-      "destination": "/?eid=72048",
-      "societyname": "UQ Singapore Students' Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
-      "title": "UQSSS Orientation: Balik Kampung",
-      "day": "16",
-      "info": "$8.16 - $13.34"
-    },
-    {
       "sortindex": 1786946400,
       "image": "https://resources.hellorubric.com/uploaded_assets/c8bd386e-c6b5-43f1-896a-2cb644f9c31b.jpeg",
       "month": "August",
@@ -3344,17 +3316,17 @@
     },
     {
       "sortindex": 1787295600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8d24c374-3b9a-49b6-bc9a-cbcd99735b1e.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/b210d0d3-40d5-4454-8463-f27caec3bd6d.jpeg",
       "month": "August",
       "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 3858,
-      "destination": "/?eid=71653",
-      "societyname": "UQ English and Literature Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6adf46e-ec6e-4f83-a196-886bedde40de.png",
-      "title": "QUT vs UQ Literature Trivia Night",
+      "subtitle": "Sport/Competition",
+      "societyid": 4271,
+      "destination": "/?eid=70945",
+      "societyname": "UQ K-Pop Dance Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+      "title": "UQKDC Game Caterers Event",
       "day": "21",
-      "info": "Free"
+      "info": "$0.00 - $2.97"
     },
     {
       "sortindex": 1787295600,
@@ -3372,29 +3344,15 @@
     },
     {
       "sortindex": 1787295600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b210d0d3-40d5-4454-8463-f27caec3bd6d.jpeg",
+      "image": "https://resources.hellorubric.com/uploaded_assets/8d24c374-3b9a-49b6-bc9a-cbcd99735b1e.png",
       "month": "August",
       "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 4271,
-      "destination": "/?eid=70945",
-      "societyname": "UQ K-Pop Dance Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-      "title": "UQKDC Game Caterers Event",
-      "day": "21",
-      "info": "$0.00 - $2.97"
-    },
-    {
-      "sortindex": 1787299200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2652,
-      "destination": "/?eid=70180",
-      "societyname": "UQ Greens Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
-      "title": "Boardgames Night",
+      "subtitle": "Quiz/Trivia",
+      "societyid": 3858,
+      "destination": "/?eid=71653",
+      "societyname": "UQ English and Literature Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6adf46e-ec6e-4f83-a196-886bedde40de.png",
+      "title": "QUT vs UQ Literature Trivia Night",
       "day": "21",
       "info": "Free"
     },
@@ -3425,6 +3383,20 @@
       "title": "UQ ICMJ Meat & Greet 2026",
       "day": "21",
       "info": "$2.97 - $21.63"
+    },
+    {
+      "sortindex": 1787299200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2652,
+      "destination": "/?eid=70180",
+      "societyname": "UQ Greens Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
+      "title": "Boardgames Night",
+      "day": "21",
+      "info": "Free"
     },
     {
       "sortindex": 1787302800,
@@ -3652,7 +3624,7 @@
     },
     {
       "sortindex": 1787902200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/24daebbe-225b-4e83-9bf8-1db34c0403ce.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/21062fa1-b446-49c4-a124-0ca4d1b594ab.jpg",
       "month": "August",
       "societyAvgRating": 0,
       "subtitle": "Other",
@@ -3774,7 +3746,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
       "title": "Roaring 20's Ball",
       "day": "12",
-      "info": "$99.37 - $120.10"
+      "info": "$99.37 - $135.64"
     },
     {
       "sortindex": 1789527600,
@@ -3960,20 +3932,6 @@
     },
     {
       "sortindex": 1792231200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
-      "month": "October",
-      "societyAvgRating": 0,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 164,
-      "destination": "/?eid=68636",
-      "societyname": "UQ Nursing and Midwifery Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
-      "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
-      "day": "17",
-      "info": "$104.55 - $146.01"
-    },
-    {
-      "sortindex": 1792231200,
       "image": "https://resources.hellorubric.com/uploaded_assets/b80f2720-774b-438d-b17d-cc9fa8e5bc22.jpg",
       "month": "October",
       "societyAvgRating": 0,
@@ -3985,6 +3943,20 @@
       "title": "Sunset Soiree: OTSA Ball 2026",
       "day": "17",
       "info": "$0.00 - $151.19"
+    },
+    {
+      "sortindex": 1792231200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 164,
+      "destination": "/?eid=68636",
+      "societyname": "UQ Nursing and Midwifery Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
+      "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
+      "day": "17",
+      "info": "$104.55 - $146.01"
     },
     {
       "sortindex": 1794042000,
