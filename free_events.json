@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1786949100,
-    "image": "https://resources.hellorubric.com/uploaded_assets/72d649fe-9ff7-4b3c-aba2-98c6f0b984c6.jpg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 3932,
-    "destination": "/?eid=71462",
-    "societyname": "Queensland Pharmacy Students' Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-    "title": "SGM + Member Engagement Evening",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1786950000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/a0d9dfb1-ee69-4661-96fc-d5a79d787d28.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 1601,
-    "destination": "/?eid=71380",
-    "societyname": "UQ Skirts in Engineering",
-    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-    "title": "AEMO Mentoring Workshop w/ IEEE, Skirts, and EBESS",
-    "day": "17",
-    "info": "Free"
-  },
-  {
     "sortindex": 1787029200,
     "image": "https://resources.hellorubric.com/uploaded_assets/acfe5a48-6da7-4cc3-bb88-806b87932df9.jpg",
     "month": "August",
@@ -71,20 +43,6 @@
   },
   {
     "sortindex": 1787122800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7d56f8fa-7c8a-4c84-b874-14aeaa96bb75.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4235,
-    "destination": "/?eid=67345",
-    "societyname": "UQ Formula Racing Society",
-    "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
-    "title": "UQFRS Semester 2 Launch Party",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1787122800,
     "image": "https://resources.hellorubric.com/uploaded_assets/ddb6cfb8-de35-445b-b20a-30afa1041ffc.png",
     "month": "August",
     "societyAvgRating": 0,
@@ -94,6 +52,20 @@
     "societyname": "UQ Reality Labs",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
     "title": "Games Night ",
+    "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787122800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7d56f8fa-7c8a-4c84-b874-14aeaa96bb75.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4235,
+    "destination": "/?eid=67345",
+    "societyname": "UQ Formula Racing Society",
+    "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
+    "title": "UQFRS Semester 2 Launch Party",
     "day": "19",
     "info": "Free"
   },
@@ -112,6 +84,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1787210100,
+    "image": "https://resources.hellorubric.com/uploaded_assets/0c3b960c-e9cc-4367-822e-6953c206ec9e.jpeg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 262,
+    "destination": "/?eid=73198",
+    "societyname": "UQ Criminology & Criminal Justice Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+    "title": "UQCCJS MOVIE NIGHT",
+    "day": "20",
+    "info": "Free"
+  },
+  {
     "sortindex": 1787284800,
     "image": "https://resources.hellorubric.com/uploaded_assets/91f1059e-6a87-46ef-890a-6156d974e358.png",
     "month": "August",
@@ -122,6 +108,20 @@
     "societyname": "Society of Fine Arts",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
     "title": "Museum Meet Up: Museum of Brisbane",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787295600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_9.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 1404,
+    "destination": "/?eid=71540",
+    "societyname": "UQ Singapore Students' Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
+    "title": "SHIOK RUN!",
     "day": "21",
     "info": "Free"
   },
