@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1787029200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/acfe5a48-6da7-4cc3-bb88-806b87932df9.jpg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 5729,
-    "destination": "/?eid=72811",
-    "societyname": "UQ Food Science Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-    "title": "UQFSC x UQ Ventures: Team Forming Event",
-    "day": "18",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1787040000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/982712f5-e955-4d05-848c-a9deab79f992.jpg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 2308,
-    "destination": "/?eid=72631",
-    "societyname": "Occupational Therapy Students Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
-    "title": "OTSA x ImproCOG Workshop 2026",
-    "day": "18",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1787040900,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ec5915cd-4472-4988-881d-cf8d1b37b023.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 1862,
-    "destination": "/?eid=71418",
-    "societyname": "The UQ Economics Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
-    "title": "Networking 101",
-    "day": "18",
-    "info": "Free"
-  },
-  {
     "sortindex": 1787122800,
     "image": "https://resources.hellorubric.com/uploaded_assets/ddb6cfb8-de35-445b-b20a-30afa1041ffc.png",
     "month": "August",
@@ -113,7 +71,7 @@
   },
   {
     "sortindex": 1787295600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_9.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/d77f706e-c813-47c4-ae11-a97d56016958.png",
     "month": "August",
     "societyAvgRating": 0,
     "subtitle": "Sport/Competition",
@@ -136,6 +94,20 @@
     "societyname": "UQ English and Literature Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6adf46e-ec6e-4f83-a196-886bedde40de.png",
     "title": "QUT vs UQ Literature Trivia Night",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787299200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=73261",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Pickleball 21/08",
     "day": "21",
     "info": "Free"
   },
@@ -164,6 +136,20 @@
     "societyname": "Muslim Students Association UQ",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
     "title": " Inter-MSA Sisters Netball Tournament",
+    "day": "22",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787369400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d1f3c54a-261e-44f6-9b74-0d8640c74dc6.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 6249,
+    "destination": "/?eid=73249",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "FRESHMAN KIT #2",
     "day": "22",
     "info": "Free"
   },
@@ -207,6 +193,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
     "title": "UQCC Careers and Canap\u00e9s 2026",
     "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787963400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6484bcb6-46bb-4b27-a9de-656172ecbce7.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 2511,
+    "destination": "/?eid=73266",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Self Defence Essentials",
+    "day": "29",
     "info": "Free"
   },
   {
