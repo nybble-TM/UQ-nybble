@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1787122800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/ddb6cfb8-de35-445b-b20a-30afa1041ffc.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 5809,
-    "destination": "/?eid=69054",
-    "societyname": "UQ Reality Labs",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_5809.png",
-    "title": "Games Night ",
-    "day": "19",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1787122800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/7d56f8fa-7c8a-4c84-b874-14aeaa96bb75.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 4235,
-    "destination": "/?eid=67345",
-    "societyname": "UQ Formula Racing Society",
-    "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
-    "title": "UQFRS Semester 2 Launch Party",
-    "day": "19",
-    "info": "Free"
-  },
-  {
     "sortindex": 1787202000,
     "image": "https://resources.hellorubric.com/uploaded_assets/bc621bbb-318e-4c2d-bf42-ec45de282566.png",
     "month": "August",
@@ -71,20 +43,6 @@
   },
   {
     "sortindex": 1787295600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d77f706e-c813-47c4-ae11-a97d56016958.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 1404,
-    "destination": "/?eid=71540",
-    "societyname": "UQ Singapore Students' Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
-    "title": "SHIOK RUN!",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1787295600,
     "image": "https://resources.hellorubric.com/uploaded_assets/8d24c374-3b9a-49b6-bc9a-cbcd99735b1e.png",
     "month": "August",
     "societyAvgRating": 0,
@@ -94,6 +52,20 @@
     "societyname": "UQ English and Literature Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6adf46e-ec6e-4f83-a196-886bedde40de.png",
     "title": "QUT vs UQ Literature Trivia Night",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787295600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d77f706e-c813-47c4-ae11-a97d56016958.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 1404,
+    "destination": "/?eid=71540",
+    "societyname": "UQ Singapore Students' Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1404.png",
+    "title": "SHIOK RUN!",
     "day": "21",
     "info": "Free"
   },
@@ -196,6 +168,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1787896800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8c8d70de-62c6-4f4f-bd64-c9932cc60af2.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 8116,
+    "destination": "/?eid=73224",
+    "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
+    "title": "Bird Sketch & Craft Workshop",
+    "day": "28",
+    "info": "Free"
+  },
+  {
     "sortindex": 1787963400,
     "image": "https://resources.hellorubric.com/uploaded_assets/6484bcb6-46bb-4b27-a9de-656172ecbce7.png",
     "month": "August",
@@ -205,7 +191,7 @@
     "destination": "/?eid=73266",
     "societyname": "Muslim Students Association UQ",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Self Defence Essentials",
+    "title": "Self Defence Essentials w/MSAUQ",
     "day": "29",
     "info": "Free"
   },
@@ -235,6 +221,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
     "title": "UQKMS BBQ",
     "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1788850800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/43021bd6-87d9-4872-b7cc-6be730ce0397.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=73146",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+    "title": "Create Your Career",
+    "day": "8",
     "info": "Free"
   },
   {
