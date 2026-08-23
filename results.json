@@ -1,61 +1,5 @@
 [
   {
-    "sortindex": 1787364000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1c7bd588-e472-4d0c-be0f-d92d02773f8d.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 2511,
-    "destination": "/?eid=70741",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": " Inter-MSA Sisters Netball Tournament",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1787369400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d1f3c54a-261e-44f6-9b74-0d8640c74dc6.jpg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 6249,
-    "destination": "/?eid=73249",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "FRESHMAN KIT #2",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1787369400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/9da1d022-163d-447b-bcde-22498ac4b100.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1387,
-    "destination": "/?eid=72140",
-    "societyname": "UQ Hong Kong Students Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
-    "title": "Back 2 Sku",
-    "day": "22",
-    "info": "$24.74 - $29.92"
-  },
-  {
-    "sortindex": 1787382000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/412f8780-d2f8-4791-9f10-2984a3454ff3.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 7597,
-    "destination": "/?eid=72647",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "title": "Multicultural Potluck",
-    "day": "22",
-    "info": "$6.08 - $9.19"
-  },
-  {
     "sortindex": 1787454000,
     "image": "https://resources.hellorubric.com/uploaded_assets/f8f4c4d0-5c54-45e5-b578-9a6ef0129eb4.jpg",
     "month": "August",
@@ -235,7 +179,7 @@
     "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
     "title": "Careers and Cocktails 2026",
     "day": "26",
-    "info": "$0.00 - $42.36"
+    "info": "$0.00 - $40.00"
   },
   {
     "sortindex": 1787733900,
@@ -378,6 +322,20 @@
     "info": "$0.00 - $26.81"
   },
   {
+    "sortindex": 1787961600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e134e299-0de6-479e-a6b1-3dd4f3b595ea.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 5398,
+    "destination": "/?eid=73588",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Saturday Pickleball Tournament UQSIC",
+    "day": "29",
+    "info": "$15.00 - $20.00"
+  },
+  {
     "sortindex": 1787963400,
     "image": "https://resources.hellorubric.com/uploaded_assets/6484bcb6-46bb-4b27-a9de-656172ecbce7.png",
     "month": "August",
@@ -491,7 +449,7 @@
   },
   {
     "sortindex": 1788338700,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/5a8cc3b1-efc6-4c4b-824c-9b2d883c84fb.png",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",
