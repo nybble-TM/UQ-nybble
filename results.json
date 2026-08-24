@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1787454000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f8f4c4d0-5c54-45e5-b578-9a6ef0129eb4.jpg",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3225,
-    "destination": "/?eid=46447",
-    "societyname": "UQ Gatton Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/52fae795-af67-4495-ae3d-6c34d48ab8d4.png",
-    "title": "House Crawl 2026",
-    "day": "23",
-    "info": "$37.71 - $74.28"
-  },
-  {
     "sortindex": 1787542200,
     "image": "https://resources.hellorubric.com/uploaded_assets/47300eee-b13d-4b10-9e60-2ee7e9e710e6.png",
     "month": "August",
@@ -109,7 +95,7 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
     "title": "Speechie Sips",
     "day": "26",
-    "info": "$32.00 - $37.18"
+    "info": "$11.27 - $37.18"
   },
   {
     "sortindex": 1787727600,
@@ -323,7 +309,7 @@
   },
   {
     "sortindex": 1787961600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e134e299-0de6-479e-a6b1-3dd4f3b595ea.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/37337f94-079c-4415-b6a3-ce0dc333f51c.png",
     "month": "August",
     "societyAvgRating": 0,
     "subtitle": "Sport/Competition",
@@ -462,6 +448,20 @@
     "info": "$5.00 - $15.00"
   },
   {
+    "sortindex": 1788415200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2414cd1d-d051-4ff0-a7af-2710ba1c410d.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3867,
+    "destination": "/?eid=73829",
+    "societyname": "UQ International Students' Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+    "title": "Dance, Play & Slay",
+    "day": "3",
+    "info": "$5.05 - $8.16"
+  },
+  {
     "sortindex": 1788422400,
     "image": "https://resources.hellorubric.com/uploaded_assets/c3278b63-8422-4a6c-b0c8-188d35d5b152.png",
     "month": "September",
@@ -474,6 +474,20 @@
     "title": "STEM Alternative Pathways Evening",
     "day": "3",
     "info": "Free"
+  },
+  {
+    "sortindex": 1788426000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3ce51542-775d-4a1d-a2e6-1c9409d7c0dc.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7597,
+    "destination": "/?eid=73899",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "Shrek 2 Movie Night",
+    "day": "3",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1788469200,
@@ -530,6 +544,20 @@
     "title": "'Dancing For Those Who Can\u2019t' - All Levels Class",
     "day": "5",
     "info": "$0.00 - $20.00"
+  },
+  {
+    "sortindex": 1788768000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 7437,
+    "destination": "/?eid=73847",
+    "societyname": "UQ Internal Medicine Society",
+    "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
+    "title": "Role of the Gut in Health and Disease",
+    "day": "7",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1788768000,
