@@ -1,59 +1,17 @@
 [
   {
-    "sortindex": 1787542200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/47300eee-b13d-4b10-9e60-2ee7e9e710e6.png",
+    "sortindex": 1787641200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8e802561-559a-4e07-8928-e710dd756508.png",
     "month": "August",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",
-    "societyid": 5763,
-    "destination": "/?eid=72600",
-    "societyname": "Bachelor of Advanced Business (Honours) SPC",
-    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-    "title": "Suncorp Team Workshop Experience",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1787547600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bb52caf5-d84a-4874-a671-bd9524503f4e.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 5729,
-    "destination": "/?eid=72001",
-    "societyname": "UQ Food Science Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-    "title": "FareShare Site Visit ",
-    "day": "24",
-    "info": "$0.00 - $5.00"
-  },
-  {
-    "sortindex": 1787556600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/539fb7ef-af47-4d95-b3eb-69ccc8ac5afc.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1710,
-    "destination": "/?eid=72417",
-    "societyname": "University of Queensland French Society",
-    "societylogo": "https://resources.getqpay.com/images/6598a600c9af4_.png",
-    "title": "UQFS Sem 2 Launch Party",
-    "day": "24",
-    "info": "$5.00 - $10.00"
-  },
-  {
-    "sortindex": 1787558400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/0f94ca8e-0e44-43b9-a522-deffad99e4b6.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 2232,
-    "destination": "/?eid=73697",
-    "societyname": "Australia-China Youth Association at UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/75b570ee-75da-4464-890c-26a803bc3e1f.png",
-    "title": "ACYA UQ Professional Headshots & Social Night",
-    "day": "24",
-    "info": "$0.00 - $6.08"
+    "societyid": 3932,
+    "destination": "/?eid=73917",
+    "societyname": "Queensland Pharmacy Students' Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+    "title": "QPSA Rural Health Information Night",
+    "day": "25",
+    "info": "$0.00 - $10.00"
   },
   {
     "sortindex": 1787641200,
@@ -127,6 +85,20 @@
   },
   {
     "sortindex": 1787731200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fcc19361-c0e3-4b93-934f-eda8124d51b4.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Show/Performance",
+    "societyid": 2428,
+    "destination": "/?eid=72944",
+    "societyname": "UQ South Pacific Islander Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
+    "title": "Yumi: The Whole World Film Screening ",
+    "day": "26",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787731200,
     "image": "https://resources.hellorubric.com/uploaded_assets/6ecef2f0-eafe-4136-825c-65afc87e699d.jpeg",
     "month": "August",
     "societyAvgRating": 0,
@@ -141,17 +113,17 @@
   },
   {
     "sortindex": 1787731200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fcc19361-c0e3-4b93-934f-eda8124d51b4.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/0fb9913b-046a-4329-82a5-edded0d0dcde.png",
     "month": "August",
     "societyAvgRating": 0,
-    "subtitle": "Show/Performance",
-    "societyid": 2428,
-    "destination": "/?eid=72944",
-    "societyname": "UQ South Pacific Islander Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
-    "title": "Yumi: The Whole World Film Screening ",
+    "subtitle": "Industry/Career",
+    "societyid": 1542,
+    "destination": "/?eid=73912",
+    "societyname": "UQ Association of Biomedical Students",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1542.png",
+    "title": "Summer / Winter Research Program Workshop",
     "day": "26",
-    "info": "Free"
+    "info": "$0.00 - $8.01"
   },
   {
     "sortindex": 1787733000,
@@ -221,7 +193,7 @@
     "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
     "title": "Zip-Tied Pub Games",
     "day": "27",
-    "info": "$10.00 - $11.27"
+    "info": "$10.00 - $15.41"
   },
   {
     "sortindex": 1787868000,
@@ -364,6 +336,20 @@
     "info": "$32.00"
   },
   {
+    "sortindex": 1787984100,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ce1c804e-7828-4d90-8663-e5c2ab1756cc.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4688,
+    "destination": "/?eid=72678",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
+    "title": "Mt. Tamborine Spotlighting",
+    "day": "29",
+    "info": "Free"
+  },
+  {
     "sortindex": 1788058800,
     "image": "https://resources.hellorubric.com/uploaded_assets/16ef1736-5341-467e-bb3a-01fda7cfbf64.jpg",
     "month": "August",
@@ -449,7 +435,7 @@
   },
   {
     "sortindex": 1788415200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2414cd1d-d051-4ff0-a7af-2710ba1c410d.jpg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/b29e38dd-39e9-41ab-9de7-0bd22021dffc.jpg",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -501,7 +487,7 @@
     "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
     "title": "UQ Straddie Surf Trip Sem 2",
     "day": "4",
-    "info": "$0.00 - $177.10"
+    "info": "$0.00 - $197.83"
   },
   {
     "sortindex": 1788510600,
@@ -547,20 +533,6 @@
   },
   {
     "sortindex": 1788768000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 7437,
-    "destination": "/?eid=73847",
-    "societyname": "UQ Internal Medicine Society",
-    "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
-    "title": "Role of the Gut in Health and Disease",
-    "day": "7",
-    "info": "$0.00 - $6.08"
-  },
-  {
-    "sortindex": 1788768000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -572,6 +544,20 @@
     "title": "Create Your Career",
     "day": "7",
     "info": "Free"
+  },
+  {
+    "sortindex": 1788768000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 7437,
+    "destination": "/?eid=73847",
+    "societyname": "UQ Internal Medicine Society",
+    "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
+    "title": "Role of the Gut in Health and Disease",
+    "day": "7",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1788985800,

@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1787542200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/47300eee-b13d-4b10-9e60-2ee7e9e710e6.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 5763,
-    "destination": "/?eid=72600",
-    "societyname": "Bachelor of Advanced Business (Honours) SPC",
-    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-    "title": "Suncorp Team Workshop Experience",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1787731200,
     "image": "https://resources.hellorubric.com/uploaded_assets/fcc19361-c0e3-4b93-934f-eda8124d51b4.png",
     "month": "August",
@@ -66,6 +52,20 @@
     "societyname": "Muslim Students Association UQ",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
     "title": "Self Defence Essentials w/MSAUQ",
+    "day": "29",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1787984100,
+    "image": "https://resources.hellorubric.com/uploaded_assets/ce1c804e-7828-4d90-8663-e5c2ab1756cc.jpg",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4688,
+    "destination": "/?eid=72678",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
+    "title": "Mt. Tamborine Spotlighting",
     "day": "29",
     "info": "Free"
   },
