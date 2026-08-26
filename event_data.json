@@ -2883,7 +2883,7 @@
     },
     {
       "country": "NZ",
-      "logo_url": "https://resources.getqpay.com/images/university_logos/181.jpg",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/8fc49279-c51e-439a-bc6a-1e0ad022c23b.jpg",
       "name": "University of Waikato",
       "id": 181,
       "state": "Waikato",
@@ -3007,46 +3007,18 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1787641200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8e802561-559a-4e07-8928-e710dd756508.png",
+      "sortindex": 1787703000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2589306a-58c2-4e60-9701-baa0b30a2c92.png",
       "month": "August",
       "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 3932,
-      "destination": "/?eid=73917",
-      "societyname": "Queensland Pharmacy Students' Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-      "title": "QPSA Rural Health Information Night",
-      "day": "25",
-      "info": "$0.00 - $10.00"
-    },
-    {
-      "sortindex": 1787641200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/615fcec7-830b-40f0-b44a-9ecc4295854d.jpeg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 2354,
-      "destination": "/?eid=73046",
-      "societyname": "UQ United Nations Student Association",
-      "societylogo": "https://resources.getqpay.com/images/63e1a2927627b_.png",
-      "title": "Diversity in Practice Panel 1",
-      "day": "25",
-      "info": "$6.08 - $11.27"
-    },
-    {
-      "sortindex": 1787644800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f6cd3621-48b7-42bb-a5bf-db89466c0b58.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 4225,
-      "destination": "/?eid=73254",
-      "societyname": "Business Analytics Networking Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/cca4dbce-eafd-4d09-8021-9cbbe97b84ba.png",
-      "title": "Tech Panel Innovating Careers",
-      "day": "25",
-      "info": "$5.01"
+      "subtitle": "Other",
+      "societyid": 177,
+      "destination": "/?eid=74189",
+      "societyname": "UQ Latin American Students Association",
+      "societylogo": "https://resources.getqpay.com/images/63f145ad22c17_.png",
+      "title": "FUNDRAISER FOR COLOMBIA",
+      "day": "26",
+      "info": "$6.08 - $52.73"
     },
     {
       "sortindex": 1787727600,
@@ -3117,20 +3089,6 @@
       "title": "Chhello Divas \ud83c\udfac",
       "day": "26",
       "info": "$0.00 - $5.01"
-    },
-    {
-      "sortindex": 1787731200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/0fb9913b-046a-4329-82a5-edded0d0dcde.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 1542,
-      "destination": "/?eid=73912",
-      "societyname": "UQ Association of Biomedical Students",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1542.png",
-      "title": "Summer / Winter Research Program Workshop",
-      "day": "26",
-      "info": "$0.00 - $8.01"
     },
     {
       "sortindex": 1787733000,
@@ -3399,6 +3357,20 @@
       "info": "$0.00 - $6.08"
     },
     {
+      "sortindex": 1788245100,
+      "image": "https://resources.hellorubric.com/uploaded_assets/75b393e7-094c-45e4-a733-f86da65c1ee9.jpg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 3932,
+      "destination": "/?eid=74011",
+      "societyname": "Queensland Pharmacy Students' Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+      "title": "Ethics Night with PSA",
+      "day": "1",
+      "info": "$0.00 - $10.00"
+    },
+    {
       "sortindex": 1788246000,
       "image": "https://resources.hellorubric.com/uploaded_assets/10bf879e-dd86-4222-bb08-beaa16736f2e.png",
       "month": "September",
@@ -3427,6 +3399,20 @@
       "info": "$0.00 - $5.00"
     },
     {
+      "sortindex": 1788337800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/95c242ee-ffd9-49ed-9a3a-523998ccd74b.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 648,
+      "destination": "/?eid=74075",
+      "societyname": "UQ Sri Lankan Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
+      "title": "UQSLA x UQNC Trivia Night",
+      "day": "2",
+      "info": "$0.00 - $10.75"
+    },
+    {
       "sortindex": 1788338700,
       "image": "https://resources.hellorubric.com/uploaded_assets/5a8cc3b1-efc6-4c4b-824c-9b2d883c84fb.png",
       "month": "September",
@@ -3453,6 +3439,20 @@
       "title": "Dance, Play & Slay",
       "day": "3",
       "info": "$5.05 - $8.16"
+    },
+    {
+      "sortindex": 1788420600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6b63949f-dbb8-43c9-b42d-a359f6357d7e.jpeg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 5729,
+      "destination": "/?eid=73874",
+      "societyname": "UQ Food Science Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+      "title": "UQCC x UQFSC Potions Night!",
+      "day": "3",
+      "info": "$6.08 - $11.27"
     },
     {
       "sortindex": 1788422400,
