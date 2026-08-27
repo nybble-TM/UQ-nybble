@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1787731200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/fcc19361-c0e3-4b93-934f-eda8124d51b4.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Show/Performance",
-    "societyid": 2428,
-    "destination": "/?eid=72944",
-    "societyname": "UQ South Pacific Islander Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
-    "title": "Yumi: The Whole World Film Screening ",
-    "day": "26",
-    "info": "Free"
-  },
-  {
     "sortindex": 1787817600,
     "image": "https://resources.hellorubric.com/uploaded_assets/179d5404-7b75-4bfe-a620-0e62609fcd70.png",
     "month": "August",
@@ -122,6 +108,20 @@
     "societyname": "UQ Organisation of Planning Students",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
     "title": "UQ OOPS, Bruce and ADP BCC Presentation",
+    "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1789542000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5dbda52e-dafa-4b60-a146-49ab83170427.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 1926,
+    "destination": "/?eid=75843",
+    "societyname": "QLD Physiotherapy Students Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6b9fca3-5065-442e-90bb-4817555da1f7.png",
+    "title": "QPSA STUDENT vs TEACHER Trivia night",
     "day": "16",
     "info": "Free"
   },
