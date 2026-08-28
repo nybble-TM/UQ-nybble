@@ -8,8 +8,7 @@
     "Party/BBQ/Social",
     "Quiz/Trivia",
     "Show/Performance",
-    "Sport/Competition",
-    "Trip/Camp"
+    "Sport/Competition"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -310,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 57,
+  "totalItemCount": 59,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3007,48 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1787810400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/cd79853d-4afd-4a78-909f-432e13e10e89.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 3220,
-      "destination": "/?eid=73383",
-      "societyname": "UQ Ladies in Technology",
-      "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
-      "title": "\ud83d\udca1Fenwick x UQLIT Uni to Grad Life Info Session\ud83d\udca1",
-      "day": "27",
-      "info": "$0.00 - $5.05"
-    },
-    {
-      "sortindex": 1787817600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/179d5404-7b75-4bfe-a620-0e62609fcd70.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 593,
-      "destination": "/?eid=70965",
-      "societyname": "UQ Chemistry Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e0f80d11-c599-4efd-a37b-0d4dd30cfa3c.png",
-      "title": "UQCC Careers and Canap\u00e9s 2026",
-      "day": "27",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1787824800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f89d3bfd-9b41-491b-8eca-fcff89549fe1.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 601,
-      "destination": "/?eid=73049",
-      "societyname": "UQ Union Surfers Inc.",
-      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
-      "title": "Zip-Tied Pub Games",
-      "day": "27",
-      "info": "$10.00 - $15.41"
-    },
-    {
       "sortindex": 1787868000,
       "image": "https://resources.hellorubric.com/uploaded_assets/1cd6d3fb-cb45-43c3-8d39-48dbbdc2cf20.jpg",
       "month": "August",
@@ -3064,20 +3021,6 @@
     },
     {
       "sortindex": 1787893200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ae7c7f25-a0b2-481a-9196-623ed6ccf3d1.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 7597,
-      "destination": "/?eid=73652",
-      "societyname": "UQ Bakeology",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-      "title": "Minecraft Bake Class",
-      "day": "28",
-      "info": "$6.08 - $9.19"
-    },
-    {
-      "sortindex": 1787893200,
       "image": "https://resources.hellorubric.com/uploaded_assets/46c5c501-564e-45a1-8ad7-1313789da7d4.jpeg",
       "month": "August",
       "societyAvgRating": 0,
@@ -3089,6 +3032,20 @@
       "title": "UQABS/ QUT BiOMS Sports Day",
       "day": "28",
       "info": "$9.19 - $13.34"
+    },
+    {
+      "sortindex": 1787893200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ae7c7f25-a0b2-481a-9196-623ed6ccf3d1.png",
+      "month": "August",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 7597,
+      "destination": "/?eid=73652",
+      "societyname": "UQ Bakeology",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+      "title": "Minecraft Bake Class",
+      "day": "28",
+      "info": "$6.08 - $9.19"
     },
     {
       "sortindex": 1787896800,
@@ -3329,6 +3286,20 @@
       "info": "$5.00 - $15.00"
     },
     {
+      "sortindex": 1788400800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b34023d7-36bd-4224-8985-3cb4817ecb0d.jpg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3932,
+      "destination": "/?eid=76233",
+      "societyname": "Queensland Pharmacy Students' Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+      "title": "Third Years Major vs QUM Pathway Panel",
+      "day": "3",
+      "info": "Free"
+    },
+    {
       "sortindex": 1788415200,
       "image": "https://resources.hellorubric.com/uploaded_assets/b29e38dd-39e9-41ab-9de7-0bd22021dffc.jpg",
       "month": "September",
@@ -3483,6 +3454,20 @@
       "info": "$36.25"
     },
     {
+      "sortindex": 1789016400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/bdd665b9-ec74-4acf-99bd-2a72a9c242f3.jpg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 5763,
+      "destination": "/?eid=75853",
+      "societyname": "Bachelor of Advanced Business (Honours) SPC",
+      "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+      "title": "BAB x RSM ",
+      "day": "10",
+      "info": "Free"
+    },
+    {
       "sortindex": 1789196400,
       "image": "https://resources.hellorubric.com/uploaded_assets/3ded118e-50d3-4d1a-a76f-4b5ff00b901c.jpg",
       "month": "September",
@@ -3495,6 +3480,20 @@
       "title": "2026 Surf Club Crawl",
       "day": "12",
       "info": "$11.27"
+    },
+    {
+      "sortindex": 1789198200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a2eab533-1257-4817-b3ce-f2f582860bbe.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 4430,
+      "destination": "/?eid=76235",
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
+      "title": "Paint & Sip",
+      "day": "12",
+      "info": "$16.45 - $32.00"
     },
     {
       "sortindex": 1789200000,
@@ -3551,6 +3550,20 @@
       "title": "QPSA STUDENT vs TEACHER Trivia night",
       "day": "16",
       "info": "Free"
+    },
+    {
+      "sortindex": 1789716600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/338bbbc8-9274-4233-a7c5-9c95cde3c6fb.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 4430,
+      "destination": "/?eid=76236",
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
+      "title": "Shrink Plastic Workshop",
+      "day": "18",
+      "info": "$0.00 - $32.00"
     },
     {
       "sortindex": 1789720200,
@@ -3621,6 +3634,20 @@
       "title": "UQCCR x SSoFI x QIMR x UQ Neuro x Mater Trivia",
       "day": "23",
       "info": "$5.01 - $15.01"
+    },
+    {
+      "sortindex": 1790235000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/82cf0d48-9985-4568-8134-0b97b6fadc0c.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4520,
+      "destination": "/?eid=76344",
+      "societyname": "UQ Radiology Interest Group",
+      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+      "title": "Intro to Interventional Radiology",
+      "day": "24",
+      "info": "$0.00 - $5.00"
     },
     {
       "sortindex": 1790377200,
