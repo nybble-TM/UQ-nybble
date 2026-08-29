@@ -6,9 +6,7 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
-    "Quiz/Trivia",
-    "Show/Performance",
-    "Sport/Competition"
+    "Quiz/Trivia"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -309,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 59,
+  "totalItemCount": 55,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3006,90 +3004,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1787868000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/1cd6d3fb-cb45-43c3-8d39-48dbbdc2cf20.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 534,
-      "destination": "/?eid=69972",
-      "societyname": "Queensland University Exchange Students Society Inc.",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-      "title": "QUEST goes to Noosa",
-      "day": "28",
-      "info": "$245.37"
-    },
-    {
-      "sortindex": 1787893200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/46c5c501-564e-45a1-8ad7-1313789da7d4.jpeg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 1542,
-      "destination": "/?eid=72686",
-      "societyname": "UQ Association of Biomedical Students",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1542.png",
-      "title": "UQABS/ QUT BiOMS Sports Day",
-      "day": "28",
-      "info": "$9.19 - $13.34"
-    },
-    {
-      "sortindex": 1787893200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ae7c7f25-a0b2-481a-9196-623ed6ccf3d1.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 7597,
-      "destination": "/?eid=73652",
-      "societyname": "UQ Bakeology",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-      "title": "Minecraft Bake Class",
-      "day": "28",
-      "info": "$6.08 - $9.19"
-    },
-    {
-      "sortindex": 1787896800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8c8d70de-62c6-4f4f-bd64-c9932cc60af2.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 8116,
-      "destination": "/?eid=73224",
-      "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
-      "title": "Bird Sketch & Craft Workshop",
-      "day": "28",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1787900400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6e34e24d-5c80-4477-b16f-4aa79edefe48.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 6511,
-      "destination": "/?eid=70086",
-      "societyname": "UQ Psych MD",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/db1bd255-c3df-472d-a6a3-5790116f60e3.png",
-      "title": "Artmaking Studio - Psychoanalysis to Surrealism",
-      "day": "28",
-      "info": "$5.00 - $10.00"
-    },
-    {
-      "sortindex": 1787902200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/21062fa1-b446-49c4-a124-0ca4d1b594ab.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4430,
-      "destination": "/?eid=71602",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-      "title": "Phone Charm Workshop, Free for Members!!",
-      "day": "28",
-      "info": "$0.00 - $26.81"
-    },
-    {
       "sortindex": 1787961600,
       "image": "https://resources.hellorubric.com/uploaded_assets/37337f94-079c-4415-b6a3-ce0dc333f51c.png",
       "month": "August",
@@ -3370,6 +3284,20 @@
       "info": "$0.00 - $187.47"
     },
     {
+      "sortindex": 1788507000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/cfa874a0-bbcc-4fb0-a2b3-d4abe2fa8b03.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 4430,
+      "destination": "/?eid=76397",
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
+      "title": "Father's Day Fan Painting Workshop",
+      "day": "4",
+      "info": "$0.00 - $32.00"
+    },
+    {
       "sortindex": 1788510600,
       "image": "https://resources.hellorubric.com/uploaded_assets/f95a1c71-28bd-4e5b-9ce6-4ca17e84940f.png",
       "month": "September",
@@ -3468,6 +3396,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1789027200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6c93a641-5f7a-4d7c-997f-a48e1657eeec.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 177,
+      "destination": "/?eid=76577",
+      "societyname": "UQ Latin American Students Association",
+      "societylogo": "https://resources.getqpay.com/images/63f145ad22c17_.png",
+      "title": "LASA ENTREPRENEURS NIGHT",
+      "day": "10",
+      "info": "Free"
+    },
+    {
       "sortindex": 1789196400,
       "image": "https://resources.hellorubric.com/uploaded_assets/3ded118e-50d3-4d1a-a76f-4b5ff00b901c.jpg",
       "month": "September",
@@ -3483,7 +3425,7 @@
     },
     {
       "sortindex": 1789198200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a2eab533-1257-4817-b3ce-f2f582860bbe.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/ac22668e-11f4-4f00-8155-210b3df78890.png",
       "month": "September",
       "societyAvgRating": 0,
       "subtitle": "Class/Workshop",

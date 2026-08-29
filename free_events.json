@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1787896800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8c8d70de-62c6-4f4f-bd64-c9932cc60af2.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 8116,
-    "destination": "/?eid=73224",
-    "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
-    "title": "Bird Sketch & Craft Workshop",
-    "day": "28",
-    "info": "Free"
-  },
-  {
     "sortindex": 1787963400,
     "image": "https://resources.hellorubric.com/uploaded_assets/6484bcb6-46bb-4b27-a9de-656172ecbce7.png",
     "month": "August",
@@ -108,6 +94,20 @@
     "societyname": "Bachelor of Advanced Business (Honours) SPC",
     "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
     "title": "BAB x RSM ",
+    "day": "10",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1789027200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6c93a641-5f7a-4d7c-997f-a48e1657eeec.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 177,
+    "destination": "/?eid=76577",
+    "societyname": "UQ Latin American Students Association",
+    "societylogo": "https://resources.getqpay.com/images/63f145ad22c17_.png",
+    "title": "LASA ENTREPRENEURS NIGHT",
     "day": "10",
     "info": "Free"
   },
