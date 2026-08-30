@@ -307,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 55,
+  "totalItemCount": 51,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3004,76 +3004,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1787961600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/37337f94-079c-4415-b6a3-ce0dc333f51c.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 5398,
-      "destination": "/?eid=73588",
-      "societyname": "UQ Sustainable Innovators Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-      "title": "Saturday Pickleball Tournament UQSIC",
-      "day": "29",
-      "info": "$15.00 - $20.00"
-    },
-    {
-      "sortindex": 1787963400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6484bcb6-46bb-4b27-a9de-656172ecbce7.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 2511,
-      "destination": "/?eid=73266",
-      "societyname": "Muslim Students Association UQ",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-      "title": "Self Defence Essentials w/MSAUQ",
-      "day": "29",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1787977800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/caebea3d-043d-4a2d-9481-bea94f4cc8c3.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 2225,
-      "destination": "/?eid=72909",
-      "societyname": "UQ Film Appreciation Society",
-      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
-      "title": "Whiplash & Live Jazz Presented by UQMuS x FAS",
-      "day": "29",
-      "info": "$6.00 - $10.00"
-    },
-    {
-      "sortindex": 1787978700,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7150f672-4167-4e7a-b5b8-57415d5c80ba.png",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Show/Performance",
-      "societyid": 4848,
-      "destination": "/?eid=71388",
-      "societyname": "Justice and the Law Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-      "title": "Drag Queen Bingo",
-      "day": "29",
-      "info": "$32.00"
-    },
-    {
-      "sortindex": 1787984100,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ce1c804e-7828-4d90-8663-e5c2ab1756cc.jpg",
-      "month": "August",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 4688,
-      "destination": "/?eid=72678",
-      "societyname": "UQ Ecological Society",
-      "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-      "title": "Mt. Tamborine Spotlighting",
-      "day": "29",
-      "info": "Free"
-    },
-    {
       "sortindex": 1788058800,
       "image": "https://resources.hellorubric.com/uploaded_assets/16ef1736-5341-467e-bb3a-01fda7cfbf64.jpg",
       "month": "August",
@@ -3144,6 +3074,20 @@
       "info": "$11.27"
     },
     {
+      "sortindex": 1788314400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b34023d7-36bd-4224-8985-3cb4817ecb0d.jpg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3932,
+      "destination": "/?eid=76233",
+      "societyname": "Queensland Pharmacy Students' Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+      "title": "Third Years Major vs QUM Pathway Panel",
+      "day": "2",
+      "info": "Free"
+    },
+    {
       "sortindex": 1788331500,
       "image": "https://resources.hellorubric.com/uploaded_assets/22858b01-4a90-45d6-a60d-2541cf5d549e.png",
       "month": "September",
@@ -3198,20 +3142,6 @@
       "title": "UQ X QUT Biomedical Industry and Research Showcase",
       "day": "2",
       "info": "$5.00 - $15.00"
-    },
-    {
-      "sortindex": 1788400800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b34023d7-36bd-4224-8985-3cb4817ecb0d.jpg",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 3932,
-      "destination": "/?eid=76233",
-      "societyname": "Queensland Pharmacy Students' Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-      "title": "Third Years Major vs QUM Pathway Panel",
-      "day": "3",
-      "info": "Free"
     },
     {
       "sortindex": 1788415200,
@@ -3341,20 +3271,6 @@
     },
     {
       "sortindex": 1788768000,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 6994,
-      "destination": "/?eid=73146",
-      "societyname": "Financial Management Association of Australia",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-      "title": "Create Your Career",
-      "day": "7",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1788768000,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
       "month": "September",
       "societyAvgRating": 0,
@@ -3366,6 +3282,20 @@
       "title": "Role of the Gut in Health and Disease",
       "day": "7",
       "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1788768000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6994,
+      "destination": "/?eid=73146",
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+      "title": "Create Your Career",
+      "day": "7",
+      "info": "Free"
     },
     {
       "sortindex": 1788985800,
@@ -3604,6 +3534,20 @@
       "title": "2026 Clayton Utz UQ Unjust Enrichment Moot",
       "day": "26",
       "info": "$510.60"
+    },
+    {
+      "sortindex": 1790379000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8e5a165d-0cd0-40d0-ab7c-195039e90858.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 6808,
+      "destination": "/?eid=76562",
+      "societyname": "UQ Neurological Society",
+      "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
+      "title": "Brain Surge 2026: Scalpel & Beyond",
+      "day": "26",
+      "info": "$32.00 - $42.36"
     },
     {
       "sortindex": 1790380800,
