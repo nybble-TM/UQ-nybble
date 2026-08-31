@@ -1,5 +1,19 @@
 [
   {
+    "sortindex": 1788154200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
+    "month": "August",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=76666",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Basketball 31/08",
+    "day": "31",
+    "info": "Free"
+  },
+  {
     "sortindex": 1788314400,
     "image": "https://resources.hellorubric.com/uploaded_assets/b34023d7-36bd-4224-8985-3cb4817ecb0d.jpg",
     "month": "September",
@@ -11,6 +25,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
     "title": "Third Years Major vs QUM Pathway Panel",
     "day": "2",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1788422400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/373e5faa-9299-45ad-b2d3-8c540c29d4cf.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 262,
+    "destination": "/?eid=73661",
+    "societyname": "UQ Criminology & Criminal Justice Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+    "title": "Staff v Student Trivia Night",
+    "day": "3",
     "info": "Free"
   },
   {
@@ -84,6 +112,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1789372800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8a20838d-ce62-4baf-b41a-4b9f86a2c03e.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 3855,
+    "destination": "/?eid=76755",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Economics Panel - Semester 2, 2026",
+    "day": "14",
+    "info": "Free"
+  },
+  {
     "sortindex": 1789527600,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
     "month": "September",
@@ -109,6 +151,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6b9fca3-5065-442e-90bb-4817555da1f7.png",
     "title": "QPSA STUDENT vs TEACHER Trivia night",
     "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790136000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/aece12aa-7e47-4574-ad39-c7c25fd9a16e.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 3855,
+    "destination": "/?eid=76751",
+    "societyname": "UQ Women in Business Economics and Law Society",
+    "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+    "title": "UQWiBELS Internship Insights - Semester 2, 2026",
+    "day": "23",
     "info": "Free"
   },
   {

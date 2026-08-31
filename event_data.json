@@ -6,7 +6,8 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
-    "Quiz/Trivia"
+    "Quiz/Trivia",
+    "Sport/Competition"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -307,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 51,
+  "totalItemCount": 56,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3004,18 +3005,18 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1788058800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/16ef1736-5341-467e-bb3a-01fda7cfbf64.jpg",
+      "sortindex": 1788154200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
       "month": "August",
       "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1862,
-      "destination": "/?eid=71280",
-      "societyname": "The UQ Economics Society Inc.",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
-      "title": "Pub Golf - UQES x UQBA x UQLS Pub Crawl",
-      "day": "30",
-      "info": "$41.35 - $46.46"
+      "subtitle": "Sport/Competition",
+      "societyid": 4982,
+      "destination": "/?eid=76666",
+      "societyname": "UQ Backyard Sports Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+      "title": "Basketball 31/08",
+      "day": "31",
+      "info": "Free"
     },
     {
       "sortindex": 1788156000,
@@ -3145,6 +3146,20 @@
     },
     {
       "sortindex": 1788415200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/860528dd-5406-4e1a-9ca5-8ea744d59e1c.jpeg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 358,
+      "destination": "/?eid=76770",
+      "societyname": "UQ African Students Association",
+      "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+      "title": "ASA Cooking Class",
+      "day": "3",
+      "info": "$4.01 - $6.08"
+    },
+    {
+      "sortindex": 1788415200,
       "image": "https://resources.hellorubric.com/uploaded_assets/b29e38dd-39e9-41ab-9de7-0bd22021dffc.jpg",
       "month": "September",
       "societyAvgRating": 0,
@@ -3170,6 +3185,20 @@
       "title": "UQCC x UQFSC Potions Night!",
       "day": "3",
       "info": "$6.08 - $11.27"
+    },
+    {
+      "sortindex": 1788422400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/373e5faa-9299-45ad-b2d3-8c540c29d4cf.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 262,
+      "destination": "/?eid=73661",
+      "societyname": "UQ Criminology & Criminal Justice Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+      "title": "Staff v Student Trivia Night",
+      "day": "3",
+      "info": "Free"
     },
     {
       "sortindex": 1788422400,
@@ -3271,20 +3300,6 @@
     },
     {
       "sortindex": 1788768000,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 7437,
-      "destination": "/?eid=73847",
-      "societyname": "UQ Internal Medicine Society",
-      "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
-      "title": "Role of the Gut in Health and Disease",
-      "day": "7",
-      "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1788768000,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
       "month": "September",
       "societyAvgRating": 0,
@@ -3296,6 +3311,20 @@
       "title": "Create Your Career",
       "day": "7",
       "info": "Free"
+    },
+    {
+      "sortindex": 1788768000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 7437,
+      "destination": "/?eid=73847",
+      "societyname": "UQ Internal Medicine Society",
+      "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
+      "title": "Role of the Gut in Health and Disease",
+      "day": "7",
+      "info": "$0.00 - $6.08"
     },
     {
       "sortindex": 1788985800,
@@ -3396,6 +3425,20 @@
       "info": "$99.37 - $135.64"
     },
     {
+      "sortindex": 1789372800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8a20838d-ce62-4baf-b41a-4b9f86a2c03e.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3855,
+      "destination": "/?eid=76755",
+      "societyname": "UQ Women in Business Economics and Law Society",
+      "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+      "title": "UQWiBELS Economics Panel - Semester 2, 2026",
+      "day": "14",
+      "info": "Free"
+    },
+    {
       "sortindex": 1789527600,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
       "month": "September",
@@ -3422,6 +3465,20 @@
       "title": "QPSA STUDENT vs TEACHER Trivia night",
       "day": "16",
       "info": "Free"
+    },
+    {
+      "sortindex": 1789624800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/68906163-bcbf-43de-b509-58e433e4b0c9.jpg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 4176,
+      "destination": "/?eid=76684",
+      "societyname": "UQ Agricultural Science Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4176.png",
+      "title": "2026 Dickson Ag Boots Off Bowls ",
+      "day": "17",
+      "info": "$32.00 - $37.18"
     },
     {
       "sortindex": 1789716600,
@@ -3478,6 +3535,20 @@
       "title": "Classics on Canvas",
       "day": "22",
       "info": "$15.00 - $20.00"
+    },
+    {
+      "sortindex": 1790136000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/aece12aa-7e47-4574-ad39-c7c25fd9a16e.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 3855,
+      "destination": "/?eid=76751",
+      "societyname": "UQ Women in Business Economics and Law Society",
+      "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
+      "title": "UQWiBELS Internship Insights - Semester 2, 2026",
+      "day": "23",
+      "info": "Free"
     },
     {
       "sortindex": 1790146800,
