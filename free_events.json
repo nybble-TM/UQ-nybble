@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1788154200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 4982,
-    "destination": "/?eid=76666",
-    "societyname": "UQ Backyard Sports Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-    "title": "Basketball 31/08",
-    "day": "31",
-    "info": "Free"
-  },
-  {
     "sortindex": 1788314400,
     "image": "https://resources.hellorubric.com/uploaded_assets/b34023d7-36bd-4224-8985-3cb4817ecb0d.jpg",
     "month": "September",
@@ -98,6 +84,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1789023600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/528f77d2-3d4b-43d7-9185-570421916805.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2395,
+    "destination": "/?eid=73939",
+    "societyname": "Gatton International Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
+    "title": "Ramen & Movie Night!",
+    "day": "10",
+    "info": "Free"
+  },
+  {
     "sortindex": 1789027200,
     "image": "https://resources.hellorubric.com/uploaded_assets/6c93a641-5f7a-4d7c-997f-a48e1657eeec.png",
     "month": "September",
@@ -113,7 +113,7 @@
   },
   {
     "sortindex": 1789372800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8a20838d-ce62-4baf-b41a-4b9f86a2c03e.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/e3d7b305-ed58-4009-9105-23a5bf5dacb5.png",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",
@@ -123,6 +123,20 @@
     "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
     "title": "UQWiBELS Economics Panel - Semester 2, 2026",
     "day": "14",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1789455600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/819853eb-9b6e-4170-bf8b-23acf903b2ee.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 1862,
+    "destination": "/?eid=76706",
+    "societyname": "The UQ Economics Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+    "title": "Economics Shark Tank",
+    "day": "15",
     "info": "Free"
   },
   {

@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1788154200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_5.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 4982,
-    "destination": "/?eid=76666",
-    "societyname": "UQ Backyard Sports Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-    "title": "Basketball 31/08",
-    "day": "31",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1788156000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8529170d-942c-4bb7-a8c5-8fbba7b89186.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 3220,
-    "destination": "/?eid=73048",
-    "societyname": "UQ Ladies in Technology",
-    "societylogo": "https://resources.getqpay.com/images/65d4a9ca3dd03_.png",
-    "title": "UQLIT Games Night ",
-    "day": "31",
-    "info": "$5.05 - $7.12"
-  },
-  {
-    "sortindex": 1788157800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/9eef8d01-c563-4093-b659-0d0d8da65883.png",
-    "month": "August",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 1835,
-    "destination": "/?eid=72016",
-    "societyname": "Public Health Association University of Queensland",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
-    "title": "Cheeky Public Speeky",
-    "day": "31",
-    "info": "$0.00 - $6.08"
-  },
-  {
     "sortindex": 1788245100,
     "image": "https://resources.hellorubric.com/uploaded_assets/75b393e7-094c-45e4-a733-f86da65c1ee9.jpg",
     "month": "September",
@@ -141,20 +99,6 @@
   },
   {
     "sortindex": 1788415200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/860528dd-5406-4e1a-9ca5-8ea744d59e1c.jpeg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 358,
-    "destination": "/?eid=76770",
-    "societyname": "UQ African Students Association",
-    "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
-    "title": "ASA Cooking Class",
-    "day": "3",
-    "info": "$4.01 - $6.08"
-  },
-  {
-    "sortindex": 1788415200,
     "image": "https://resources.hellorubric.com/uploaded_assets/b29e38dd-39e9-41ab-9de7-0bd22021dffc.jpg",
     "month": "September",
     "societyAvgRating": 0,
@@ -166,6 +110,20 @@
     "title": "Dance, Play & Slay",
     "day": "3",
     "info": "$5.05 - $8.16"
+  },
+  {
+    "sortindex": 1788415200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/860528dd-5406-4e1a-9ca5-8ea744d59e1c.jpeg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 358,
+    "destination": "/?eid=76770",
+    "societyname": "UQ African Students Association",
+    "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
+    "title": "ASA Cooking Class",
+    "day": "3",
+    "info": "$4.01 - $6.08"
   },
   {
     "sortindex": 1788420600,
@@ -295,6 +253,20 @@
   },
   {
     "sortindex": 1788768000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 7437,
+    "destination": "/?eid=73847",
+    "societyname": "UQ Internal Medicine Society",
+    "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
+    "title": "Role of the Gut in Health and Disease",
+    "day": "7",
+    "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1788768000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -308,18 +280,18 @@
     "info": "Free"
   },
   {
-    "sortindex": 1788768000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
+    "sortindex": 1788849900,
+    "image": "https://resources.hellorubric.com/uploaded_assets/37886f3c-03dd-4c2e-837f-ed44e2b77630.png",
     "month": "September",
     "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 7437,
-    "destination": "/?eid=73847",
-    "societyname": "UQ Internal Medicine Society",
-    "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
-    "title": "Role of the Gut in Health and Disease",
-    "day": "7",
-    "info": "$0.00 - $6.08"
+    "subtitle": "Industry/Career",
+    "societyid": 3932,
+    "destination": "/?eid=76826",
+    "societyname": "Queensland Pharmacy Students' Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+    "title": "Our Health, Our Voice: First Nations Health",
+    "day": "8",
+    "info": "$0.00 - $10.00"
   },
   {
     "sortindex": 1788985800,
@@ -350,6 +322,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1789023600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/528f77d2-3d4b-43d7-9185-570421916805.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2395,
+    "destination": "/?eid=73939",
+    "societyname": "Gatton International Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
+    "title": "Ramen & Movie Night!",
+    "day": "10",
+    "info": "Free"
+  },
+  {
     "sortindex": 1789027200,
     "image": "https://resources.hellorubric.com/uploaded_assets/6c93a641-5f7a-4d7c-997f-a48e1657eeec.png",
     "month": "September",
@@ -365,7 +351,7 @@
   },
   {
     "sortindex": 1789196400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3ded118e-50d3-4d1a-a76f-4b5ff00b901c.jpg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/d143a869-4ae5-4b1f-8458-100ab8c96d59.jpg",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -421,7 +407,7 @@
   },
   {
     "sortindex": 1789372800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8a20838d-ce62-4baf-b41a-4b9f86a2c03e.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/e3d7b305-ed58-4009-9105-23a5bf5dacb5.png",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Industry/Career",
@@ -432,6 +418,34 @@
     "title": "UQWiBELS Economics Panel - Semester 2, 2026",
     "day": "14",
     "info": "Free"
+  },
+  {
+    "sortindex": 1789455600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/819853eb-9b6e-4170-bf8b-23acf903b2ee.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 1862,
+    "destination": "/?eid=76706",
+    "societyname": "The UQ Economics Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+    "title": "Economics Shark Tank",
+    "day": "15",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1789457400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/335fa192-8869-4f82-af21-0b4d5066e706.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1835,
+    "destination": "/?eid=72930",
+    "societyname": "Public Health Association University of Queensland",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
+    "title": "UQPHA Research Night 2026",
+    "day": "15",
+    "info": "$4.01 - $16.45"
   },
   {
     "sortindex": 1789527600,
@@ -670,6 +684,20 @@
     "title": "Women in Research Discovery Night",
     "day": "1",
     "info": "$3.01 - $4.02"
+  },
+  {
+    "sortindex": 1790928000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c9fd4ee6-8e41-45ee-874f-87735428710e.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 4848,
+    "destination": "/?eid=76891",
+    "societyname": "Justice and the Law Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
+    "title": "Annual Fundraising Gala",
+    "day": "2",
+    "info": "$85.00 - $120.00"
   },
   {
     "sortindex": 1791014400,
