@@ -6,7 +6,8 @@
     "Industry/Career",
     "Other",
     "Party/BBQ/Social",
-    "Quiz/Trivia"
+    "Quiz/Trivia",
+    "Trip/Camp"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -307,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 58,
+  "totalItemCount": 61,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3004,34 +3005,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1788245100,
-      "image": "https://resources.hellorubric.com/uploaded_assets/75b393e7-094c-45e4-a733-f86da65c1ee9.jpg",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 3932,
-      "destination": "/?eid=74011",
-      "societyname": "Queensland Pharmacy Students' Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-      "title": "Ethics Night with PSA",
-      "day": "1",
-      "info": "$0.00 - $10.00"
-    },
-    {
-      "sortindex": 1788246000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/10bf879e-dd86-4222-bb08-beaa16736f2e.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 1028,
-      "destination": "/?eid=73615",
-      "societyname": "UQ Muslimah Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e7802692-c3b5-45ef-a87a-94216bd3869c.png",
-      "title": "Tatreez Workshop",
-      "day": "1",
-      "info": "$11.27"
-    },
-    {
       "sortindex": 1788314400,
       "image": "https://resources.hellorubric.com/uploaded_assets/b34023d7-36bd-4224-8985-3cb4817ecb0d.jpg",
       "month": "September",
@@ -3061,7 +3034,7 @@
     },
     {
       "sortindex": 1788332400,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/db485ca2-3b3e-40ae-8434-7b57a101aa3e.jpg",
       "month": "September",
       "societyAvgRating": 0,
       "subtitle": "Industry/Career",
@@ -3145,20 +3118,6 @@
     },
     {
       "sortindex": 1788422400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/373e5faa-9299-45ad-b2d3-8c540c29d4cf.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 262,
-      "destination": "/?eid=73661",
-      "societyname": "UQ Criminology & Criminal Justice Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
-      "title": "Staff v Student Trivia Night",
-      "day": "3",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1788422400,
       "image": "https://resources.hellorubric.com/uploaded_assets/c3278b63-8422-4a6c-b0c8-188d35d5b152.png",
       "month": "September",
       "societyAvgRating": 0,
@@ -3168,6 +3127,20 @@
       "societyname": "Financial Management Association of Australia",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
       "title": "STEM Alternative Pathways Evening",
+      "day": "3",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1788422400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/373e5faa-9299-45ad-b2d3-8c540c29d4cf.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 262,
+      "destination": "/?eid=73661",
+      "societyname": "UQ Criminology & Criminal Justice Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+      "title": "Staff v Student Trivia Night",
       "day": "3",
       "info": "Free"
     },
@@ -3197,7 +3170,7 @@
       "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
       "title": "UQ Straddie Surf Trip Sem 2",
       "day": "4",
-      "info": "$0.00 - $187.47"
+      "info": "$0.00 - $208.20"
     },
     {
       "sortindex": 1788507000,
@@ -3424,6 +3397,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1789418700,
+      "image": "https://resources.hellorubric.com/uploaded_assets/83346fd0-1ea8-44ad-a366-d2093223be8f.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 5729,
+      "destination": "/?eid=76731",
+      "societyname": "UQ Food Science Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+      "title": "UQFSC Sunshine Coast Field Trip Day",
+      "day": "15",
+      "info": "$0.00 - $16.45"
+    },
+    {
       "sortindex": 1789455600,
       "image": "https://resources.hellorubric.com/uploaded_assets/819853eb-9b6e-4170-bf8b-23acf903b2ee.png",
       "month": "September",
@@ -3450,6 +3437,20 @@
       "title": "UQPHA Research Night 2026",
       "day": "15",
       "info": "$4.01 - $16.45"
+    },
+    {
+      "sortindex": 1789461000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a03bdaed-bc0d-46d2-a85e-3a5dc6ac043c.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 489,
+      "destination": "/?eid=77178",
+      "societyname": "UQ Journalism and Communication Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
+      "title": "UQJACS Professional Networking Evening 2026",
+      "day": "15",
+      "info": "$21.63 - $26.81"
     },
     {
       "sortindex": 1789527600,
@@ -3576,6 +3577,20 @@
       "title": "Genetics in Medicine with UQ Derm",
       "day": "23",
       "info": "$11.27 - $16.45"
+    },
+    {
+      "sortindex": 1790148600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3c915c99-49e2-4cac-a389-d5b7e57854e4.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1857,
+      "destination": "/?eid=76366",
+      "societyname": "Psychology Students' Association Inc",
+      "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+      "title": "Pathways to ClinPsych 2026",
+      "day": "23",
+      "info": "$0.00 - $6.00"
     },
     {
       "sortindex": 1790148600,
@@ -3715,7 +3730,7 @@
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
       "title": "The Annual Business Ball 2026: F1ORA\ud83c\udfce\ufe0f\ud83c\udf37",
       "day": "3",
-      "info": "$87.26 - $194.37"
+      "info": "$0.00 - $194.37"
     },
     {
       "sortindex": 1791018000,
@@ -3730,6 +3745,34 @@
       "title": "2026 HMNS Ball: Jazz & Gin - Paris after Midnight",
       "day": "3",
       "info": "$99.37 - $140.83"
+    },
+    {
+      "sortindex": 1791363600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/410e924d-3744-4ce6-a010-a5b9e28db9a2.png",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 4465,
+      "destination": "/?eid=76651",
+      "societyname": "UQ Political Science and International Relations Society Incorporated",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
+      "title": "World In Transition.",
+      "day": "7",
+      "info": "$8.16 - $11.27"
+    },
+    {
+      "sortindex": 1791622800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/56ceea49-b2c5-439f-8fba-e277e51a5647.png",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2224,
+      "destination": "/?eid=76704",
+      "societyname": "UQ Social Runners Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2224.png",
+      "title": "Semester 2 Awards Night",
+      "day": "10",
+      "info": "$15.00"
     },
     {
       "sortindex": 1791626400,

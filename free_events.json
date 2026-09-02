@@ -15,20 +15,6 @@
   },
   {
     "sortindex": 1788422400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/373e5faa-9299-45ad-b2d3-8c540c29d4cf.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 262,
-    "destination": "/?eid=73661",
-    "societyname": "UQ Criminology & Criminal Justice Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
-    "title": "Staff v Student Trivia Night",
-    "day": "3",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1788422400,
     "image": "https://resources.hellorubric.com/uploaded_assets/c3278b63-8422-4a6c-b0c8-188d35d5b152.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -38,6 +24,20 @@
     "societyname": "Financial Management Association of Australia",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
     "title": "STEM Alternative Pathways Evening",
+    "day": "3",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1788422400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/373e5faa-9299-45ad-b2d3-8c540c29d4cf.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 262,
+    "destination": "/?eid=73661",
+    "societyname": "UQ Criminology & Criminal Justice Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
+    "title": "Staff v Student Trivia Night",
     "day": "3",
     "info": "Free"
   },
