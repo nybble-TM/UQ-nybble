@@ -1,75 +1,5 @@
 [
   {
-    "sortindex": 1788314400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b34023d7-36bd-4224-8985-3cb4817ecb0d.jpg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 3932,
-    "destination": "/?eid=76233",
-    "societyname": "Queensland Pharmacy Students' Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-    "title": "Third Years Major vs QUM Pathway Panel",
-    "day": "2",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1788331500,
-    "image": "https://resources.hellorubric.com/uploaded_assets/22858b01-4a90-45d6-a60d-2541cf5d549e.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 3932,
-    "destination": "/?eid=74025",
-    "societyname": "Queensland Pharmacy Students' Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-    "title": "Full Scope Education Night with the Guild",
-    "day": "2",
-    "info": "$0.00 - $10.00"
-  },
-  {
-    "sortindex": 1788332400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/db485ca2-3b3e-40ae-8434-7b57a101aa3e.jpg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 670,
-    "destination": "/?eid=73407",
-    "societyname": "R2P Student Coalition UQ",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_670.png",
-    "title": "Medical Aid in Atrocity Prevention Panel",
-    "day": "2",
-    "info": "$0.00 - $5.00"
-  },
-  {
-    "sortindex": 1788337800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/95c242ee-ffd9-49ed-9a3a-523998ccd74b.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 648,
-    "destination": "/?eid=74075",
-    "societyname": "UQ Sri Lankan Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
-    "title": "UQSLA x UQNC Trivia Night",
-    "day": "2",
-    "info": "$0.00 - $10.75"
-  },
-  {
-    "sortindex": 1788338700,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5a8cc3b1-efc6-4c4b-824c-9b2d883c84fb.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 3906,
-    "destination": "/?eid=73591",
-    "societyname": "The University of Queensland's Biomedical Engineering Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/823c799e-cac0-4f15-a1c3-acc3b30dc9b3.png",
-    "title": "UQ X QUT Biomedical Industry and Research Showcase",
-    "day": "2",
-    "info": "$5.00 - $15.00"
-  },
-  {
     "sortindex": 1788415200,
     "image": "https://resources.hellorubric.com/uploaded_assets/b29e38dd-39e9-41ab-9de7-0bd22021dffc.jpg",
     "month": "September",
@@ -224,6 +154,20 @@
     "info": "$0.00 - $20.00"
   },
   {
+    "sortindex": 1788652800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b42a408e-63ed-4b5f-8265-68e5e5c59da6.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 2257,
+    "destination": "/?eid=77270",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Mountain Hiking: Araucaria Track @ Walkabout Creek",
+    "day": "6",
+    "info": "Free"
+  },
+  {
     "sortindex": 1788768000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
     "month": "September",
@@ -264,6 +208,20 @@
     "title": "Our Health, Our Voice: First Nations Health",
     "day": "8",
     "info": "$0.00 - $10.00"
+  },
+  {
+    "sortindex": 1788930000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/30ceaebb-ce7d-49da-932c-3f97a1778d2a.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7597,
+    "destination": "/?eid=77355",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "Sip and Paint Picnic",
+    "day": "9",
+    "info": "$6.08 - $9.19"
   },
   {
     "sortindex": 1788985800,
@@ -490,6 +448,20 @@
     "info": "$32.00 - $37.18"
   },
   {
+    "sortindex": 1789630200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/23379cc9-5149-427c-8763-d4b89f72e152.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 10976,
+    "destination": "/?eid=76685",
+    "societyname": "UQ Punjabi Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/4a88272b-1c00-4131-9675-1fdbb7b17727.png",
+    "title": "Gappe te Gallan",
+    "day": "17",
+    "info": "$0.00 - $5.66"
+  },
+  {
     "sortindex": 1789716600,
     "image": "https://resources.hellorubric.com/uploaded_assets/338bbbc8-9274-4233-a7c5-9c95cde3c6fb.png",
     "month": "September",
@@ -603,7 +575,7 @@
   },
   {
     "sortindex": 1790235000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/82cf0d48-9985-4568-8134-0b97b6fadc0c.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/d7ce71f6-e052-4eac-a1b7-77d661c0a445.png",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -728,6 +700,20 @@
     "info": "$0.00 - $194.37"
   },
   {
+    "sortindex": 1791016200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 2517,
+    "destination": "/?eid=77272",
+    "societyname": "UQ Cheer and Dance Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2517.png",
+    "title": "2026 UQ Sports Ball",
+    "day": "3",
+    "info": "$99.37 - $104.55"
+  },
+  {
     "sortindex": 1791018000,
     "image": "https://resources.hellorubric.com/uploaded_assets/ee6203b6-c3bf-4584-99a0-aadbff685508.jpg",
     "month": "October",
@@ -740,6 +726,20 @@
     "title": "2026 HMNS Ball: Jazz & Gin - Paris after Midnight",
     "day": "3",
     "info": "$99.37 - $140.83"
+  },
+  {
+    "sortindex": 1791018000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/9aa11e04-6f50-4b56-9513-390dc69bd784.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7597,
+    "destination": "/?eid=77356",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "2026 IS THE NEW 2016: UQB MidSem Party",
+    "day": "3",
+    "info": "$16.45 - $37.18"
   },
   {
     "sortindex": 1791363600,
@@ -799,20 +799,6 @@
   },
   {
     "sortindex": 1792231200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
-    "month": "October",
-    "societyAvgRating": 0,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 164,
-    "destination": "/?eid=68636",
-    "societyname": "UQ Nursing and Midwifery Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
-    "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
-    "day": "17",
-    "info": "$104.55 - $146.01"
-  },
-  {
-    "sortindex": 1792231200,
     "image": "https://resources.hellorubric.com/uploaded_assets/b80f2720-774b-438d-b17d-cc9fa8e5bc22.jpg",
     "month": "October",
     "societyAvgRating": 0,
@@ -824,6 +810,20 @@
     "title": "Sunset Soiree: OTSA Ball 2026",
     "day": "17",
     "info": "$0.00 - $151.19"
+  },
+  {
+    "sortindex": 1792231200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 164,
+    "destination": "/?eid=68636",
+    "societyname": "UQ Nursing and Midwifery Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
+    "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
+    "day": "17",
+    "info": "$104.55 - $146.01"
   },
   {
     "sortindex": 1792569600,

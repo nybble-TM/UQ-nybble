@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1788314400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b34023d7-36bd-4224-8985-3cb4817ecb0d.jpg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 3932,
-    "destination": "/?eid=76233",
-    "societyname": "Queensland Pharmacy Students' Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-    "title": "Third Years Major vs QUM Pathway Panel",
-    "day": "2",
-    "info": "Free"
-  },
-  {
     "sortindex": 1788422400,
     "image": "https://resources.hellorubric.com/uploaded_assets/c3278b63-8422-4a6c-b0c8-188d35d5b152.png",
     "month": "September",
@@ -53,6 +39,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
     "title": "UQKMS BBQ",
     "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1788652800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b42a408e-63ed-4b5f-8265-68e5e5c59da6.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 2257,
+    "destination": "/?eid=77270",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Mountain Hiking: Araucaria Track @ Walkabout Creek",
+    "day": "6",
     "info": "Free"
   },
   {
