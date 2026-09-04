@@ -311,6 +311,7 @@
   "totalItemCount": 61,
   "sortDirection": "asc",
   "society_club_types": [
+    "Arts and Performance",
     "Faculty - BEL",
     "Faculty - EAIT",
     "Faculty - HASS",
@@ -3005,90 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1788415200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b29e38dd-39e9-41ab-9de7-0bd22021dffc.jpg",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3867,
-      "destination": "/?eid=73829",
-      "societyname": "UQ International Students' Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-      "title": "Dance, Play & Slay",
-      "day": "3",
-      "info": "$5.05 - $8.16"
-    },
-    {
-      "sortindex": 1788415200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/860528dd-5406-4e1a-9ca5-8ea744d59e1c.jpeg",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 358,
-      "destination": "/?eid=76770",
-      "societyname": "UQ African Students Association",
-      "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
-      "title": "ASA Cooking Class",
-      "day": "3",
-      "info": "$4.01 - $6.08"
-    },
-    {
-      "sortindex": 1788420600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6b63949f-dbb8-43c9-b42d-a359f6357d7e.jpeg",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 5729,
-      "destination": "/?eid=73874",
-      "societyname": "UQ Food Science Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-      "title": "UQCC x UQFSC Potions Night!",
-      "day": "3",
-      "info": "$6.08 - $11.27"
-    },
-    {
-      "sortindex": 1788422400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/c3278b63-8422-4a6c-b0c8-188d35d5b152.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 6994,
-      "destination": "/?eid=71991",
-      "societyname": "Financial Management Association of Australia",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-      "title": "STEM Alternative Pathways Evening",
-      "day": "3",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1788422400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/373e5faa-9299-45ad-b2d3-8c540c29d4cf.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Quiz/Trivia",
-      "societyid": 262,
-      "destination": "/?eid=73661",
-      "societyname": "UQ Criminology & Criminal Justice Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_262.png",
-      "title": "Staff v Student Trivia Night",
-      "day": "3",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1788426000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3ce51542-775d-4a1d-a2e6-1c9409d7c0dc.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 7597,
-      "destination": "/?eid=73899",
-      "societyname": "UQ Bakeology",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-      "title": "Shrek 2 Movie Night",
-      "day": "3",
-      "info": "$0.00 - $6.08"
-    },
-    {
       "sortindex": 1788469200,
       "image": "https://resources.hellorubric.com/uploaded_assets/40aed9fb-9256-4cb3-a921-adf2418c5532.jpeg",
       "month": "September",
@@ -3170,6 +3087,20 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
       "title": "Mountain Hiking: Araucaria Track @ Walkabout Creek",
       "day": "6",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1788739200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2429f0a4-8f30-45f1-ae3f-e915400a9417.jpeg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 3219,
+      "destination": "/?eid=77453",
+      "societyname": "UQ Anthropology Society",
+      "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
+      "title": "Co-working Space",
+      "day": "7",
       "info": "Free"
     },
     {
@@ -3425,6 +3356,20 @@
       "info": "Free"
     },
     {
+      "sortindex": 1789540200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/180a815b-afc9-4ab4-b6c2-caae29368e55.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2224,
+      "destination": "/?eid=77031",
+      "societyname": "UQ Social Runners Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2224.png",
+      "title": "Women's Wednesday 2",
+      "day": "16",
+      "info": "$5.00 - $15.00"
+    },
+    {
       "sortindex": 1789542000,
       "image": "https://resources.hellorubric.com/uploaded_assets/5dbda52e-dafa-4b60-a146-49ab83170427.png",
       "month": "September",
@@ -3566,6 +3511,20 @@
     },
     {
       "sortindex": 1790148600,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3867,
+      "destination": "/?eid=77469",
+      "societyname": "UQ International Students' Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+      "title": "123 Boom",
+      "day": "23",
+      "info": "$35.10 - $39.25"
+    },
+    {
+      "sortindex": 1790148600,
       "image": "https://resources.hellorubric.com/uploaded_assets/3d055bb5-c0e5-420f-951a-b7543feb16f4.png",
       "month": "September",
       "societyAvgRating": 0,
@@ -3577,6 +3536,20 @@
       "title": "UQCCR x SSoFI x QIMR x UQ Neuro x Mater Trivia",
       "day": "23",
       "info": "$5.01 - $15.01"
+    },
+    {
+      "sortindex": 1790208000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/c7cf947f-4c7e-43c0-ad7c-0b61e82c31a0.jpeg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 3219,
+      "destination": "/?eid=77468",
+      "societyname": "UQ Anthropology Society",
+      "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
+      "title": "The Nature of the Gift - Round Two",
+      "day": "24",
+      "info": "Free"
     },
     {
       "sortindex": 1790235000,
@@ -3831,6 +3804,20 @@
       "info": "$104.55 - $146.01"
     },
     {
+      "sortindex": 1792231200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/1fd2de8d-619f-485f-838e-d34c77d850d4.jpeg",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 57,
+      "destination": "/?eid=77349",
+      "societyname": "University of Queensland Law Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS Valedictory Dinner 2026",
+      "day": "17",
+      "info": "$133.16"
+    },
+    {
       "sortindex": 1792569600,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
       "month": "October",
@@ -3843,6 +3830,20 @@
       "title": "UQ DERM Revision Lecture and AGM",
       "day": "21",
       "info": "Free"
+    },
+    {
+      "sortindex": 1792746000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/5c622fa0-ad0c-4bd8-89a9-7b4798ff46de.png",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 57,
+      "destination": "/?eid=77389",
+      "societyname": "University of Queensland Law Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "Internal Competitions Dinner",
+      "day": "23",
+      "info": "$36.25"
     },
     {
       "sortindex": 1794042000,
