@@ -308,7 +308,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 61,
+  "totalItemCount": 62,
   "sortDirection": "asc",
   "society_club_types": [
     "Arts and Performance",
@@ -3006,48 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1788469200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/40aed9fb-9256-4cb3-a921-adf2418c5532.jpeg",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 601,
-      "destination": "/?eid=72879",
-      "societyname": "UQ Union Surfers Inc.",
-      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
-      "title": "UQ Straddie Surf Trip Sem 2",
-      "day": "4",
-      "info": "$0.00 - $208.20"
-    },
-    {
-      "sortindex": 1788507000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/cfa874a0-bbcc-4fb0-a2b3-d4abe2fa8b03.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 4430,
-      "destination": "/?eid=76397",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-      "title": "Father's Day Fan Painting Workshop",
-      "day": "4",
-      "info": "$0.00 - $32.00"
-    },
-    {
-      "sortindex": 1788510600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f95a1c71-28bd-4e5b-9ce6-4ca17e84940f.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 2332,
-      "destination": "/?eid=71720",
-      "societyname": "University Network for Investing and Trading (UQ)",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-      "title": "UNIT UQ Connections & Cocktails ",
-      "day": "4",
-      "info": "$42.36"
-    },
-    {
       "sortindex": 1788580800,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
       "month": "September",
@@ -3060,20 +3018,6 @@
       "title": "UQKMS BBQ",
       "day": "5",
       "info": "Free"
-    },
-    {
-      "sortindex": 1788593400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d58912cd-7664-4094-af90-74fa4964a5b4.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 1345,
-      "destination": "/?eid=73578",
-      "societyname": "Underground Theatre Company",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
-      "title": "'Dancing For Those Who Can\u2019t' - All Levels Class",
-      "day": "5",
-      "info": "$0.00 - $20.00"
     },
     {
       "sortindex": 1788652800,
@@ -3130,6 +3074,20 @@
       "title": "Create Your Career",
       "day": "7",
       "info": "Free"
+    },
+    {
+      "sortindex": 1788825600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/4c6b7211-e7ce-46c9-a255-57966b086ed0.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5398,
+      "destination": "/?eid=77482",
+      "societyname": "UQ Sustainable Innovators Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+      "title": "Park Yoga",
+      "day": "8",
+      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1788849900,
@@ -3273,6 +3231,20 @@
     },
     {
       "sortindex": 1789372800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b1a3d152-7f6e-4905-b8e5-c7de19d5015c.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2365,
+      "destination": "/?eid=76783",
+      "societyname": "UQ Agribusiness Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a6d3123b-2d65-48a7-b2c3-da174aed4414.png",
+      "title": "Agribusiness Industry Dinner 2026",
+      "day": "14",
+      "info": "$26.81"
+    },
+    {
+      "sortindex": 1789372800,
       "image": "https://resources.hellorubric.com/uploaded_assets/e3d7b305-ed58-4009-9105-23a5bf5dacb5.png",
       "month": "September",
       "societyAvgRating": 0,
@@ -3412,6 +3384,20 @@
       "info": "$0.00 - $5.66"
     },
     {
+      "sortindex": 1789632000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6f026119-29c5-4dc1-a19e-67bbbff033d3.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 102,
+      "destination": "/?eid=76644",
+      "societyname": "The Filipino-Australian Student Association of the University of Queensland",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/598e542a-6be8-4990-bb9b-a1d60a42504d.png",
+      "title": "Salo Salo",
+      "day": "17",
+      "info": "$0.00 - $21.63"
+    },
+    {
       "sortindex": 1789716600,
       "image": "https://resources.hellorubric.com/uploaded_assets/338bbbc8-9274-4233-a7c5-9c95cde3c6fb.png",
       "month": "September",
@@ -3437,7 +3423,7 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
       "title": "Pharmacy Ball 2026 ~ Under a Starlit Night",
       "day": "18",
-      "info": "$89.00 - $125.28"
+      "info": "$89.00 - $140.83"
     },
     {
       "sortindex": 1789808400,
@@ -3496,6 +3482,20 @@
       "info": "$11.27 - $16.45"
     },
     {
+      "sortindex": 1790146800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/83237756-877d-43cd-9721-f3c35ec7731b.jpg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3867,
+      "destination": "/?eid=77469",
+      "societyname": "UQ International Students' Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+      "title": "123 Boom!",
+      "day": "23",
+      "info": "$35.11 - $39.25"
+    },
+    {
       "sortindex": 1790148600,
       "image": "https://resources.hellorubric.com/uploaded_assets/3c915c99-49e2-4cac-a389-d5b7e57854e4.png",
       "month": "September",
@@ -3508,20 +3508,6 @@
       "title": "Pathways to ClinPsych 2026",
       "day": "23",
       "info": "$0.00 - $6.00"
-    },
-    {
-      "sortindex": 1790148600,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3867,
-      "destination": "/?eid=77469",
-      "societyname": "UQ International Students' Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-      "title": "123 Boom",
-      "day": "23",
-      "info": "$35.10 - $39.25"
     },
     {
       "sortindex": 1790148600,
@@ -3564,6 +3550,34 @@
       "title": "Intro to Interventional Radiology",
       "day": "24",
       "info": "$0.00 - $5.00"
+    },
+    {
+      "sortindex": 1790235000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 1601,
+      "destination": "/?eid=77515",
+      "societyname": "UQ Skirts in Engineering",
+      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "title": "Winx Club Trivia! Skirts x LIT x BMES",
+      "day": "24",
+      "info": "$3.00"
+    },
+    {
+      "sortindex": 1790283600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9f650ad0-61ff-457f-851a-0deb41f9122e.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 57,
+      "destination": "/?eid=77513",
+      "societyname": "University of Queensland Law Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "Mallesons x UQLS Women In Law Breakfast",
+      "day": "25",
+      "info": "$31.15 - $51.55"
     },
     {
       "sortindex": 1790377200,
@@ -3679,7 +3693,7 @@
     },
     {
       "sortindex": 1791016200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/9ee1d445-8b43-4e85-917b-0fc866eebd56.png",
       "month": "October",
       "societyAvgRating": 0,
       "subtitle": "Ball/Dinner/Gala",
@@ -3777,20 +3791,6 @@
     },
     {
       "sortindex": 1792231200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b80f2720-774b-438d-b17d-cc9fa8e5bc22.jpg",
-      "month": "October",
-      "societyAvgRating": 0,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 2308,
-      "destination": "/?eid=64738",
-      "societyname": "Occupational Therapy Students Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
-      "title": "Sunset Soiree: OTSA Ball 2026",
-      "day": "17",
-      "info": "$0.00 - $151.19"
-    },
-    {
-      "sortindex": 1792231200,
       "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
       "month": "October",
       "societyAvgRating": 0,
@@ -3802,6 +3802,20 @@
       "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
       "day": "17",
       "info": "$104.55 - $146.01"
+    },
+    {
+      "sortindex": 1792231200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b80f2720-774b-438d-b17d-cc9fa8e5bc22.jpg",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 2308,
+      "destination": "/?eid=64738",
+      "societyname": "Occupational Therapy Students Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
+      "title": "Sunset Soiree: OTSA Ball 2026",
+      "day": "17",
+      "info": "$0.00 - $151.19"
     },
     {
       "sortindex": 1792231200,
