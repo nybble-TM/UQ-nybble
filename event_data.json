@@ -3006,34 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1788580800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 3180,
-      "destination": "/?eid=72916",
-      "societyname": "UQ Korean Medical Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
-      "title": "UQKMS BBQ",
-      "day": "5",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1788652800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/b42a408e-63ed-4b5f-8265-68e5e5c59da6.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Trip/Camp",
-      "societyid": 2257,
-      "destination": "/?eid=77270",
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-      "title": "Mountain Hiking: Araucaria Track @ Walkabout Creek",
-      "day": "6",
-      "info": "Free"
-    },
-    {
       "sortindex": 1788739200,
       "image": "https://resources.hellorubric.com/uploaded_assets/2429f0a4-8f30-45f1-ae3f-e915400a9417.jpeg",
       "month": "September",
@@ -3044,6 +3016,20 @@
       "societyname": "UQ Anthropology Society",
       "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
       "title": "Co-working Space",
+      "day": "7",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1788768000,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6994,
+      "destination": "/?eid=73146",
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+      "title": "Create Your Career",
       "day": "7",
       "info": "Free"
     },
@@ -3060,20 +3046,6 @@
       "title": "Role of the Gut in Health and Disease",
       "day": "7",
       "info": "$0.00 - $6.08"
-    },
-    {
-      "sortindex": 1788768000,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 6994,
-      "destination": "/?eid=73146",
-      "societyname": "Financial Management Association of Australia",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-      "title": "Create Your Career",
-      "day": "7",
-      "info": "Free"
     },
     {
       "sortindex": 1788825600,
@@ -3636,6 +3608,20 @@
       "info": "$114.92 - $146.01"
     },
     {
+      "sortindex": 1790467200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 2257,
+      "destination": "/?eid=77270",
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+      "title": "Mountain Hiking: Araucaria Track @ Walkabout Creek",
+      "day": "27",
+      "info": "Free"
+    },
+    {
       "sortindex": 1790496000,
       "image": "https://resources.hellorubric.com/uploaded_assets/b6b713c6-fcc1-4f0f-bb7a-1b3d7ca5d75f.jpeg",
       "month": "September",
@@ -3791,20 +3777,6 @@
     },
     {
       "sortindex": 1792231200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
-      "month": "October",
-      "societyAvgRating": 0,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 164,
-      "destination": "/?eid=68636",
-      "societyname": "UQ Nursing and Midwifery Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
-      "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
-      "day": "17",
-      "info": "$104.55 - $146.01"
-    },
-    {
-      "sortindex": 1792231200,
       "image": "https://resources.hellorubric.com/uploaded_assets/b80f2720-774b-438d-b17d-cc9fa8e5bc22.jpg",
       "month": "October",
       "societyAvgRating": 0,
@@ -3830,6 +3802,20 @@
       "title": "UQLS Valedictory Dinner 2026",
       "day": "17",
       "info": "$133.16"
+    },
+    {
+      "sortindex": 1792231200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 164,
+      "destination": "/?eid=68636",
+      "societyname": "UQ Nursing and Midwifery Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
+      "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
+      "day": "17",
+      "info": "$104.55 - $146.01"
     },
     {
       "sortindex": 1792569600,
@@ -3858,6 +3844,20 @@
       "title": "Internal Competitions Dinner",
       "day": "23",
       "info": "$36.25"
+    },
+    {
+      "sortindex": 1793350800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/8e1e10c4-db9b-45f6-9802-8f55e607e92e.jpg",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1857,
+      "destination": "/?eid=77631",
+      "societyname": "Psychology Students' Association Inc",
+      "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+      "title": "HALLOWEEN PARTY NIGHT",
+      "day": "30",
+      "info": "$14.83 - $16.87"
     },
     {
       "sortindex": 1794042000,

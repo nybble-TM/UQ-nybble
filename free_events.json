@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1788580800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3180,
-    "destination": "/?eid=72916",
-    "societyname": "UQ Korean Medical Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
-    "title": "UQKMS BBQ",
-    "day": "5",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1788652800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b42a408e-63ed-4b5f-8265-68e5e5c59da6.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Trip/Camp",
-    "societyid": 2257,
-    "destination": "/?eid=77270",
-    "societyname": "UQ Vegan Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
-    "title": "Mountain Hiking: Araucaria Track @ Walkabout Creek",
-    "day": "6",
-    "info": "Free"
-  },
-  {
     "sortindex": 1788739200,
     "image": "https://resources.hellorubric.com/uploaded_assets/2429f0a4-8f30-45f1-ae3f-e915400a9417.jpeg",
     "month": "September",
@@ -193,6 +165,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
     "title": "MD2 Mock OSCE",
     "day": "26",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790467200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 2257,
+    "destination": "/?eid=77270",
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "title": "Mountain Hiking: Araucaria Track @ Walkabout Creek",
+    "day": "27",
     "info": "Free"
   },
   {
