@@ -15,20 +15,6 @@
   },
   {
     "sortindex": 1788768000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=73146",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-    "title": "Create Your Career",
-    "day": "7",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1788768000,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -40,6 +26,20 @@
     "title": "Role of the Gut in Health and Disease",
     "day": "7",
     "info": "$0.00 - $6.08"
+  },
+  {
+    "sortindex": 1788768000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 6994,
+    "destination": "/?eid=73146",
+    "societyname": "Financial Management Association of Australia",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+    "title": "Create Your Career",
+    "day": "7",
+    "info": "Free"
   },
   {
     "sortindex": 1788825600,
@@ -197,20 +197,6 @@
   },
   {
     "sortindex": 1789372800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b1a3d152-7f6e-4905-b8e5-c7de19d5015c.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 2365,
-    "destination": "/?eid=76783",
-    "societyname": "UQ Agribusiness Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a6d3123b-2d65-48a7-b2c3-da174aed4414.png",
-    "title": "Agribusiness Industry Dinner 2026",
-    "day": "14",
-    "info": "$26.81"
-  },
-  {
-    "sortindex": 1789372800,
     "image": "https://resources.hellorubric.com/uploaded_assets/e3d7b305-ed58-4009-9105-23a5bf5dacb5.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -222,6 +208,20 @@
     "title": "UQWiBELS Economics Panel - Semester 2, 2026",
     "day": "14",
     "info": "Free"
+  },
+  {
+    "sortindex": 1789372800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b1a3d152-7f6e-4905-b8e5-c7de19d5015c.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2365,
+    "destination": "/?eid=76783",
+    "societyname": "UQ Agribusiness Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/a6d3123b-2d65-48a7-b2c3-da174aed4414.png",
+    "title": "Agribusiness Industry Dinner 2026",
+    "day": "14",
+    "info": "$26.81"
   },
   {
     "sortindex": 1789418700,
@@ -378,6 +378,20 @@
     "info": "$0.00 - $32.00"
   },
   {
+    "sortindex": 1789716600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e48536c8-5bf2-4a81-bf8a-33968a118461.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 6249,
+    "destination": "/?eid=77531",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "LENTERA forum",
+    "day": "18",
+    "info": "Free"
+  },
+  {
     "sortindex": 1789720200,
     "image": "https://resources.hellorubric.com/uploaded_assets/d2760afb-3e23-4b67-8663-41b1f224ce4f.png",
     "month": "September",
@@ -435,20 +449,6 @@
   },
   {
     "sortindex": 1790146800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/96b118b2-f70b-4d92-a69e-1fef38cfb22c.jpg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 3444,
-    "destination": "/?eid=73596",
-    "societyname": "UQ Derm",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76d5a9d7-a09e-42d4-b6ea-210543c61f19.png",
-    "title": "Genetics in Medicine with UQ Derm",
-    "day": "23",
-    "info": "$11.27 - $16.45"
-  },
-  {
-    "sortindex": 1790146800,
     "image": "https://resources.hellorubric.com/uploaded_assets/83237756-877d-43cd-9721-f3c35ec7731b.jpg",
     "month": "September",
     "societyAvgRating": 0,
@@ -460,6 +460,20 @@
     "title": "123 Boom!",
     "day": "23",
     "info": "$35.11 - $39.25"
+  },
+  {
+    "sortindex": 1790146800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/96b118b2-f70b-4d92-a69e-1fef38cfb22c.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 3444,
+    "destination": "/?eid=73596",
+    "societyname": "UQ Derm",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76d5a9d7-a09e-42d4-b6ea-210543c61f19.png",
+    "title": "Genetics in Medicine with UQ Derm",
+    "day": "23",
+    "info": "$11.27 - $16.45"
   },
   {
     "sortindex": 1790148600,
@@ -505,6 +519,20 @@
   },
   {
     "sortindex": 1790235000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3e444f10-86aa-4e76-80e0-6014c5293bf8.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 1601,
+    "destination": "/?eid=77515",
+    "societyname": "UQ Skirts in Engineering",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Winx Club Trivia! Skirts x LIT x BMES",
+    "day": "24",
+    "info": "$3.00"
+  },
+  {
+    "sortindex": 1790235000,
     "image": "https://resources.hellorubric.com/uploaded_assets/d7ce71f6-e052-4eac-a1b7-77d661c0a445.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -516,20 +544,6 @@
     "title": "Intro to Interventional Radiology",
     "day": "24",
     "info": "$0.00 - $5.00"
-  },
-  {
-    "sortindex": 1790235000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 1601,
-    "destination": "/?eid=77515",
-    "societyname": "UQ Skirts in Engineering",
-    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-    "title": "Winx Club Trivia! Skirts x LIT x BMES",
-    "day": "24",
-    "info": "$3.00"
   },
   {
     "sortindex": 1790283600,
@@ -588,6 +602,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1790402400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/78b73e95-3ad6-4b64-ba69-f63cc400601f.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 102,
+    "destination": "/?eid=76645",
+    "societyname": "The Filipino-Australian Student Association of the University of Queensland",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/598e542a-6be8-4990-bb9b-a1d60a42504d.png",
+    "title": "Spike at Saya 2026",
+    "day": "26",
+    "info": "$19.56 - $21.63"
+  },
+  {
     "sortindex": 1790413200,
     "image": "https://resources.hellorubric.com/uploaded_assets/1434c9bd-ef56-466d-88a2-78646f04c6cb.jpg",
     "month": "September",
@@ -628,6 +656,20 @@
     "title": "UQ Korean Students Interfaculty Dinner",
     "day": "27",
     "info": "$42.36"
+  },
+  {
+    "sortindex": 1790668800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/469a3561-2816-4c3f-9c4d-2f3c10771aff.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 5763,
+    "destination": "/?eid=77357",
+    "societyname": "Bachelor of Advanced Business (Honours) SPC",
+    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
+    "title": "BAB Careers Connect 2026",
+    "day": "29",
+    "info": "Free"
   },
   {
     "sortindex": 1790838000,
@@ -728,6 +770,20 @@
     "info": "$8.16 - $11.27"
   },
   {
+    "sortindex": 1791540000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e49155b1-9cdc-4c6e-83bc-cc156ec49450.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 4650,
+    "destination": "/?eid=77712",
+    "societyname": "UQ Oncology",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4650.png",
+    "title": "Cocktails For Cancer 2026",
+    "day": "9",
+    "info": "$0.00 - $9.19"
+  },
+  {
     "sortindex": 1791622800,
     "image": "https://resources.hellorubric.com/uploaded_assets/56ceea49-b2c5-439f-8fba-e277e51a5647.png",
     "month": "October",
@@ -756,6 +812,20 @@
     "info": "$52.73 - $78.64"
   },
   {
+    "sortindex": 1791961200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6210722f-0c6b-475a-b1c6-41a6d2465554.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 181,
+    "destination": "/?eid=77876",
+    "societyname": "UQ International Law Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/11649d40-9196-4f3f-b703-0fe38711f6d0.png",
+    "title": "International Crime Case Study Competition",
+    "day": "14",
+    "info": "$6.08 - $8.16"
+  },
+  {
     "sortindex": 1792137600,
     "image": "https://resources.hellorubric.com/uploaded_assets/097a72f4-9047-4126-88cf-b755c6d72bbf.jpg",
     "month": "October",
@@ -768,6 +838,20 @@
     "title": "UQCCR x SSoFI Herston Boardgames Night",
     "day": "16",
     "info": "Free"
+  },
+  {
+    "sortindex": 1792231200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 164,
+    "destination": "/?eid=68636",
+    "societyname": "UQ Nursing and Midwifery Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
+    "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
+    "day": "17",
+    "info": "$104.55 - $146.01"
   },
   {
     "sortindex": 1792231200,
@@ -796,20 +880,6 @@
     "title": "UQLS Valedictory Dinner 2026",
     "day": "17",
     "info": "$133.16"
-  },
-  {
-    "sortindex": 1792231200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
-    "month": "October",
-    "societyAvgRating": 0,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 164,
-    "destination": "/?eid=68636",
-    "societyname": "UQ Nursing and Midwifery Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
-    "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
-    "day": "17",
-    "info": "$104.55 - $146.01"
   },
   {
     "sortindex": 1792569600,
