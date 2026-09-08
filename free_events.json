@@ -1,30 +1,16 @@
 [
   {
-    "sortindex": 1788739200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2429f0a4-8f30-45f1-ae3f-e915400a9417.jpeg",
+    "sortindex": 1788931800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
     "month": "September",
     "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 3219,
-    "destination": "/?eid=77453",
-    "societyname": "UQ Anthropology Society",
-    "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
-    "title": "Co-working Space",
-    "day": "7",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1788768000,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "destination": "/?eid=73146",
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-    "title": "Create Your Career",
-    "day": "7",
+    "subtitle": "Sport/Competition",
+    "societyid": 4982,
+    "destination": "/?eid=78028",
+    "societyname": "UQ Backyard Sports Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
+    "title": "Basketball 9/09",
+    "day": "9",
     "info": "Free"
   },
   {
@@ -126,6 +112,34 @@
     "info": "Free"
   },
   {
+    "sortindex": 1789545600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/94e8a5c4-cb8c-404c-8c77-f3fbdc1c5ed0.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 186,
+    "destination": "/?eid=77949",
+    "societyname": "UQ Marketing & Advertising Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+    "title": "Workshop with TFM - Digital Channels",
+    "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1789631100,
+    "image": "https://resources.hellorubric.com/uploaded_assets/64ad52b6-077c-4e74-b024-9180c3315026.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 547,
+    "destination": "/?eid=77871",
+    "societyname": "UQ Geography and Environmental Management Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
+    "title": "Talk Nerdy to Me - Postgraduate Event ",
+    "day": "17",
+    "info": "Free"
+  },
+  {
     "sortindex": 1789716600,
     "image": "https://resources.hellorubric.com/uploaded_assets/e48536c8-5bf2-4a81-bf8a-33968a118461.jpg",
     "month": "September",
@@ -207,6 +221,20 @@
     "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
     "title": "BAB Careers Connect 2026",
     "day": "29",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792054800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/99830b8f-e6f1-4ae8-8a5f-fa2144665280.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 4848,
+    "destination": "/?eid=77931",
+    "societyname": "Justice and the Law Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
+    "title": "Pandora's Box Launch",
+    "day": "15",
     "info": "Free"
   },
   {
