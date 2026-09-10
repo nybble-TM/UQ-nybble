@@ -14,34 +14,6 @@
     "info": "$2.97 - $7.12"
   },
   {
-    "sortindex": 1788930000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/30ceaebb-ce7d-49da-932c-3f97a1778d2a.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 7597,
-    "destination": "/?eid=77355",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "title": "Sip and Paint Picnic",
-    "day": "9",
-    "info": "$6.08 - $9.19"
-  },
-  {
-    "sortindex": 1788931800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 4982,
-    "destination": "/?eid=78028",
-    "societyname": "UQ Backyard Sports Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-    "title": "Basketball 9/09",
-    "day": "9",
-    "info": "Free"
-  },
-  {
     "sortindex": 1788987600,
     "image": "https://resources.hellorubric.com/uploaded_assets/1cbd4fca-6ac0-4e66-8afd-e8be1cf63ae1.png",
     "month": "September",
@@ -85,20 +57,6 @@
   },
   {
     "sortindex": 1789027200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2863f2f8-3ceb-4aa7-b566-3ac08e51d0d6.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 1542,
-    "destination": "/?eid=78022",
-    "societyname": "UQ Association of Biomedical Students",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1542.png",
-    "title": "Analogue Night",
-    "day": "10",
-    "info": "$8.01 - $12.01"
-  },
-  {
-    "sortindex": 1789027200,
     "image": "https://resources.hellorubric.com/uploaded_assets/6c93a641-5f7a-4d7c-997f-a48e1657eeec.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -110,6 +68,20 @@
     "title": "LASA ENTREPRENEURS NIGHT",
     "day": "10",
     "info": "Free"
+  },
+  {
+    "sortindex": 1789027200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2863f2f8-3ceb-4aa7-b566-3ac08e51d0d6.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1542,
+    "destination": "/?eid=78022",
+    "societyname": "UQ Association of Biomedical Students",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1542.png",
+    "title": "Analogue Night",
+    "day": "10",
+    "info": "$8.01 - $12.01"
   },
   {
     "sortindex": 1789196400,
@@ -393,20 +365,6 @@
   },
   {
     "sortindex": 1789716600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e48536c8-5bf2-4a81-bf8a-33968a118461.jpg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6249,
-    "destination": "/?eid=77531",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "LENTERA forum",
-    "day": "18",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1789716600,
     "image": "https://resources.hellorubric.com/uploaded_assets/338bbbc8-9274-4233-a7c5-9c95cde3c6fb.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -418,6 +376,20 @@
     "title": "Shrink Plastic Workshop",
     "day": "18",
     "info": "$0.00 - $32.00"
+  },
+  {
+    "sortindex": 1789716600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/e48536c8-5bf2-4a81-bf8a-33968a118461.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 6249,
+    "destination": "/?eid=77531",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "LENTERA forum",
+    "day": "18",
+    "info": "Free"
   },
   {
     "sortindex": 1789720200,
@@ -504,6 +476,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1790143200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 713,
+    "destination": "/?eid=78462",
+    "societyname": "UQ Geoscience Society",
+    "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+    "title": "Chalk and Chill",
+    "day": "23",
+    "info": "$2.00 - $25.00"
+  },
+  {
     "sortindex": 1790146800,
     "image": "https://resources.hellorubric.com/uploaded_assets/96b118b2-f70b-4d92-a69e-1fef38cfb22c.jpg",
     "month": "September",
@@ -533,20 +519,6 @@
   },
   {
     "sortindex": 1790148600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3d055bb5-c0e5-420f-951a-b7543feb16f4.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 8835,
-    "destination": "/?eid=72518",
-    "societyname": "UQCCR Student Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-    "title": "UQCCR x SSoFI x QIMR x UQ Neuro x Mater Trivia",
-    "day": "23",
-    "info": "$5.01 - $15.01"
-  },
-  {
-    "sortindex": 1790148600,
     "image": "https://resources.hellorubric.com/uploaded_assets/3c915c99-49e2-4cac-a389-d5b7e57854e4.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -558,6 +530,20 @@
     "title": "Pathways to ClinPsych 2026",
     "day": "23",
     "info": "$0.00 - $6.00"
+  },
+  {
+    "sortindex": 1790148600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3d055bb5-c0e5-420f-951a-b7543feb16f4.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 8835,
+    "destination": "/?eid=72518",
+    "societyname": "UQCCR Student Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+    "title": "UQCCR x SSoFI x QIMR x UQ Neuro x Mater Trivia",
+    "day": "23",
+    "info": "$5.01 - $15.01"
   },
   {
     "sortindex": 1790208000,
@@ -628,6 +614,20 @@
     "title": "Mallesons x UQLS Women In Law Breakfast",
     "day": "25",
     "info": "$31.15 - $51.55"
+  },
+  {
+    "sortindex": 1790305200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/271172a7-47bd-4f9e-8eef-d09d02c5eb8b.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 3147,
+    "destination": "/?eid=78481",
+    "societyname": "The UQ Women's Network",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
+    "title": "UQWN x Elston Pub Crawl - Portfolios & Pints",
+    "day": "25",
+    "info": "$26.81"
   },
   {
     "sortindex": 1790377200,
@@ -827,20 +827,6 @@
   },
   {
     "sortindex": 1791018000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/9aa11e04-6f50-4b56-9513-390dc69bd784.png",
-    "month": "October",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 7597,
-    "destination": "/?eid=77356",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "title": "2026 IS THE NEW 2016: UQB MidSem Party",
-    "day": "3",
-    "info": "$16.45 - $37.18"
-  },
-  {
-    "sortindex": 1791018000,
     "image": "https://resources.hellorubric.com/uploaded_assets/ee6203b6-c3bf-4584-99a0-aadbff685508.jpg",
     "month": "October",
     "societyAvgRating": 0,
@@ -852,6 +838,20 @@
     "title": "2026 HMNS Ball: Jazz & Gin - Paris after Midnight",
     "day": "3",
     "info": "$99.37 - $140.83"
+  },
+  {
+    "sortindex": 1791018000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/9aa11e04-6f50-4b56-9513-390dc69bd784.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7597,
+    "destination": "/?eid=77356",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "2026 IS THE NEW 2016: UQB MidSem Party",
+    "day": "3",
+    "info": "$16.45 - $37.18"
   },
   {
     "sortindex": 1791363600,
@@ -880,6 +880,34 @@
     "title": "180DC - Semester 2 Charity Basketball Tournament",
     "day": "7",
     "info": "Free"
+  },
+  {
+    "sortindex": 1791528540,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 713,
+    "destination": "/?eid=78461",
+    "societyname": "UQ Geoscience Society",
+    "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+    "title": "Pyrites - WELFARE",
+    "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1791534600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3b9a83cc-729c-453a-b5bd-bed21071e8dc.jpg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 713,
+    "destination": "/?eid=78457",
+    "societyname": "UQ Geoscience Society",
+    "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+    "title": "Pyrites of the Caribbean ",
+    "day": "9",
+    "info": "$30.00 - $35.00"
   },
   {
     "sortindex": 1791540000,
@@ -995,7 +1023,7 @@
   },
   {
     "sortindex": 1792225800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/341aff21-7201-456b-a423-3d597a849f14.jpg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/8ca1ecef-82c6-496a-abc2-986a312760ee.png",
     "month": "October",
     "societyAvgRating": 0,
     "subtitle": "Ball/Dinner/Gala",
@@ -1005,21 +1033,21 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/52fae795-af67-4495-ae3d-6c34d48ab8d4.png",
     "title": "17th Annual Black Tie Ball",
     "day": "17",
-    "info": "$131.74 - $152.64"
+    "info": "$131.74 - $154.73"
   },
   {
     "sortindex": 1792231200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1fd2de8d-619f-485f-838e-d34c77d850d4.jpeg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
     "month": "October",
     "societyAvgRating": 0,
     "subtitle": "Ball/Dinner/Gala",
-    "societyid": 57,
-    "destination": "/?eid=77349",
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "UQLS Valedictory Dinner 2026",
+    "societyid": 164,
+    "destination": "/?eid=68636",
+    "societyname": "UQ Nursing and Midwifery Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
+    "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
     "day": "17",
-    "info": "$133.16"
+    "info": "$104.55 - $146.01"
   },
   {
     "sortindex": 1792231200,
@@ -1037,17 +1065,17 @@
   },
   {
     "sortindex": 1792231200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/1fd2de8d-619f-485f-838e-d34c77d850d4.jpeg",
     "month": "October",
     "societyAvgRating": 0,
     "subtitle": "Ball/Dinner/Gala",
-    "societyid": 164,
-    "destination": "/?eid=68636",
-    "societyname": "UQ Nursing and Midwifery Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
-    "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
+    "societyid": 57,
+    "destination": "/?eid=77349",
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "UQLS Valedictory Dinner 2026",
     "day": "17",
-    "info": "$104.55 - $146.01"
+    "info": "$133.16"
   },
   {
     "sortindex": 1792569600,

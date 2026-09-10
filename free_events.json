@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1788931800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 4982,
-    "destination": "/?eid=78028",
-    "societyname": "UQ Backyard Sports Association",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4982.png",
-    "title": "Basketball 9/09",
-    "day": "9",
-    "info": "Free"
-  },
-  {
     "sortindex": 1789016400,
     "image": "https://resources.hellorubric.com/uploaded_assets/bdd665b9-ec74-4acf-99bd-2a72a9c242f3.jpg",
     "month": "September",
@@ -249,6 +235,20 @@
     "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
     "title": "180DC - Semester 2 Charity Basketball Tournament",
     "day": "7",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1791528540,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 713,
+    "destination": "/?eid=78461",
+    "societyname": "UQ Geoscience Society",
+    "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+    "title": "Pyrites - WELFARE",
+    "day": "9",
     "info": "Free"
   },
   {
