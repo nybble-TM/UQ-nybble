@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1789016400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/bdd665b9-ec74-4acf-99bd-2a72a9c242f3.jpg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 5763,
-    "destination": "/?eid=75853",
-    "societyname": "Bachelor of Advanced Business (Honours) SPC",
-    "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-    "title": "BAB x RSM ",
-    "day": "10",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1789023600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/528f77d2-3d4b-43d7-9185-570421916805.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2395,
-    "destination": "/?eid=73939",
-    "societyname": "Gatton International Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
-    "title": "Ramen & Movie Night!",
-    "day": "10",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1789027200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/6c93a641-5f7a-4d7c-997f-a48e1657eeec.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 177,
-    "destination": "/?eid=76577",
-    "societyname": "UQ Latin American Students Association",
-    "societylogo": "https://resources.getqpay.com/images/63f145ad22c17_.png",
-    "title": "LASA ENTREPRENEURS NIGHT",
-    "day": "10",
-    "info": "Free"
-  },
-  {
     "sortindex": 1789372800,
     "image": "https://resources.hellorubric.com/uploaded_assets/e3d7b305-ed58-4009-9105-23a5bf5dacb5.png",
     "month": "September",
@@ -140,6 +98,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1789718400,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_11.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2232,
+    "destination": "/?eid=79390",
+    "societyname": "Australia-China Youth Association at UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/75b570ee-75da-4464-890c-26a803bc3e1f.png",
+    "title": "ACYA UQ Movie Night - Niulai 2026 (\u725b\u6765)",
+    "day": "18",
+    "info": "Free"
+  },
+  {
     "sortindex": 1790064900,
     "image": "https://resources.hellorubric.com/uploaded_assets/9593931a-e741-4159-9e35-e6976e686e9e.jpg",
     "month": "September",
@@ -178,6 +150,20 @@
     "societyname": "UQ Anthropology Society",
     "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
     "title": "The Nature of the Gift - Round Two",
+    "day": "24",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790229600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/577c48ba-8d89-46a7-8d4b-16f1d8ffd123.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 5398,
+    "destination": "/?eid=78836",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Seeds & Talks @ Union College",
     "day": "24",
     "info": "Free"
   },
@@ -291,6 +277,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76d5a9d7-a09e-42d4-b6ea-210543c61f19.png",
     "title": "UQ DERM Revision Lecture and AGM",
     "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1793833200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "month": "November",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 713,
+    "destination": "/?eid=78912",
+    "societyname": "UQ Geoscience Society",
+    "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
+    "title": "GESSS Attendee",
+    "day": "5",
     "info": "Free"
   }
 ]
