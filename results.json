@@ -165,7 +165,7 @@
     "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
     "title": "UQ FSC x UQBTS: Pinjarra Hills Visit ",
     "day": "16",
-    "info": "$6.08 - $11.27"
+    "info": "$0.00 - $11.27"
   },
   {
     "sortindex": 1789527600,
@@ -323,20 +323,6 @@
   },
   {
     "sortindex": 1789716600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/338bbbc8-9274-4233-a7c5-9c95cde3c6fb.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 4430,
-    "destination": "/?eid=76236",
-    "societyname": "Handcraft & Art Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-    "title": "Shrink Plastic Workshop",
-    "day": "18",
-    "info": "$0.00 - $32.00"
-  },
-  {
-    "sortindex": 1789716600,
     "image": "https://resources.hellorubric.com/uploaded_assets/e48536c8-5bf2-4a81-bf8a-33968a118461.jpg",
     "month": "September",
     "societyAvgRating": 0,
@@ -350,8 +336,22 @@
     "info": "Free"
   },
   {
+    "sortindex": 1789716600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/338bbbc8-9274-4233-a7c5-9c95cde3c6fb.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 4430,
+    "destination": "/?eid=76236",
+    "societyname": "Handcraft & Art Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
+    "title": "Shrink Plastic Workshop",
+    "day": "18",
+    "info": "$0.00 - $32.00"
+  },
+  {
     "sortindex": 1789718400,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_11.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/5967722e-1366-4b90-86ee-ea8016f9afc5.jpg",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -361,7 +361,7 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/75b570ee-75da-4464-890c-26a803bc3e1f.png",
     "title": "ACYA UQ Movie Night - Niulai 2026 (\u725b\u6765)",
     "day": "18",
-    "info": "Free"
+    "info": "$0.00 - $4.01"
   },
   {
     "sortindex": 1789720200,
@@ -404,6 +404,20 @@
     "title": "Classics on Canvas",
     "day": "22",
     "info": "$15.00 - $20.00"
+  },
+  {
+    "sortindex": 1790060400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/045aa7ab-2465-4695-bf6f-06ec6702b72e.jpeg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2395,
+    "destination": "/?eid=73940",
+    "societyname": "Gatton International Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
+    "title": "Mid Autumn Festival!",
+    "day": "22",
+    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1790064900,
@@ -463,20 +477,6 @@
   },
   {
     "sortindex": 1790146800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/83237756-877d-43cd-9721-f3c35ec7731b.jpg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3867,
-    "destination": "/?eid=77469",
-    "societyname": "UQ International Students' Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-    "title": "123 Boom!",
-    "day": "23",
-    "info": "$35.11 - $39.25"
-  },
-  {
-    "sortindex": 1790146800,
     "image": "https://resources.hellorubric.com/uploaded_assets/96b118b2-f70b-4d92-a69e-1fef38cfb22c.jpg",
     "month": "September",
     "societyAvgRating": 0,
@@ -488,6 +488,20 @@
     "title": "Genetics in Medicine with UQ Derm",
     "day": "23",
     "info": "$11.27 - $16.45"
+  },
+  {
+    "sortindex": 1790146800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/83237756-877d-43cd-9721-f3c35ec7731b.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3867,
+    "destination": "/?eid=77469",
+    "societyname": "UQ International Students' Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
+    "title": "123 Boom!",
+    "day": "23",
+    "info": "$35.11 - $39.25"
   },
   {
     "sortindex": 1790148600,
@@ -575,20 +589,6 @@
   },
   {
     "sortindex": 1790236800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b8f12df8-267a-4475-b773-6d045177a760.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 649,
-    "destination": "/?eid=77952",
-    "societyname": "Society of Fine Arts",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-    "title": "Live Lines: Baroque Life Drawing Workshop",
-    "day": "24",
-    "info": "$21.63 - $26.81"
-  },
-  {
-    "sortindex": 1790236800,
     "image": "https://resources.hellorubric.com/uploaded_assets/3e444f10-86aa-4e76-80e0-6014c5293bf8.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -600,6 +600,20 @@
     "title": "Winx Club Trivia! Skirts x LIT x BMES",
     "day": "24",
     "info": "$4.01"
+  },
+  {
+    "sortindex": 1790236800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/b8f12df8-267a-4475-b773-6d045177a760.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "destination": "/?eid=77952",
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "title": "Live Lines: Baroque Life Drawing Workshop",
+    "day": "24",
+    "info": "$21.63 - $26.81"
   },
   {
     "sortindex": 1790283600,
@@ -628,6 +642,20 @@
     "title": "UQWN x Elston Pub Crawl - Portfolios & Pints",
     "day": "25",
     "info": "$26.81"
+  },
+  {
+    "sortindex": 1790321400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5a74eb0d-6872-4643-896f-7253728ec907.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 1387,
+    "destination": "/?eid=79020",
+    "societyname": "UQ Hong Kong Students Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
+    "title": "Casino Night",
+    "day": "25",
+    "info": "$26.81 - $29.92"
   },
   {
     "sortindex": 1790377200,
