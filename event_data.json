@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 84,
+  "totalItemCount": 83,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3021,62 +3021,6 @@
       "info": "$2.97 - $7.12"
     },
     {
-      "sortindex": 1789196400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/d143a869-4ae5-4b1f-8458-100ab8c96d59.jpg",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Other",
-      "societyid": 7257,
-      "destination": "/?eid=73527",
-      "societyname": "Society of Lifesaving",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
-      "title": "2026 Surf Club Crawl",
-      "day": "12",
-      "info": "$11.27"
-    },
-    {
-      "sortindex": 1789198200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ac22668e-11f4-4f00-8155-210b3df78890.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 4430,
-      "destination": "/?eid=76235",
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-      "title": "Paint & Sip",
-      "day": "12",
-      "info": "$16.45 - $32.00"
-    },
-    {
-      "sortindex": 1789200000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/4122942c-9360-4239-b6b8-b955c0d916ce.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Class/Workshop",
-      "societyid": 649,
-      "destination": "/?eid=71366",
-      "societyname": "Society of Fine Arts",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-      "title": "A Very Big Giant Party",
-      "day": "12",
-      "info": "$21.63 - $26.81"
-    },
-    {
-      "sortindex": 1789203600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/bf7c77da-87b5-4cdf-ade4-2d354fc5374e.png",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 186,
-      "destination": "/?eid=69325",
-      "societyname": "UQ Marketing & Advertising Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-      "title": "Roaring 20's Ball",
-      "day": "12",
-      "info": "$99.37 - $135.64"
-    },
-    {
       "sortindex": 1789372800,
       "image": "https://resources.hellorubric.com/uploaded_assets/b1a3d152-7f6e-4905-b8e5-c7de19d5015c.png",
       "month": "September",
@@ -3330,20 +3274,6 @@
     },
     {
       "sortindex": 1789716600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/e48536c8-5bf2-4a81-bf8a-33968a118461.jpg",
-      "month": "September",
-      "societyAvgRating": 0,
-      "subtitle": "Industry/Career",
-      "societyid": 6249,
-      "destination": "/?eid=77531",
-      "societyname": "UQ Indonesian Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-      "title": "LENTERA forum",
-      "day": "18",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1789716600,
       "image": "https://resources.hellorubric.com/uploaded_assets/338bbbc8-9274-4233-a7c5-9c95cde3c6fb.png",
       "month": "September",
       "societyAvgRating": 0,
@@ -3355,6 +3285,20 @@
       "title": "Shrink Plastic Workshop",
       "day": "18",
       "info": "$0.00 - $32.00"
+    },
+    {
+      "sortindex": 1789716600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/e48536c8-5bf2-4a81-bf8a-33968a118461.jpg",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 6249,
+      "destination": "/?eid=77531",
+      "societyname": "UQ Indonesian Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+      "title": "LENTERA forum",
+      "day": "18",
+      "info": "Free"
     },
     {
       "sortindex": 1789718400,
@@ -3397,6 +3341,20 @@
       "title": "Afro Ball: Africa to The World",
       "day": "19",
       "info": "$63.09 - $99.37"
+    },
+    {
+      "sortindex": 1789855200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 601,
+      "destination": "/?eid=79657",
+      "societyname": "UQ Union Surfers Inc.",
+      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
+      "title": "Learn 2 Surf 'n Sip @ Currumbin Alley",
+      "day": "20",
+      "info": "$16.45 - $68.27"
     },
     {
       "sortindex": 1790060400,
@@ -3693,18 +3651,18 @@
       "info": "$26.81 - $42.36"
     },
     {
-      "sortindex": 1790380800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+      "sortindex": 1790379000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/42507511-273d-40fa-b2d5-3b239b112d60.jpg",
       "month": "September",
       "societyAvgRating": 0,
       "subtitle": "Other",
-      "societyid": 3180,
-      "destination": "/?eid=71941",
-      "societyname": "UQ Korean Medical Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
-      "title": "MD2 Mock OSCE",
+      "societyid": 2040,
+      "destination": "/?eid=79649",
+      "societyname": "UQ Critical Care Interest Group",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/036cf4b7-6123-4916-8fba-ce17a75a3372.png",
+      "title": "UQCRIT Social EMC 2",
       "day": "26",
-      "info": "Free"
+      "info": "$16.44"
     },
     {
       "sortindex": 1790380800,
@@ -3719,6 +3677,20 @@
       "title": "Sister's Self-defense",
       "day": "26",
       "info": "$13.34 - $16.45"
+    },
+    {
+      "sortindex": 1790380800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 3180,
+      "destination": "/?eid=71941",
+      "societyname": "UQ Korean Medical Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
+      "title": "MD2 Mock OSCE",
+      "day": "26",
+      "info": "Free"
     },
     {
       "sortindex": 1790402400,
@@ -3890,20 +3862,6 @@
     },
     {
       "sortindex": 1791363600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a3479396-96ad-4b9b-aacd-0ee136726134.png",
-      "month": "October",
-      "societyAvgRating": 0,
-      "subtitle": "Sport/Competition",
-      "societyid": 2409,
-      "destination": "/?eid=78337",
-      "societyname": "180 Degrees Consulting - The University of Queensland Branch",
-      "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
-      "title": "180DC - Semester 2 Charity Basketball Tournament",
-      "day": "7",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1791363600,
       "image": "https://resources.hellorubric.com/uploaded_assets/410e924d-3744-4ce6-a010-a5b9e28db9a2.png",
       "month": "October",
       "societyAvgRating": 0,
@@ -3915,6 +3873,20 @@
       "title": "World In Transition.",
       "day": "7",
       "info": "$8.16 - $11.27"
+    },
+    {
+      "sortindex": 1791363600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a3479396-96ad-4b9b-aacd-0ee136726134.png",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Sport/Competition",
+      "societyid": 2409,
+      "destination": "/?eid=78337",
+      "societyname": "180 Degrees Consulting - The University of Queensland Branch",
+      "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
+      "title": "180DC - Semester 2 Charity Basketball Tournament",
+      "day": "7",
+      "info": "Free"
     },
     {
       "sortindex": 1791528540,
@@ -4125,6 +4097,20 @@
       "title": "UQ DERM Revision Lecture and AGM",
       "day": "21",
       "info": "Free"
+    },
+    {
+      "sortindex": 1792742400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d09ffa0d-5ef7-4ef3-b6d2-eca2f32ee845.jpg",
+      "month": "October",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 7257,
+      "destination": "/?eid=73526",
+      "societyname": "Society of Lifesaving",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+      "title": "Semester 2 2026 Straddie Trip",
+      "day": "23",
+      "info": "$42.36"
     },
     {
       "sortindex": 1792746000,
