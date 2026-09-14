@@ -141,6 +141,20 @@
   },
   {
     "sortindex": 1789540200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4c6b7211-e7ce-46c9-a255-57966b086ed0.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 5398,
+    "destination": "/?eid=79729",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Park Yoga",
+    "day": "16",
+    "info": "$0.00 - $11.27"
+  },
+  {
+    "sortindex": 1789540200,
     "image": "https://resources.hellorubric.com/uploaded_assets/180a815b-afc9-4ab4-b6c2-caae29368e55.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -336,8 +350,8 @@
     "info": "$63.09 - $99.37"
   },
   {
-    "sortindex": 1789855200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
+    "sortindex": 1789851600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a3ec47de-73d2-4e29-81f2-a9b8c25a04ca.jpg",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Other",
@@ -347,7 +361,21 @@
     "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
     "title": "Learn 2 Surf 'n Sip @ Currumbin Alley",
     "day": "20",
-    "info": "$16.45 - $68.27"
+    "info": "$16.45 - $73.46"
+  },
+  {
+    "sortindex": 1790058600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/045aa7ab-2465-4695-bf6f-06ec6702b72e.jpeg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2395,
+    "destination": "/?eid=73940",
+    "societyname": "Gatton International Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
+    "title": "Mid Autumn Festival!",
+    "day": "22",
+    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1790060400,
@@ -362,20 +390,6 @@
     "title": "Classics on Canvas",
     "day": "22",
     "info": "$15.00 - $20.00"
-  },
-  {
-    "sortindex": 1790060400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/045aa7ab-2465-4695-bf6f-06ec6702b72e.jpeg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2395,
-    "destination": "/?eid=73940",
-    "societyname": "Gatton International Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
-    "title": "Mid Autumn Festival!",
-    "day": "22",
-    "info": "$0.00 - $5.00"
   },
   {
     "sortindex": 1790064900,
@@ -631,20 +645,6 @@
   },
   {
     "sortindex": 1790379000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8e5a165d-0cd0-40d0-ab7c-195039e90858.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6808,
-    "destination": "/?eid=76562",
-    "societyname": "UQ Neurological Society",
-    "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
-    "title": "Brain Surge 2026: Scalpel & Beyond",
-    "day": "26",
-    "info": "$26.81 - $42.36"
-  },
-  {
-    "sortindex": 1790379000,
     "image": "https://resources.hellorubric.com/uploaded_assets/42507511-273d-40fa-b2d5-3b239b112d60.jpg",
     "month": "September",
     "societyAvgRating": 0,
@@ -656,6 +656,20 @@
     "title": "UQCRIT Social EMC 2",
     "day": "26",
     "info": "$16.44"
+  },
+  {
+    "sortindex": 1790379000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8e5a165d-0cd0-40d0-ab7c-195039e90858.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 6808,
+    "destination": "/?eid=76562",
+    "societyname": "UQ Neurological Society",
+    "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
+    "title": "Brain Surge 2026: Scalpel & Beyond",
+    "day": "26",
+    "info": "$26.81 - $42.36"
   },
   {
     "sortindex": 1790380800,
@@ -855,20 +869,6 @@
   },
   {
     "sortindex": 1791363600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/410e924d-3744-4ce6-a010-a5b9e28db9a2.png",
-    "month": "October",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 4465,
-    "destination": "/?eid=76651",
-    "societyname": "UQ Political Science and International Relations Society Incorporated",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
-    "title": "World In Transition.",
-    "day": "7",
-    "info": "$8.16 - $11.27"
-  },
-  {
-    "sortindex": 1791363600,
     "image": "https://resources.hellorubric.com/uploaded_assets/a3479396-96ad-4b9b-aacd-0ee136726134.png",
     "month": "October",
     "societyAvgRating": 0,
@@ -880,6 +880,20 @@
     "title": "180DC - Semester 2 Charity Basketball Tournament",
     "day": "7",
     "info": "Free"
+  },
+  {
+    "sortindex": 1791363600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/410e924d-3744-4ce6-a010-a5b9e28db9a2.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 4465,
+    "destination": "/?eid=76651",
+    "societyname": "UQ Political Science and International Relations Society Incorporated",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
+    "title": "World In Transition.",
+    "day": "7",
+    "info": "$8.16 - $11.27"
   },
   {
     "sortindex": 1791528540,
@@ -980,6 +994,20 @@
     "info": "$6.08 - $8.16"
   },
   {
+    "sortindex": 1792040400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/23a20f74-3fa0-46c7-a453-bdb5eeb111e8.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 4176,
+    "destination": "/?eid=64222",
+    "societyname": "UQ Agricultural Science Society",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4176.png",
+    "title": "Women in Ag Luncheon ",
+    "day": "15",
+    "info": "$21.63 - $26.81"
+  },
+  {
     "sortindex": 1792053000,
     "image": "https://resources.hellorubric.com/uploaded_assets/56387ded-52b7-4fd0-ac23-34a14bed8736.jpeg",
     "month": "October",
@@ -1037,17 +1065,17 @@
   },
   {
     "sortindex": 1792231200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/1fd2de8d-619f-485f-838e-d34c77d850d4.jpeg",
     "month": "October",
     "societyAvgRating": 0,
     "subtitle": "Ball/Dinner/Gala",
-    "societyid": 164,
-    "destination": "/?eid=68636",
-    "societyname": "UQ Nursing and Midwifery Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
-    "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
+    "societyid": 57,
+    "destination": "/?eid=77349",
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "UQLS Valedictory Dinner 2026",
     "day": "17",
-    "info": "$104.55 - $146.01"
+    "info": "$0.00 - $133.16"
   },
   {
     "sortindex": 1792231200,
@@ -1061,21 +1089,21 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
     "title": "Sunset Soiree: OTSA Ball 2026",
     "day": "17",
-    "info": "$0.00 - $156.37"
+    "info": "$0.00 - $166.74"
   },
   {
     "sortindex": 1792231200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1fd2de8d-619f-485f-838e-d34c77d850d4.jpeg",
+    "image": "https://resources.hellorubric.com/uploaded_assets/cbe67b44-acba-4d72-abcb-b80e1d51be4f.jpeg",
     "month": "October",
     "societyAvgRating": 0,
     "subtitle": "Ball/Dinner/Gala",
-    "societyid": 57,
-    "destination": "/?eid=77349",
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "UQLS Valedictory Dinner 2026",
+    "societyid": 164,
+    "destination": "/?eid=68636",
+    "societyname": "UQ Nursing and Midwifery Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/80d6c3c6-84f1-42d5-a65a-221992bda794.png",
+    "title": "Where Frost Meets Flame: UQ NAMSA X QUT SUN Ball",
     "day": "17",
-    "info": "$133.16"
+    "info": "$104.55 - $146.01"
   },
   {
     "sortindex": 1792569600,
