@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1789372800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e3d7b305-ed58-4009-9105-23a5bf5dacb5.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 3855,
-    "destination": "/?eid=76755",
-    "societyname": "UQ Women in Business Economics and Law Society",
-    "societylogo": "https://resources.getqpay.com/images/65b5ed47b9c98_.png",
-    "title": "UQWiBELS Economics Panel - Semester 2, 2026",
-    "day": "14",
-    "info": "Free"
-  },
-  {
     "sortindex": 1789455600,
     "image": "https://resources.hellorubric.com/uploaded_assets/819853eb-9b6e-4170-bf8b-23acf903b2ee.png",
     "month": "September",
@@ -70,6 +56,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1789623000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/97825f61-ebaa-4d2f-8469-430ffdd11f84.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Show/Performance",
+    "societyid": 6249,
+    "destination": "/?eid=79974",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "Pojok Indonesia Movie Night",
+    "day": "17",
+    "info": "Free"
+  },
+  {
     "sortindex": 1789631100,
     "image": "https://resources.hellorubric.com/uploaded_assets/64ad52b6-077c-4e74-b024-9180c3315026.png",
     "month": "September",
@@ -94,6 +94,20 @@
     "societyname": "UQ Indonesian Student Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
     "title": "LENTERA forum",
+    "day": "18",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1789719300,
+    "image": "https://resources.hellorubric.com/uploaded_assets/0061d2f5-1b34-4da0-9843-0e1735c38a33.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4688,
+    "destination": "/?eid=79873",
+    "societyname": "UQ Ecological Society",
+    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
+    "title": "EcoSoc Research Night",
     "day": "18",
     "info": "Free"
   },
@@ -164,6 +178,20 @@
     "societyname": "UQ Korean Medical Society",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
     "title": "MD2 Mock OSCE",
+    "day": "26",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790391600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3044889b-dc2c-43bd-836c-4b918f901054.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 8867,
+    "destination": "/?eid=79933",
+    "societyname": "UQ Social Lawn Bowls",
+    "societylogo": "https://resources.getqpay.com/images/6695d3c86e9de_.png",
+    "title": "UQ Social Lawn Bowls  ",
     "day": "26",
     "info": "Free"
   },
