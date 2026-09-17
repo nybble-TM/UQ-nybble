@@ -1,47 +1,5 @@
 [
   {
-    "sortindex": 1789527600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 933,
-    "destination": "/?eid=72054",
-    "societyname": "UQ Organisation of Planning Students",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/52ee55bf-2242-4d00-96c6-d87b4dbb4ad0.png",
-    "title": "UQ OOPS, Bruce and ADP BCC Presentation",
-    "day": "16",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1789542000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5dbda52e-dafa-4b60-a146-49ab83170427.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 1926,
-    "destination": "/?eid=75843",
-    "societyname": "QLD Physiotherapy Students Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6b9fca3-5065-442e-90bb-4817555da1f7.png",
-    "title": "QPSA STUDENT vs TEACHER Trivia night",
-    "day": "16",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1789545600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/94e8a5c4-cb8c-404c-8c77-f3fbdc1c5ed0.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 186,
-    "destination": "/?eid=77949",
-    "societyname": "UQ Marketing & Advertising Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
-    "title": "Workshop with TFM - Digital Channels",
-    "day": "16",
-    "info": "Free"
-  },
-  {
     "sortindex": 1789623000,
     "image": "https://resources.hellorubric.com/uploaded_assets/97825f61-ebaa-4d2f-8469-430ffdd11f84.png",
     "month": "September",
@@ -109,6 +67,20 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_670.png",
     "title": "Bike for Peace visits UQ",
     "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790062200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6366dc2a-b5b0-42fa-b2f4-3777c2ee7574.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 1338,
+    "destination": "/?eid=81116",
+    "societyname": "Aus Legal Philosophy Students Assoc",
+    "societylogo": "https://resources.getqpay.com/images/65c1ecb5d8ddf_.png",
+    "title": "Teaching Legal Theory in the Trumpian Era",
+    "day": "22",
     "info": "Free"
   },
   {
@@ -192,20 +164,6 @@
     "societyname": "UQ Indonesian Student Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
     "title": "UQISAtalk with UNESA",
-    "day": "25",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1790323200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8626ec0b-f96a-4bfd-a98f-6c96f407b3bc.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Sport/Competition",
-    "societyid": 2511,
-    "destination": "/?eid=80525",
-    "societyname": "Muslim Students Association UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
-    "title": "Brothers Games Night",
     "day": "25",
     "info": "Free"
   },
