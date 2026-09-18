@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1789623000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/97825f61-ebaa-4d2f-8469-430ffdd11f84.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Show/Performance",
-    "societyid": 6249,
-    "destination": "/?eid=79974",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "Pojok Indonesia Movie Night",
-    "day": "17",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1789631100,
-    "image": "https://resources.hellorubric.com/uploaded_assets/64ad52b6-077c-4e74-b024-9180c3315026.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 547,
-    "destination": "/?eid=77871",
-    "societyname": "UQ Geography and Environmental Management Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
-    "title": "Talk Nerdy to Me - Postgraduate Event ",
-    "day": "17",
-    "info": "Free"
-  },
-  {
     "sortindex": 1789716600,
     "image": "https://resources.hellorubric.com/uploaded_assets/e48536c8-5bf2-4a81-bf8a-33968a118461.jpg",
     "month": "September",
@@ -126,6 +98,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1790150400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5d763699-24e8-4a68-a7bc-4e66cd0b8a14.jpg",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 7597,
+    "destination": "/?eid=80962",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "Hear me out cake ",
+    "day": "23",
+    "info": "Free"
+  },
+  {
     "sortindex": 1790208000,
     "image": "https://resources.hellorubric.com/uploaded_assets/c7cf947f-4c7e-43c0-ad7c-0b61e82c31a0.jpeg",
     "month": "September",
@@ -183,7 +169,7 @@
   },
   {
     "sortindex": 1790391600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3044889b-dc2c-43bd-836c-4b918f901054.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/34c61500-e1dc-438a-a505-bd9b3738aad5.png",
     "month": "September",
     "societyAvgRating": 0,
     "subtitle": "Party/BBQ/Social",
@@ -323,7 +309,7 @@
   },
   {
     "sortindex": 1792569600,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/2796b77a-2fed-46d1-be7c-31d489b9e108.png",
     "month": "October",
     "societyAvgRating": 0,
     "subtitle": "Class/Workshop",
