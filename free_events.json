@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1789716600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/e48536c8-5bf2-4a81-bf8a-33968a118461.jpg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6249,
-    "destination": "/?eid=77531",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "LENTERA forum",
-    "day": "18",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1789719300,
-    "image": "https://resources.hellorubric.com/uploaded_assets/0061d2f5-1b34-4da0-9843-0e1735c38a33.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 4688,
-    "destination": "/?eid=79873",
-    "societyname": "UQ Ecological Society",
-    "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
-    "title": "EcoSoc Research Night",
-    "day": "18",
-    "info": "Free"
-  },
-  {
     "sortindex": 1789957800,
     "image": "https://resources.hellorubric.com/uploaded_assets/73ca0457-4a62-456d-b977-f124567ab20c.png",
     "month": "September",
@@ -277,6 +249,20 @@
     "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
     "title": "Pyrites - WELFARE",
     "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1791880200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f12b7516-daf3-4164-afb3-a8a511e3053e.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 4520,
+    "destination": "/?eid=81838",
+    "societyname": "UQ Radiology Interest Group",
+    "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+    "title": "Annual General Meeting",
+    "day": "13",
     "info": "Free"
   },
   {
