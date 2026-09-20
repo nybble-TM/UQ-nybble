@@ -14,20 +14,6 @@
     "info": "$2.97 - $7.12"
   },
   {
-    "sortindex": 1789808400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5104d6f4-7595-4e5c-a690-a3317b8e51cd.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 358,
-    "destination": "/?eid=66438",
-    "societyname": "UQ African Students Association",
-    "societylogo": "https://resources.getqpay.com/images/642f5e7100980_.png",
-    "title": "Afro Ball: Africa to The World",
-    "day": "19",
-    "info": "$63.09 - $99.37"
-  },
-  {
     "sortindex": 1789851600,
     "image": "https://resources.hellorubric.com/uploaded_assets/a3ec47de-73d2-4e29-81f2-a9b8c25a04ca.jpg",
     "month": "September",
@@ -351,20 +337,6 @@
   },
   {
     "sortindex": 1790236800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3e444f10-86aa-4e76-80e0-6014c5293bf8.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 1601,
-    "destination": "/?eid=77515",
-    "societyname": "UQ Skirts in Engineering",
-    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-    "title": "Winx Club Trivia! Skirts x LIT x BMES",
-    "day": "24",
-    "info": "$4.01"
-  },
-  {
-    "sortindex": 1790236800,
     "image": "https://resources.hellorubric.com/uploaded_assets/b8f12df8-267a-4475-b773-6d045177a760.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -376,6 +348,20 @@
     "title": "Live Lines: Baroque Life Drawing Workshop",
     "day": "24",
     "info": "$21.63 - $26.81"
+  },
+  {
+    "sortindex": 1790236800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/3e444f10-86aa-4e76-80e0-6014c5293bf8.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 1601,
+    "destination": "/?eid=77515",
+    "societyname": "UQ Skirts in Engineering",
+    "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+    "title": "Winx Club Trivia! Skirts x LIT x BMES",
+    "day": "24",
+    "info": "$4.01"
   },
   {
     "sortindex": 1790283600,
@@ -416,6 +402,20 @@
     "societyname": "UQ Indonesian Student Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
     "title": "UQISAtalk with UNESA",
+    "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790308800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f15a01bf-19bc-4321-8eb3-e6be1e72d556.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 7597,
+    "destination": "/?eid=81829",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "UQBxUQM: Snowskin Mooncake class & Mahjong Night",
     "day": "25",
     "info": "Free"
   },
@@ -463,20 +463,6 @@
   },
   {
     "sortindex": 1790377200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 57,
-    "destination": "/?eid=57503",
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "2026 Clayton Utz UQ Unjust Enrichment Moot",
-    "day": "26",
-    "info": "$510.60"
-  },
-  {
-    "sortindex": 1790377200,
     "image": "https://resources.hellorubric.com/uploaded_assets/9acf12f6-007e-4903-8196-37156cbadab6.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -490,18 +476,18 @@
     "info": "$20.00 - $25.00"
   },
   {
-    "sortindex": 1790379000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/565b257c-e868-4b19-ae78-a6c65ed6e5d2.png",
+    "sortindex": 1790377200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
     "month": "September",
     "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6808,
-    "destination": "/?eid=76562",
-    "societyname": "UQ Neurological Society",
-    "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
-    "title": "Brain Surge 2026: Scalpel & Beyond",
+    "subtitle": "Other",
+    "societyid": 57,
+    "destination": "/?eid=57503",
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "2026 Clayton Utz UQ Unjust Enrichment Moot",
     "day": "26",
-    "info": "$26.81 - $42.36"
+    "info": "$510.60"
   },
   {
     "sortindex": 1790379000,
@@ -516,6 +502,20 @@
     "title": "UQCRIT Social EMC 2",
     "day": "26",
     "info": "$16.44"
+  },
+  {
+    "sortindex": 1790379000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/565b257c-e868-4b19-ae78-a6c65ed6e5d2.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 6808,
+    "destination": "/?eid=76562",
+    "societyname": "UQ Neurological Society",
+    "societylogo": "https://resources.getqpay.com/images/66d832c221b97_.png",
+    "title": "Brain Surge 2026: Scalpel & Beyond",
+    "day": "26",
+    "info": "$26.81 - $42.36"
   },
   {
     "sortindex": 1790380800,
@@ -826,6 +826,20 @@
     "info": "$13.34"
   },
   {
+    "sortindex": 1791100800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/754096ab-a4b2-4fe6-afd6-d1c095431b17.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4235,
+    "destination": "/?eid=82025",
+    "societyname": "UQ Formula Racing Society",
+    "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
+    "title": "UQFRS Malaysian Grand Prix Watch Party",
+    "day": "4",
+    "info": "Free"
+  },
+  {
     "sortindex": 1791363600,
     "image": "https://resources.hellorubric.com/uploaded_assets/a3479396-96ad-4b9b-aacd-0ee136726134.png",
     "month": "October",
@@ -925,20 +939,6 @@
   },
   {
     "sortindex": 1791622800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/56ceea49-b2c5-439f-8fba-e277e51a5647.png",
-    "month": "October",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2224,
-    "destination": "/?eid=76704",
-    "societyname": "UQ Social Runners Club",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2224.png",
-    "title": "Semester 2 Awards Night",
-    "day": "10",
-    "info": "$15.00"
-  },
-  {
-    "sortindex": 1791622800,
     "image": "https://resources.hellorubric.com/uploaded_assets/7d836602-bc7e-4191-bb27-f3e482c37e80.jpg",
     "month": "October",
     "societyAvgRating": 0,
@@ -950,6 +950,20 @@
     "title": "UQ SPIA Cultural Night - Voices Before Ink",
     "day": "10",
     "info": "$10.00 - $15.00"
+  },
+  {
+    "sortindex": 1791622800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/56ceea49-b2c5-439f-8fba-e277e51a5647.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2224,
+    "destination": "/?eid=76704",
+    "societyname": "UQ Social Runners Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2224.png",
+    "title": "Semester 2 Awards Night",
+    "day": "10",
+    "info": "$15.00"
   },
   {
     "sortindex": 1791626400,
@@ -1051,20 +1065,6 @@
   },
   {
     "sortindex": 1792053000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/8c39a6ff-a6a6-491d-8e72-dcdecf5966b4.jpg",
-    "month": "October",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 339,
-    "destination": "/?eid=81749",
-    "societyname": "UQ HMNS Student Society",
-    "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
-    "title": "HMNS Networking Night Semester 2",
-    "day": "15",
-    "info": "$0.00 - $6.08"
-  },
-  {
-    "sortindex": 1792053000,
     "image": "https://resources.hellorubric.com/uploaded_assets/56387ded-52b7-4fd0-ac23-34a14bed8736.jpeg",
     "month": "October",
     "societyAvgRating": 0,
@@ -1076,6 +1076,20 @@
     "title": "UQ Education Society Industry Night 2026",
     "day": "15",
     "info": "$0.00 - $5.00"
+  },
+  {
+    "sortindex": 1792053000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/8c39a6ff-a6a6-491d-8e72-dcdecf5966b4.jpg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 339,
+    "destination": "/?eid=81749",
+    "societyname": "UQ HMNS Student Society",
+    "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
+    "title": "HMNS Networking Night Semester 2",
+    "day": "15",
+    "info": "$0.00 - $6.08"
   },
   {
     "sortindex": 1792054800,
@@ -1135,20 +1149,6 @@
   },
   {
     "sortindex": 1792231200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1fd2de8d-619f-485f-838e-d34c77d850d4.jpeg",
-    "month": "October",
-    "societyAvgRating": 0,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 57,
-    "destination": "/?eid=77349",
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "title": "UQLS Valedictory Dinner 2026",
-    "day": "17",
-    "info": "$0.00 - $133.16"
-  },
-  {
-    "sortindex": 1792231200,
     "image": "https://resources.hellorubric.com/uploaded_assets/b80f2720-774b-438d-b17d-cc9fa8e5bc22.jpg",
     "month": "October",
     "societyAvgRating": 0,
@@ -1160,6 +1160,20 @@
     "title": "Sunset Soiree: OTSA Ball 2026",
     "day": "17",
     "info": "$0.00 - $166.74"
+  },
+  {
+    "sortindex": 1792231200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/1fd2de8d-619f-485f-838e-d34c77d850d4.jpeg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 57,
+    "destination": "/?eid=77349",
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "title": "UQLS Valedictory Dinner 2026",
+    "day": "17",
+    "info": "$0.00 - $133.16"
   },
   {
     "sortindex": 1792569600,
@@ -1215,7 +1229,7 @@
     "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
     "title": "HALLOWEEN PARTY NIGHT",
     "day": "30",
-    "info": "$14.83 - $16.87"
+    "info": "$14.83 - $18.91"
   },
   {
     "sortindex": 1793833200,
