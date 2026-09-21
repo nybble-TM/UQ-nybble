@@ -112,17 +112,17 @@
     "info": "Free"
   },
   {
-    "sortindex": 1790308800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/34c6fc8e-a703-47a9-b736-e8064af5adbf.png",
+    "sortindex": 1790229600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/cefdad4c-38e4-46b3-a143-e71f281fa0ed.jpg",
     "month": "September",
     "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6249,
-    "destination": "/?eid=77532",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISAtalk with UNESA",
-    "day": "25",
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2219,
+    "destination": "/?eid=82203",
+    "societyname": "UQ Climate & Energy",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2219.png",
+    "title": "Just Dance for Donuts!",
+    "day": "24",
     "info": "Free"
   },
   {
@@ -136,6 +136,20 @@
     "societyname": "UQ Bakeology",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
     "title": "UQBxUQM: Snowskin Mooncake class & Mahjong Night",
+    "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790308800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/34c6fc8e-a703-47a9-b736-e8064af5adbf.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 6249,
+    "destination": "/?eid=77532",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "UQISAtalk with UNESA",
     "day": "25",
     "info": "Free"
   },
@@ -210,6 +224,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1790632800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/6212c515-14fc-4cf5-a7f5-48a961e4a201.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Trip/Camp",
+    "societyid": 8116,
+    "destination": "/?eid=82204",
+    "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
+    "title": "Toohey Forest Day Hike",
+    "day": "29",
+    "info": "Free"
+  },
+  {
     "sortindex": 1790668800,
     "image": "https://resources.hellorubric.com/uploaded_assets/469a3561-2816-4c3f-9c4d-2f3c10771aff.jpg",
     "month": "September",
@@ -280,6 +308,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1791622800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5e5e47c0-7398-4181-b6e7-2c0512639a02.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Other",
+    "societyid": 2511,
+    "destination": "/?eid=82220",
+    "societyname": "Muslim Students Association UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+    "title": "Bearing Witness",
+    "day": "10",
+    "info": "Free"
+  },
+  {
     "sortindex": 1791880200,
     "image": "https://resources.hellorubric.com/uploaded_assets/f12b7516-daf3-4164-afb3-a8a511e3053e.png",
     "month": "October",
@@ -291,6 +333,20 @@
     "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
     "title": "Annual General Meeting",
     "day": "13",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1791964800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/c0f6b9cb-d416-4036-8134-016004c6b224.jpeg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2294,
+    "destination": "/?eid=82533",
+    "societyname": "Queensland University Games Socierty",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/48f7f250-e51d-4f66-b7bc-2a79e3366b1e.png",
+    "title": "UQSFF x QUGS Games Night",
+    "day": "14",
     "info": "Free"
   },
   {
