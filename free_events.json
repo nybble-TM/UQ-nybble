@@ -1,19 +1,5 @@
 [
   {
-    "sortindex": 1789957800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/73ca0457-4a62-456d-b977-f124567ab20c.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 670,
-    "destination": "/?eid=80365",
-    "societyname": "R2P Student Coalition UQ",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_670.png",
-    "title": "Bike for Peace visits UQ",
-    "day": "21",
-    "info": "Free"
-  },
-  {
     "sortindex": 1790062200,
     "image": "https://resources.hellorubric.com/uploaded_assets/6366dc2a-b5b0-42fa-b2f4-3777c2ee7574.jpg",
     "month": "September",
@@ -98,6 +84,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1790226000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 6249,
+    "destination": "/?eid=83051",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": "Pojok Indonesia: The Proximity Paradox",
+    "day": "24",
+    "info": "Free"
+  },
+  {
     "sortindex": 1790229600,
     "image": "https://resources.hellorubric.com/uploaded_assets/577c48ba-8d89-46a7-8d4b-16f1d8ffd123.png",
     "month": "September",
@@ -127,20 +127,6 @@
   },
   {
     "sortindex": 1790308800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f15a01bf-19bc-4321-8eb3-e6be1e72d556.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 7597,
-    "destination": "/?eid=81829",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "title": "UQBxUQM: Snowskin Mooncake class & Mahjong Night",
-    "day": "25",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1790308800,
     "image": "https://resources.hellorubric.com/uploaded_assets/34c6fc8e-a703-47a9-b736-e8064af5adbf.png",
     "month": "September",
     "societyAvgRating": 0,
@@ -150,6 +136,20 @@
     "societyname": "UQ Indonesian Student Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
     "title": "UQISAtalk with UNESA",
+    "day": "25",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790308800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f15a01bf-19bc-4321-8eb3-e6be1e72d556.png",
+    "month": "September",
+    "societyAvgRating": 0,
+    "subtitle": "Class/Workshop",
+    "societyid": 7597,
+    "destination": "/?eid=81829",
+    "societyname": "UQ Bakeology",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+    "title": "UQBxUQM: Snowskin Mooncake class & Mahjong Night",
     "day": "25",
     "info": "Free"
   },
@@ -249,6 +249,20 @@
     "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
     "title": "BAB Careers Connect 2026",
     "day": "29",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1790812800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f69e7ada-a5e8-4830-9d32-972d65ab5544.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 5398,
+    "destination": "/?eid=82575",
+    "societyname": "UQ Sustainable Innovators Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+    "title": "Woolworths & REMONDIS Industry Visit",
+    "day": "1",
     "info": "Free"
   },
   {
