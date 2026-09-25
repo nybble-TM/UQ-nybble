@@ -1,58 +1,16 @@
 [
   {
-    "sortindex": 1790208000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/c7cf947f-4c7e-43c0-ad7c-0b61e82c31a0.jpeg",
+    "sortindex": 1790308800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/34c6fc8e-a703-47a9-b736-e8064af5adbf.png",
     "month": "September",
     "societyAvgRating": 0,
-    "subtitle": "Other",
-    "societyid": 3219,
-    "destination": "/?eid=77468",
-    "societyname": "UQ Anthropology Society",
-    "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
-    "title": "The Nature of the Gift - Round Two",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1790226000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/481c3747-0291-4ba6-8fcf-396a0c9b615f.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
+    "subtitle": "Industry/Career",
     "societyid": 6249,
-    "destination": "/?eid=83051",
+    "destination": "/?eid=77532",
     "societyname": "UQ Indonesian Student Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "Pojok Indonesia: The Proximity Paradox",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1790229600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/577c48ba-8d89-46a7-8d4b-16f1d8ffd123.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 5398,
-    "destination": "/?eid=78836",
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "title": "Seeds & Talks @ Union College",
-    "day": "24",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1790229600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/cefdad4c-38e4-46b3-a143-e71f281fa0ed.jpg",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2219,
-    "destination": "/?eid=82203",
-    "societyname": "UQ Climate & Energy",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2219.png",
-    "title": "Just Dance for Donuts!",
-    "day": "24",
+    "title": "UQISAtalk with UNESA",
+    "day": "25",
     "info": "Free"
   },
   {
@@ -66,20 +24,6 @@
     "societyname": "UQ Bakeology",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
     "title": "UQBxUQM: Snowskin Mooncake class & Mahjong Night",
-    "day": "25",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1790308800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/34c6fc8e-a703-47a9-b736-e8064af5adbf.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6249,
-    "destination": "/?eid=77532",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISAtalk with UNESA",
     "day": "25",
     "info": "Free"
   },
@@ -210,6 +154,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1791361800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f5abfb9f-6b6e-4895-b740-e89444e394da.jpg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 15422,
+    "destination": "/?eid=83836",
+    "societyname": "UQ Gujarati Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5f30acb1-af55-451c-99ec-5796caaab397.png",
+    "title": "Worlds Apart: India - Lantern Consulting ",
+    "day": "7",
+    "info": "Free"
+  },
+  {
     "sortindex": 1791363600,
     "image": "https://resources.hellorubric.com/uploaded_assets/a3479396-96ad-4b9b-aacd-0ee136726134.png",
     "month": "October",
@@ -280,6 +238,20 @@
     "info": "Free"
   },
   {
+    "sortindex": 1791883800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_11.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Industry/Career",
+    "societyid": 1539,
+    "destination": "/?eid=83818",
+    "societyname": "UQ Women in Science Association",
+    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
+    "title": "Research Networking Night",
+    "day": "13",
+    "info": "Free"
+  },
+  {
     "sortindex": 1791964800,
     "image": "https://resources.hellorubric.com/uploaded_assets/8ecfb6b7-b6ff-4050-887a-58247fb4dba1.jpeg",
     "month": "October",
@@ -329,7 +301,7 @@
     "subtitle": "Party/BBQ/Social",
     "societyid": 8835,
     "destination": "/?eid=70904",
-    "societyname": "UQCCR Student Club",
+    "societyname": "UQ Centre for Clinical Research Student Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
     "title": "UQCCR x SSoFI Herston Boardgames Night",
     "day": "16",
@@ -347,6 +319,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76d5a9d7-a09e-42d4-b6ea-210543c61f19.png",
     "title": "UQ DERM Revision Lecture and AGM",
     "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1793093400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d104727f-f6c8-4caf-adab-ab4b660cd32c.png",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 2308,
+    "destination": "/?eid=83750",
+    "societyname": "Occupational Therapy Students Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
+    "title": "OT Week Student & Staff Trivia 2026",
+    "day": "27",
     "info": "Free"
   },
   {
