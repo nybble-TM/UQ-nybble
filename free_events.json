@@ -1,33 +1,5 @@
 [
   {
-    "sortindex": 1790308800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/34c6fc8e-a703-47a9-b736-e8064af5adbf.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Industry/Career",
-    "societyid": 6249,
-    "destination": "/?eid=77532",
-    "societyname": "UQ Indonesian Student Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
-    "title": "UQISAtalk with UNESA",
-    "day": "25",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1790308800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f15a01bf-19bc-4321-8eb3-e6be1e72d556.png",
-    "month": "September",
-    "societyAvgRating": 0,
-    "subtitle": "Class/Workshop",
-    "societyid": 7597,
-    "destination": "/?eid=81829",
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "title": "UQBxUQM: Snowskin Mooncake class & Mahjong Night",
-    "day": "25",
-    "info": "Free"
-  },
-  {
     "sortindex": 1790380800,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
     "month": "September",
@@ -137,6 +109,20 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "title": "Woolworths & REMONDIS Industry Visit",
     "day": "1",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1791068400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/680fbcb0-acb7-4e8c-9808-947949f9714a.jpeg",
+    "month": "October",
+    "societyAvgRating": 0,
+    "subtitle": "Sport/Competition",
+    "societyid": 6249,
+    "destination": "/?eid=84387",
+    "societyname": "UQ Indonesian Student Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/2804080f-f040-461e-8cb8-05e6e4d5dddc.png",
+    "title": " UQISA x ISAQ x ISAGU x Lari Brisbane Fun Run 2026",
+    "day": "4",
     "info": "Free"
   },
   {
