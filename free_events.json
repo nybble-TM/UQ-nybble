@@ -90,6 +90,21 @@
     "info": "Free"
   },
   {
+    "sortindex": 1791333000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=85100",
+    "title": "Wednesday Academic Tutoring - St James",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 271,
+    "societyname": "UQ Refugee Tutoring Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+    "day": "7",
+    "info": "Free"
+  },
+  {
     "sortindex": 1791361800,
     "image": "https://resources.hellorubric.com/uploaded_assets/f5abfb9f-6b6e-4895-b740-e89444e394da.jpg",
     "societyAvgRating": 0,
@@ -210,6 +225,21 @@
     "info": "Free"
   },
   {
+    "sortindex": 1791937800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=85101",
+    "title": "Wednesday Academic Tutoring - St James",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 271,
+    "societyname": "UQ Refugee Tutoring Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+    "day": "14",
+    "info": "Free"
+  },
+  {
     "sortindex": 1791964800,
     "image": "https://resources.hellorubric.com/uploaded_assets/8ecfb6b7-b6ff-4050-887a-58247fb4dba1.jpeg",
     "societyAvgRating": 0,
@@ -267,6 +297,21 @@
     "societyname": "UQ Centre for Clinical Research Student Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
     "day": "16",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792542600,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=85102",
+    "title": "Wednesday Academic Tutoring - St James",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 271,
+    "societyname": "UQ Refugee Tutoring Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+    "day": "21",
     "info": "Free"
   },
   {
@@ -330,6 +375,36 @@
     "info": "Free"
   },
   {
+    "sortindex": 1793147400,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=85103",
+    "title": "Wednesday Academic Tutoring - St James",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 271,
+    "societyname": "UQ Refugee Tutoring Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+    "day": "28",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1793752200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=85104",
+    "title": "Wednesday Academic Tutoring - St James",
+    "month": "November",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 271,
+    "societyname": "UQ Refugee Tutoring Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+    "day": "4",
+    "info": "Free"
+  },
+  {
     "sortindex": 1793833200,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
     "societyAvgRating": 0,
@@ -342,6 +417,36 @@
     "societyname": "UQ Geoscience Society",
     "societylogo": "https://resources.getqpay.com/images/643bdb25c8935_.png",
     "day": "5",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1794357000,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=85105",
+    "title": "Wednesday Academic Tutoring - St James",
+    "month": "November",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 271,
+    "societyname": "UQ Refugee Tutoring Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+    "day": "11",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1794961800,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=85106",
+    "title": "Wednesday Academic Tutoring - St James",
+    "month": "November",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 271,
+    "societyname": "UQ Refugee Tutoring Club",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+    "day": "18",
     "info": "Free"
   }
 ]
