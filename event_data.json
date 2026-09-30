@@ -36,6 +36,12 @@
     {
       "country_code": "AU",
       "country": "Australia",
+      "state": "Ontario",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
       "state": "Queensland",
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
     },
@@ -97,12 +103,6 @@
       "country_code": "CA",
       "country": "Canada",
       "state": "Nova Scotia",
-      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
-    },
-    {
-      "country_code": "CA",
-      "country": "Canada",
-      "state": "Ontario",
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
     },
     {
@@ -310,7 +310,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 82,
+  "totalItemCount": 86,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -480,6 +480,14 @@
       "id": 33,
       "state": "Northern Territory",
       "shortname": "CDU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/463925cb-34e8-4392-ac39-fd9ac160bf72.png",
+      "name": "Eastern University",
+      "id": 193,
+      "state": "Ontario",
+      "shortname": "Eastern"
     },
     {
       "country": "AU",
@@ -1208,14 +1216,6 @@
       "id": 524,
       "state": "Ontario",
       "shortname": "Durham College"
-    },
-    {
-      "country": "CA",
-      "logo_url": "https://resources.hellorubric.com/uploaded_assets/463925cb-34e8-4392-ac39-fd9ac160bf72.png",
-      "name": "Eastern University",
-      "id": 193,
-      "state": "Ontario",
-      "shortname": "Eastern"
     },
     {
       "country": "CA",
@@ -3007,51 +3007,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1787126400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6c794973-764f-48ca-adde-5196b1622eaf.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=71940",
-      "title": "Consulting Program: Sem 2, 2026",
-      "month": "August",
-      "isUnionItem": false,
-      "subtitle": "Sport/Competition",
-      "societyid": 2219,
-      "societyname": "UQ Climate & Energy",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2219.png",
-      "day": "19",
-      "info": "$2.97 - $7.12"
-    },
-    {
-      "sortindex": 1790373600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f4af052a-123c-4b60-852d-aaaf3e6dc6db.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=77401",
-      "title": "Rainbow Beach Surf Trip",
-      "month": "September",
-      "isUnionItem": false,
-      "subtitle": "Trip/Camp",
-      "societyid": 601,
-      "societyname": "UQ Union Surfers Inc",
-      "societylogo": "https://resources.getqpay.com/images/640f8a0a38742_.png",
-      "day": "26",
-      "info": "$0.00 - $208.20"
-    },
-    {
-      "sortindex": 1790377200,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=57503",
-      "title": "2026 Clayton Utz UQ Unjust Enrichment Moot",
-      "month": "September",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 57,
-      "societyname": "University of Queensland Law Society Inc.",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-      "day": "26",
-      "info": "$510.60"
-    },
-    {
       "sortindex": 1790460000,
       "image": "https://resources.hellorubric.com/uploaded_assets/09bdb87d-169a-407d-bf96-e71c3fb0153c.jpg",
       "societyAvgRating": 0,
@@ -3064,36 +3019,6 @@
       "societyname": "UQ Ecological Society",
       "societylogo": "https://resources.getqpay.com/images/64ca3c4c95979_.png",
       "day": "27",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1790632800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6212c515-14fc-4cf5-a7f5-48a961e4a201.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=82204",
-      "title": "Toohey Forest Day Hike",
-      "month": "September",
-      "isUnionItem": false,
-      "subtitle": "Trip/Camp",
-      "societyid": 8116,
-      "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
-      "day": "29",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1790668800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/469a3561-2816-4c3f-9c4d-2f3c10771aff.jpg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=77357",
-      "title": "BAB Careers Connect 2026",
-      "month": "September",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 5763,
-      "societyname": "Bachelor of Advanced Business (Honours) SPC",
-      "societylogo": "https://resources.getqpay.com/images/651e1bc92c1a1_.png",
-      "day": "29",
       "info": "Free"
     },
     {
@@ -3158,21 +3083,6 @@
     },
     {
       "sortindex": 1790838000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/407b0ced-ad0d-4d29-b0dc-3ec1c576ee55.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=80846",
-      "title": "UQSWS Pub Crawl",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2397,
-      "societyname": "UQ Social Work Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f461da90-1575-4e4a-a738-1d64ee729024.png",
-      "day": "1",
-      "info": "$5.00 - $10.00"
-    },
-    {
-      "sortindex": 1790838000,
       "image": "https://resources.hellorubric.com/uploaded_assets/e76fa82d-294f-4465-a8b8-6f358796597b.png",
       "societyAvgRating": 0,
       "destination": "/?eid=70040",
@@ -3185,6 +3095,21 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
       "day": "1",
       "info": "$3.01 - $4.02"
+    },
+    {
+      "sortindex": 1790838000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/407b0ced-ad0d-4d29-b0dc-3ec1c576ee55.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=80846",
+      "title": "UQSWS Pub Crawl",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2397,
+      "societyname": "UQ Social Work Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f461da90-1575-4e4a-a738-1d64ee729024.png",
+      "day": "1",
+      "info": "$5.00 - $10.00"
     },
     {
       "sortindex": 1790839800,
@@ -3263,21 +3188,6 @@
     },
     {
       "sortindex": 1791016200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/9ee1d445-8b43-4e85-917b-0fc866eebd56.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=77272",
-      "title": "2026 UQ Sports Ball",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 2517,
-      "societyname": "UQ Cheer and Dance Club",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2517.png",
-      "day": "3",
-      "info": "$99.37 - $125.28"
-    },
-    {
-      "sortindex": 1791016200,
       "image": "https://resources.hellorubric.com/uploaded_assets/cb6b8a78-63d1-423e-8fb8-6c812948926f.jpeg",
       "societyAvgRating": 0,
       "destination": "/?eid=82279",
@@ -3292,19 +3202,19 @@
       "info": "$6.08 - $21.63"
     },
     {
-      "sortindex": 1791018000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ee6203b6-c3bf-4584-99a0-aadbff685508.jpg",
+      "sortindex": 1791016200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9ee1d445-8b43-4e85-917b-0fc866eebd56.png",
       "societyAvgRating": 0,
-      "destination": "/?eid=67899",
-      "title": "2026 HMNS Ball: Jazz & Gin - Paris after Midnight",
+      "destination": "/?eid=77272",
+      "title": "2026 UQ Sports Ball",
       "month": "October",
       "isUnionItem": false,
       "subtitle": "Ball/Dinner/Gala",
-      "societyid": 339,
-      "societyname": "UQ HMNS Student Society",
-      "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
+      "societyid": 2517,
+      "societyname": "UQ Cheer and Dance Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2517.png",
       "day": "3",
-      "info": "$99.37 - $140.83"
+      "info": "$99.37 - $125.28"
     },
     {
       "sortindex": 1791018000,
@@ -3320,6 +3230,21 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
       "day": "3",
       "info": "$16.45 - $37.18"
+    },
+    {
+      "sortindex": 1791018000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ee6203b6-c3bf-4584-99a0-aadbff685508.jpg",
+      "societyAvgRating": 0,
+      "destination": "/?eid=67899",
+      "title": "2026 HMNS Ball: Jazz & Gin - Paris after Midnight",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 339,
+      "societyname": "UQ HMNS Student Society",
+      "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
+      "day": "3",
+      "info": "$99.37 - $140.83"
     },
     {
       "sortindex": 1791068400,
@@ -3458,21 +3383,6 @@
     },
     {
       "sortindex": 1791363600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/410e924d-3744-4ce6-a010-a5b9e28db9a2.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=76651",
-      "title": "World In Transition.",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Industry/Career",
-      "societyid": 4465,
-      "societyname": "UQ Political Science and International Relations Society Incorporated",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
-      "day": "7",
-      "info": "$8.16 - $11.27"
-    },
-    {
-      "sortindex": 1791363600,
       "image": "https://resources.hellorubric.com/uploaded_assets/a3479396-96ad-4b9b-aacd-0ee136726134.png",
       "societyAvgRating": 0,
       "destination": "/?eid=78337",
@@ -3485,6 +3395,21 @@
       "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
       "day": "7",
       "info": "Free"
+    },
+    {
+      "sortindex": 1791363600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/410e924d-3744-4ce6-a010-a5b9e28db9a2.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=76651",
+      "title": "World In Transition.",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Industry/Career",
+      "societyid": 4465,
+      "societyname": "UQ Political Science and International Relations Society Incorporated",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
+      "day": "7",
+      "info": "$8.16 - $11.27"
     },
     {
       "sortindex": 1791365400,
@@ -3518,6 +3443,21 @@
     },
     {
       "sortindex": 1791450000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ac5fa9e4-af6f-4841-8089-1b21aebccbe2.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=81191",
+      "title": "UQ ICMJ Sponsors Dinner 2026",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 4177,
+      "societyname": "UQ Intercollegiate Meat Judging",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/7298991d-299b-47a6-b7e1-082062853840.png",
+      "day": "8",
+      "info": "$42.36"
+    },
+    {
+      "sortindex": 1791450000,
       "image": "https://resources.hellorubric.com/uploaded_assets/7d0801c5-d6f7-4723-8e02-84aa87f7190e.jpg",
       "societyAvgRating": 0,
       "destination": "/?eid=79860",
@@ -3532,19 +3472,19 @@
       "info": "$5.65 - $10.75"
     },
     {
-      "sortindex": 1791450000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ac5fa9e4-af6f-4841-8089-1b21aebccbe2.png",
+      "sortindex": 1791501300,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_11.png",
       "societyAvgRating": 0,
-      "destination": "/?eid=81191",
-      "title": "UQ ICMJ Sponsors Dinner 2026",
+      "destination": "/?eid=85114",
+      "title": "Friday Casual English - St James",
       "month": "October",
       "isUnionItem": false,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 4177,
-      "societyname": "UQ Intercollegiate Meat Judging",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/7298991d-299b-47a6-b7e1-082062853840.png",
-      "day": "8",
-      "info": "$42.36"
+      "subtitle": "Other",
+      "societyid": 271,
+      "societyname": "UQ Refugee Tutoring Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+      "day": "9",
+      "info": "Free"
     },
     {
       "sortindex": 1791528540,
@@ -3727,6 +3667,21 @@
       "info": "$0.00 - $11.27"
     },
     {
+      "sortindex": 1791876600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/be4ad0d0-e3dd-4aca-ab70-67ebb77e703f.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=85123",
+      "title": "\ud83c\udfac MSA UQ REWIND 2026",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2511,
+      "societyname": "Muslim Students Association UQ",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/750a2144-9313-4014-a199-e3e32751c110.png",
+      "day": "13",
+      "info": "Free"
+    },
+    {
       "sortindex": 1791878400,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
       "societyAvgRating": 0,
@@ -3743,21 +3698,6 @@
     },
     {
       "sortindex": 1791880200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ba11b173-ed84-46f3-a603-7f4908379587.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=83038",
-      "title": "Clay and Sip '26 \ud83c\udffa\ud83c\udfa8",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 1601,
-      "societyname": "UQ Skirts in Engineering",
-      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
-      "day": "13",
-      "info": "$0.00 - $32.00"
-    },
-    {
-      "sortindex": 1791880200,
       "image": "https://resources.hellorubric.com/uploaded_assets/f12b7516-daf3-4164-afb3-a8a511e3053e.png",
       "societyAvgRating": 0,
       "destination": "/?eid=81838",
@@ -3770,6 +3710,21 @@
       "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
       "day": "13",
       "info": "Free"
+    },
+    {
+      "sortindex": 1791880200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ba11b173-ed84-46f3-a603-7f4908379587.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=83038",
+      "title": "Clay and Sip '26 \ud83c\udffa\ud83c\udfa8",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 1601,
+      "societyname": "UQ Skirts in Engineering",
+      "societylogo": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "day": "13",
+      "info": "$0.00 - $32.00"
     },
     {
       "sortindex": 1791883800,
@@ -3829,7 +3784,7 @@
       "societyname": "Queensland Pharmacy Students' Association",
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
       "day": "14",
-      "info": "$0.00 - $10.00"
+      "info": "Free"
     },
     {
       "sortindex": 1791964800,
@@ -3878,21 +3833,6 @@
     },
     {
       "sortindex": 1792053000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/56387ded-52b7-4fd0-ac23-34a14bed8736.jpeg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=78119",
-      "title": "UQ Education Society Industry Night 2026",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Industry/Career",
-      "societyid": 1643,
-      "societyname": "UQ Education Society",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1643.png",
-      "day": "15",
-      "info": "$0.00 - $5.00"
-    },
-    {
-      "sortindex": 1792053000,
       "image": "https://resources.hellorubric.com/uploaded_assets/8c39a6ff-a6a6-491d-8e72-dcdecf5966b4.jpg",
       "societyAvgRating": 0,
       "destination": "/?eid=81749",
@@ -3907,6 +3847,21 @@
       "info": "$0.00 - $6.08"
     },
     {
+      "sortindex": 1792053000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/56387ded-52b7-4fd0-ac23-34a14bed8736.jpeg",
+      "societyAvgRating": 0,
+      "destination": "/?eid=78119",
+      "title": "UQ Education Society Industry Night 2026",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Industry/Career",
+      "societyid": 1643,
+      "societyname": "UQ Education Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1643.png",
+      "day": "15",
+      "info": "$0.00 - $5.00"
+    },
+    {
       "sortindex": 1792054800,
       "image": "https://resources.hellorubric.com/uploaded_assets/99830b8f-e6f1-4ae8-8a5f-fa2144665280.png",
       "societyAvgRating": 0,
@@ -3919,6 +3874,21 @@
       "societyname": "Justice and the Law Society",
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
       "day": "15",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1792106100,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=85115",
+      "title": "Friday Casual English - St James",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 271,
+      "societyname": "UQ Refugee Tutoring Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+      "day": "16",
       "info": "Free"
     },
     {
@@ -3968,21 +3938,6 @@
     },
     {
       "sortindex": 1792231200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/1fd2de8d-619f-485f-838e-d34c77d850d4.jpeg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=77349",
-      "title": "UQLS Valedictory Dinner 2026",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 57,
-      "societyname": "University of Queensland Law Society Inc.",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-      "day": "17",
-      "info": "$0.00 - $133.16"
-    },
-    {
-      "sortindex": 1792231200,
       "image": "https://resources.hellorubric.com/uploaded_assets/b80f2720-774b-438d-b17d-cc9fa8e5bc22.jpg",
       "societyAvgRating": 0,
       "destination": "/?eid=64738",
@@ -3995,6 +3950,21 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
       "day": "17",
       "info": "$0.00 - $166.74"
+    },
+    {
+      "sortindex": 1792231200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/1fd2de8d-619f-485f-838e-d34c77d850d4.jpeg",
+      "societyAvgRating": 0,
+      "destination": "/?eid=77349",
+      "title": "UQLS Valedictory Dinner 2026",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 57,
+      "societyname": "University of Queensland Law Society Inc.",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "day": "17",
+      "info": "$0.00 - $133.16"
     },
     {
       "sortindex": 1792542600,
@@ -4087,6 +4057,21 @@
       "info": "Free"
     },
     {
+      "sortindex": 1792710900,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=85116",
+      "title": "Friday Casual English - St James",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 271,
+      "societyname": "UQ Refugee Tutoring Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+      "day": "23",
+      "info": "Free"
+    },
+    {
       "sortindex": 1792742400,
       "image": "https://resources.hellorubric.com/uploaded_assets/d09ffa0d-5ef7-4ef3-b6d2-eca2f32ee845.jpg",
       "societyAvgRating": 0,
@@ -4117,6 +4102,21 @@
       "info": "$36.25"
     },
     {
+      "sortindex": 1792746000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/f73ec758-179b-4804-8d2f-718390d915fc.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=85145",
+      "title": "EOY Industry Networking Night ",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 377,
+      "societyname": "UQ Tourism, Hospitality & Events Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
+      "day": "23",
+      "info": "Free"
+    },
+    {
       "sortindex": 1793093400,
       "image": "https://resources.hellorubric.com/uploaded_assets/d104727f-f6c8-4caf-adab-ab4b660cd32c.png",
       "societyAvgRating": 0,
@@ -4144,6 +4144,21 @@
       "societyname": "UQ Refugee Tutoring Club",
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
       "day": "28",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1793315700,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=85117",
+      "title": "Friday Casual English - St James",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 271,
+      "societyname": "UQ Refugee Tutoring Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+      "day": "30",
       "info": "Free"
     },
     {
@@ -4192,6 +4207,21 @@
       "info": "Free"
     },
     {
+      "sortindex": 1793920500,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=85118",
+      "title": "Friday Casual English - St James",
+      "month": "November",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 271,
+      "societyname": "UQ Refugee Tutoring Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+      "day": "6",
+      "info": "Free"
+    },
+    {
       "sortindex": 1794042000,
       "image": "https://resources.hellorubric.com/uploaded_assets/b75d1483-fd87-4212-bd23-c9fb0c9030ce.png",
       "societyAvgRating": 0,
@@ -4222,6 +4252,21 @@
       "info": "Free"
     },
     {
+      "sortindex": 1794525300,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=85119",
+      "title": "Friday Casual English - St James",
+      "month": "November",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 271,
+      "societyname": "UQ Refugee Tutoring Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+      "day": "13",
+      "info": "Free"
+    },
+    {
       "sortindex": 1794961800,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
       "societyAvgRating": 0,
@@ -4234,6 +4279,21 @@
       "societyname": "UQ Refugee Tutoring Club",
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
       "day": "18",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1795130100,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=85120",
+      "title": "Friday Casual English - St James",
+      "month": "November",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 271,
+      "societyname": "UQ Refugee Tutoring Club",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
+      "day": "20",
       "info": "Free"
     }
   ],
