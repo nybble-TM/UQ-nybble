@@ -1,20 +1,5 @@
 [
   {
-    "sortindex": 1790812800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/f69e7ada-a5e8-4830-9d32-972d65ab5544.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=82575",
-    "title": "Woolworths & REMONDIS Industry Visit",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Industry/Career",
-    "societyid": 5398,
-    "societyname": "UQ Sustainable Innovators Club",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
-    "day": "1",
-    "info": "Free"
-  },
-  {
     "sortindex": 1791068400,
     "image": "https://resources.hellorubric.com/uploaded_assets/680fbcb0-acb7-4e8c-9808-947949f9714a.jpeg",
     "societyAvgRating": 0,
@@ -42,6 +27,21 @@
     "societyname": "UQ Formula Racing Society",
     "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
     "day": "4",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1791272700,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86061",
+    "title": "QPSA Intern Training Program Information Night",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Industry/Career",
+    "societyid": 3932,
+    "societyname": "Queensland Pharmacy Students' Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
+    "day": "6",
     "info": "Free"
   },
   {
@@ -195,21 +195,6 @@
     "info": "Free"
   },
   {
-    "sortindex": 1791883800,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_11.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=83818",
-    "title": "Research Networking Night",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Industry/Career",
-    "societyid": 1539,
-    "societyname": "UQ Women in Science Association",
-    "societylogo": "https://resources.getqpay.com/images/63b4bef04d52d_.png",
-    "day": "13",
-    "info": "Free"
-  },
-  {
     "sortindex": 1791937800,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
     "societyAvgRating": 0,
@@ -267,21 +252,6 @@
     "societyname": "UQ Marketing & Advertising Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
     "day": "14",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1792054800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/99830b8f-e6f1-4ae8-8a5f-fa2144665280.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=77931",
-    "title": "Pandora's Box Launch",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 4848,
-    "societyname": "Justice and the Law Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4848.png",
-    "day": "15",
     "info": "Free"
   },
   {
@@ -346,6 +316,21 @@
   },
   {
     "sortindex": 1792573200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/df67434a-1a5e-4fe6-8bcf-2dffe658afae.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86093",
+    "title": "UNIT Exchange Insights Panel",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Class/Workshop",
+    "societyid": 2332,
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792573200,
     "image": "https://resources.hellorubric.com/uploaded_assets/98928ad1-6e9b-4dce-a51a-1b39c1bf3095.jpg",
     "societyAvgRating": 0,
     "destination": "/?eid=84399",
@@ -357,6 +342,21 @@
     "societyname": "UQ Vegan Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792657800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2be0f086-88c1-4de9-9d5a-e964616422d9.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86066",
+    "title": "Industry Night 2026",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Industry/Career",
+    "societyid": 1857,
+    "societyname": "Psychology Students' Association Inc",
+    "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+    "day": "22",
     "info": "Free"
   },
   {
