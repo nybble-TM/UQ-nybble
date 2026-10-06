@@ -120,6 +120,21 @@
     "info": "Free"
   },
   {
+    "sortindex": 1791531000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/4296ad8e-33dd-49a5-96c1-4c2e22994f87.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86933",
+    "title": "Magazine Scrapbook Making Workshop",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Class/Workshop",
+    "societyid": 4430,
+    "societyname": "Handcraft & Art Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
+    "day": "9",
+    "info": "Free"
+  },
+  {
     "sortindex": 1791619200,
     "image": "https://resources.hellorubric.com/uploaded_assets/83b8004b-e3e3-4b30-b386-26f68c33be2b.png",
     "societyAvgRating": 0,
@@ -331,21 +346,6 @@
   },
   {
     "sortindex": 1792569600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/df67434a-1a5e-4fe6-8bcf-2dffe658afae.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=86093",
-    "title": "UNIT Exchange Insights Panel",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Class/Workshop",
-    "societyid": 2332,
-    "societyname": "University Network for Investing and Trading (UQ)",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1792569600,
     "image": "https://resources.hellorubric.com/uploaded_assets/98928ad1-6e9b-4dce-a51a-1b39c1bf3095.jpg",
     "societyAvgRating": 0,
     "destination": "/?eid=84399",
@@ -356,6 +356,21 @@
     "societyid": 2257,
     "societyname": "UQ Vegan Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792569600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/df67434a-1a5e-4fe6-8bcf-2dffe658afae.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86093",
+    "title": "UNIT Exchange Insights Panel",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Class/Workshop",
+    "societyid": 2332,
+    "societyname": "University Network for Investing and Trading (UQ)",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
     "day": "21",
     "info": "Free"
   },
