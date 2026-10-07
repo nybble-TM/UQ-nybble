@@ -1,20 +1,5 @@
 [
   {
-    "sortindex": 1791269100,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=86061",
-    "title": "QPSA Intern Training Program Information Night",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Industry/Career",
-    "societyid": 3932,
-    "societyname": "Queensland Pharmacy Students' Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-    "day": "6",
-    "info": "Free"
-  },
-  {
     "sortindex": 1791329400,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
     "societyAvgRating": 0,
@@ -132,6 +117,21 @@
     "societyname": "Handcraft & Art Club",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
     "day": "9",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1791599400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f922af24-902d-417d-88de-1e9896fee781.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=87350",
+    "title": "Wellington Point Recreation Reserve Day Trip",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Trip/Camp",
+    "societyid": 8116,
+    "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
+    "day": "10",
     "info": "Free"
   },
   {
@@ -285,6 +285,21 @@
     "info": "Free"
   },
   {
+    "sortindex": 1792137600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fb42a89f-2877-4a06-9e7b-46feb6d0952f.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86266",
+    "title": "Flashlight with UQCCJS x UQ Mafia",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2289,
+    "societyname": "UQ Mafia",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b111cce9-f6d9-4846-b3e2-7984c7eddc61.png",
+    "day": "16",
+    "info": "Free"
+  },
+  {
     "sortindex": 1792395000,
     "image": "https://resources.hellorubric.com/uploaded_assets/4cd015fd-2c07-41d9-ad1d-d1cacfa3ffa2.png",
     "societyAvgRating": 0,
@@ -297,6 +312,36 @@
     "societyname": "Queensland Pharmacy Students' Association",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
     "day": "19",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792481400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f1bef1f1-14f5-4ad7-86d1-f86e8a647989.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=87605",
+    "title": "UQKDC AGM & End of Sem Party",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 4271,
+    "societyname": "UQ K-Pop Dance Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "day": "20",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792485000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/96b0764d-3305-49be-98f5-b76899aa350c.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86314",
+    "title": "2026 Annual General Meeting",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 1387,
+    "societyname": "UQ Hong Kong Students Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
+    "day": "20",
     "info": "Free"
   },
   {

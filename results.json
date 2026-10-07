@@ -1,35 +1,5 @@
 [
   {
-    "sortindex": 1791269100,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_4.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=86061",
-    "title": "QPSA Intern Training Program Information Night",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Industry/Career",
-    "societyid": 3932,
-    "societyname": "Queensland Pharmacy Students' Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
-    "day": "6",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1791271800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/3f574fa1-8dbb-45db-8f2d-c87f4ebf0b52.jpg",
-    "societyAvgRating": 0,
-    "destination": "/?eid=83071",
-    "title": "Charity Poker Night for Pink October",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 3911,
-    "societyname": "UQ Fintech Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/464cf1e3-c3cc-41a8-87c0-0688f91fbff9.png",
-    "day": "6",
-    "info": "$5.00"
-  },
-  {
     "sortindex": 1791329400,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_15.png",
     "societyAvgRating": 0,
@@ -106,18 +76,18 @@
   },
   {
     "sortindex": 1791360000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/a3479396-96ad-4b9b-aacd-0ee136726134.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/410e924d-3744-4ce6-a010-a5b9e28db9a2.png",
     "societyAvgRating": 0,
-    "destination": "/?eid=78337",
-    "title": "180DC - Semester 2 Charity Basketball Tournament",
+    "destination": "/?eid=76651",
+    "title": "World In Transition.",
     "month": "October",
     "isUnionItem": false,
-    "subtitle": "Sport/Competition",
-    "societyid": 2409,
-    "societyname": "180 Degrees Consulting - The University of Queensland Branch",
-    "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
+    "subtitle": "Industry/Career",
+    "societyid": 4465,
+    "societyname": "UQ Political Science and International Relations Society Incorporated",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
     "day": "7",
-    "info": "Free"
+    "info": "$8.16 - $11.27"
   },
   {
     "sortindex": 1791360000,
@@ -136,18 +106,18 @@
   },
   {
     "sortindex": 1791360000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/410e924d-3744-4ce6-a010-a5b9e28db9a2.png",
+    "image": "https://resources.hellorubric.com/uploaded_assets/a3479396-96ad-4b9b-aacd-0ee136726134.png",
     "societyAvgRating": 0,
-    "destination": "/?eid=76651",
-    "title": "World In Transition.",
+    "destination": "/?eid=78337",
+    "title": "180DC - Semester 2 Charity Basketball Tournament",
     "month": "October",
     "isUnionItem": false,
-    "subtitle": "Industry/Career",
-    "societyid": 4465,
-    "societyname": "UQ Political Science and International Relations Society Incorporated",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
+    "subtitle": "Sport/Competition",
+    "societyid": 2409,
+    "societyname": "180 Degrees Consulting - The University of Queensland Branch",
+    "societylogo": "https://resources.getqpay.com/images/65d697f684fd9_.png",
     "day": "7",
-    "info": "$8.16 - $11.27"
+    "info": "Free"
   },
   {
     "sortindex": 1791361800,
@@ -181,21 +151,6 @@
   },
   {
     "sortindex": 1791446400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/58ba9fd5-cda0-4b2a-9ad8-883f01ec05da.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=84016",
-    "title": "Par-tee & Pancakes",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 489,
-    "societyname": "UQ Journalism and Communication Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
-    "day": "8",
-    "info": "$11.27 - $16.45"
-  },
-  {
-    "sortindex": 1791446400,
     "image": "https://resources.hellorubric.com/uploaded_assets/ac5fa9e4-af6f-4841-8089-1b21aebccbe2.png",
     "societyAvgRating": 0,
     "destination": "/?eid=81191",
@@ -208,6 +163,21 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/7298991d-299b-47a6-b7e1-082062853840.png",
     "day": "8",
     "info": "$42.36"
+  },
+  {
+    "sortindex": 1791446400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/58ba9fd5-cda0-4b2a-9ad8-883f01ec05da.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=84016",
+    "title": "Par-tee & Pancakes",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 489,
+    "societyname": "UQ Journalism and Communication Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/8861351b-d972-40d5-a47d-ba9ea42721dc.png",
+    "day": "8",
+    "info": "$11.27 - $16.45"
   },
   {
     "sortindex": 1791497700,
@@ -328,6 +298,21 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
     "day": "10",
     "info": "$20.00 - $25.00"
+  },
+  {
+    "sortindex": 1791599400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f922af24-902d-417d-88de-1e9896fee781.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=87350",
+    "title": "Wellington Point Recreation Reserve Day Trip",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Trip/Camp",
+    "societyid": 8116,
+    "societyname": "UQ Birdwatching and Ornithology Society (UQBOS)",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/de87f013-ee60-46f4-916b-b1b3a3e609fc.png",
+    "day": "10",
+    "info": "Free"
   },
   {
     "sortindex": 1791601200,
@@ -690,6 +675,21 @@
     "info": "Free"
   },
   {
+    "sortindex": 1792105200,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_8.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=87613",
+    "title": "Maleny Bird Trip",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Trip/Camp",
+    "societyid": 2235,
+    "societyname": "UQ Photography Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+    "day": "16",
+    "info": "$16.45 - $57.91"
+  },
+  {
     "sortindex": 1792134000,
     "image": "https://resources.hellorubric.com/uploaded_assets/097a72f4-9047-4126-88cf-b755c6d72bbf.jpg",
     "societyAvgRating": 0,
@@ -718,6 +718,21 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
     "day": "16",
     "info": "$0.00 - $2.97"
+  },
+  {
+    "sortindex": 1792137600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/fb42a89f-2877-4a06-9e7b-46feb6d0952f.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86266",
+    "title": "Flashlight with UQCCJS x UQ Mafia",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2289,
+    "societyname": "UQ Mafia",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/b111cce9-f6d9-4846-b3e2-7984c7eddc61.png",
+    "day": "16",
+    "info": "Free"
   },
   {
     "sortindex": 1792222200,
@@ -825,6 +840,36 @@
     "info": "Free"
   },
   {
+    "sortindex": 1792481400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/f1bef1f1-14f5-4ad7-86d1-f86e8a647989.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=87605",
+    "title": "UQKDC AGM & End of Sem Party",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 4271,
+    "societyname": "UQ K-Pop Dance Club",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+    "day": "20",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792485000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/96b0764d-3305-49be-98f5-b76899aa350c.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86314",
+    "title": "2026 Annual General Meeting",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 1387,
+    "societyname": "UQ Hong Kong Students Association",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
+    "day": "20",
+    "info": "Free"
+  },
+  {
     "sortindex": 1792485000,
     "image": "https://resources.hellorubric.com/uploaded_assets/cb36e99d-30a5-4955-94f9-5d0819ea56a8.png",
     "societyAvgRating": 0,
@@ -916,21 +961,6 @@
   },
   {
     "sortindex": 1792654200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2be0f086-88c1-4de9-9d5a-e964616422d9.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=86066",
-    "title": "Industry Night 2026",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Industry/Career",
-    "societyid": 1857,
-    "societyname": "Psychology Students' Association Inc",
-    "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
-    "day": "22",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1792654200,
     "image": "https://resources.hellorubric.com/uploaded_assets/8cd50696-02ce-4881-afaf-8644038ba05d.jpg",
     "societyAvgRating": 0,
     "destination": "/?eid=84737",
@@ -943,6 +973,21 @@
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3147.png",
     "day": "22",
     "info": "$11.27"
+  },
+  {
+    "sortindex": 1792654200,
+    "image": "https://resources.hellorubric.com/uploaded_assets/2be0f086-88c1-4de9-9d5a-e964616422d9.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=86066",
+    "title": "Industry Night 2026",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Industry/Career",
+    "societyid": 1857,
+    "societyname": "Psychology Students' Association Inc",
+    "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+    "day": "22",
+    "info": "Free"
   },
   {
     "sortindex": 1792656000,
@@ -991,21 +1036,6 @@
   },
   {
     "sortindex": 1792742400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/5c622fa0-ad0c-4bd8-89a9-7b4798ff46de.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=77389",
-    "title": "Internal Competitions Dinner",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Ball/Dinner/Gala",
-    "societyid": 57,
-    "societyname": "University of Queensland Law Society Inc.",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
-    "day": "23",
-    "info": "$36.25"
-  },
-  {
-    "sortindex": 1792742400,
     "image": "https://resources.hellorubric.com/uploaded_assets/f73ec758-179b-4804-8d2f-718390d915fc.png",
     "societyAvgRating": 0,
     "destination": "/?eid=85145",
@@ -1018,6 +1048,21 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
     "day": "23",
     "info": "Free"
+  },
+  {
+    "sortindex": 1792742400,
+    "image": "https://resources.hellorubric.com/uploaded_assets/5c622fa0-ad0c-4bd8-89a9-7b4798ff46de.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=77389",
+    "title": "Internal Competitions Dinner",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Ball/Dinner/Gala",
+    "societyid": 57,
+    "societyname": "University of Queensland Law Society Inc.",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+    "day": "23",
+    "info": "$36.25"
   },
   {
     "sortindex": 1792746000,
