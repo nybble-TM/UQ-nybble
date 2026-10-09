@@ -33,11 +33,6 @@
    📍 Muslim Students Association UQ
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=85123
-📅 Annual General Meeting
-   🕒 October 13
-   📍 UQ Radiology Interest Group
-   📝 Free
-   ⛓️‍💥 https://campus.hellorubric.com/?eid=81838
 📅 Wednesday Academic Tutoring - St James
    🕒 October 14
    📍 UQ Refugee Tutoring Club
@@ -45,7 +40,7 @@
    ⛓️‍💥 https://campus.hellorubric.com/?eid=85101
 📅 Our Health, Our Voice: First Nations Health
    🕒 October 14
-   📍 Queensland Pharmacy Students' Association
+   📍 Queensland Pharmacy Students' Association Inc
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=76826
 📅 Thai Language Lesson #2/2026
@@ -63,6 +58,16 @@
    📍 UQ Marketing & Advertising Society
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=83433
+📅 Mandarin Brownie bake class
+   🕒 October 15
+   📍 UQ Bakeology
+   📝 Free
+   ⛓️‍💥 https://campus.hellorubric.com/?eid=88224
+📅 GISA's Annual General Meeting
+   🕒 October 15
+   📍 Gatton International Student Association
+   📝 Free
+   ⛓️‍💥 https://campus.hellorubric.com/?eid=84025
 📅 Friday Casual English - St James
    🕒 October 16
    📍 UQ Refugee Tutoring Club
@@ -80,7 +85,7 @@
    ⛓️‍💥 https://campus.hellorubric.com/?eid=86266
 📅 QPSA AGM 
    🕒 October 19
-   📍 Queensland Pharmacy Students' Association
+   📍 Queensland Pharmacy Students' Association Inc
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=86324
 📅 UQKDC AGM & End of Sem Party
@@ -88,16 +93,21 @@
    📍 UQ K-Pop Dance Club
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=87605
-📅 2026 Annual General Meeting
+📅 Annual General Meeting
    🕒 October 20
-   📍 UQ Hong Kong Students Association
+   📍 UQ Radiology Interest Group
    📝 Free
-   ⛓️‍💥 https://campus.hellorubric.com/?eid=86314
+   ⛓️‍💥 https://campus.hellorubric.com/?eid=81838
 📅 Trivial PSuit - Professional Services Trivia Night
    🕒 October 20
    📍 Financial Management Association of Australia
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=86065
+📅 2026 Annual General Meeting
+   🕒 October 20
+   📍 UQ Hong Kong Students Association
+   📝 Free
+   ⛓️‍💥 https://campus.hellorubric.com/?eid=86314
 📅 Wednesday Academic Tutoring - St James
    🕒 October 21
    📍 UQ Refugee Tutoring Club
@@ -108,21 +118,31 @@
    📍 UQ Derm
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=73598
-📅 AGM 2026
+📅 Careers Night
    🕒 October 21
-   📍 UQ Vegan Society
+   📍 UQ Anthropology Society
    📝 Free
-   ⛓️‍💥 https://campus.hellorubric.com/?eid=84399
+   ⛓️‍💥 https://campus.hellorubric.com/?eid=87990
 📅 UNIT Exchange Insights Panel
    🕒 October 21
    📍 University Network for Investing and Trading (UQ)
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=86093
+📅 AGM 2026
+   🕒 October 21
+   📍 UQ Vegan Society
+   📝 Free
+   ⛓️‍💥 https://campus.hellorubric.com/?eid=84399
 📅 OOPS Annual General Meeting 2026
    🕒 October 22
    📍 UQ Organisation of Planning Students
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=87684
+📅 Annual General Meeting
+   🕒 October 22
+   📍 UQ Muslimah Society
+   📝 Free
+   ⛓️‍💥 https://campus.hellorubric.com/?eid=88030
 📅 Industry Night 2026
    🕒 October 22
    📍 Psychology Students' Association Inc
@@ -163,6 +183,11 @@
    📍 UQ Refugee Tutoring Club
    📝 Free
    ⛓️‍💥 https://campus.hellorubric.com/?eid=85103
+📅 UQAS 2026 Annual General Meeting
+   🕒 October 29
+   📍 UQ Anthropology Society
+   📝 Free
+   ⛓️‍💥 https://campus.hellorubric.com/?eid=88217
 📅 Friday Casual English - St James
    🕒 October 30
    📍 UQ Refugee Tutoring Club
