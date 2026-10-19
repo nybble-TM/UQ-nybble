@@ -8,8 +8,7 @@
     "Party/BBQ/Social",
     "Quiz/Trivia",
     "Show/Performance",
-    "Sport/Competition",
-    "Trip/Camp"
+    "Sport/Competition"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -310,7 +309,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 72,
+  "totalItemCount": 70,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3007,36 +3006,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1792222200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/8ca1ecef-82c6-496a-abc2-986a312760ee.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=46448",
-      "title": "17th Annual Black Tie Ball",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Ball/Dinner/Gala",
-      "societyid": 3225,
-      "societyname": "UQ Gatton Student Association",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/52fae795-af67-4495-ae3d-6c34d48ab8d4.png",
-      "day": "17",
-      "info": "$22.04 - $154.73"
-    },
-    {
-      "sortindex": 1792288800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/fd3dbdec-6c63-449c-96b6-268017701be8.jpg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=85714",
-      "title": "Charity Potluck",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 271,
-      "societyname": "UQ Refugee Tutoring Club",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
-      "day": "18",
-      "info": "$5.00"
-    },
-    {
       "sortindex": 1792364400,
       "image": "https://resources.hellorubric.com/uploaded_assets/48ac40b5-df17-4b7a-8aa0-6cdb35d91010.png",
       "societyAvgRating": 0,
@@ -3203,18 +3172,18 @@
     },
     {
       "sortindex": 1792569600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a82bf5e9-c4b8-4453-851b-350af6cf55e5.png",
+      "image": "https://resources.hellorubric.com/uploaded_assets/98928ad1-6e9b-4dce-a51a-1b39c1bf3095.jpg",
       "societyAvgRating": 0,
-      "destination": "/?eid=84747",
-      "title": "Medicine: The Unasked Questions",
+      "destination": "/?eid=84399",
+      "title": "AGM 2026",
       "month": "October",
       "isUnionItem": false,
-      "subtitle": "Industry/Career",
-      "societyid": 1542,
-      "societyname": "UQ Association of Biomedical Students",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1542.png",
+      "subtitle": "Other",
+      "societyid": 2257,
+      "societyname": "UQ Vegan Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
       "day": "21",
-      "info": "$0.00 - $11.99"
+      "info": "Free"
     },
     {
       "sortindex": 1792569600,
@@ -3233,6 +3202,21 @@
     },
     {
       "sortindex": 1792569600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a82bf5e9-c4b8-4453-851b-350af6cf55e5.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=84747",
+      "title": "Medicine: The Unasked Questions",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Industry/Career",
+      "societyid": 1542,
+      "societyname": "UQ Association of Biomedical Students",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1542.png",
+      "day": "21",
+      "info": "$0.00 - $11.99"
+    },
+    {
+      "sortindex": 1792569600,
       "image": "https://resources.hellorubric.com/uploaded_assets/df67434a-1a5e-4fe6-8bcf-2dffe658afae.png",
       "societyAvgRating": 0,
       "destination": "/?eid=86093",
@@ -3243,21 +3227,6 @@
       "societyid": 2332,
       "societyname": "University Network for Investing and Trading (UQ)",
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-      "day": "21",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1792569600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/98928ad1-6e9b-4dce-a51a-1b39c1bf3095.jpg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=84399",
-      "title": "AGM 2026",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 2257,
-      "societyname": "UQ Vegan Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
       "day": "21",
       "info": "Free"
     },
@@ -3428,21 +3397,6 @@
     },
     {
       "sortindex": 1792735200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/ce15d31a-9214-4f50-b025-de8901a44a91.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=88449",
-      "title": "UQES Magazine Launch & Trivia Night",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 1862,
-      "societyname": "The UQ Economics Society Inc",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
-      "day": "23",
-      "info": "$10.75"
-    },
-    {
-      "sortindex": 1792735200,
       "image": "https://resources.hellorubric.com/uploaded_assets/2666d041-f78a-472a-b6e6-2722d0b89a9a.jpg",
       "societyAvgRating": 0,
       "destination": "/?eid=87240",
@@ -3455,6 +3409,21 @@
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
       "day": "23",
       "info": "Free"
+    },
+    {
+      "sortindex": 1792735200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ce15d31a-9214-4f50-b025-de8901a44a91.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=88449",
+      "title": "UQES Magazine Launch & Trivia Night",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1862,
+      "societyname": "The UQ Economics Society Inc",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+      "day": "23",
+      "info": "$10.75"
     },
     {
       "sortindex": 1792737000,
@@ -3473,21 +3442,6 @@
     },
     {
       "sortindex": 1792740600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a2446407-c88d-4bb6-9ad1-96357167d0de.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=90034",
-      "title": "2026 AGM with FREE Workshops & Food",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 4430,
-      "societyname": "Handcraft & Art Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
-      "day": "23",
-      "info": "$0.00 - $11.27"
-    },
-    {
-      "sortindex": 1792740600,
       "image": "https://resources.hellorubric.com/uploaded_assets/1f1d2737-bef8-4fd8-86fb-066a364d6446.jpg",
       "societyAvgRating": 0,
       "destination": "/?eid=88274",
@@ -3502,19 +3456,19 @@
       "info": "Free"
     },
     {
-      "sortindex": 1792742400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f73ec758-179b-4804-8d2f-718390d915fc.png",
+      "sortindex": 1792740600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a2446407-c88d-4bb6-9ad1-96357167d0de.png",
       "societyAvgRating": 0,
-      "destination": "/?eid=85145",
-      "title": "EOY Industry Networking Night ",
+      "destination": "/?eid=90034",
+      "title": "2026 AGM with FREE Workshops & Food",
       "month": "October",
       "isUnionItem": false,
       "subtitle": "Other",
-      "societyid": 377,
-      "societyname": "UQ Tourism, Hospitality & Events Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
+      "societyid": 4430,
+      "societyname": "Handcraft & Art Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/489e44f6-3484-47a2-9c09-b7bc0e9bb025.png",
       "day": "23",
-      "info": "Free"
+      "info": "$0.00 - $11.27"
     },
     {
       "sortindex": 1792742400,
@@ -3530,6 +3484,21 @@
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
       "day": "23",
       "info": "$36.25"
+    },
+    {
+      "sortindex": 1792742400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/f73ec758-179b-4804-8d2f-718390d915fc.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=85145",
+      "title": "EOY Industry Networking Night ",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 377,
+      "societyname": "UQ Tourism, Hospitality & Events Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
+      "day": "23",
+      "info": "Free"
     },
     {
       "sortindex": 1792743300,
@@ -3653,21 +3622,6 @@
     },
     {
       "sortindex": 1793084400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/88f62a02-589b-4ae8-baed-50fddb11d5f0.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=88943",
-      "title": "Annual General Meeting + Movie Night 2026",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 5729,
-      "societyname": "UQ Food Science Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
-      "day": "27",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1793084400,
       "image": "https://resources.hellorubric.com/uploaded_assets/a81e6409-d281-4ef7-ab4a-66357af9add6.png",
       "societyAvgRating": 0,
       "destination": "/?eid=84027",
@@ -3680,6 +3634,21 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/ddc05044-b9f9-4772-bf19-c3ee32abc824.png",
       "day": "27",
       "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1793084400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/88f62a02-589b-4ae8-baed-50fddb11d5f0.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=88943",
+      "title": "Annual General Meeting + Movie Night 2026",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 5729,
+      "societyname": "UQ Food Science Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+      "day": "27",
+      "info": "Free"
     },
     {
       "sortindex": 1793089800,
@@ -3889,7 +3858,7 @@
       "societyname": "UQ Naatak",
       "societylogo": "https://resources.getqpay.com/images/64bfdd3478d1f_.png",
       "day": "31",
-      "info": "$10.23 - $15.41"
+      "info": "$6.08 - $11.27"
     },
     {
       "sortindex": 1793499660,

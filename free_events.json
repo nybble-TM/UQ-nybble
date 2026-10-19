@@ -121,6 +121,21 @@
   },
   {
     "sortindex": 1792569600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/98928ad1-6e9b-4dce-a51a-1b39c1bf3095.jpg",
+    "societyAvgRating": 0,
+    "destination": "/?eid=84399",
+    "title": "AGM 2026",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Other",
+    "societyid": 2257,
+    "societyname": "UQ Vegan Society",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
+    "day": "21",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1792569600,
     "image": "https://resources.hellorubric.com/uploaded_assets/777986fa-0730-4e25-a939-bd2618f4682a.jpeg",
     "societyAvgRating": 0,
     "destination": "/?eid=87990",
@@ -146,21 +161,6 @@
     "societyid": 2332,
     "societyname": "University Network for Investing and Trading (UQ)",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
-    "day": "21",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1792569600,
-    "image": "https://resources.hellorubric.com/uploaded_assets/98928ad1-6e9b-4dce-a51a-1b39c1bf3095.jpg",
-    "societyAvgRating": 0,
-    "destination": "/?eid=84399",
-    "title": "AGM 2026",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Other",
-    "societyid": 2257,
-    "societyname": "UQ Vegan Society",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/76735535-d765-495e-a210-f69a9591f788.png",
     "day": "21",
     "info": "Free"
   },
