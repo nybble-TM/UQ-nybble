@@ -1,20 +1,5 @@
 [
   {
-    "sortindex": 1792818000,
-    "image": "https://resources.hellorubric.com/uploaded_assets/b775b342-6604-43d3-b62a-3b616ddb9efa.jpeg",
-    "societyAvgRating": 0,
-    "destination": "/?eid=88415",
-    "title": "UQ Bakeology 2026 Annual General Meeting",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 7597,
-    "societyname": "UQ Bakeology",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
-    "day": "24",
-    "info": "Free"
-  },
-  {
     "sortindex": 1793071800,
     "image": "https://resources.hellorubric.com/uploaded_assets/274d80aa-fb92-448d-82c1-5956f945b351.jpg",
     "societyAvgRating": 0,
@@ -46,21 +31,6 @@
   },
   {
     "sortindex": 1793089800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/d104727f-f6c8-4caf-adab-ab4b660cd32c.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=83750",
-    "title": "OT Week Student & Staff Trivia 2026",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Quiz/Trivia",
-    "societyid": 2308,
-    "societyname": "Occupational Therapy Students Association",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
-    "day": "27",
-    "info": "Free"
-  },
-  {
-    "sortindex": 1793089800,
     "image": "https://resources.hellorubric.com/uploaded_assets/6d25446a-f753-425c-9950-8aeeaa177f6e.png",
     "societyAvgRating": 0,
     "destination": "/?eid=90992",
@@ -71,6 +41,21 @@
     "societyid": 2332,
     "societyname": "University Network for Investing and Trading (UQ)",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+    "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1793089800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/d104727f-f6c8-4caf-adab-ab4b660cd32c.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=83750",
+    "title": "OT Week Student & Staff Trivia 2026",
+    "month": "October",
+    "isUnionItem": false,
+    "subtitle": "Quiz/Trivia",
+    "societyid": 2308,
+    "societyname": "Occupational Therapy Students Association",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/5a74a470-ace6-4655-9b42-68b73e3047f0.png",
     "day": "27",
     "info": "Free"
   },
