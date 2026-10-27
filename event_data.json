@@ -6,8 +6,7 @@
     "Other",
     "Party/BBQ/Social",
     "Quiz/Trivia",
-    "Show/Performance",
-    "Sport/Competition"
+    "Show/Performance"
   ],
   "showRatingsReviews": false,
   "selectedEventsPeriodFilter": "All",
@@ -308,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 39,
+  "totalItemCount": 40,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3005,21 +3004,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1792990800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/79bfb167-27c5-41f2-a195-74945f28f100.jpg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=90718",
-      "title": "Social Pickleball",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Sport/Competition",
-      "societyid": 3867,
-      "societyname": "UQ International Students' Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/57caac52-ad16-4528-8cc4-e01c3cf65692.png",
-      "day": "26",
-      "info": "$8.16 - $12.30"
-    },
-    {
       "sortindex": 1793071800,
       "image": "https://resources.hellorubric.com/uploaded_assets/274d80aa-fb92-448d-82c1-5956f945b351.jpg",
       "societyAvgRating": 0,
@@ -3111,6 +3095,21 @@
     },
     {
       "sortindex": 1793170800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/3cb0f321-71c0-4bc3-8c1e-2130b1a9feac.jpeg",
+      "societyAvgRating": 0,
+      "destination": "/?eid=88030",
+      "title": "Annual General Meeting",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Class/Workshop",
+      "societyid": 1028,
+      "societyname": "UQ Muslimah Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e7802692-c3b5-45ef-a87a-94216bd3869c.png",
+      "day": "28",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1793170800,
       "image": "https://resources.hellorubric.com/uploaded_assets/6e68a024-9b46-4e18-9fbf-70ec40b79a1f.jpg",
       "societyAvgRating": 0,
       "destination": "/?eid=89441",
@@ -3155,6 +3154,21 @@
       "info": "Free"
     },
     {
+      "sortindex": 1793228400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ec9b70a7-d6df-415a-936c-ff5d74ecab3d.jpg",
+      "societyAvgRating": 0,
+      "destination": "/?eid=91513",
+      "title": "Indigenous Food Workshop",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Class/Workshop",
+      "societyid": 5729,
+      "societyname": "UQ Food Science Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+      "day": "29",
+      "info": "Free"
+    },
+    {
       "sortindex": 1793256300,
       "image": "https://resources.hellorubric.com/uploaded_assets/9f2a5bf6-1971-4ecb-a093-85e3002a45fb.png",
       "societyAvgRating": 0,
@@ -3186,21 +3200,6 @@
     },
     {
       "sortindex": 1793259000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/4e571be9-c736-4ffc-9309-17cbc704e2fd.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=77968",
-      "title": "End of Year Quiz",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 4520,
-      "societyname": "UQ Radiology Interest Group",
-      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
-      "day": "29",
-      "info": "$0.00 - $6.71"
-    },
-    {
-      "sortindex": 1793259000,
       "image": "https://resources.hellorubric.com/uploaded_assets/6fe53792-5123-4ba4-a1b4-25b410c6199a.png",
       "societyAvgRating": 0,
       "destination": "/?eid=90109",
@@ -3213,6 +3212,21 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
       "day": "29",
       "info": "$52.73"
+    },
+    {
+      "sortindex": 1793259000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/4e571be9-c736-4ffc-9309-17cbc704e2fd.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=77968",
+      "title": "End of Year Quiz",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 4520,
+      "societyname": "UQ Radiology Interest Group",
+      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+      "day": "29",
+      "info": "$0.00 - $6.71"
     },
     {
       "sortindex": 1793260800,
@@ -3575,7 +3589,7 @@
       "info": "$120.10 - $135.64"
     },
     {
-      "sortindex": 1795489200,
+      "sortindex": 1795491000,
       "image": "https://resources.hellorubric.com/uploaded_assets/d872f1ee-db06-4ec1-8a21-225b8602156b.png",
       "societyAvgRating": 0,
       "destination": "/?eid=88409",
