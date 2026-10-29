@@ -307,7 +307,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 36,
+  "totalItemCount": 33,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3004,81 +3004,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1793143800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_18.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=85103",
-      "title": "Wednesday Academic Tutoring - St James",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 271,
-      "societyname": "UQ Refugee Tutoring Club",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
-      "day": "28",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1793170800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/3cb0f321-71c0-4bc3-8c1e-2130b1a9feac.jpeg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=88030",
-      "title": "Annual General Meeting",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Class/Workshop",
-      "societyid": 1028,
-      "societyname": "UQ Muslimah Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e7802692-c3b5-45ef-a87a-94216bd3869c.png",
-      "day": "28",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1793170800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6e68a024-9b46-4e18-9fbf-70ec40b79a1f.jpg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=89441",
-      "title": "Stitches After Dark: A Halloween Embroidery Night",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Class/Workshop",
-      "societyid": 649,
-      "societyname": "Society of Fine Arts",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-      "day": "28",
-      "info": "$0.00 - $5.00"
-    },
-    {
-      "sortindex": 1793172600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f0ac4366-2ac1-483a-b507-398dd4a44410.jpeg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=91269",
-      "title": "Classics on Canvas",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 683,
-      "societyname": "UQ Classics and Ancient History Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f9ee35d4-fe7c-4a48-844f-1d6162ef5019.png",
-      "day": "28",
-      "info": "$10.00 - $15.00"
-    },
-    {
-      "sortindex": 1793176200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/fa9739c0-ac11-4ca5-978e-3e7bd09a46b0.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=85437",
-      "title": "Annual General Meeting + Movie Night",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 102,
-      "societyname": "The Filipino-Australian Student Association of the University of Queensland",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/598e542a-6be8-4990-bb9b-a1d60a42504d.png",
-      "day": "28",
-      "info": "Free"
-    },
-    {
       "sortindex": 1793228400,
       "image": "https://resources.hellorubric.com/uploaded_assets/ec9b70a7-d6df-415a-936c-ff5d74ecab3d.jpg",
       "societyAvgRating": 0,
@@ -3125,21 +3050,6 @@
     },
     {
       "sortindex": 1793259000,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6fe53792-5123-4ba4-a1b4-25b410c6199a.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=90109",
-      "title": "QUEST End of Sem Boat Party ",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 534,
-      "societyname": "QUEST Society Inc",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
-      "day": "29",
-      "info": "$52.73"
-    },
-    {
-      "sortindex": 1793259000,
       "image": "https://resources.hellorubric.com/uploaded_assets/4e571be9-c736-4ffc-9309-17cbc704e2fd.png",
       "societyAvgRating": 0,
       "destination": "/?eid=77968",
@@ -3152,6 +3062,21 @@
       "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
       "day": "29",
       "info": "$0.00 - $6.71"
+    },
+    {
+      "sortindex": 1793259000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6fe53792-5123-4ba4-a1b4-25b410c6199a.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=90109",
+      "title": "QUEST End of Sem Boat Party ",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 534,
+      "societyname": "QUEST Society Inc",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f2f2a262-09d4-426e-97a4-34f7c74a9972.png",
+      "day": "29",
+      "info": "$52.73"
     },
     {
       "sortindex": 1793260800,
@@ -3215,6 +3140,21 @@
     },
     {
       "sortindex": 1793347200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7544b5ae-0a45-47d1-84a4-fcc2caa4a4b2.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=88244",
+      "title": "Semester 2 EOS Drinks",
+      "month": "October",
+      "isUnionItem": false,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2299,
+      "societyname": "The University of Queensland Computing Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/1cd8d841-7767-451a-add4-de1f4286283d.png",
+      "day": "30",
+      "info": "$16.45 - $26.81"
+    },
+    {
+      "sortindex": 1793347200,
       "image": "https://resources.hellorubric.com/uploaded_assets/1c52eeb3-6436-4326-b0f1-76c09cd37ce4.jpg",
       "societyAvgRating": 0,
       "destination": "/?eid=73639",
@@ -3242,21 +3182,6 @@
       "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
       "day": "30",
       "info": "$14.83 - $18.91"
-    },
-    {
-      "sortindex": 1793347200,
-      "image": "https://resources.hellorubric.com/uploaded_assets/7544b5ae-0a45-47d1-84a4-fcc2caa4a4b2.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=88244",
-      "title": "Semester 2 EOS Drinks",
-      "month": "October",
-      "isUnionItem": false,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 2299,
-      "societyname": "The University of Queensland Computing Society",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/1cd8d841-7767-451a-add4-de1f4286283d.png",
-      "day": "30",
-      "info": "$16.45 - $26.81"
     },
     {
       "sortindex": 1793348100,
@@ -3364,6 +3289,21 @@
       "info": "$15.85 - $36.25"
     },
     {
+      "sortindex": 1793678400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/e9456727-7ebf-4cc8-b273-827383dea1ac.jpeg",
+      "societyAvgRating": 0,
+      "destination": "/?eid=91409",
+      "title": "Study Session",
+      "month": "November",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 4271,
+      "societyname": "UQ K-Pop Dance Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
+      "day": "3",
+      "info": "$0.00 - $1.94"
+    },
+    {
       "sortindex": 1793692800,
       "image": "https://resources.hellorubric.com/uploaded_assets/f2d85277-0657-46e5-b550-b1e0f0465a41.jpg",
       "societyAvgRating": 0,
@@ -3452,6 +3392,21 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
       "day": "7",
       "info": "$40.00 - $42.36"
+    },
+    {
+      "sortindex": 1794272400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2f566e6e-b001-4438-a4e1-91037d7763ce.jpeg",
+      "societyAvgRating": 0,
+      "destination": "/?eid=92034",
+      "title": "UBS on Campus",
+      "month": "November",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 6994,
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+      "day": "10",
+      "info": "Free"
     },
     {
       "sortindex": 1794353400,
