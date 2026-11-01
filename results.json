@@ -1,36 +1,6 @@
 [
   {
-    "sortindex": 1793347200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/1c52eeb3-6436-4326-b0f1-76c09cd37ce4.jpg",
-    "societyAvgRating": 0,
-    "destination": "/?eid=73639",
-    "title": "2026 Ag Soiree ",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Other",
-    "societyid": 4176,
-    "societyname": "UQ Agricultural Science Society",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4176.png",
-    "day": "30",
-    "info": "$26.81 - $42.36"
-  },
-  {
-    "sortindex": 1793428200,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2fa47d28-5b7d-4bed-9fe2-57e0fa88ab3c.jpg",
-    "societyAvgRating": 0,
-    "destination": "/?eid=88869",
-    "title": "DETECTIVE DEV",
-    "month": "October",
-    "isUnionItem": false,
-    "subtitle": "Show/Performance",
-    "societyid": 7218,
-    "societyname": "UQ Naatak",
-    "societylogo": "https://resources.getqpay.com/images/64bfdd3478d1f_.png",
-    "day": "31",
-    "info": "$0.00 - $11.27"
-  },
-  {
-    "sortindex": 1793503800,
+    "sortindex": 1793507400,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
     "societyAvgRating": 0,
     "destination": "/?eid=89227",
@@ -43,21 +13,6 @@
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/accb2a5d-9bcd-46d4-b573-5fef4a2420ac.png",
     "day": "1",
     "info": "$11.27 - $13.86"
-  },
-  {
-    "sortindex": 1793512800,
-    "image": "https://resources.hellorubric.com/uploaded_assets/829dc41f-159e-4987-a7a5-32e23b003b79.jpeg",
-    "societyAvgRating": 0,
-    "destination": "/?eid=89271",
-    "title": "ACYA UQ 3v3 Basketball Tournament ",
-    "month": "November",
-    "isUnionItem": false,
-    "subtitle": "Party/BBQ/Social",
-    "societyid": 2232,
-    "societyname": "Australia-China Youth Association at UQ",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/75b570ee-75da-4464-890c-26a803bc3e1f.png",
-    "day": "1",
-    "info": "$5.05 - $13.86"
   },
   {
     "sortindex": 1793512800,
@@ -75,6 +30,21 @@
     "info": "$0.00 - $6.08"
   },
   {
+    "sortindex": 1793512800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/829dc41f-159e-4987-a7a5-32e23b003b79.jpeg",
+    "societyAvgRating": 0,
+    "destination": "/?eid=89271",
+    "title": "ACYA UQ 3v3 Basketball Tournament ",
+    "month": "November",
+    "isUnionItem": false,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 2232,
+    "societyname": "Australia-China Youth Association at UQ",
+    "societylogo": "https://resources.hellorubric.com/uploaded_assets/75b570ee-75da-4464-890c-26a803bc3e1f.png",
+    "day": "1",
+    "info": "$5.05 - $13.86"
+  },
+  {
     "sortindex": 1793520000,
     "image": "https://resources.hellorubric.com/uploaded_assets/468b062a-be31-40bf-af4d-f80bb932ab9a.png",
     "societyAvgRating": 0,
@@ -87,7 +57,7 @@
     "societyname": "UQ Sri Lankan Association",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
     "day": "1",
-    "info": "$15.85 - $36.25"
+    "info": "$0.00 - $36.25"
   },
   {
     "sortindex": 1793678400,
