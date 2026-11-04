@@ -1,7 +1,6 @@
 {
   "selectedUniversityId": "12",
   "society_event_types": [
-    "Class/Workshop",
     "Industry/Career",
     "Other",
     "Party/BBQ/Social"
@@ -3002,36 +3001,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1793678400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/e9456727-7ebf-4cc8-b273-827383dea1ac.jpeg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=91409",
-      "title": "Study Session",
-      "month": "November",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 4271,
-      "societyname": "UQ K-Pop Dance Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f97d1d56-44b6-4b1b-8ee9-925f9aea2dac.png",
-      "day": "3",
-      "info": "$0.00 - $1.94"
-    },
-    {
-      "sortindex": 1793692800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/f2d85277-0657-46e5-b550-b1e0f0465a41.jpg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=88505",
-      "title": "Industry Night",
-      "month": "November",
-      "isUnionItem": false,
-      "subtitle": "Class/Workshop",
-      "societyid": 649,
-      "societyname": "Society of Fine Arts",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-      "day": "3",
-      "info": "Free"
-    },
-    {
       "sortindex": 1793748600,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
       "societyAvgRating": 0,
@@ -3197,6 +3166,21 @@
       "info": "Free"
     },
     {
+      "sortindex": 1795129200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/36bd1b8f-5817-4c3e-adaf-20f6128a009e.jpg",
+      "societyAvgRating": 0,
+      "destination": "/?eid=92760",
+      "title": "Arnott's Industry Tour",
+      "month": "November",
+      "isUnionItem": false,
+      "subtitle": "Industry/Career",
+      "societyid": 5729,
+      "societyname": "UQ Food Science Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a2403f1f-351f-4667-bd7e-5cae2b037bc2.png",
+      "day": "20",
+      "info": "$0.00 - $6.08"
+    },
+    {
       "sortindex": 1795136400,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
       "societyAvgRating": 0,
@@ -3210,6 +3194,21 @@
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
       "day": "20",
       "info": "$16.45"
+    },
+    {
+      "sortindex": 1795161600,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=93003",
+      "title": "Speech '26 Grad Party",
+      "month": "November",
+      "isUnionItem": false,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1816,
+      "societyname": "UQ Speech Pathology and Audiology Student's Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
+      "day": "20",
+      "info": "$11.27"
     },
     {
       "sortindex": 1795161600,
