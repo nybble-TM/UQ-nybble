@@ -304,7 +304,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 16,
+  "totalItemCount": 15,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -610,6 +610,14 @@
       "id": 17,
       "state": "Victoria",
       "shortname": "RMIT"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/d172084212161f59931bf533c60f9e5a.png",
+      "name": "Student Experience University",
+      "id": 547,
+      "state": "Victoria",
+      "shortname": "SENUNI"
     },
     {
       "country": "AU",
@@ -2101,7 +2109,7 @@
     },
     {
       "country": "GB",
-      "logo_url": "https://resources.getqpay.com/images/university_logos/126.jpg",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/79c6e69f-c1f2-4286-9bb7-704d46e8d27c.png",
       "name": "Lancaster University",
       "id": 126,
       "state": "North West",
@@ -3001,21 +3009,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1793748600,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=85104",
-      "title": "Wednesday Academic Tutoring - St James",
-      "month": "November",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 271,
-      "societyname": "UQ Refugee Tutoring Club",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
-      "day": "4",
-      "info": "Free"
-    },
-    {
       "sortindex": 1793829600,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_1.png",
       "societyAvgRating": 0,
@@ -3185,7 +3178,7 @@
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_13.png",
       "societyAvgRating": 0,
       "destination": "/?eid=92226",
-      "title": "SPASA End of Sem Cupcake Decorating",
+      "title": "Beaded Cupcake Decorating and Boba",
       "month": "November",
       "isUnionItem": false,
       "subtitle": "Party/BBQ/Social",
@@ -3208,7 +3201,7 @@
       "societyname": "UQ Speech Pathology and Audiology Student's Association",
       "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
       "day": "20",
-      "info": "$11.27"
+      "info": "$42.36"
     },
     {
       "sortindex": 1795161600,
