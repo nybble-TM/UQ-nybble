@@ -304,7 +304,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 15,
+  "totalItemCount": 16,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3217,6 +3217,21 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/924c4637-4c70-4c01-a289-68e0bf8afad2.png",
       "day": "20",
       "info": "$120.10 - $135.64"
+    },
+    {
+      "sortindex": 1795318200,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=93224",
+      "title": "2026 Las Vegas Grand Prix Watch Party",
+      "month": "November",
+      "isUnionItem": false,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 4235,
+      "societyname": "UQ Formula Racing Society",
+      "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
+      "day": "22",
+      "info": "$11.27"
     },
     {
       "sortindex": 1795491000,
