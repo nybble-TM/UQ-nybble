@@ -304,7 +304,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 14,
+  "totalItemCount": 12,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3008,36 +3008,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1794009600,
-      "image": "https://resources.hellorubric.com/uploaded_assets/6b205c02-0e94-441d-bdd0-d575a9b5cf11.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=91890",
-      "title": "End of Year Boardgames",
-      "month": "November",
-      "isUnionItem": false,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 8835,
-      "societyname": "UQ Centre for Clinical Research Student Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-      "day": "7",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1794038400,
-      "image": "https://resources.hellorubric.com/uploaded_assets/030109ed-af71-4c50-8968-eaec18f70d44.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=72519",
-      "title": "HIFI End of Year Celebration",
-      "month": "November",
-      "isUnionItem": false,
-      "subtitle": "Party/BBQ/Social",
-      "societyid": 8835,
-      "societyname": "UQ Centre for Clinical Research Student Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
-      "day": "7",
-      "info": "$40.00 - $42.36"
-    },
     {
       "sortindex": 1794272400,
       "image": "https://resources.hellorubric.com/uploaded_assets/2f566e6e-b001-4438-a4e1-91037d7763ce.jpeg",
