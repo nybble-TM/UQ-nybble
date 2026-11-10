@@ -117,7 +117,7 @@
     "societyname": "UQ Speech Pathology and Audiology Student's Association",
     "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1816.png",
     "day": "20",
-    "info": "$16.45"
+    "info": "$8.16"
   },
   {
     "sortindex": 1795161600,
@@ -150,6 +150,21 @@
     "info": "$120.10 - $135.64"
   },
   {
+    "sortindex": 1795249800,
+    "image": "https://resources.hellorubric.com/uploaded_assets/a1dc284c-b751-4037-93de-104c199f7756.jpg",
+    "societyAvgRating": 0,
+    "destination": "/?eid=92112",
+    "title": "Arty Party",
+    "month": "November",
+    "isUnionItem": false,
+    "subtitle": "Class/Workshop",
+    "societyid": 649,
+    "societyname": "Society of Fine Arts",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+    "day": "21",
+    "info": "$6.08 - $16.45"
+  },
+  {
     "sortindex": 1795318200,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
     "societyAvgRating": 0,
@@ -163,6 +178,21 @@
     "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
     "day": "22",
     "info": "$11.27"
+  },
+  {
+    "sortindex": 1795419900,
+    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
+    "societyAvgRating": 0,
+    "destination": "/?eid=93962",
+    "title": "Cyber Squad EOS meetup 2026 Sem 2",
+    "month": "November",
+    "isUnionItem": false,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 4787,
+    "societyname": "UQ Cyber Squad",
+    "societylogo": "https://resources.getqpay.com/images/65a3651e473ec_.png",
+    "day": "23",
+    "info": "$10.00"
   },
   {
     "sortindex": 1795491000,
