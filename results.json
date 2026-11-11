@@ -1,20 +1,5 @@
 [
   {
-    "sortindex": 1794272400,
-    "image": "https://resources.hellorubric.com/uploaded_assets/2f566e6e-b001-4438-a4e1-91037d7763ce.jpeg",
-    "societyAvgRating": 0,
-    "destination": "/?eid=92034",
-    "title": "UBS on Campus",
-    "month": "November",
-    "isUnionItem": false,
-    "subtitle": "Other",
-    "societyid": 6994,
-    "societyname": "Financial Management Association of Australia",
-    "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
-    "day": "10",
-    "info": "Free"
-  },
-  {
     "sortindex": 1794353400,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
     "societyAvgRating": 0,
@@ -178,6 +163,21 @@
     "societylogo": "https://resources.getqpay.com/images/63e0409215eb6_.png",
     "day": "22",
     "info": "$11.27"
+  },
+  {
+    "sortindex": 1795323600,
+    "image": "https://resources.hellorubric.com/uploaded_assets/7779a687-155f-4ed0-821d-e1f7e98e847a.jpg",
+    "societyAvgRating": 0,
+    "destination": "/?eid=94331",
+    "title": "UQES x UQBA End of Sem Party",
+    "month": "November",
+    "isUnionItem": false,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 1862,
+    "societyname": "The UQ Economics Society Inc",
+    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1862.png",
+    "day": "22",
+    "info": "Free"
   },
   {
     "sortindex": 1795419900,
