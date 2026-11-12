@@ -305,7 +305,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 14,
+  "totalItemCount": 13,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3009,21 +3009,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1794353400,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_2.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=85105",
-      "title": "Wednesday Academic Tutoring - St James",
-      "month": "November",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 271,
-      "societyname": "UQ Refugee Tutoring Club",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
-      "day": "11",
-      "info": "Free"
-    },
     {
       "sortindex": 1794521700,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
