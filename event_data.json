@@ -305,7 +305,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 14,
+  "totalItemCount": 13,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3010,36 +3010,6 @@
   "success": true,
   "results": [
     {
-      "sortindex": 1794521700,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=85119",
-      "title": "Friday Casual English - St James",
-      "month": "November",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 271,
-      "societyname": "UQ Refugee Tutoring Club",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
-      "day": "13",
-      "info": "Free"
-    },
-    {
-      "sortindex": 1794556800,
-      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_9.png",
-      "societyAvgRating": 0,
-      "destination": "/?eid=92258",
-      "title": "2026 UQ Greens AGM",
-      "month": "November",
-      "isUnionItem": false,
-      "subtitle": "Other",
-      "societyid": 2652,
-      "societyname": "UQ Greens Club",
-      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5403ff09-fcc8-40e8-bfef-55eb1e85bf25.png",
-      "day": "13",
-      "info": "Free"
-    },
-    {
       "sortindex": 1794958200,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
       "societyAvgRating": 0,
@@ -3203,6 +3173,21 @@
       "societylogo": "https://resources.hellorubric.com/uploaded_assets/823c799e-cac0-4f15-a1c3-acc3b30dc9b3.png",
       "day": "24",
       "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1795507320,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_6.png",
+      "societyAvgRating": 0,
+      "destination": "/?eid=94631",
+      "title": "2026 Special General Meeting",
+      "month": "November",
+      "isUnionItem": false,
+      "subtitle": "Other",
+      "societyid": 1387,
+      "societyname": "UQ Hong Kong Students Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
+      "day": "24",
+      "info": "Free"
     },
     {
       "sortindex": 1795762800,
