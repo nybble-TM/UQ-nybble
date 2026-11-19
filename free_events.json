@@ -1,20 +1,5 @@
 [
   {
-    "sortindex": 1794958200,
-    "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
-    "societyAvgRating": 0,
-    "destination": "/?eid=85106",
-    "title": "Wednesday Academic Tutoring - St James",
-    "month": "November",
-    "isUnionItem": false,
-    "subtitle": "Other",
-    "societyid": 271,
-    "societyname": "UQ Refugee Tutoring Club",
-    "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_271.png",
-    "day": "18",
-    "info": "Free"
-  },
-  {
     "sortindex": 1795126500,
     "image": "https://portal.getqpay.com/assets/img/patterns/pattern_17.png",
     "societyAvgRating": 0,
@@ -72,6 +57,21 @@
     "societyname": "UQ Education Society",
     "societylogo": "https://resources.hellorubric.com/uploaded_assets/7e58449a-e25b-4d40-a09e-bfea47db0847.png",
     "day": "27",
+    "info": "Free"
+  },
+  {
+    "sortindex": 1796274000,
+    "image": "https://resources.hellorubric.com/uploaded_assets/66e4c99e-47f6-4b7f-9886-9719c7d95296.jpeg",
+    "societyAvgRating": 0,
+    "destination": "/?eid=95364",
+    "title": "SurrealiTea Party",
+    "month": "December",
+    "isUnionItem": false,
+    "subtitle": "Party/BBQ/Social",
+    "societyid": 3219,
+    "societyname": "UQ Anthropology Society",
+    "societylogo": "https://resources.getqpay.com/images/63e21df733a8f_.png",
+    "day": "3",
     "info": "Free"
   }
 ]
