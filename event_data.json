@@ -1,7 +1,6 @@
 {
   "selectedUniversityId": "12",
   "society_event_types": [
-    "Class/Workshop",
     "Industry/Career",
     "Party/BBQ/Social"
   ],
@@ -304,7 +303,7 @@
       "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
     }
   ],
-  "totalItemCount": 8,
+  "totalItemCount": 7,
   "sortDirection": "asc",
   "society_club_types": [
     "Faculty - BEL",
@@ -3008,21 +3007,6 @@
   "selectedCountryCode": "AU",
   "success": true,
   "results": [
-    {
-      "sortindex": 1795249800,
-      "image": "https://resources.hellorubric.com/uploaded_assets/a1dc284c-b751-4037-93de-104c199f7756.jpg",
-      "societyAvgRating": 0,
-      "destination": "/?eid=92112",
-      "title": "Arty Party",
-      "month": "November",
-      "isUnionItem": false,
-      "subtitle": "Class/Workshop",
-      "societyid": 649,
-      "societyname": "Society of Fine Arts",
-      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
-      "day": "21",
-      "info": "$6.08 - $16.45"
-    },
     {
       "sortindex": 1795318200,
       "image": "https://portal.getqpay.com/assets/img/patterns/pattern_3.png",
